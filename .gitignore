@@ -1,3 +1,6 @@
 00_fuentes/
-20_frames/audio_tmp/
+20_frames/
+audio_tmp/
 tanda.log
+transcribe.log
+nohup.out
