@@ -1,0 +1,4761 @@
+{
+ "file": "Session 11 part 1-009.mov",
+ "duration": 2756.306875,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.92,
+   "text": "Yeah, so you can probably see it."
+  },
+  {
+   "start": 2.04,
+   "end": 4.92,
+   "text": "I think I went on a bit too much about here."
+  },
+  {
+   "start": 4.92,
+   "end": 6.96,
+   "text": "Probably went off track here."
+  },
+  {
+   "start": 8.43,
+   "end": 9.19,
+   "text": "Let's have a look."
+  },
+  {
+   "start": 9.25,
+   "end": 10.53,
+   "text": "So the question was, what?"
+  },
+  {
+   "start": 11.59,
+   "end": 18.51,
+   "text": "The question was, what's the most appropriate way to trade midflow, was it?"
+  },
+  {
+   "start": 20.16,
+   "end": 24.76,
+   "text": "The most appropriate way to trade counterflow during midflow."
+  },
+  {
+   "start": 24.88,
+   "end": 25.7,
+   "text": "Midflow, yeah."
+  },
+  {
+   "start": 26.04,
+   "end": 29.98,
+   "text": "So what basically means if prices go in in a certain direction, how do you fade it?"
+  },
+  {
+   "start": 30.2,
+   "end": 30.7,
+   "text": "Yeah, yeah, yeah."
+  },
+  {
+   "start": 30.7,
+   "end": 32.46,
+   "text": "if it's moving in a way"
+  },
+  {
+   "start": 32.46,
+   "end": 33.26,
+   "text": "which is quite strong"
+  },
+  {
+   "start": 33.26,
+   "end": 36.9,
+   "text": "midflow"
+  },
+  {
+   "start": 36.9,
+   "end": 40.87,
+   "text": "are the visual characteristics"
+  },
+  {
+   "start": 40.87,
+   "end": 41.97,
+   "text": "of one-sided strength"
+  },
+  {
+   "start": 41.97,
+   "end": 45.6,
+   "text": "every single move to it"
+  },
+  {
+   "start": 45.6,
+   "end": 49.26,
+   "text": "so any move that moves in a specific direction"
+  },
+  {
+   "start": 49.26,
+   "end": 50.96,
+   "text": "if you look inside of it"
+  },
+  {
+   "start": 50.96,
+   "end": 52.34,
+   "text": "it will always have mid-flow"
+  },
+  {
+   "start": 52.34,
+   "end": 53.66,
+   "text": "because price is fractured"
+  },
+  {
+   "start": 53.66,
+   "end": 55.74,
+   "text": "the price is the formation"
+  },
+  {
+   "start": 55.74,
+   "end": 57.6,
+   "text": "of the liquidity dynamics"
+  },
+  {
+   "start": 57.6,
+   "end": 60.14,
+   "text": "so the liquidity dynamics have to exist"
+  },
+  {
+   "start": 60.14,
+   "end": 61.96,
+   "text": "before the prices are created"
+  },
+  {
+   "start": 61.96,
+   "end": 63.76,
+   "text": "there already has to be"
+  },
+  {
+   "start": 63.76,
+   "end": 65.72,
+   "text": "sell weakness by liquidity"
+  },
+  {
+   "start": 65.72,
+   "end": 68.22,
+   "text": "strength and then there has to be a market"
+  },
+  {
+   "start": 68.22,
+   "end": 70.14,
+   "text": "order that comes in that pushes"
+  },
+  {
+   "start": 70.14,
+   "end": 71.32,
+   "text": "price to the weaker side"
+  },
+  {
+   "start": 71.32,
+   "end": 73.68,
+   "text": "well before the candles formed"
+  },
+  {
+   "start": 73.68,
+   "end": 75.5,
+   "text": "yeah yeah right"
+  },
+  {
+   "start": 75.5,
+   "end": 76.68,
+   "text": "so the state of liquidity"
+  },
+  {
+   "start": 76.68,
+   "end": 78.66,
+   "text": "governs price movement"
+  },
+  {
+   "start": 78.66,
+   "end": 81.95,
+   "text": "and then the eventual price"
+  },
+  {
+   "start": 81.95,
+   "end": 83.95,
+   "text": "action that we see is a direct reflection"
+  },
+  {
+   "start": 83.95,
+   "end": 85.81,
+   "text": "of the state of liquidity"
+  },
+  {
+   "start": 85.81,
+   "end": 87.77,
+   "text": "that would then imply"
+  },
+  {
+   "start": 87.77,
+   "end": 88.95,
+   "text": "that each environment"
+  },
+  {
+   "start": 88.95,
+   "end": 91.97,
+   "text": "reflects the state of liquidity"
+  },
+  {
+   "start": 91.97,
+   "end": 92.93,
+   "text": "so price goes up"
+  },
+  {
+   "start": 92.93,
+   "end": 96.09,
+   "text": "it reflects a lack of sell liquidity and more market for order buyers."
+  },
+  {
+   "start": 96.89,
+   "end": 100.53,
+   "text": "Not more market order ratio than one and vice versa."
+  },
+  {
+   "start": 100.53,
+   "end": 101.21,
+   "text": "It moves down."
+  },
+  {
+   "start": 102.38,
+   "end": 109.64,
+   "text": "And what we've seen is that market order buying doesn't just come in relentlessly and infinitely."
+  },
+  {
+   "start": 110.2,
+   "end": 112.12,
+   "text": "It dries off because of variable volume flow."
+  },
+  {
+   "start": 112.94,
+   "end": 116.32,
+   "text": "The tempo at which volume comes in, it's always ebbin and flowing."
+  },
+  {
+   "start": 117.23,
+   "end": 121.63,
+   "text": "So in a move with this directional strength, where there's heavy liquidity on one side relative to the other side."
+  },
+  {
+   "start": 121.63,
+   "end": 123.39,
+   "text": "relative to the other side"
+  },
+  {
+   "start": 123.39,
+   "end": 124.75,
+   "text": "compared to the other side"
+  },
+  {
+   "start": 124.75,
+   "end": 127.1,
+   "text": "and variable volume flow"
+  },
+  {
+   "start": 127.1,
+   "end": 128.8,
+   "text": "we see midflow characteristics"
+  },
+  {
+   "start": 128.8,
+   "end": 131.27,
+   "text": "now I'm telling you then"
+  },
+  {
+   "start": 131.27,
+   "end": 132.95,
+   "text": "if you're trying to trade against the flow"
+  },
+  {
+   "start": 132.95,
+   "end": 135.15,
+   "text": "you're essentially trading on the weaker side"
+  },
+  {
+   "start": 135.15,
+   "end": 135.87,
+   "text": "of the market now"
+  },
+  {
+   "start": 135.87,
+   "end": 137.05,
+   "text": "yeah yeah you are"
+  },
+  {
+   "start": 137.05,
+   "end": 140.04,
+   "text": "so this is where the question was"
+  },
+  {
+   "start": 140.04,
+   "end": 141.28,
+   "text": "the visual characteristics"
+  },
+  {
+   "start": 141.28,
+   "end": 144.65,
+   "text": "are quite simple"
+  },
+  {
+   "start": 144.65,
+   "end": 150.17,
+   "text": "I can't draw out"
+  },
+  {
+   "start": 150.17,
+   "end": 152.58,
+   "text": "right these are the visual characteristics"
+  },
+  {
+   "start": 152.58,
+   "end": 153.62,
+   "text": "price runs out"
+  },
+  {
+   "start": 153.62,
+   "end": 155.04,
+   "text": "draws back in"
+  },
+  {
+   "start": 155.04,
+   "end": 156.7,
+   "text": "runs out the high doesn't hold"
+  },
+  {
+   "start": 156.7,
+   "end": 158.52,
+   "text": "price gaps past it"
+  },
+  {
+   "start": 158.54,
+   "end": 159.82,
+   "text": "and then draws back in."
+  },
+  {
+   "start": 160.32,
+   "end": 162.64,
+   "text": "So as a result of deal"
+  },
+  {
+   "start": 162.64,
+   "end": 163.84,
+   "text": "behaviour, you can trade,"
+  },
+  {
+   "start": 166.16,
+   "end": 167.12,
+   "text": "you can counterflow,"
+  },
+  {
+   "start": 168.2,
+   "end": 169.26,
+   "text": "most appropriately this way."
+  },
+  {
+   "start": 169.7,
+   "end": 170.12,
+   "text": "For example,"
+  },
+  {
+   "start": 170.24,
+   "end": 170.7,
+   "text": "bullish mid-flow,"
+  },
+  {
+   "start": 170.8,
+   "end": 171.28,
+   "text": "there will be highs"
+  },
+  {
+   "start": 171.28,
+   "end": 171.98,
+   "text": "that have dried off"
+  },
+  {
+   "start": 171.98,
+   "end": 174.26,
+   "text": "due to dealer receiving information."
+  },
+  {
+   "start": 175.02,
+   "end": 175.8,
+   "text": "No, like this,"
+  },
+  {
+   "start": 177.44,
+   "end": 178.92,
+   "text": "the high doesn't dry off"
+  },
+  {
+   "start": 178.92,
+   "end": 180.14,
+   "text": "because the dealer receives information."
+  },
+  {
+   "start": 180.2,
+   "end": 180.58,
+   "text": "No, no, no."
+  },
+  {
+   "start": 181.34,
+   "end": 182.64,
+   "text": "This is, it's a bit jumbled up."
+  },
+  {
+   "start": 183.5,
+   "end": 184.38,
+   "text": "If you read on."
+  },
+  {
+   "start": 184.66,
+   "end": 185.06,
+   "text": "Yeah, yeah, yeah."
+  },
+  {
+   "start": 185.48,
+   "end": 186.82,
+   "text": "It's important that you understand"
+  },
+  {
+   "start": 186.82,
+   "end": 188.34,
+   "text": "the dealer reacting to information."
+  },
+  {
+   "start": 188.54,
+   "end": 189.32,
+   "text": "They're going to do it anyway."
+  },
+  {
+   "start": 189.52,
+   "end": 190.24,
+   "text": "Just a matter of if price"
+  },
+  {
+   "start": 190.24,
+   "end": 190.64,
+   "text": "is going up,"
+  },
+  {
+   "start": 190.64,
+   "end": 191.34,
+   "text": "down, left,"
+  },
+  {
+   "start": 191.36,
+   "end": 196.66,
+   "text": "right they have access to information about the strength the volume the weakness that we don't"
+  },
+  {
+   "start": 196.66,
+   "end": 202.68,
+   "text": "because they get all the volume on all the flow based off that they can make much more informed"
+  },
+  {
+   "start": 202.68,
+   "end": 207.86,
+   "text": "decisions about where prices is likely to go and manage their risk that way they don't necessarily"
+  },
+  {
+   "start": 207.86,
+   "end": 212.38,
+   "text": "have to speculate that cable's going to go up because it's bullish they can see the weakness on"
+  },
+  {
+   "start": 212.38,
+   "end": 216.92,
+   "text": "the cell side they can see that volume's coming in they can actually see when other liquidity"
+  },
+  {
+   "start": 216.92,
+   "end": 221.78,
+   "text": "providers are updated their quotes yeah each quote is updated up to a million times in a"
+  },
+  {
+   "start": 221.8,
+   "end": 228.28,
+   "text": "second within the first few hundred thousand changes the dealers uh the automated systems at least"
+  },
+  {
+   "start": 228.28,
+   "end": 234.52,
+   "text": "they can start to predict which way the price is going to lead next so there's the start of the"
+  },
+  {
+   "start": 234.52,
+   "end": 242.81,
+   "text": "second here's the share so here's the start of the second here's the final millionth update"
+  },
+  {
+   "start": 244.14,
+   "end": 252.68,
+   "text": "this takes a second around the first few 200 300 000 updates they can with highly"
+  },
+  {
+   "start": 252.7,
+   "end": 258.76,
+   "text": "degree of accuracy, start to respond and anticipate, because of the patterns and the series of"
+  },
+  {
+   "start": 258.76,
+   "end": 262.42,
+   "text": "price updates here, they're going to anticipate where prices are going to go next. That's just"
+  },
+  {
+   "start": 262.42,
+   "end": 267.94,
+   "text": "the piece of information they have access to. Not only that, they have access to volume or the"
+  },
+  {
+   "start": 267.94,
+   "end": 272.92,
+   "text": "flow, they can tell how much volume is coming in compared to the available liquidity they have"
+  },
+  {
+   "start": 272.92,
+   "end": 277.36,
+   "text": "in-house, et cetera, et cetera. So they're always looking at each of us quotes. They're always"
+  },
+  {
+   "start": 277.36,
+   "end": 282.4,
+   "text": "looking on all the channels that they update their prices on. So they might be, they might be"
+  },
+  {
+   "start": 282.4,
+   "end": 284.46,
+   "text": "update in their prices or sending prices"
+  },
+  {
+   "start": 284.46,
+   "end": 286.67,
+   "text": "to one client. They might"
+  },
+  {
+   "start": 286.67,
+   "end": 288.69,
+   "text": "have another client on a different venue, a third-point"
+  },
+  {
+   "start": 288.69,
+   "end": 290.57,
+   "text": "Jaguarian. They might have another client, or"
+  },
+  {
+   "start": 290.57,
+   "end": 292.59,
+   "text": "they might be sending prices to an ECN."
+  },
+  {
+   "start": 293.89,
+   "end": 295.37,
+   "text": "So they're managing many, many"
+  },
+  {
+   "start": 295.37,
+   "end": 297.11,
+   "text": "different channels of liquidity that"
+  },
+  {
+   "start": 297.11,
+   "end": 298.35,
+   "text": "they send out to the market."
+  },
+  {
+   "start": 298.85,
+   "end": 300.15,
+   "text": "Yeah, all the ones. And"
+  },
+  {
+   "start": 300.15,
+   "end": 303.09,
+   "text": "they can basically assess each of them"
+  },
+  {
+   "start": 303.09,
+   "end": 304.91,
+   "text": "simultaneously, make sure the price"
+  },
+  {
+   "start": 304.91,
+   "end": 306.83,
+   "text": "invested appropriately at the right time,"
+  },
+  {
+   "start": 307.25,
+   "end": 308.25,
+   "text": "et cetera, et cetera. So"
+  },
+  {
+   "start": 308.25,
+   "end": 310.87,
+   "text": "the highs do not dry off because"
+  },
+  {
+   "start": 310.87,
+   "end": 317.51,
+   "text": "a dealer receiving information, the market goes into an environment where price runs out as a result"
+  },
+  {
+   "start": 317.51,
+   "end": 324.82,
+   "text": "of weak equity and volume chasing after it. Okay. Right. So prices and bullish mid-flow,"
+  },
+  {
+   "start": 327.16,
+   "end": 333.08,
+   "text": "it runs out to the upside here because there's a lack of sell liquidity there. And when that"
+  },
+  {
+   "start": 333.08,
+   "end": 337.32,
+   "text": "volume order shot comes in, the market order by, it's much more likely to push it out because"
+  },
+  {
+   "start": 337.32,
+   "end": 344.76,
+   "text": "there's already weakness in the sell liquidity. Deals then don't take on short positions. They run away"
+  },
+  {
+   "start": 344.76,
+   "end": 350.3,
+   "text": "from providing sell liquidity, the whole market goes into a state of inefficiency."
+  },
+  {
+   "start": 350.3,
+   "end": 351.06,
+   "text": "It's not trade."
+  },
+  {
+   "start": 351.12,
+   "end": 352.34,
+   "text": "The market isn't trading well."
+  },
+  {
+   "start": 352.8,
+   "end": 354.36,
+   "text": "The buyers can't find sell liquidity."
+  },
+  {
+   "start": 354.66,
+   "end": 356.66,
+   "text": "There's hardly any present there."
+  },
+  {
+   "start": 358.0,
+   "end": 358.2,
+   "text": "All right."
+  },
+  {
+   "start": 358.2,
+   "end": 365.04,
+   "text": "So the price dries off as a result of two reasons."
+  },
+  {
+   "start": 365.68,
+   "end": 370.04,
+   "text": "A lack of sell liquidity, which is then compounded and pronounced made worse by"
+  },
+  {
+   "start": 370.04,
+   "end": 372.18,
+   "text": "deal of behavior, like you said here."
+  },
+  {
+   "start": 374.12,
+   "end": 374.24,
+   "text": "Right?"
+  },
+  {
+   "start": 374.44,
+   "end": 374.6,
+   "text": "Yeah."
+  },
+  {
+   "start": 374.72,
+   "end": 381.46,
+   "text": "And number two, number two, sorry, the second, the second point."
+  },
+  {
+   "start": 381.48,
+   "end": 387.58,
+   "text": "away from that, price is also drying off because the volume is unrealistic to expect it to come in"
+  },
+  {
+   "start": 387.58,
+   "end": 392.6,
+   "text": "forever and ever and ever at the same side. If somebody went 30 million long here, it doesn't mean"
+  },
+  {
+   "start": 392.6,
+   "end": 397.5,
+   "text": "somebody else is buying 30 million, somebody else buying 30 million and 100 million there, 500 million"
+  },
+  {
+   "start": 397.5,
+   "end": 402.46,
+   "text": "there and 100 million there, and they continue to buy it up super aggressively at more and more"
+  },
+  {
+   "start": 402.46,
+   "end": 409.36,
+   "text": "expensive prices without drying off. It's ridiculous. So price dries off because of variable volume"
+  },
+  {
+   "start": 409.36,
+   "end": 417.09,
+   "text": "flow and that move out is weak because of dealer behavior and a compound effect of"
+  },
+  {
+   "start": 417.09,
+   "end": 421.37,
+   "text": "sell equity chasing away dealers avoiding adverse selection it's important that you can"
+  },
+  {
+   "start": 421.37,
+   "end": 427.17,
+   "text": "differentiate even the subtle differences between what i'm saying this makes absolutely no sense"
+  },
+  {
+   "start": 427.17,
+   "end": 434.51,
+   "text": "okay i think i probably worded it wrong it's it's a bit jumbled up there yeah um there's no"
+  },
+  {
+   "start": 434.51,
+   "end": 441.42,
+   "text": "space for wording you up wrong you know because this makes no sense so there's no space to get"
+  },
+  {
+   "start": 441.42,
+   "end": 443.12,
+   "text": "wrong basically. Okay. Yeah, yeah, that's quite."
+  },
+  {
+   "start": 443.42,
+   "end": 444.5,
+   "text": "I can't write that. As it like,"
+  },
+  {
+   "start": 444.74,
+   "end": 447.54,
+   "text": "you can't be wrong. I'm not saying you can't"
+  },
+  {
+   "start": 447.54,
+   "end": 449.54,
+   "text": "be wrong. I'm saying this is unacceptable"
+  },
+  {
+   "start": 449.54,
+   "end": 451.4,
+   "text": "to leave it as this, even though"
+  },
+  {
+   "start": 451.4,
+   "end": 452.74,
+   "text": "it's totally wrong."
+  },
+  {
+   "start": 454.0,
+   "end": 455.8,
+   "text": "I tell you, I tell you what it"
+  },
+  {
+   "start": 455.8,
+   "end": 457.58,
+   "text": "means. It's your own, the"
+  },
+  {
+   "start": 457.58,
+   "end": 459.74,
+   "text": "on this is on you to make sure you understand it."
+  },
+  {
+   "start": 459.98,
+   "end": 461.82,
+   "text": "If you don't understand, so you go away, you start"
+  },
+  {
+   "start": 461.82,
+   "end": 463.42,
+   "text": "thinking about what I'm talking about here."
+  },
+  {
+   "start": 463.62,
+   "end": 465.5,
+   "text": "What, you know, what's the difference between"
+  },
+  {
+   "start": 465.5,
+   "end": 467.4,
+   "text": "writing dealer receiving information and dealer"
+  },
+  {
+   "start": 467.4,
+   "end": 469.56,
+   "text": "behavior here? Yeah. Also,"
+  },
+  {
+   "start": 469.56,
+   "end": 471.74,
+   "text": "it's not a totally accurate answer because"
+  },
+  {
+   "start": 471.8,
+   "end": 474.28,
+   "text": "There's variable volume flow as well that applies here."
+  },
+  {
+   "start": 474.7,
+   "end": 478.52,
+   "text": "How far the price run moves out is more related to the deemed behavior."
+  },
+  {
+   "start": 479.64,
+   "end": 483.1,
+   "text": "But price drying off is related to variable volume flow."
+  },
+  {
+   "start": 483.26,
+   "end": 483.68,
+   "text": "Okay."
+  },
+  {
+   "start": 483.92,
+   "end": 484.78,
+   "text": "That makes more sense now."
+  },
+  {
+   "start": 488.02,
+   "end": 491.68,
+   "text": "So, yeah, we have to be entirely accurate about this because the foundation is your understanding."
+  },
+  {
+   "start": 491.88,
+   "end": 495.78,
+   "text": "Based off the understanding, you then go and observe price behaviors and it all returns"
+  },
+  {
+   "start": 495.78,
+   "end": 496.48,
+   "text": "to the foundation."
+  },
+  {
+   "start": 497.12,
+   "end": 498.28,
+   "text": "So, yeah, that's cool."
+  },
+  {
+   "start": 498.88,
+   "end": 500.3,
+   "text": "It's already done sell equity in the first place."
+  },
+  {
+   "start": 500.38,
+   "end": 501.88,
+   "text": "The dealer starts moving sell equity from the market."
+  },
+  {
+   "start": 501.88,
+   "end": 503.64,
+   "text": "the dealer avoids providing cell"
+  },
+  {
+   "start": 503.64,
+   "end": 505.93,
+   "text": "okay avoids"
+  },
+  {
+   "start": 505.93,
+   "end": 507.2,
+   "text": "yeah"
+  },
+  {
+   "start": 507.2,
+   "end": 509.18,
+   "text": "avoid taking on short positions"
+  },
+  {
+   "start": 509.18,
+   "end": 511.92,
+   "text": "in effect"
+  },
+  {
+   "start": 511.92,
+   "end": 513.24,
+   "text": "sell liquidity is"
+  },
+  {
+   "start": 513.24,
+   "end": 514.48,
+   "text": "drawn away from price"
+  },
+  {
+   "start": 514.48,
+   "end": 515.86,
+   "text": "that is the effect of it"
+  },
+  {
+   "start": 515.86,
+   "end": 517.92,
+   "text": "but by removing"
+  },
+  {
+   "start": 517.92,
+   "end": 518.48,
+   "text": "sell liquidity"
+  },
+  {
+   "start": 518.48,
+   "end": 520.16,
+   "text": "imagine I had a sell limit order here"
+  },
+  {
+   "start": 520.16,
+   "end": 521.94,
+   "text": "they can't remove that sell limit order"
+  },
+  {
+   "start": 521.94,
+   "end": 523.28,
+   "text": "yeah that's true"
+  },
+  {
+   "start": 523.28,
+   "end": 525.64,
+   "text": "right so they can't necessarily remove it"
+  },
+  {
+   "start": 525.64,
+   "end": 526.66,
+   "text": "but they can avoid from"
+  },
+  {
+   "start": 526.66,
+   "end": 528.74,
+   "text": "avoid providing it"
+  },
+  {
+   "start": 528.74,
+   "end": 531.66,
+   "text": "and they can take on the opposite side"
+  },
+  {
+   "start": 531.66,
+   "end": 532.32,
+   "text": "of my sell liquidity"
+  },
+  {
+   "start": 532.32,
+   "end": 534.34,
+   "text": "so they can go longer against me"
+  },
+  {
+   "start": 534.34,
+   "end": 535.84,
+   "text": "that's fine my order has been filled"
+  },
+  {
+   "start": 535.84,
+   "end": 538.14,
+   "text": "but this sell liquidity was not given"
+  },
+  {
+   "start": 538.14,
+   "end": 540.3,
+   "text": "to the market or the buyer that was trying to"
+  },
+  {
+   "start": 540.3,
+   "end": 541.28,
+   "text": "find it yeah"
+  },
+  {
+   "start": 541.28,
+   "end": 544.52,
+   "text": "they can control the distribution of liquidity"
+  },
+  {
+   "start": 544.52,
+   "end": 546.88,
+   "text": "they can avoid taking on short positions"
+  },
+  {
+   "start": 546.88,
+   "end": 548.72,
+   "text": "which has an effect of"
+  },
+  {
+   "start": 548.72,
+   "end": 550.58,
+   "text": "sell liquidity drawing away from volume"
+  },
+  {
+   "start": 550.58,
+   "end": 552.56,
+   "text": "but not necessarily remove it"
+  },
+  {
+   "start": 552.56,
+   "end": 554.44,
+   "text": "it's probably not entirely accurate"
+  },
+  {
+   "start": 554.44,
+   "end": 557.24,
+   "text": "protective mechanism following of the dealers"
+  },
+  {
+   "start": 557.24,
+   "end": 560.1,
+   "text": "cool as this happens price moves and efficiently"
+  },
+  {
+   "start": 560.1,
+   "end": 562.91,
+   "text": "and then if they price drives off"
+  },
+  {
+   "start": 562.91,
+   "end": 564.43,
+   "text": "you to not off."
+  },
+  {
+   "start": 564.83,
+   "end": 565.61,
+   "text": "Not due to him"
+  },
+  {
+   "start": 565.61,
+   "end": 567.07,
+   "text": "fix illiquity in the middle of a run"
+  },
+  {
+   "start": 567.07,
+   "end": 567.99,
+   "text": "but just due to exhaustion."
+  },
+  {
+   "start": 568.17,
+   "end": 569.05,
+   "text": "Okay, cool, that's good."
+  },
+  {
+   "start": 570.4,
+   "end": 572.28,
+   "text": "So here what you're describing is"
+  },
+  {
+   "start": 572.28,
+   "end": 575.97,
+   "text": "why."
+  },
+  {
+   "start": 578.0,
+   "end": 578.48,
+   "text": "I actually"
+  },
+  {
+   "start": 578.48,
+   "end": 581.88,
+   "text": "I understand what you're trying to say,"
+  },
+  {
+   "start": 582.0,
+   "end": 585.86,
+   "text": "but here you're discussing with"
+  },
+  {
+   "start": 585.86,
+   "end": 587.1,
+   "text": "you're trying to explain"
+  },
+  {
+   "start": 587.1,
+   "end": 588.92,
+   "text": "why price dries off."
+  },
+  {
+   "start": 589.64,
+   "end": 590.06,
+   "text": "Yeah, yeah, yeah,"
+  },
+  {
+   "start": 590.14,
+   "end": 591.98,
+   "text": "why price falls off in mid-floor, yeah."
+  },
+  {
+   "start": 592.88,
+   "end": 594.18,
+   "text": "Even though there's bullish strength"
+  },
+  {
+   "start": 594.18,
+   "end": 595.28,
+   "text": "or there's bi-liquity"
+  },
+  {
+   "start": 595.28,
+   "end": 596.6,
+   "text": "and there's bullishness in the market."
+  },
+  {
+   "start": 596.72,
+   "end": 598.38,
+   "text": "Why is it drying up up here if buyers are strong?"
+  },
+  {
+   "start": 598.48,
+   "end": 606.32,
+   "text": "no why is it selling etc no that makes sense um prices thinly dispersed again doesn't make any"
+  },
+  {
+   "start": 606.32,
+   "end": 616.01,
+   "text": "sense at all prices thinly dispersed it's not the liquidity left behind is thinly dispersed oh yeah yeah"
+  },
+  {
+   "start": 616.01,
+   "end": 623.06,
+   "text": "yeah that's a dumb mistake right so liquidity left behind and i make uh just to avoid confusion"
+  },
+  {
+   "start": 623.06,
+   "end": 627.26,
+   "text": "you should type you should write also what side of liquidity as well is it sell liquidity that's"
+  },
+  {
+   "start": 627.26,
+   "end": 628.36,
+   "text": "didn't you disperse left behind?"
+  },
+  {
+   "start": 628.56,
+   "end": 629.54,
+   "text": "No, no, bi-liquidity"
+  },
+  {
+   "start": 629.54,
+   "end": 631.18,
+   "text": "is the loss-spersed."
+  },
+  {
+   "start": 632.33,
+   "end": 633.35,
+   "text": "Actually, the bi-liquity"
+  },
+  {
+   "start": 633.35,
+   "end": 634.99,
+   "text": "remains back down at call,"
+  },
+  {
+   "start": 635.29,
+   "end": 636.92,
+   "text": "typically, right?"
+  },
+  {
+   "start": 638.5,
+   "end": 640.84,
+   "text": "Or back of the inventory,"
+  },
+  {
+   "start": 641.0,
+   "end": 641.84,
+   "text": "sorry, back of the inventory."
+  },
+  {
+   "start": 644.56,
+   "end": 645.5,
+   "text": "So the most appropriate"
+  },
+  {
+   "start": 645.5,
+   "end": 647.62,
+   "text": "words trade mid-flows after, yeah, that's exactly"
+  },
+  {
+   "start": 647.62,
+   "end": 649.08,
+   "text": "right. You can trade about"
+  },
+  {
+   "start": 649.08,
+   "end": 651.69,
+   "text": "push a price back into range."
+  },
+  {
+   "start": 652.09,
+   "end": 653.93,
+   "text": "Well, again, I wish"
+  },
+  {
+   "start": 653.93,
+   "end": 655.37,
+   "text": "we could push price around. We can't."
+  },
+  {
+   "start": 655.77,
+   "end": 657.09,
+   "text": "This tends to happen"
+  },
+  {
+   "start": 657.09,
+   "end": 659.93,
+   "text": "as a result of the conditions being created"
+  },
+  {
+   "start": 659.95,
+   "end": 662.98,
+   "text": "as a result of the order flow dynamics"
+  },
+  {
+   "start": 662.98,
+   "end": 666.4,
+   "text": "so weakness on the south side"
+  },
+  {
+   "start": 666.4,
+   "end": 668.2,
+   "text": "order flow response"
+  },
+  {
+   "start": 668.2,
+   "end": 670.54,
+   "text": "that liquidity draws away price chases after it"
+  },
+  {
+   "start": 670.54,
+   "end": 671.9,
+   "text": "it leaves behind thinness"
+  },
+  {
+   "start": 671.9,
+   "end": 673.94,
+   "text": "the volume dries off because it's not unlimited"
+  },
+  {
+   "start": 673.94,
+   "end": 676.52,
+   "text": "and then it takes any light selling"
+  },
+  {
+   "start": 676.52,
+   "end": 677.7,
+   "text": "to push price right like that"
+  },
+  {
+   "start": 677.7,
+   "end": 681.01,
+   "text": "these conditions are being created"
+  },
+  {
+   "start": 681.01,
+   "end": 682.71,
+   "text": "as a result of the microstructure"
+  },
+  {
+   "start": 682.71,
+   "end": 683.43,
+   "text": "the EU behaviour"
+  },
+  {
+   "start": 683.43,
+   "end": 686.41,
+   "text": "so the price draws back into the range"
+  },
+  {
+   "start": 686.41,
+   "end": 687.45,
+   "text": "highly consistently"
+  },
+  {
+   "start": 687.45,
+   "end": 691.37,
+   "text": "is much much more likely to draw back"
+  },
+  {
+   "start": 691.39,
+   "end": 693.67,
+   "text": "to range than it is to continue forever and ever and ever"
+  },
+  {
+   "start": 693.67,
+   "end": 694.39,
+   "text": "and ever. Yeah, yeah."
+  },
+  {
+   "start": 699.55,
+   "end": 702.39,
+   "text": "So the key characteristic of midflow, price holding by a basis in this case."
+  },
+  {
+   "start": 703.36,
+   "end": 707.38,
+   "text": "Yeah, so the characteristic of midflow is price holding bases in the direction of the strength"
+  },
+  {
+   "start": 707.38,
+   "end": 714.14,
+   "text": "and the opposing cell, embellishment flow, at least, the opposing apexes, the fractal"
+  },
+  {
+   "start": 714.14,
+   "end": 717.08,
+   "text": "highs, they're not holding."
+  },
+  {
+   "start": 717.42,
+   "end": 718.28,
+   "text": "Yeah, the weaker, yeah."
+  },
+  {
+   "start": 719.1,
+   "end": 722.97,
+   "text": "So the last base here is holding, right?"
+  },
+  {
+   "start": 723.03,
+   "end": 726.53,
+   "text": "The last base holds, the last base holds, but consistently the apex don't hold."
+  },
+  {
+   "start": 726.65,
+   "end": 727.43,
+   "text": "It's like higher highs and higher."
+  },
+  {
+   "start": 727.53,
+   "end": 738.59,
+   "text": "okay um and as liquid where am i so key cut yeah as liquidity maintains itself at the last inventory"
+  },
+  {
+   "start": 738.59,
+   "end": 745.44,
+   "text": "yeah in stable balance midflow and my own liquidity chase and more aggressive yeah right so the answer"
+  },
+  {
+   "start": 745.44,
+   "end": 750.96,
+   "text": "this to my second part of the question which type of midflow is more favourable to counterflow"
+  },
+  {
+   "start": 750.96,
+   "end": 755.6,
+   "text": "and it would be in the one where it's not the liquidity is less aggressive yeah yeah the more stable"
+  },
+  {
+   "start": 755.6,
+   "end": 760.62,
+   "text": "in accepting higher prices the price will pop out draw back into that base at least at least"
+  },
+  {
+   "start": 760.64,
+   "end": 768.79,
+   "text": "or highly consistently you know at least would imply it's like guaranteed yeah um so yeah"
+  },
+  {
+   "start": 768.79,
+   "end": 774.99,
+   "text": "thin and you're not talking to me probably right an explanation so i'm just going to be a dick"
+  },
+  {
+   "start": 774.99,
+   "end": 780.98,
+   "text": "about that one so yeah thin extensions past ties training got point of exhaustion and"
+  },
+  {
+   "start": 780.98,
+   "end": 786.48,
+   "text": "countering price here at least because the last five days and bullish day we need countering price"
+  },
+  {
+   "start": 786.48,
+   "end": 791.76,
+   "text": "here at least to the back now sorry i'm fucking dyslexic it can probably sound back but i'm not"
+  },
+  {
+   "start": 791.76,
+   "end": 797.66,
+   "text": "all right cool yeah it's right you know what you're talking about yeah just got to just sort out some"
+  },
+  {
+   "start": 797.66,
+   "end": 804.52,
+   "text": "words in there because it's not entirely accurate or could probably yeah yeah that and that"
+  },
+  {
+   "start": 804.52,
+   "end": 810.66,
+   "text": "makes no sense um what's it going to say so it's important that you realize that the price"
+  },
+  {
+   "start": 810.66,
+   "end": 815.54,
+   "text": "formation is occurring after the state of liquidity existed so they say liquidity proceeds it"
+  },
+  {
+   "start": 815.54,
+   "end": 821.33,
+   "text": "price is a function of it that we can draw a principle away from that price is a function of"
+  },
+  {
+   "start": 821.33,
+   "end": 822.43,
+   "text": "state of liquidity."
+  },
+  {
+   "start": 822.95,
+   "end": 824.01,
+   "text": "Okay. Yeah."
+  },
+  {
+   "start": 824.15,
+   "end": 827.21,
+   "text": "All right. Or probably more accurate is price of function of liquidity dynamics."
+  },
+  {
+   "start": 828.97,
+   "end": 832.61,
+   "text": "Because the liquidity doesn't stay in one place. It's changing dynamically, you know."
+  },
+  {
+   "start": 832.97,
+   "end": 845.94,
+   "text": "So that's that. Another very, very critical principle here is price actually reflects the state"
+  },
+  {
+   "start": 845.94,
+   "end": 853.58,
+   "text": "of liquidity then. So PRSOM. Price reflects state of liquidity. In other words, you know,"
+  },
+  {
+   "start": 853.58,
+   "end": 856.02,
+   "text": "price is embellished mid-flow. What state of liquidity is that, is that, is that?"
+  },
+  {
+   "start": 856.04,
+   "end": 865.18,
+   "text": "that reflecting? Well, mid-thickness, weak offers. Yeah. If prices aggressively popping to the upside,"
+  },
+  {
+   "start": 866.12,
+   "end": 874.4,
+   "text": "that's also an even more pronounced, more, you know, there's a greater imbalance in this example,"
+  },
+  {
+   "start": 874.56,
+   "end": 880.22,
+   "text": "but they both reflect a lack of sell liquidity and aggressive market orders pushing price here,"
+  },
+  {
+   "start": 881.73,
+   "end": 887.29,
+   "text": "right? So any directional move has to have that. There has to be greater market limit order ratio,"
+  },
+  {
+   "start": 887.29,
+   "end": 888.69,
+   "text": "market order ratio"
+  },
+  {
+   "start": 888.69,
+   "end": 890.27,
+   "text": "versus the limit orders"
+  },
+  {
+   "start": 890.27,
+   "end": 893.09,
+   "text": "if price is relatively stable"
+  },
+  {
+   "start": 893.09,
+   "end": 896.04,
+   "text": "you know"
+  },
+  {
+   "start": 896.04,
+   "end": 899.06,
+   "text": "there they can be entirely weak liquidity"
+  },
+  {
+   "start": 899.06,
+   "end": 901.34,
+   "text": "on both sides of that range"
+  },
+  {
+   "start": 901.34,
+   "end": 903.52,
+   "text": "there just isn't enough market order buying"
+  },
+  {
+   "start": 903.52,
+   "end": 905.74,
+   "text": "or market order selling at the same time"
+  },
+  {
+   "start": 905.74,
+   "end": 906.78,
+   "text": "to push price up or down"
+  },
+  {
+   "start": 906.78,
+   "end": 909.6,
+   "text": "so it's typically a low volume state"
+  },
+  {
+   "start": 909.6,
+   "end": 913.0,
+   "text": "we sometimes call that a low liquidity state"
+  },
+  {
+   "start": 913.0,
+   "end": 915.68,
+   "text": "it's probably more accurate to call it low volume state"
+  },
+  {
+   "start": 915.68,
+   "end": 917.61,
+   "text": "okay right"
+  },
+  {
+   "start": 917.61,
+   "end": 920.07,
+   "text": "most ranges are low liquidity"
+  },
+  {
+   "start": 920.17,
+   "end": 921.25,
+   "text": "states, low-volume states."
+  },
+  {
+   "start": 922.4,
+   "end": 923.46,
+   "text": "Now, what do you think happens?"
+  },
+  {
+   "start": 923.98,
+   "end": 929.1,
+   "text": "Right, but I'm thirsty, shit."
+  },
+  {
+   "start": 929.5,
+   "end": 936.03,
+   "text": "What do you think happens in this relatively stable condition?"
+  },
+  {
+   "start": 937.29,
+   "end": 941.33,
+   "text": "Is it favourable for dealers to provide, like, take on short and long positions here?"
+  },
+  {
+   "start": 941.87,
+   "end": 948.06,
+   "text": "When clients try to go long and short, you think dealers like a stable condition?"
+  },
+  {
+   "start": 948.58,
+   "end": 950.3,
+   "text": "Yeah, dealers do like stable conditions, yeah."
+  },
+  {
+   "start": 951.0,
+   "end": 952.54,
+   "text": "Yeah, they can continue to spread."
+  },
+  {
+   "start": 952.54,
+   "end": 957.72,
+   "text": "Yeah, yeah, yeah, yeah, they'll probably hold on to this for a while longer as well."
+  },
+  {
+   "start": 958.08,
+   "end": 992.96,
+   "text": "until there's a tiny bit of weakness here and the right volume comes in right they will then suddenly the price you know the price thing engines will kick off will suddenly avoid taking short positions now typically what you see is the longer prices in low liquidity states the bigger than move out of it okay why is that so I'm mainly talking about high time from low liquidity states where"
+  },
+  {
+   "start": 992.96,
+   "end": 994.88,
+   "text": "volume that comes in"
+  },
+  {
+   "start": 994.88,
+   "end": 997.08,
+   "text": "so if price ever goes into a higher"
+  },
+  {
+   "start": 997.08,
+   "end": 998.88,
+   "text": "type of lowly state like cable"
+  },
+  {
+   "start": 998.88,
+   "end": 1001.02,
+   "text": "this for the last four weeks over then"
+  },
+  {
+   "start": 1001.02,
+   "end": 1001.94,
+   "text": "the last two three days"
+  },
+  {
+   "start": 1001.94,
+   "end": 1005.13,
+   "text": "it's typically because"
+  },
+  {
+   "start": 1005.13,
+   "end": 1007.15,
+   "text": "of some event or some"
+  },
+  {
+   "start": 1007.15,
+   "end": 1009.31,
+   "text": "uncertainty in the market where the market does not"
+  },
+  {
+   "start": 1009.31,
+   "end": 1010.75,
+   "text": "not know what direction to take"
+  },
+  {
+   "start": 1010.75,
+   "end": 1014.15,
+   "text": "so there's a lack of willingness to take on"
+  },
+  {
+   "start": 1014.15,
+   "end": 1014.93,
+   "text": "directional bets"
+  },
+  {
+   "start": 1014.93,
+   "end": 1018.28,
+   "text": "so we've had this Brexit discussion"
+  },
+  {
+   "start": 1018.28,
+   "end": 1021.2,
+   "text": "and uncertainty around where these Brexit talks will go"
+  },
+  {
+   "start": 1021.2,
+   "end": 1023.2,
+   "text": "whether it'll be a hard deal or no deal"
+  },
+  {
+   "start": 1023.44,
+   "end": 1024.86,
+   "text": "or a hard exit, et cetera, et cetera,"
+  },
+  {
+   "start": 1026.28,
+   "end": 1027.9,
+   "text": "or whether we'll get some resolution"
+  },
+  {
+   "start": 1027.9,
+   "end": 1029.42,
+   "text": "and we'll continue to discuss,"
+  },
+  {
+   "start": 1030.12,
+   "end": 1032.1,
+   "text": "you know, we'll come and work out things."
+  },
+  {
+   "start": 1032.66,
+   "end": 1034.06,
+   "text": "Because of that, we've seen cable"
+  },
+  {
+   "start": 1034.06,
+   "end": 1037.0,
+   "text": "just maintain this relatively consistent,"
+  },
+  {
+   "start": 1037.24,
+   "end": 1038.3,
+   "text": "low volume state."
+  },
+  {
+   "start": 1038.94,
+   "end": 1040.62,
+   "text": "Inside of it, we've had major prices."
+  },
+  {
+   "start": 1041.18,
+   "end": 1042.9,
+   "text": "We've had up, down, down, up,"
+  },
+  {
+   "start": 1043.02,
+   "end": 1044.46,
+   "text": "and we've had major, major moves,"
+  },
+  {
+   "start": 1044.96,
+   "end": 1048.89,
+   "text": "but it's consistently failed to move out directionally."
+  },
+  {
+   "start": 1049.19,
+   "end": 1049.99,
+   "text": "So whilst that's happening,"
+  },
+  {
+   "start": 1050.15,
+   "end": 1051.95,
+   "text": "all the liquidity is building up inside of there."
+  },
+  {
+   "start": 1052.03,
+   "end": 1052.93,
+   "text": "There's sell liquidity in there,"
+  },
+  {
+   "start": 1052.99,
+   "end": 1053.97,
+   "text": "there's bi liquidity in there,"
+  },
+  {
+   "start": 1053.99,
+   "end": 1058.93,
+   "text": "there's sell liquidity and some in the middle of you right so there's trading happening here"
+  },
+  {
+   "start": 1058.93,
+   "end": 1065.81,
+   "text": "yeah as soon as price pushes out or around the low liquidity state there's a lack of willingness"
+  },
+  {
+   "start": 1065.81,
+   "end": 1071.63,
+   "text": "to trade the uncertainty's present inside of it so inside of it low volume it's not pushing price"
+  },
+  {
+   "start": 1071.63,
+   "end": 1077.61,
+   "text": "in any direction immediately around it as a result or a function of the uncertainty there's a lack"
+  },
+  {
+   "start": 1077.61,
+   "end": 1083.68,
+   "text": "of liquidity there kind of draws away from price okay you get it so there was sell limit orders here"
+  },
+  {
+   "start": 1083.68,
+   "end": 1086.08,
+   "text": "those bi-libert orders here, it draws away from price."
+  },
+  {
+   "start": 1087.2,
+   "end": 1092.6,
+   "text": "Now, when that volume comes out and price finally starts to push out, the initial volatility"
+  },
+  {
+   "start": 1092.6,
+   "end": 1098.68,
+   "text": "further compounds, the lack of willingness to go short, and sell liquidity draws further away."
+  },
+  {
+   "start": 1100.42,
+   "end": 1105.7,
+   "text": "So any buying, once it started to push through the range at the right time, there was a bit of weakness"
+  },
+  {
+   "start": 1105.7,
+   "end": 1108.22,
+   "text": "there, it kicked off that price-shifting mechanism."
+  },
+  {
+   "start": 1109.3,
+   "end": 1113.56,
+   "text": "It will have to continue running deeper in the box to find sell liquidity."
+  },
+  {
+   "start": 1114.42,
+   "end": 1117.06,
+   "text": "and at a time of uncertainty as well"
+  },
+  {
+   "start": 1117.06,
+   "end": 1118.76,
+   "text": "I can probably imagine"
+  },
+  {
+   "start": 1118.76,
+   "end": 1119.54,
+   "text": "yeah"
+  },
+  {
+   "start": 1119.54,
+   "end": 1121.88,
+   "text": "whenever you have these"
+  },
+  {
+   "start": 1121.88,
+   "end": 1122.66,
+   "text": "that kind of macro"
+  },
+  {
+   "start": 1122.66,
+   "end": 1124.1,
+   "text": "or political events"
+  },
+  {
+   "start": 1124.1,
+   "end": 1128.76,
+   "text": "there will be"
+  },
+  {
+   "start": 1128.76,
+   "end": 1130.36,
+   "text": "like the move we had out on"
+  },
+  {
+   "start": 1130.36,
+   "end": 1131.28,
+   "text": "Monday was it"
+  },
+  {
+   "start": 1131.28,
+   "end": 1132.71,
+   "text": "I think Tuesday"
+  },
+  {
+   "start": 1132.71,
+   "end": 1135.95,
+   "text": "it was a type of move"
+  },
+  {
+   "start": 1135.95,
+   "end": 1137.57,
+   "text": "you know I'll just quickly show you"
+  },
+  {
+   "start": 1137.57,
+   "end": 1138.15,
+   "text": "okay"
+  },
+  {
+   "start": 1138.15,
+   "end": 1148.5,
+   "text": "cool I can see it"
+  },
+  {
+   "start": 1148.5,
+   "end": 1151.32,
+   "text": "right so"
+  },
+  {
+   "start": 1151.32,
+   "end": 1154.17,
+   "text": "on a fractal basis"
+  },
+  {
+   "start": 1154.17,
+   "end": 1154.45,
+   "text": "yeah"
+  },
+  {
+   "start": 1154.45,
+   "end": 1156.55,
+   "text": "we've had multiple low volume"
+  },
+  {
+   "start": 1156.55,
+   "end": 1162.23,
+   "text": "states shoot out as price starts running out whatever sell equity here is literally dispersing"
+  },
+  {
+   "start": 1162.23,
+   "end": 1167.13,
+   "text": "it's not wanting to take on short position i'm not saying there's no sell equity there there is"
+  },
+  {
+   "start": 1167.13,
+   "end": 1172.04,
+   "text": "the price would have stopped you know if we look inside of here what you'll see is bullish midflaw"
+  },
+  {
+   "start": 1172.04,
+   "end": 1177.2,
+   "text": "so what you'll see it wasn't just a straight shot to the upside it was some areas where some"
+  },
+  {
+   "start": 1177.2,
+   "end": 1182.7,
+   "text": "cell equity was present volume dried off price actually stabilizes multiple times throughout that"
+  },
+  {
+   "start": 1182.7,
+   "end": 1186.78,
+   "text": "period look stabilizes their low volume some sell liquidity properly"
+  },
+  {
+   "start": 1186.8,
+   "end": 1188.34,
+   "text": "proper thick by liquidity there"
+  },
+  {
+   "start": 1188.34,
+   "end": 1190.12,
+   "text": "and some trade is being facilitated."
+  },
+  {
+   "start": 1191.42,
+   "end": 1192.52,
+   "text": "Right, price pops out again"
+  },
+  {
+   "start": 1192.52,
+   "end": 1194.64,
+   "text": "and the same thing repeats over and over again"
+  },
+  {
+   "start": 1194.64,
+   "end": 1197.72,
+   "text": "until we broke midflow quite distinctively,"
+  },
+  {
+   "start": 1197.88,
+   "end": 1200.19,
+   "text": "I guess here, popped out"
+  },
+  {
+   "start": 1200.19,
+   "end": 1202.17,
+   "text": "and we saw that huge move back in."
+  },
+  {
+   "start": 1202.33,
+   "end": 1204.21,
+   "text": "This was sometime last week."
+  },
+  {
+   "start": 1205.24,
+   "end": 1207.1,
+   "text": "Yeah, if not last week, the week before."
+  },
+  {
+   "start": 1207.56,
+   "end": 1208.5,
+   "text": "This is last Monday, actually."
+  },
+  {
+   "start": 1209.85,
+   "end": 1211.69,
+   "text": "That's not the point. The point I'm saying is"
+  },
+  {
+   "start": 1211.69,
+   "end": 1214.05,
+   "text": "after low volume stays,"
+  },
+  {
+   "start": 1214.85,
+   "end": 1217.05,
+   "text": "as price starts to get some volume"
+  },
+  {
+   "start": 1217.05,
+   "end": 1219.21,
+   "text": "and one direction opens up as a result of"
+  },
+  {
+   "start": 1219.21,
+   "end": 1222.17,
+   "text": "dealers avoiding taking on that side of the market"
+  },
+  {
+   "start": 1222.17,
+   "end": 1224.43,
+   "text": "where there's a compound effect"
+  },
+  {
+   "start": 1224.43,
+   "end": 1226.25,
+   "text": "the more volatility that comes in"
+  },
+  {
+   "start": 1226.25,
+   "end": 1228.57,
+   "text": "the less willingness there is to provide"
+  },
+  {
+   "start": 1228.57,
+   "end": 1230.95,
+   "text": "some liquidity and the dynamic repeats"
+  },
+  {
+   "start": 1230.95,
+   "end": 1233.25,
+   "text": "so the further price runs"
+  },
+  {
+   "start": 1233.25,
+   "end": 1236.71,
+   "text": "at least initially at any way"
+  },
+  {
+   "start": 1236.71,
+   "end": 1238.79,
+   "text": "at least initially out of the range the further price is running"
+  },
+  {
+   "start": 1238.79,
+   "end": 1240.55,
+   "text": "is already a lack of liquidity there"
+  },
+  {
+   "start": 1240.55,
+   "end": 1243.65,
+   "text": "price continues to run and that liquidity doesn't turn up"
+  },
+  {
+   "start": 1243.65,
+   "end": 1245.27,
+   "text": "until a major levels"
+  },
+  {
+   "start": 1245.27,
+   "end": 1247.59,
+   "text": "it typically hits like a distinct level"
+  },
+  {
+   "start": 1247.59,
+   "end": 1249.61,
+   "text": "which you actually didn't in that case"
+  },
+  {
+   "start": 1249.61,
+   "end": 1250.29,
+   "text": "I'll be honest with you"
+  },
+  {
+   "start": 1250.29,
+   "end": 1252.67,
+   "text": "it typically will hit a distinct level"
+  },
+  {
+   "start": 1252.67,
+   "end": 1253.83,
+   "text": "and then start to draw back in"
+  },
+  {
+   "start": 1253.83,
+   "end": 1256.55,
+   "text": "okay this is why I had this line drawn on"
+  },
+  {
+   "start": 1256.55,
+   "end": 1257.99,
+   "text": "for two weeks"
+  },
+  {
+   "start": 1257.99,
+   "end": 1259.65,
+   "text": "because it didn't hit a distinct level"
+  },
+  {
+   "start": 1259.65,
+   "end": 1260.85,
+   "text": "I kind of expected it"
+  },
+  {
+   "start": 1260.85,
+   "end": 1262.15,
+   "text": "to kind of push past it"
+  },
+  {
+   "start": 1262.15,
+   "end": 1264.33,
+   "text": "finally to this decent level here"
+  },
+  {
+   "start": 1264.33,
+   "end": 1269.07,
+   "text": "it looks like it reacted perfectly off that"
+  },
+  {
+   "start": 1269.07,
+   "end": 1271.91,
+   "text": "yesterday yeah"
+  },
+  {
+   "start": 1271.91,
+   "end": 1272.79,
+   "text": "anyway"
+  },
+  {
+   "start": 1272.79,
+   "end": 1276.61,
+   "text": "so yeah the longer price"
+  },
+  {
+   "start": 1276.61,
+   "end": 1277.57,
+   "text": "and low liquidity states"
+  },
+  {
+   "start": 1277.57,
+   "end": 1279.75,
+   "text": "especially on something like this"
+  },
+  {
+   "start": 1279.75,
+   "end": 1288.24,
+   "text": "price"
+  },
+  {
+   "start": 1288.5,
+   "end": 1294.36,
+   "text": "round up for like multiple days here as soon as that volume started to come in this this"
+  },
+  {
+   "start": 1294.36,
+   "end": 1300.36,
+   "text": "side just evaporated there was a hard-dainte's a liquidity there was some but there wasn't"
+  },
+  {
+   "start": 1300.36,
+   "end": 1304.68,
+   "text": "enough and by volume obviously there was definite large buy-end going on price three right back"
+  },
+  {
+   "start": 1304.68,
+   "end": 1311.86,
+   "text": "come into this distinct area we see that that happens on a repeated basis on any time frame"
+  },
+  {
+   "start": 1311.86,
+   "end": 1317.06,
+   "text": "it's more pronounced on the higher time frame so here you had a low liquidity state volume short price"
+  },
+  {
+   "start": 1317.06,
+   "end": 1324.31,
+   "text": "pops out and then it reaches back into the opposing so liquidity and then response now if you look at"
+  },
+  {
+   "start": 1326.05,
+   "end": 1331.81,
+   "text": "this if we look at this on the weekly this would be a huge low liquidity state and price"
+  },
+  {
+   "start": 1331.81,
+   "end": 1337.17,
+   "text": "because he pretty big move out we had this low liquidity state preceding boris jonson's election"
+  },
+  {
+   "start": 1337.91,
+   "end": 1344.87,
+   "text": "huge pump out here we start to see coronavirus like news kind of kick off and then we had the"
+  },
+  {
+   "start": 1344.87,
+   "end": 1348.36,
+   "text": "the effect you know the breakout essentially we"
+  },
+  {
+   "start": 1348.44,
+   "end": 1352.88,
+   "text": "have this is going to continue in my opinion"
+  },
+  {
+   "start": 1352.88,
+   "end": 1355.59,
+   "text": "this low liquidity state what happened to hear"
+  },
+  {
+   "start": 1355.59,
+   "end": 1357.39,
+   "text": "I don't think there was anything behind this"
+  },
+  {
+   "start": 1357.39,
+   "end": 1358.73,
+   "text": "any sense from at least"
+  },
+  {
+   "start": 1358.73,
+   "end": 1362.79,
+   "text": "oh there was a global wave of"
+  },
+  {
+   "start": 1362.79,
+   "end": 1363.59,
+   "text": "taking this"
+  },
+  {
+   "start": 1363.59,
+   "end": 1365.55,
+   "text": "the US dollar was selling off"
+  },
+  {
+   "start": 1365.55,
+   "end": 1367.05,
+   "text": "money was piling into Europe"
+  },
+  {
+   "start": 1367.05,
+   "end": 1370.09,
+   "text": "and risk assets like S&P 500"
+  },
+  {
+   "start": 1370.09,
+   "end": 1371.19,
+   "text": "Dow Jones etc"
+  },
+  {
+   "start": 1371.19,
+   "end": 1373.77,
+   "text": "we just saw a risk on wave which is quite"
+  },
+  {
+   "start": 1373.77,
+   "end": 1375.71,
+   "text": "unusual but we saw that happen"
+  },
+  {
+   "start": 1375.71,
+   "end": 1381.25,
+   "text": "again this was"
+  },
+  {
+   "start": 1381.25,
+   "end": 1382.67,
+   "text": "two three days"
+  },
+  {
+   "start": 1382.69,
+   "end": 1385.19,
+   "text": "or a week or two leading up to"
+  },
+  {
+   "start": 1385.19,
+   "end": 1386.96,
+   "text": "their deadline"
+  },
+  {
+   "start": 1386.96,
+   "end": 1388.46,
+   "text": "for Brexit negotiations approaching"
+  },
+  {
+   "start": 1388.46,
+   "end": 1391.39,
+   "text": "I think the weekend before"
+  },
+  {
+   "start": 1391.39,
+   "end": 1393.25,
+   "text": "the deadline they came out here and said"
+  },
+  {
+   "start": 1393.25,
+   "end": 1395.35,
+   "text": "they're going to negotiate and they're going to sit down the table"
+  },
+  {
+   "start": 1395.35,
+   "end": 1396.85,
+   "text": "exactly the same thing as happened here"
+  },
+  {
+   "start": 1396.85,
+   "end": 1399.25,
+   "text": "it happened here and price popped"
+  },
+  {
+   "start": 1399.25,
+   "end": 1400.85,
+   "text": "out and then Boris Johnson's election"
+  },
+  {
+   "start": 1400.85,
+   "end": 1403.17,
+   "text": "and this is again a smaller low-liquity"
+  },
+  {
+   "start": 1403.17,
+   "end": 1404.93,
+   "text": "state that one day before"
+  },
+  {
+   "start": 1404.93,
+   "end": 1406.8,
+   "text": "Boris Johnson's election"
+  },
+  {
+   "start": 1406.8,
+   "end": 1408.42,
+   "text": "result"
+  },
+  {
+   "start": 1408.42,
+   "end": 1411.94,
+   "text": "we have interest rate"
+  },
+  {
+   "start": 1411.94,
+   "end": 1414.24,
+   "text": "decision here two days before"
+  },
+  {
+   "start": 1414.26,
+   "end": 1421.85,
+   "text": "it this is a Friday and yeah that's a Friday I think we had the interest rate decision before"
+  },
+  {
+   "start": 1421.85,
+   "end": 1429.27,
+   "text": "or we had a US interest rate decision there and price popped out obviously I can't remember"
+  },
+  {
+   "start": 1429.27,
+   "end": 1432.83,
+   "text": "every single day but it happens quite I'm surprised you know this many to be honest with you"
+  },
+  {
+   "start": 1432.83,
+   "end": 1440.73,
+   "text": "yeah so yeah low volume state pop out the longer the lower volume state this is a really"
+  },
+  {
+   "start": 1440.73,
+   "end": 1451.94,
+   "text": "good one price surges or something like that that's cool if you go through if you go through"
+  },
+  {
+   "start": 1452.68,
+   "end": 1456.01,
+   "text": "The intro PDF, let me just pull that out quickly."
+  },
+  {
+   "start": 1456.11,
+   "end": 1458.81,
+   "text": "I just want to quickly stream through it, and then go one."
+  },
+  {
+   "start": 1467.1,
+   "end": 1468.12,
+   "text": "Which PDF did you say?"
+  },
+  {
+   "start": 1469.6,
+   "end": 1470.62,
+   "text": "The intro one."
+  },
+  {
+   "start": 1471.8,
+   "end": 1473.56,
+   "text": "I forget, honestly, I forget this name, bro."
+  },
+  {
+   "start": 1475.86,
+   "end": 1476.74,
+   "text": "I can you quickly find it."
+  },
+  {
+   "start": 1483.26,
+   "end": 1485.82,
+   "text": "I think it's intro at the prize swing or some politics like that."
+  },
+  {
+   "start": 1488.58,
+   "end": 1489.78,
+   "text": "Maybe so long ago."
+  },
+  {
+   "start": 1505.64,
+   "end": 1506.48,
+   "text": "All right, yeah, that."
+  },
+  {
+   "start": 1507.16,
+   "end": 1507.6,
+   "text": "Can you see it?"
+  },
+  {
+   "start": 1507.82,
+   "end": 1508.06,
+   "text": "Yeah."
+  },
+  {
+   "start": 1509.0,
+   "end": 1516.18,
+   "text": "So these are like being, like, this is where I initially started to"
+  },
+  {
+   "start": 1516.18,
+   "end": 1521.95,
+   "text": "introduce you to the liquidity principles that we've been looking at."
+  },
+  {
+   "start": 1521.97,
+   "end": 1524.87,
+   "text": "you already know this"
+  },
+  {
+   "start": 1524.87,
+   "end": 1527.05,
+   "text": "you already know this"
+  },
+  {
+   "start": 1527.05,
+   "end": 1528.69,
+   "text": "you already know that"
+  },
+  {
+   "start": 1528.69,
+   "end": 1529.41,
+   "text": "right"
+  },
+  {
+   "start": 1529.41,
+   "end": 1532.47,
+   "text": "we're kind of looking at the dynamics behind"
+  },
+  {
+   "start": 1532.47,
+   "end": 1533.43,
+   "text": "why the price swings occur"
+  },
+  {
+   "start": 1533.43,
+   "end": 1534.95,
+   "text": "not going to go through at all"
+  },
+  {
+   "start": 1534.95,
+   "end": 1535.73,
+   "text": "because you already know it"
+  },
+  {
+   "start": 1535.73,
+   "end": 1537.05,
+   "text": "this is critical"
+  },
+  {
+   "start": 1537.05,
+   "end": 1539.03,
+   "text": "volatility is a function available"
+  },
+  {
+   "start": 1539.03,
+   "end": 1539.35,
+   "text": "liquidity"
+  },
+  {
+   "start": 1539.35,
+   "end": 1542.23,
+   "text": "but that means is price only runs out"
+  },
+  {
+   "start": 1542.23,
+   "end": 1543.23,
+   "text": "that aggressively"
+  },
+  {
+   "start": 1543.23,
+   "end": 1545.72,
+   "text": "that aggressively"
+  },
+  {
+   "start": 1545.72,
+   "end": 1548.32,
+   "text": "not necessarily because it's strong"
+  },
+  {
+   "start": 1548.32,
+   "end": 1550.32,
+   "text": "buying but typically because it's just"
+  },
+  {
+   "start": 1550.32,
+   "end": 1551.4,
+   "text": "a weakness in sell liquidity"
+  },
+  {
+   "start": 1551.4,
+   "end": 1552.36,
+   "text": "yeah"
+  },
+  {
+   "start": 1552.36,
+   "end": 1553.98,
+   "text": "the same way"
+  },
+  {
+   "start": 1553.98,
+   "end": 1559.75,
+   "text": "if you're selling something here"
+  },
+  {
+   "start": 1559.75,
+   "end": 1563.34,
+   "text": "and you're selling two of them"
+  },
+  {
+   "start": 1563.34,
+   "end": 1566.72,
+   "text": "and then somebody's selling something here,"
+  },
+  {
+   "start": 1566.84,
+   "end": 1569.0,
+   "text": "one of them, if I go market order three,"
+  },
+  {
+   "start": 1570.3,
+   "end": 1571.44,
+   "text": "price quickly jumps there."
+  },
+  {
+   "start": 1572.46,
+   "end": 1572.96,
+   "text": "Right?"
+  },
+  {
+   "start": 1573.2,
+   "end": 1574.56,
+   "text": "The volatility is massive"
+  },
+  {
+   "start": 1574.56,
+   "end": 1577.1,
+   "text": "as a result of price accelerating"
+  },
+  {
+   "start": 1577.1,
+   "end": 1578.44,
+   "text": "to find equity."
+  },
+  {
+   "start": 1579.59,
+   "end": 1580.51,
+   "text": "There's a lack of liquidity"
+  },
+  {
+   "start": 1580.51,
+   "end": 1582.35,
+   "text": "the volatility is a function of available liquidity"
+  },
+  {
+   "start": 1582.35,
+   "end": 1583.35,
+   "text": "and there's a lack of liquidity"
+  },
+  {
+   "start": 1583.35,
+   "end": 1584.33,
+   "text": "volatility is higher."
+  },
+  {
+   "start": 1585.68,
+   "end": 1586.84,
+   "text": "It's important though you understand"
+  },
+  {
+   "start": 1586.84,
+   "end": 1587.8,
+   "text": "that liquidity is passive"
+  },
+  {
+   "start": 1587.8,
+   "end": 1588.96,
+   "text": "so if limit orders, it's not"
+  },
+  {
+   "start": 1588.96,
+   "end": 1593.2,
+   "text": "constant it's not constantly the same so as you can see there's two here there's nothing nothing"
+  },
+  {
+   "start": 1593.2,
+   "end": 1598.71,
+   "text": "nothing and then there's one there it's not like this one one one yeah yeah price goes to the"
+  },
+  {
+   "start": 1598.71,
+   "end": 1602.87,
+   "text": "weak less liquid side you know that because this price can move against the sentiment and trend so here"
+  },
+  {
+   "start": 1602.87,
+   "end": 1610.72,
+   "text": "you see the price goes up down up down up down it went down up down up down up down up down up down"
+  },
+  {
+   "start": 1610.72,
+   "end": 1617.44,
+   "text": "up down up down up then in that day sentiment so the mass character you know the mass attitude"
+  },
+  {
+   "start": 1617.44,
+   "end": 1624.68,
+   "text": "attitude of the market and traders or investors and anyone who invests or who has volume"
+  },
+  {
+   "start": 1624.68,
+   "end": 1633.32,
+   "text": "in the FX market did they change their mind about the underlying strength of the economy"
+  },
+  {
+   "start": 1633.32,
+   "end": 1639.76,
+   "text": "the direction of the pound versus the US dollar 10 15 times a single day and over the period"
+  },
+  {
+   "start": 1639.76,
+   "end": 1646.34,
+   "text": "of nine days here or 11 whatever the number is no effects again like we said isn't dominated"
+  },
+  {
+   "start": 1646.34,
+   "end": 1651.52,
+   "text": "by speculators who who trade in the market to buy a low and sell high yeah it's"
+  },
+  {
+   "start": 1651.54,
+   "end": 1681.46,
+   "text": "not dominated by them. You have liquidity and the sources of liquidity coming from a very, very wide, you know, pool. There's different types of participants. They all have different purposes. They all come to the same market. And all that liquidity and volume comes into, you know, and makes up these prices. So on any given day, this is actually, you can see this huge move, right? This is actually on 2018 bearish trend in the latter part of the year. Or 2019, sorry."
+  },
+  {
+   "start": 1682.95,
+   "end": 1714.02,
+   "text": "so cable sold off almost all year last year over there after september but we still saw huge moves to the upside and then on our smaller bases as well we're seeing a general bearish midflow here for a matter of days but we still saw multiple moves back up because the volume isn't a constant price goes to a less liquid side and these moves here so there's a relative area of stability weak by liquidity module the shot price rooms out really inefficiently once that volume dries off it's left"
+  },
+  {
+   "start": 1714.04,
+   "end": 1715.2,
+   "text": "behind a whole barren"
+  },
+  {
+   "start": 1715.2,
+   "end": 1716.04,
+   "text": "fucking area"
+  },
+  {
+   "start": 1716.04,
+   "end": 1716.48,
+   "text": "of liquidity"
+  },
+  {
+   "start": 1716.48,
+   "end": 1717.32,
+   "text": "there's the hard ending"
+  },
+  {
+   "start": 1717.32,
+   "end": 1717.72,
+   "text": "in the way"
+  },
+  {
+   "start": 1717.72,
+   "end": 1718.56,
+   "text": "and light"
+  },
+  {
+   "start": 1718.56,
+   "end": 1719.1,
+   "text": "buying is able"
+  },
+  {
+   "start": 1719.1,
+   "end": 1719.8,
+   "text": "to push by itself"
+  },
+  {
+   "start": 1719.8,
+   "end": 1722.4,
+   "text": "so multiple"
+  },
+  {
+   "start": 1722.4,
+   "end": 1722.94,
+   "text": "things happen"
+  },
+  {
+   "start": 1722.94,
+   "end": 1723.16,
+   "text": "there"
+  },
+  {
+   "start": 1723.16,
+   "end": 1724.22,
+   "text": "there's"
+  },
+  {
+   "start": 1724.22,
+   "end": 1724.8,
+   "text": "thicker"
+  },
+  {
+   "start": 1724.8,
+   "end": 1725.32,
+   "text": "liquidity"
+  },
+  {
+   "start": 1725.32,
+   "end": 1726.04,
+   "text": "sell liquidity"
+  },
+  {
+   "start": 1726.04,
+   "end": 1726.36,
+   "text": "there"
+  },
+  {
+   "start": 1726.36,
+   "end": 1727.44,
+   "text": "there's"
+  },
+  {
+   "start": 1727.44,
+   "end": 1728.4,
+   "text": "relatively thick"
+  },
+  {
+   "start": 1728.4,
+   "end": 1728.92,
+   "text": "buy liquidity"
+  },
+  {
+   "start": 1728.92,
+   "end": 1729.26,
+   "text": "there"
+  },
+  {
+   "start": 1729.26,
+   "end": 1730.78,
+   "text": "in the middle"
+  },
+  {
+   "start": 1730.78,
+   "end": 1731.3,
+   "text": "there was"
+  },
+  {
+   "start": 1731.3,
+   "end": 1732.06,
+   "text": "strong cell"
+  },
+  {
+   "start": 1732.06,
+   "end": 1732.42,
+   "text": "volume"
+  },
+  {
+   "start": 1732.42,
+   "end": 1733.14,
+   "text": "but no liquidity"
+  },
+  {
+   "start": 1733.14,
+   "end": 1734.48,
+   "text": "the volume"
+  },
+  {
+   "start": 1734.48,
+   "end": 1735.1,
+   "text": "dried off"
+  },
+  {
+   "start": 1735.1,
+   "end": 1736.84,
+   "text": "right"
+  },
+  {
+   "start": 1736.84,
+   "end": 1737.86,
+   "text": "so even in"
+  },
+  {
+   "start": 1737.86,
+   "end": 1738.52,
+   "text": "this small"
+  },
+  {
+   "start": 1738.52,
+   "end": 1739.7,
+   "text": "area of prices"
+  },
+  {
+   "start": 1739.7,
+   "end": 1740.92,
+   "text": "there's so many"
+  },
+  {
+   "start": 1740.92,
+   "end": 1741.38,
+   "text": "changes"
+  },
+  {
+   "start": 1741.38,
+   "end": 1741.68,
+   "text": "there's"
+  },
+  {
+   "start": 1741.68,
+   "end": 1742.2,
+   "text": "thick liquidity"
+  },
+  {
+   "start": 1742.2,
+   "end": 1742.72,
+   "text": "up there"
+  },
+  {
+   "start": 1742.72,
+   "end": 1743.36,
+   "text": "then liquidity"
+  },
+  {
+   "start": 1743.36,
+   "end": 1743.82,
+   "text": "in the middle"
+  },
+  {
+   "start": 1743.82,
+   "end": 1745.36,
+   "text": "there's"
+  },
+  {
+   "start": 1745.36,
+   "end": 1745.98,
+   "text": "low volume"
+  },
+  {
+   "start": 1745.98,
+   "end": 1746.22,
+   "text": "there"
+  },
+  {
+   "start": 1746.24,
+   "end": 1752.72,
+   "text": "the volume shop pushes price out there's high volume wanting to trade in a move down but not being able"
+  },
+  {
+   "start": 1752.72,
+   "end": 1761.78,
+   "text": "it's not matching with buy equity because it's hardly any day you get it yeah so the point in"
+  },
+  {
+   "start": 1761.78,
+   "end": 1767.38,
+   "text": "making is the market's so dynamic in that sense every single price move is unique and individual"
+  },
+  {
+   "start": 1767.38,
+   "end": 1776.18,
+   "text": "in that sense and we see price movement more as a function of liquidity than we do strong"
+  },
+  {
+   "start": 1776.18,
+   "end": 1780.74,
+   "text": "directional or moves with intent there's not a big big buyer pushing price up there"
+  },
+  {
+   "start": 1780.74,
+   "end": 1786.49,
+   "text": "there's not a big big buyer pushing price up here arguably for the whole two day period or"
+  },
+  {
+   "start": 1786.49,
+   "end": 1793.48,
+   "text": "one two three days there's hardly any big buyers are sellers in this market there is no directional"
+  },
+  {
+   "start": 1793.48,
+   "end": 1799.87,
+   "text": "intent here um price is just there's weak buy liquidity left in this move up relatively light"
+  },
+  {
+   "start": 1799.87,
+   "end": 1807.33,
+   "text": "selling is pushing price down yeah right and it's a more low volume state here after that"
+  },
+  {
+   "start": 1807.33,
+   "end": 1815.33,
+   "text": "initial move up, right? So the volume intensity is always changing. That's a very big volume"
+  },
+  {
+   "start": 1815.33,
+   "end": 1824.01,
+   "text": "flow. Price goes to less liquid side. As a result of the auto flow dynamics created these"
+  },
+  {
+   "start": 1824.01,
+   "end": 1828.67,
+   "text": "small conditions where the microvolatility, basically, the price runs out, it leads behind"
+  },
+  {
+   "start": 1828.67,
+   "end": 1835.32,
+   "text": "thinness, it's running out for certain reasons. That's happening much more frequently than"
+  },
+  {
+   "start": 1835.32,
+   "end": 1841.6,
+   "text": "there is a huge seller pushing price down, pushing in a directional trend aggressively all day"
+  },
+  {
+   "start": 1841.6,
+   "end": 1848.87,
+   "text": "every day that shift was not happening so in my opinion trend trading is uh it's just a"
+  },
+  {
+   "start": 1848.87,
+   "end": 1854.07,
+   "text": "ridiculous idea and fx there's certain pairs that trend that you're wrong and you can be a trend"
+  },
+  {
+   "start": 1854.07,
+   "end": 1858.07,
+   "text": "trader just in something that's really really liquid you won't get major trends"
+  },
+  {
+   "start": 1860.05,
+   "end": 1866.84,
+   "text": "or typically you won't get major trends uh so this is a critical thing to understand"
+  },
+  {
+   "start": 1866.84,
+   "end": 1870.28,
+   "text": "it doesn't matter what the direction is you know price and bullish mid-flow why is it drying"
+  },
+  {
+   "start": 1870.28,
+   "end": 1876.32,
+   "text": "on because it's moving to a less liquid side due to that you know that is a move against"
+  },
+  {
+   "start": 1876.32,
+   "end": 1882.86,
+   "text": "the broader strength in the market we can take advantage of it we don't necessarily have to"
+  },
+  {
+   "start": 1882.86,
+   "end": 1888.12,
+   "text": "trade with the trend at all times so yeah volume and sentiment is not a constant price"
+  },
+  {
+   "start": 1888.12,
+   "end": 1893.84,
+   "text": "chopped around over the course of an ad trading days did sentiment change no this sentiment"
+  },
+  {
+   "start": 1893.84,
+   "end": 1900.18,
+   "text": "remained bearish throughout that whole period it was July 2019 however the selling was"
+  },
+  {
+   "start": 1900.18,
+   "end": 1904.26,
+   "text": "not a constant. It was just consistent. It was consistently strong"
+  },
+  {
+   "start": 1904.26,
+   "end": 1908.18,
+   "text": "sell equity there and ended up, as you can see. It had this range"
+  },
+  {
+   "start": 1908.18,
+   "end": 1911.9,
+   "text": "price came down, drew back up to the core, basically, their origin"
+  },
+  {
+   "start": 1911.9,
+   "end": 1916.58,
+   "text": "and sell equity accepted lower prices here. And we"
+  },
+  {
+   "start": 1916.58,
+   "end": 1920.58,
+   "text": "sold the, it came slightly more aggressive, but it wasn't constantly"
+  },
+  {
+   "start": 1920.58,
+   "end": 1925.84,
+   "text": "selling, yeah, and it hardly ever does. Yeah. It's critical"
+  },
+  {
+   "start": 1925.84,
+   "end": 1929.86,
+   "text": "that we realize that the volume will dry off rather than continue most of the time"
+  },
+  {
+   "start": 1929.86,
+   "end": 1931.05,
+   "text": "selling"
+  },
+  {
+   "start": 1931.05,
+   "end": 1932.57,
+   "text": "cell volume was"
+  },
+  {
+   "start": 1932.57,
+   "end": 1935.11,
+   "text": "not constantly pushing"
+  },
+  {
+   "start": 1935.11,
+   "end": 1935.91,
+   "text": "the lower and pound"
+  },
+  {
+   "start": 1935.91,
+   "end": 1937.09,
+   "text": "rather it continued"
+  },
+  {
+   "start": 1937.09,
+   "end": 1940.17,
+   "text": "to nudge, nudge, nudge, nudge, nudge,"
+  },
+  {
+   "start": 1940.17,
+   "end": 1941.63,
+   "text": "nudge, nudge, nudge,"
+  },
+  {
+   "start": 1941.97,
+   "end": 1943.91,
+   "text": "rather than relentless selling."
+  },
+  {
+   "start": 1945.05,
+   "end": 1946.35,
+   "text": "That's what is, you know,"
+  },
+  {
+   "start": 1946.41,
+   "end": 1948.35,
+   "text": "again, facilitate in these conditions"
+  },
+  {
+   "start": 1948.35,
+   "end": 1950.47,
+   "text": "volume, not constant, which is the same"
+  },
+  {
+   "start": 1950.47,
+   "end": 1951.77,
+   "text": "thing as saying variable volume,"
+  },
+  {
+   "start": 1951.89,
+   "end": 1953.77,
+   "text": "yeah, right?"
+  },
+  {
+   "start": 1955.05,
+   "end": 1956.49,
+   "text": "Volatility is a function of available"
+  },
+  {
+   "start": 1956.49,
+   "end": 1958.67,
+   "text": "liquidity if there's an area of weakness,"
+  },
+  {
+   "start": 1958.67,
+   "end": 1959.87,
+   "text": "a.k.a. void"
+  },
+  {
+   "start": 1959.87,
+   "end": 1961.87,
+   "text": "of offers, aka"
+  },
+  {
+   "start": 1961.87,
+   "end": 1963.77,
+   "text": "sell liquidity, above"
+  },
+  {
+   "start": 1963.77,
+   "end": 1966.29,
+   "text": "price, and the bids are relatively"
+  },
+  {
+   "start": 1966.29,
+   "end": 1969.25,
+   "text": "thick, even just"
+  },
+  {
+   "start": 1969.25,
+   "end": 1971.35,
+   "text": "slightly thicker, price well"
+  },
+  {
+   "start": 1971.35,
+   "end": 1972.43,
+   "text": "moved through that weak area."
+  },
+  {
+   "start": 1972.85,
+   "end": 1974.83,
+   "text": "As soon as volume comes to it."
+  },
+  {
+   "start": 1976.44,
+   "end": 1977.54,
+   "text": "And the same implies"
+  },
+  {
+   "start": 1977.54,
+   "end": 1979.6,
+   "text": "for the opposite side with this thicker sell liquidity"
+  },
+  {
+   "start": 1979.6,
+   "end": 1981.6,
+   "text": "and weaker by liquidity, price will"
+  },
+  {
+   "start": 1981.6,
+   "end": 1983.3,
+   "text": "move down as volume comes to it."
+  },
+  {
+   "start": 1983.68,
+   "end": 1985.42,
+   "text": "Understanding this on a conceptual level"
+  },
+  {
+   "start": 1985.42,
+   "end": 1987.62,
+   "text": "so you can conceptualize what's"
+  },
+  {
+   "start": 1987.62,
+   "end": 1989.74,
+   "text": "going on behind the price moving in your mind"
+  },
+  {
+   "start": 1989.74,
+   "end": 1992.36,
+   "text": "it's the next level of understanding"
+  },
+  {
+   "start": 1992.36,
+   "end": 1993.8,
+   "text": "for why prices are the way they are."
+  },
+  {
+   "start": 1994.22,
+   "end": 1994.98,
+   "text": "You know, price action"
+  },
+  {
+   "start": 1994.98,
+   "end": 1996.88,
+   "text": "is just much more deeper"
+  },
+  {
+   "start": 1996.88,
+   "end": 1997.72,
+   "text": "than the candle stick."
+  },
+  {
+   "start": 1998.58,
+   "end": 1999.26,
+   "text": "We know it's dynamic."
+  },
+  {
+   "start": 1999.46,
+   "end": 2000.9,
+   "text": "We know it's changing tempo all the time"
+  },
+  {
+   "start": 2000.9,
+   "end": 2002.2,
+   "text": "from slow to fast."
+  },
+  {
+   "start": 2003.0,
+   "end": 2004.42,
+   "text": "It's consistently moving direction."
+  },
+  {
+   "start": 2004.62,
+   "end": 2006.8,
+   "text": "We went up, then down, then up, then down."
+  },
+  {
+   "start": 2007.24,
+   "end": 2008.26,
+   "text": "There's fractal price swings,"
+  },
+  {
+   "start": 2008.4,
+   "end": 2009.4,
+   "text": "there's large price swings."
+  },
+  {
+   "start": 2010.14,
+   "end": 2012.98,
+   "text": "There's, you know, again,"
+  },
+  {
+   "start": 2013.26,
+   "end": 2014.46,
+   "text": "tempo is changing all the time."
+  },
+  {
+   "start": 2014.46,
+   "end": 2016.9,
+   "text": "All of this is a result of the liquidity state"
+  },
+  {
+   "start": 2016.9,
+   "end": 2019.97,
+   "text": "or the liquidity dynamics."
+  },
+  {
+   "start": 2020.09,
+   "end": 2020.55,
+   "text": "Same thing."
+  },
+  {
+   "start": 2021.92,
+   "end": 2032.6,
+   "text": "I'm not understanding what's happening on, you know, behind that, so you can visualize, you know, what price is doing or what's occurring in the market behind the price formation."
+  },
+  {
+   "start": 2032.94,
+   "end": 2034.6,
+   "text": "It is getting the next level of understanding."
+  },
+  {
+   "start": 2034.84,
+   "end": 2042.2,
+   "text": "Seeing price through that prism of liquidity seeking, so volume seeks liquidity, liquidity and the characteristics of dealing."
+  },
+  {
+   "start": 2042.64,
+   "end": 2049.52,
+   "text": "It's extremely important if you want to take advantage of, first of all, the characteristic of the market, which in effect is the liquidity on both sides."
+  },
+  {
+   "start": 2050.58,
+   "end": 2052.66,
+   "text": "That means you can go, we can be buyers and sellers."
+  },
+  {
+   "start": 2053.14,
+   "end": 2056.5,
+   "text": "you can expect sell liquidity to turn up we can expect buy liquidity to turn up quite"
+  },
+  {
+   "start": 2056.5,
+   "end": 2064.42,
+   "text": "consistently and reliably that's a FX characteristic and and everything else as well"
+  },
+  {
+   "start": 2064.42,
+   "end": 2069.94,
+   "text": "so if you want to trade the like the nature of prices because running further than"
+  },
+  {
+   "start": 2069.94,
+   "end": 2073.54,
+   "text": "this short so it creates the bigger dislocation the price is disdicated"
+  },
+  {
+   "start": 2073.54,
+   "end": 2078.82,
+   "text": "is a great capacity of price to push it back into range back to a level of stability"
+  },
+  {
+   "start": 2082.86,
+   "end": 2085.42,
+   "text": "yeah if you want to take advantage of these behaviors first you have to know"
+  },
+  {
+   "start": 2085.5,
+   "end": 2091.72,
+   "text": "why they exist, what's facilitating them, and this is that was the discussion. It's really"
+  },
+  {
+   "start": 2091.72,
+   "end": 2097.42,
+   "text": "appropriate, by the way, that we discussed this. It feeds directly into what you just"
+  },
+  {
+   "start": 2097.42,
+   "end": 2102.86,
+   "text": "learned about mid-flow. So had that to run, you have to remember, volume is in a constant. It's"
+  },
+  {
+   "start": 2102.86,
+   "end": 2108.36,
+   "text": "changing at the end of the day, start of the day, during the day, for net business, it's"
+  },
+  {
+   "start": 2108.36,
+   "end": 2115.14,
+   "text": "emin and flowing, right? Almost endlessly, price goes into a low volume, stable area of trading,"
+  },
+  {
+   "start": 2115.14,
+   "end": 2117.26,
+   "text": "So price stabilizes and then pops"
+  },
+  {
+   "start": 2117.26,
+   "end": 2118.48,
+   "text": "It stabilizes and pops"
+  },
+  {
+   "start": 2118.48,
+   "end": 2120.44,
+   "text": "All the time"
+  },
+  {
+   "start": 2120.44,
+   "end": 2121.4,
+   "text": "Bolly's changing"
+  },
+  {
+   "start": 2121.4,
+   "end": 2125.71,
+   "text": "And you already know what this is"
+  },
+  {
+   "start": 2125.71,
+   "end": 2126.59,
+   "text": "Right"
+  },
+  {
+   "start": 2126.59,
+   "end": 2129.53,
+   "text": "I'm here implying that there's a"
+  },
+  {
+   "start": 2129.53,
+   "end": 2132.01,
+   "text": "Six million sell liquidity there"
+  },
+  {
+   "start": 2132.01,
+   "end": 2134.35,
+   "text": "Six million there six million there six million there six million there"
+  },
+  {
+   "start": 2134.35,
+   "end": 2135.53,
+   "text": "Six million there six six six yeah"
+  },
+  {
+   "start": 2135.53,
+   "end": 2138.47,
+   "text": "This implies that there is consistent liquidity at every price level"
+  },
+  {
+   "start": 2138.47,
+   "end": 2139.95,
+   "text": "In reality we know it's not true"
+  },
+  {
+   "start": 2139.95,
+   "end": 2143.19,
+   "text": "There could be no liquidity here"
+  },
+  {
+   "start": 2143.19,
+   "end": 2145.47,
+   "text": "There could be 60 million there"
+  },
+  {
+   "start": 2145.47,
+   "end": 2147.61,
+   "text": "1.6 million there"
+  },
+  {
+   "start": 2147.61,
+   "end": 2148.71,
+   "text": "there can be different sizes"
+  },
+  {
+   "start": 2148.71,
+   "end": 2150.07,
+   "text": "and they're not linearly distributed"
+  },
+  {
+   "start": 2150.07,
+   "end": 2153.36,
+   "text": "but this is just a hypothetical example"
+  },
+  {
+   "start": 2153.36,
+   "end": 2155.66,
+   "text": "where I illustrate that you can have"
+  },
+  {
+   "start": 2155.66,
+   "end": 2157.38,
+   "text": "the same amount of sell liquidity here"
+  },
+  {
+   "start": 2157.38,
+   "end": 2159.23,
+   "text": "at every level"
+  },
+  {
+   "start": 2159.23,
+   "end": 2162.53,
+   "text": "10 gets filled you know 6 gets filled"
+  },
+  {
+   "start": 2162.53,
+   "end": 2163.71,
+   "text": "10 etc etc"
+  },
+  {
+   "start": 2163.71,
+   "end": 2166.53,
+   "text": "until this has now completely"
+  },
+  {
+   "start": 2166.53,
+   "end": 2169.45,
+   "text": "been filled and price starts"
+  },
+  {
+   "start": 2169.45,
+   "end": 2171.03,
+   "text": "drawing back down"
+  },
+  {
+   "start": 2171.03,
+   "end": 2173.35,
+   "text": "even though there was still the same amount"
+  },
+  {
+   "start": 2173.35,
+   "end": 2174.75,
+   "text": "of sell liquidity at every price level"
+  },
+  {
+   "start": 2174.75,
+   "end": 2176.58,
+   "text": "you get it"
+  },
+  {
+   "start": 2176.58,
+   "end": 2176.82,
+   "text": "Yeah."
+  },
+  {
+   "start": 2177.95,
+   "end": 2179.13,
+   "text": "What's pushing price down here?"
+  },
+  {
+   "start": 2179.17,
+   "end": 2181.61,
+   "text": "Is it the self-strength or the bi-reakness then?"
+  },
+  {
+   "start": 2182.98,
+   "end": 2183.9,
+   "text": "The bi-weakness."
+  },
+  {
+   "start": 2184.51,
+   "end": 2186.51,
+   "text": "Yeah, because we have the same self-strength line,"
+  },
+  {
+   "start": 2186.51,
+   "end": 2187.39,
+   "text": "every single fucking level."
+  },
+  {
+   "start": 2187.75,
+   "end": 2187.99,
+   "text": "Yeah."
+  },
+  {
+   "start": 2191.26,
+   "end": 2192.18,
+   "text": "So here's what we discussed."
+  },
+  {
+   "start": 2192.3,
+   "end": 2195.22,
+   "text": "Today, liquidity draws away from around the low-volume state,"
+  },
+  {
+   "start": 2195.66,
+   "end": 2197.54,
+   "text": "especially as price starts off and draw out of it."
+  },
+  {
+   "start": 2198.41,
+   "end": 2201.39,
+   "text": "So any volume, as soon as it pushes through,"
+  },
+  {
+   "start": 2201.49,
+   "end": 2204.75,
+   "text": "it finds a barren fucking area of hardly any liquidity there,"
+  },
+  {
+   "start": 2205.17,
+   "end": 2207.53,
+   "text": "and it increases the volatility,"
+  },
+  {
+   "start": 2207.53,
+   "end": 2209.97,
+   "text": "or the volatility increases as the volume"
+  },
+  {
+   "start": 2209.97,
+   "end": 2212.87,
+   "text": "tries to find the liquidity sitting somewhere in the book."
+  },
+  {
+   "start": 2214.36,
+   "end": 2216.34,
+   "text": "It's important, again, to realize that it's no,"
+  },
+  {
+   "start": 2216.54,
+   "end": 2218.48,
+   "text": "it's not like it's completely illiquid."
+  },
+  {
+   "start": 2218.62,
+   "end": 2220.54,
+   "text": "There is liquidity there, just not in huge amounts."
+  },
+  {
+   "start": 2223.41,
+   "end": 2230.51,
+   "text": "So here, this green line shows a trade I was in."
+  },
+  {
+   "start": 2230.63,
+   "end": 2233.09,
+   "text": "It's one of those things that it just shows with the trade history."
+  },
+  {
+   "start": 2233.71,
+   "end": 2234.95,
+   "text": "I was long from somewhere earlier."
+  },
+  {
+   "start": 2235.71,
+   "end": 2236.55,
+   "text": "An event happened."
+  },
+  {
+   "start": 2237.43,
+   "end": 2241.61,
+   "text": "I had my take profit at the price would have spent less than a second here, by the way."
+  },
+  {
+   "start": 2241.61,
+   "end": 2242.41,
+   "text": "It's five tick shop."
+  },
+  {
+   "start": 2243.07,
+   "end": 2244.75,
+   "text": "it literally would have gone up"
+  },
+  {
+   "start": 2244.75,
+   "end": 2246.13,
+   "text": "and then right back off"
+  },
+  {
+   "start": 2246.13,
+   "end": 2247.89,
+   "text": "this high somewhere down to here"
+  },
+  {
+   "start": 2247.89,
+   "end": 2252.41,
+   "text": "I had my son limit"
+  },
+  {
+   "start": 2252.41,
+   "end": 2254.23,
+   "text": "which is a take profit in a buy order here"
+  },
+  {
+   "start": 2254.23,
+   "end": 2255.83,
+   "text": "price just literally went there"
+  },
+  {
+   "start": 2255.83,
+   "end": 2258.57,
+   "text": "to find my cell limit right"
+  },
+  {
+   "start": 2258.57,
+   "end": 2259.61,
+   "text": "this was a surge"
+  },
+  {
+   "start": 2259.61,
+   "end": 2262.01,
+   "text": "out of this low volume low liquidity state"
+  },
+  {
+   "start": 2262.01,
+   "end": 2263.03,
+   "text": "volume came in"
+  },
+  {
+   "start": 2263.03,
+   "end": 2265.99,
+   "text": "cell liquidity just was vanished basically"
+  },
+  {
+   "start": 2265.99,
+   "end": 2267.59,
+   "text": "there was none of it there"
+  },
+  {
+   "start": 2267.59,
+   "end": 2270.77,
+   "text": "in this instance there was just nothing here"
+  },
+  {
+   "start": 2270.77,
+   "end": 2271.47,
+   "text": "literally nothing"
+  },
+  {
+   "start": 2271.47,
+   "end": 2273.93,
+   "text": "it jumped 35 tips with an amount"
+  },
+  {
+   "start": 2273.93,
+   "end": 2280.25,
+   "text": "literally progress in second and then I had my cell limit order at a level on the left."
+  },
+  {
+   "start": 2280.98,
+   "end": 2284.54,
+   "text": "Now the point I'm raising here is, why was my cell limit order there?"
+  },
+  {
+   "start": 2286.95,
+   "end": 2287.19,
+   "text": "Right?"
+  },
+  {
+   "start": 2287.59,
+   "end": 2290.07,
+   "text": "I put it in an area where I deemed it to be sell liquidity."
+  },
+  {
+   "start": 2291.2,
+   "end": 2293.32,
+   "text": "So I don't expect price to get past that level."
+  },
+  {
+   "start": 2294.37,
+   "end": 2298.25,
+   "text": "Regardless if it if it draws up into there or if it shoots up into there,"
+  },
+  {
+   "start": 2298.79,
+   "end": 2300.53,
+   "text": "this is the level I deemed with a sell liquidity."
+  },
+  {
+   "start": 2302.64,
+   "end": 2305.74,
+   "text": "That ties kind of back in with price reflecting state of liquidity."
+  },
+  {
+   "start": 2305.98,
+   "end": 2307.86,
+   "text": "Over time, we will be able to see"
+  },
+  {
+   "start": 2307.86,
+   "end": 2309.48,
+   "text": "consistencies and price behavior"
+  },
+  {
+   "start": 2309.48,
+   "end": 2312.32,
+   "text": "where there is liquidity, where it concentrates."
+  },
+  {
+   "start": 2313.0,
+   "end": 2314.28,
+   "text": "And it's typically back at origins."
+  },
+  {
+   "start": 2315.57,
+   "end": 2317.21,
+   "text": "Like you have an origin of move down,"
+  },
+  {
+   "start": 2317.33,
+   "end": 2318.37,
+   "text": "an origin of the move up,"
+  },
+  {
+   "start": 2318.93,
+   "end": 2320.49,
+   "text": "price responds at these origins."
+  },
+  {
+   "start": 2323.21,
+   "end": 2325.57,
+   "text": "And it runs through the middle."
+  },
+  {
+   "start": 2325.77,
+   "end": 2329.23,
+   "text": "So here you have a fractal price run down"
+  },
+  {
+   "start": 2329.23,
+   "end": 2330.89,
+   "text": "and a fractured price run up."
+  },
+  {
+   "start": 2331.85,
+   "end": 2333.57,
+   "text": "In the middle of these price rooms,"
+  },
+  {
+   "start": 2333.63,
+   "end": 2334.87,
+   "text": "it's a thinly traded box."
+  },
+  {
+   "start": 2336.87,
+   "end": 2338.49,
+   "text": "And that should have been just inaki there."
+  },
+  {
+   "start": 2339.31,
+   "end": 2343.89,
+   "text": "The middle of the trade, thinly traded, and it's typically the least responsive."
+  },
+  {
+   "start": 2344.09,
+   "end": 2346.63,
+   "text": "So you can see price does respond, but it doesn't reverse."
+  },
+  {
+   "start": 2347.23,
+   "end": 2349.17,
+   "text": "It does respond, it doesn't reverse."
+  },
+  {
+   "start": 2350.19,
+   "end": 2350.89,
+   "text": "Right?"
+  },
+  {
+   "start": 2351.25,
+   "end": 2357.01,
+   "text": "And we typically get huge, huge, and the successful reversals of the origin slash core areas."
+  },
+  {
+   "start": 2357.96,
+   "end": 2364.46,
+   "text": "Yeah, so it seems that like the middle levels, you can still trade off them, but in this..."
+  },
+  {
+   "start": 2364.46,
+   "end": 2365.18,
+   "text": "I do trade off them."
+  },
+  {
+   "start": 2365.18,
+   "end": 2365.82,
+   "text": "Yeah, yeah, yeah."
+  },
+  {
+   "start": 2365.9,
+   "end": 2369.14,
+   "text": "I mean, like, in here..."
+  },
+  {
+   "start": 2369.14,
+   "end": 2369.9,
+   "text": "But..."
+  },
+  {
+   "start": 2369.9,
+   "end": 2375.38,
+   "text": "Yeah, this area, you wouldn't really expect the middle area to push it to new lows."
+  },
+  {
+   "start": 2376.38,
+   "end": 2378.3,
+   "text": "And price has already embellished midflow here, yeah?"
+  },
+  {
+   "start": 2378.54,
+   "end": 2378.74,
+   "text": "Yeah."
+  },
+  {
+   "start": 2378.82,
+   "end": 2380.74,
+   "text": "So it's quite, it's weak midflow."
+  },
+  {
+   "start": 2381.91,
+   "end": 2383.89,
+   "text": "I guess, yeah, that did push the new highs."
+  },
+  {
+   "start": 2383.95,
+   "end": 2385.53,
+   "text": "It looks like the price worked midflow."
+  },
+  {
+   "start": 2386.7,
+   "end": 2388.04,
+   "text": "Yeah, so it is weak midflow."
+  },
+  {
+   "start": 2388.5,
+   "end": 2391.62,
+   "text": "But as we know in midflow, the highs do not hold."
+  },
+  {
+   "start": 2394.27,
+   "end": 2395.85,
+   "text": "The buy bases continue to hold."
+  },
+  {
+   "start": 2395.95,
+   "end": 2399.13,
+   "text": "I guess the last inventory here held and price pushed down."
+  },
+  {
+   "start": 2401.04,
+   "end": 2404.16,
+   "text": "So if that's the case, abolished midflow,"
+  },
+  {
+   "start": 2404.32,
+   "end": 2407.66,
+   "text": "we see price run out, get super, super weak, and dry off."
+  },
+  {
+   "start": 2408.57,
+   "end": 2411.51,
+   "text": "It doesn't have to hit strong sell liquidity as it draws back into range."
+  },
+  {
+   "start": 2411.55,
+   "end": 2413.27,
+   "text": "It builds up again and repeats."
+  },
+  {
+   "start": 2414.69,
+   "end": 2417.27,
+   "text": "The reason these highs aren't holding, as we discussed last session,"
+  },
+  {
+   "start": 2417.93,
+   "end": 2421.27,
+   "text": "if there was already 10 million, aka weak liquidity there,"
+  },
+  {
+   "start": 2421.81,
+   "end": 2423.65,
+   "text": "this tested it, grabbed four of it."
+  },
+  {
+   "start": 2423.89,
+   "end": 2425.85,
+   "text": "There's now less sell liquidity left here."
+  },
+  {
+   "start": 2426.75,
+   "end": 2430.21,
+   "text": "This weak area has become even weaker and then prices and it continues to stream through it."
+  },
+  {
+   "start": 2430.51,
+   "end": 2434.33,
+   "text": "So I will use residual levels,"
+  },
+  {
+   "start": 2434.33,
+   "end": 2436.33,
+   "text": "which is the middle of a price room"
+  },
+  {
+   "start": 2436.33,
+   "end": 2437.55,
+   "text": "the class has residual"
+  },
+  {
+   "start": 2437.55,
+   "end": 2438.73,
+   "text": "just left over liquidity"
+  },
+  {
+   "start": 2438.73,
+   "end": 2441.2,
+   "text": "there's relatively thin"
+  },
+  {
+   "start": 2441.2,
+   "end": 2442.2,
+   "text": "liquidity left over there"
+  },
+  {
+   "start": 2442.2,
+   "end": 2444.94,
+   "text": "but I would only trade"
+  },
+  {
+   "start": 2444.94,
+   "end": 2446.3,
+   "text": "under them in specific conditions"
+  },
+  {
+   "start": 2446.3,
+   "end": 2448.4,
+   "text": "and my trade duration will be specifically"
+  },
+  {
+   "start": 2448.4,
+   "end": 2449.58,
+   "text": "short as well"
+  },
+  {
+   "start": 2449.58,
+   "end": 2452.12,
+   "text": "so I will only look to take the trade"
+  },
+  {
+   "start": 2452.12,
+   "end": 2454.24,
+   "text": "of this weak area if they move into it"
+  },
+  {
+   "start": 2454.24,
+   "end": 2454.72,
+   "text": "is weak"
+  },
+  {
+   "start": 2454.72,
+   "end": 2458.17,
+   "text": "and the red flow is relatively stable"
+  },
+  {
+   "start": 2458.17,
+   "end": 2462.24,
+   "text": "and my trade duration won't be where I'm"
+  },
+  {
+   "start": 2462.24,
+   "end": 2463.34,
+   "text": "expecting a reverse line"
+  },
+  {
+   "start": 2463.34,
+   "end": 2465.16,
+   "text": "I don't care if that happens"
+  },
+  {
+   "start": 2465.16,
+   "end": 2469.4,
+   "text": "I do not care if price ends up reversing off this midflow level"
+  },
+  {
+   "start": 2469.4,
+   "end": 2472.74,
+   "text": "probably over time that is a less likely scenario"
+  },
+  {
+   "start": 2472.74,
+   "end": 2477.29,
+   "text": "for example it's like having a 80, 20% chance"
+  },
+  {
+   "start": 2477.29,
+   "end": 2481.09,
+   "text": "80% not likely to break down"
+  },
+  {
+   "start": 2481.09,
+   "end": 2484.72,
+   "text": "it's unlikely to sell off at this last range"
+  },
+  {
+   "start": 2484.72,
+   "end": 2488.82,
+   "text": "until the big box price run"
+  },
+  {
+   "start": 2488.82,
+   "end": 2490.68,
+   "text": "until the big midflow shows weakness"
+  },
+  {
+   "start": 2490.68,
+   "end": 2492.9,
+   "text": "and it hits a good level on the left"
+  },
+  {
+   "start": 2492.9,
+   "end": 2494.8,
+   "text": "it's unlikely to happen"
+  },
+  {
+   "start": 2494.8,
+   "end": 2497.46,
+   "text": "I do not care about the times it does that there"
+  },
+  {
+   "start": 2497.46,
+   "end": 2499.42,
+   "text": "I'm not going to take these short positions"
+  },
+  {
+   "start": 2499.42,
+   "end": 2500.7,
+   "text": "trying to look for that scenario"
+  },
+  {
+   "start": 2500.7,
+   "end": 2501.78,
+   "text": "which is less probable"
+  },
+  {
+   "start": 2501.78,
+   "end": 2502.46,
+   "text": "it's left like"
+  },
+  {
+   "start": 2502.46,
+   "end": 2504.06,
+   "text": "Yeah, no there's no point of it"
+  },
+  {
+   "start": 2504.06,
+   "end": 2505.86,
+   "text": "In each individual"
+  },
+  {
+   "start": 2505.86,
+   "end": 2506.9,
+   "text": "You know"
+  },
+  {
+   "start": 2506.9,
+   "end": 2508.52,
+   "text": "Each individual time"
+  },
+  {
+   "start": 2508.52,
+   "end": 2510.94,
+   "text": "It may sell off"
+  },
+  {
+   "start": 2510.94,
+   "end": 2513.08,
+   "text": "Right"
+  },
+  {
+   "start": 2513.08,
+   "end": 2514.96,
+   "text": "Just like if you played Russian roulette"
+  },
+  {
+   "start": 2514.96,
+   "end": 2517.64,
+   "text": "You have a one in six chance of dying"
+  },
+  {
+   "start": 2517.64,
+   "end": 2520.46,
+   "text": "You could"
+  },
+  {
+   "start": 2520.46,
+   "end": 2523.06,
+   "text": "You could fucking miss that bullet"
+  },
+  {
+   "start": 2523.06,
+   "end": 2526.07,
+   "text": "Time and time and time again"
+  },
+  {
+   "start": 2526.07,
+   "end": 2528.67,
+   "text": "But there's always that one chance"
+  },
+  {
+   "start": 2528.67,
+   "end": 2529.31,
+   "text": "You get now"
+  },
+  {
+   "start": 2529.31,
+   "end": 2531.17,
+   "text": "Your head get licked off"
+  },
+  {
+   "start": 2531.17,
+   "end": 2532.6,
+   "text": "right"
+  },
+  {
+   "start": 2532.6,
+   "end": 2534.24,
+   "text": "the same thing"
+  },
+  {
+   "start": 2534.24,
+   "end": 2534.92,
+   "text": "kind of applies here"
+  },
+  {
+   "start": 2534.92,
+   "end": 2535.84,
+   "text": "there's a less"
+  },
+  {
+   "start": 2535.84,
+   "end": 2536.58,
+   "text": "likelihood"
+  },
+  {
+   "start": 2536.58,
+   "end": 2537.9,
+   "text": "lower chance of price"
+  },
+  {
+   "start": 2537.9,
+   "end": 2540.57,
+   "text": "breaking through"
+  },
+  {
+   "start": 2540.57,
+   "end": 2541.23,
+   "text": "the last inventory"
+  },
+  {
+   "start": 2541.23,
+   "end": 2541.89,
+   "text": "is possible"
+  },
+  {
+   "start": 2541.89,
+   "end": 2542.55,
+   "text": "a dozen"
+  },
+  {
+   "start": 2542.55,
+   "end": 2543.23,
+   "text": "etc"
+  },
+  {
+   "start": 2543.23,
+   "end": 2544.41,
+   "text": "we're trading with"
+  },
+  {
+   "start": 2544.41,
+   "end": 2544.97,
+   "text": "the flow"
+  },
+  {
+   "start": 2544.97,
+   "end": 2546.8,
+   "text": "all right"
+  },
+  {
+   "start": 2546.8,
+   "end": 2548.02,
+   "text": "when I traded"
+  },
+  {
+   "start": 2548.02,
+   "end": 2548.9,
+   "text": "with the flow"
+  },
+  {
+   "start": 2548.9,
+   "end": 2549.52,
+   "text": "normally I trade"
+  },
+  {
+   "start": 2549.52,
+   "end": 2550.06,
+   "text": "against it"
+  },
+  {
+   "start": 2550.06,
+   "end": 2550.32,
+   "text": "yeah"
+  },
+  {
+   "start": 2550.92,
+   "end": 2552.54,
+   "text": "I'm an exhaustion"
+  },
+  {
+   "start": 2552.54,
+   "end": 2553.06,
+   "text": "trader"
+  },
+  {
+   "start": 2553.06,
+   "end": 2554.54,
+   "text": "I trade the exhaustion"
+  },
+  {
+   "start": 2554.54,
+   "end": 2556.17,
+   "text": "I'm sure"
+  },
+  {
+   "start": 2556.17,
+   "end": 2556.78,
+   "text": "about"
+  },
+  {
+   "start": 2556.78,
+   "end": 2558.18,
+   "text": "ox sake"
+  },
+  {
+   "start": 2558.18,
+   "end": 2562.14,
+   "text": "I trade the exhaustion"
+  },
+  {
+   "start": 2562.14,
+   "end": 2563.5,
+   "text": "I don't trade"
+  },
+  {
+   "start": 2563.5,
+   "end": 2563.98,
+   "text": "the strength"
+  },
+  {
+   "start": 2563.98,
+   "end": 2564.36,
+   "text": "usually"
+  },
+  {
+   "start": 2564.36,
+   "end": 2565.4,
+   "text": "this is trading"
+  },
+  {
+   "start": 2565.4,
+   "end": 2566.12,
+   "text": "with the strength"
+  },
+  {
+   "start": 2566.12,
+   "end": 2568.74,
+   "text": "here I traded"
+  },
+  {
+   "start": 2568.74,
+   "end": 2569.28,
+   "text": "with this show"
+  },
+  {
+   "start": 2569.28,
+   "end": 2571.34,
+   "text": "I show my entry"
+  },
+  {
+   "start": 2571.34,
+   "end": 2571.82,
+   "text": "and whatnot"
+  },
+  {
+   "start": 2571.82,
+   "end": 2574.61,
+   "text": "so you can watch that"
+  },
+  {
+   "start": 2574.61,
+   "end": 2575.07,
+   "text": "it's pretty"
+  },
+  {
+   "start": 2575.07,
+   "end": 2576.57,
+   "text": "this in February this year"
+  },
+  {
+   "start": 2576.57,
+   "end": 2578.87,
+   "text": "which one is this in"
+  },
+  {
+   "start": 2578.87,
+   "end": 2581.6,
+   "text": "so lesson trade examples"
+  },
+  {
+   "start": 2581.6,
+   "end": 2583.18,
+   "text": "you should have access to it"
+  },
+  {
+   "start": 2583.18,
+   "end": 2583.68,
+   "text": "yeah yeah"
+  },
+  {
+   "start": 2583.68,
+   "end": 2584.28,
+   "text": "I do have that"
+  },
+  {
+   "start": 2584.28,
+   "end": 2587.52,
+   "text": "and then"
+  },
+  {
+   "start": 2587.52,
+   "end": 2589.93,
+   "text": "I guess"
+  },
+  {
+   "start": 2589.93,
+   "end": 2590.37,
+   "text": "you might"
+  },
+  {
+   "start": 2590.37,
+   "end": 2592.06,
+   "text": "you might benefit"
+  },
+  {
+   "start": 2592.06,
+   "end": 2592.54,
+   "text": "from this one"
+  },
+  {
+   "start": 2592.54,
+   "end": 2593.4,
+   "text": "is like a 15 minute"
+  },
+  {
+   "start": 2593.4,
+   "end": 2594.69,
+   "text": "video"
+  },
+  {
+   "start": 2594.69,
+   "end": 2595.73,
+   "text": "oh fuck you know"
+  },
+  {
+   "start": 2595.73,
+   "end": 2596.65,
+   "text": "it's 45 minutes"
+  },
+  {
+   "start": 2596.65,
+   "end": 2597.65,
+   "text": "so"
+  },
+  {
+   "start": 2597.65,
+   "end": 2599.06,
+   "text": "it's still a call like a"
+  },
+  {
+   "start": 2599.06,
+   "end": 2603.74,
+   "text": "local"
+  },
+  {
+   "start": 2603.74,
+   "end": 2605.1,
+   "text": "They might help you."
+  },
+  {
+   "start": 2605.18,
+   "end": 2605.98,
+   "text": "I don't remember this."
+  },
+  {
+   "start": 2607.02,
+   "end": 2608.1,
+   "text": "You've done so many."
+  },
+  {
+   "start": 2608.26,
+   "end": 2609.38,
+   "text": "I don't..."
+  },
+  {
+   "start": 2609.38,
+   "end": 2612.31,
+   "text": "I'm not surprised if you don't remember them."
+  },
+  {
+   "start": 2614.56,
+   "end": 2614.92,
+   "text": "Yeah."
+  },
+  {
+   "start": 2616.15,
+   "end": 2619.82,
+   "text": "I remember you took some WTI shorts,"
+  },
+  {
+   "start": 2619.94,
+   "end": 2621.54,
+   "text": "like literally to the actual..."
+  },
+  {
+   "start": 2621.54,
+   "end": 2622.58,
+   "text": "To the PIP, man."
+  },
+  {
+   "start": 2627.65,
+   "end": 2629.87,
+   "text": "Look, it's a case of the behaviour is consistent."
+  },
+  {
+   "start": 2631.08,
+   "end": 2633.32,
+   "text": "I know the parameters and the conditions"
+  },
+  {
+   "start": 2633.32,
+   "end": 2634.26,
+   "text": "leaning up to the behaviours"
+  },
+  {
+   "start": 2634.26,
+   "end": 2635.84,
+   "text": "so I can recognise them in real time."
+  },
+  {
+   "start": 2636.18,
+   "end": 2637.9,
+   "text": "And take the chance, bro."
+  },
+  {
+   "start": 2637.9,
+   "end": 2638.4,
+   "text": "That's it."
+  },
+  {
+   "start": 2638.5,
+   "end": 2639.3,
+   "text": "Just take the chance."
+  },
+  {
+   "start": 2639.42,
+   "end": 2639.98,
+   "text": "Some entries."
+  },
+  {
+   "start": 2640.04,
+   "end": 2640.9,
+   "text": "we're just so mad"
+  },
+  {
+   "start": 2640.9,
+   "end": 2641.98,
+   "text": "that I was just thinking"
+  },
+  {
+   "start": 2641.98,
+   "end": 2642.98,
+   "text": "like how"
+  },
+  {
+   "start": 2642.98,
+   "end": 2646.38,
+   "text": "yes using these price swing"
+  },
+  {
+   "start": 2646.38,
+   "end": 2648.02,
+   "text": "stages so we have midflow"
+  },
+  {
+   "start": 2648.02,
+   "end": 2651.0,
+   "text": "I know what to look for after midflow"
+  },
+  {
+   "start": 2651.0,
+   "end": 2652.32,
+   "text": "I want the break of midflow"
+  },
+  {
+   "start": 2652.32,
+   "end": 2654.64,
+   "text": "and then I want that surge"
+  },
+  {
+   "start": 2654.64,
+   "end": 2657.19,
+   "text": "and usually this last surge"
+  },
+  {
+   "start": 2657.19,
+   "end": 2660.06,
+   "text": "has its own fractal search"
+  },
+  {
+   "start": 2660.06,
+   "end": 2662.64,
+   "text": "right and then I'm using"
+  },
+  {
+   "start": 2662.64,
+   "end": 2664.56,
+   "text": "the fractal nature of price"
+  },
+  {
+   "start": 2664.56,
+   "end": 2666.28,
+   "text": "combined with the location of this price"
+  },
+  {
+   "start": 2666.28,
+   "end": 2667.96,
+   "text": "swing what's location"
+  },
+  {
+   "start": 2667.96,
+   "end": 2669.46,
+   "text": "it's in the parabolic phase"
+  },
+  {
+   "start": 2669.46,
+   "end": 2671.54,
+   "text": "the location here is midflow"
+  },
+  {
+   "start": 2671.54,
+   "end": 2675.04,
+   "text": "the location here is the breaker midflow sideways stage"
+  },
+  {
+   "start": 2675.04,
+   "end": 2676.6,
+   "text": "is the parabolic phase"
+  },
+  {
+   "start": 2676.6,
+   "end": 2679.04,
+   "text": "I'm looking to trade after the sideways pop"
+  },
+  {
+   "start": 2679.04,
+   "end": 2680.96,
+   "text": "in good areas of opposing liquidity"
+  },
+  {
+   "start": 2680.96,
+   "end": 2683.36,
+   "text": "and my timing is kind of"
+  },
+  {
+   "start": 2683.36,
+   "end": 2685.08,
+   "text": "here I'm being quite aggressive"
+  },
+  {
+   "start": 2685.08,
+   "end": 2689.9,
+   "text": "so you know why are these conditions occurring"
+  },
+  {
+   "start": 2689.9,
+   "end": 2692.12,
+   "text": "we've seen them happen over and over again in price"
+  },
+  {
+   "start": 2692.12,
+   "end": 2694.08,
+   "text": "we know what midflow reflects"
+  },
+  {
+   "start": 2694.08,
+   "end": 2695.94,
+   "text": "this then starts to reflect the weakness"
+  },
+  {
+   "start": 2695.94,
+   "end": 2698.3,
+   "text": "in the tempo and rhythm and then this"
+  },
+  {
+   "start": 2698.3,
+   "end": 2700.24,
+   "text": "is just a phenomenon that's present"
+  },
+  {
+   "start": 2700.24,
+   "end": 2701.78,
+   "text": "in the way volume and liquidity"
+  },
+  {
+   "start": 2701.8,
+   "end": 2702.86,
+   "text": "is delivered into the market."
+  },
+  {
+   "start": 2703.3,
+   "end": 2704.3,
+   "text": "It happens all the time."
+  },
+  {
+   "start": 2704.38,
+   "end": 2705.02,
+   "text": "I can't tell you why,"
+  },
+  {
+   "start": 2705.1,
+   "end": 2705.22,
+   "text": "though."
+  },
+  {
+   "start": 2706.27,
+   "end": 2707.95,
+   "text": "The only explanation I have for it is"
+  },
+  {
+   "start": 2707.95,
+   "end": 2709.75,
+   "text": "whatever inventory are available by"
+  },
+  {
+   "start": 2709.75,
+   "end": 2711.41,
+   "text": "the willingness to buy here,"
+  },
+  {
+   "start": 2712.7,
+   "end": 2714.14,
+   "text": "whatever inventory is present,"
+  },
+  {
+   "start": 2715.03,
+   "end": 2716.83,
+   "text": "at least a large percentage of it"
+  },
+  {
+   "start": 2716.83,
+   "end": 2719.15,
+   "text": "tries to get filled aggressively."
+  },
+  {
+   "start": 2720.35,
+   "end": 2720.71,
+   "text": "Okay."
+  },
+  {
+   "start": 2721.65,
+   "end": 2724.09,
+   "text": "So here we're seeing quite a nice tempo and rhythm."
+  },
+  {
+   "start": 2725.39,
+   "end": 2726.73,
+   "text": "And then that first sign of weakness"
+  },
+  {
+   "start": 2726.73,
+   "end": 2728.03,
+   "text": "as price pushes down,"
+  },
+  {
+   "start": 2728.03,
+   "end": 2730.29,
+   "text": "the liquidity aggressively snaps up"
+  },
+  {
+   "start": 2730.29,
+   "end": 2732.13,
+   "text": "and it starts to get delivered into the market"
+  },
+  {
+   "start": 2732.13,
+   "end": 2735.09,
+   "text": "because the purpose of that execution algorithm"
+  },
+  {
+   "start": 2735.09,
+   "end": 2737.75,
+   "text": "is to fill the volume and liquidity"
+  },
+  {
+   "start": 2737.75,
+   "end": 2741.16,
+   "text": "and it may be some kind of parameters"
+  },
+  {
+   "start": 2741.16,
+   "end": 2742.7,
+   "text": "built into these execution algos"
+  },
+  {
+   "start": 2742.7,
+   "end": 2745.04,
+   "text": "which turn into aggressive mode"
+  },
+  {
+   "start": 2745.04,
+   "end": 2747.24,
+   "text": "when a certain level of volatility is here"
+  },
+  {
+   "start": 2747.24,
+   "end": 2749.68,
+   "text": "or certain corrections happened to avoid"
+  },
+  {
+   "start": 2749.68,
+   "end": 2752.32,
+   "text": "basically to make sure they complete their task"
+  },
+  {
+   "start": 2752.32,
+   "end": 2755.34,
+   "text": "but this is just a phenomenon that's present"
+  },
+  {
+   "start": 2755.34,
+   "end": 2756.28,
+   "text": "at that highs and lows"
+  }
+ ]
+}

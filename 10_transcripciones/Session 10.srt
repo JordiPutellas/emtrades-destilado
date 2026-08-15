@@ -1,0 +1,7544 @@
+1
+00:00:00,270 --> 00:00:04,680
+In bearish midflow, what's the last inventory here?
+
+2
+00:00:05,240 --> 00:00:06,140
+Let me annotate.
+
+3
+00:00:13,820 --> 00:00:14,520
+Perfect, yeah?
+
+4
+00:00:14,580 --> 00:00:15,320
+So this whole area.
+
+5
+00:00:15,460 --> 00:00:15,580
+Yeah.
+
+6
+00:00:15,980 --> 00:00:18,640
+And if I grab it, what's the last inventory there?
+
+7
+00:00:19,440 --> 00:00:20,660
+Again, this area, yeah?
+
+8
+00:00:21,580 --> 00:00:21,780
+Yeah.
+
+9
+00:00:21,860 --> 00:00:27,060
+Now, in each instance, why is the inventory holding price down?
+
+10
+00:00:27,980 --> 00:00:34,060
+It's because the sell liquidity, so, you know, there was likely a large order, let's say 100 million.
+
+11
+00:00:35,100 --> 00:00:38,570
+It's plugged into an algorithm, or automate execution.
+
+12
+00:00:38,590 --> 00:00:44,310
+system which then fill this 100 million in small pieces over a distance of prices.
+
+13
+00:00:44,950 --> 00:00:51,750
+So, there's a huge 100 million here, sell liquidity, weak by liquidity, other traders who go
+
+14
+00:00:51,750 --> 00:00:55,950
+market order sell push price down, this liquidity chases and it holds here.
+
+15
+00:00:57,030 --> 00:00:58,110
+The same thing happens.
+
+16
+00:00:58,110 --> 00:01:02,680
+There's like 90 million left here, 10 million by liquidity here, market order sell, price
+
+17
+00:01:02,680 --> 00:01:03,220
+pushes down.
+
+18
+00:01:03,940 --> 00:01:08,600
+And again, the sell inventory, the bulk of the liquidity of this,
+
+19
+00:01:08,620 --> 00:01:15,080
+move is moving along with the price so whenever the midflow is strong we see a super consistent
+
+20
+00:01:15,080 --> 00:01:24,280
+behavior in bearish midflow which is what what is the characteristic um the well in this case
+
+21
+00:01:24,280 --> 00:01:35,990
+the cell bases always hold flow you you went off then i didn't hear what you said yeah i didn't hear
+
+22
+00:01:35,990 --> 00:01:45,550
+you either oh okay yeah so um the the cell bases will always hold um in bearish mid
+
+23
+00:01:45,570 --> 00:01:45,930
+flow.
+
+24
+00:01:46,810 --> 00:01:49,310
+Yeah, emberged midfall, yeah, these cell bases.
+
+25
+00:01:50,270 --> 00:01:55,170
+The reason I have an issue with your statement there is you said, cell bases will always
+
+26
+00:01:55,170 --> 00:01:56,010
+hold.
+
+27
+00:01:56,830 --> 00:02:02,210
+Well, yeah, always isn't exactly the right word because we have, yes, well, the last
+
+28
+00:02:02,210 --> 00:02:08,270
+session we've seen that they can do like deep tests and where sometimes technically it does
+
+29
+00:02:08,270 --> 00:02:11,050
+break, it can still go on for for a while.
+
+30
+00:02:12,040 --> 00:02:12,340
+Perfect.
+
+31
+00:02:12,460 --> 00:02:13,160
+So it's a misnomer.
+
+32
+00:02:13,440 --> 00:02:15,620
+We don't, you know, just to make sure we're using the right language.
+
+33
+00:02:15,860 --> 00:02:26,140
+Usually. Always, yeah, bearish midflow, at least a strong midflow, which this is reflecting a state of imbalance, yeah?
+
+34
+00:02:26,300 --> 00:02:33,300
+Whether it's heavier sell liquidity, weak by liquidity, then market orders and volume coming in cause price to go to less liquid side.
+
+35
+00:02:34,100 --> 00:02:38,540
+Right. So the strength is on the cell side, there's weakness on the buy side, it's a state of imbalance.
+
+36
+00:02:40,060 --> 00:02:46,660
+This is the visual characteristic. So the state of imbalance has to exist already. The cell liquidity has to be thick already.
+
+37
+00:02:47,100 --> 00:02:49,120
+and the bi-liquity has to be weak already.
+
+38
+00:02:49,880 --> 00:02:52,480
+Then when the volume comes in, the price will form.
+
+39
+00:02:52,680 --> 00:02:53,040
+You get it?
+
+40
+00:02:53,720 --> 00:02:57,680
+So the price is the visual representation of the imbalance.
+
+41
+00:02:58,600 --> 00:03:00,420
+And this is why we see this characteristic.
+
+42
+00:03:00,720 --> 00:03:03,060
+The cell bases hold, et cetera, et cetera.
+
+43
+00:03:03,700 --> 00:03:08,680
+So it's important that you connect with the characteristics of bearish midflow
+
+44
+00:03:08,680 --> 00:03:13,500
+with the state of liquidity, which is the imbalance, i.e., in bearish midflow,
+
+45
+00:03:13,500 --> 00:03:14,520
+we're seeing
+
+46
+00:03:14,520 --> 00:03:16,090
+thicker sell liquidity
+
+47
+00:03:16,090 --> 00:03:17,730
+stronger sell liquidity
+
+48
+00:03:17,730 --> 00:03:18,990
+and weaker by liquidity
+
+49
+00:03:18,990 --> 00:03:20,690
+which then results in
+
+50
+00:03:20,690 --> 00:03:23,540
+this type of pattern
+
+51
+00:03:23,540 --> 00:03:26,360
+but if that was the case
+
+52
+00:03:26,360 --> 00:03:29,050
+sorry I don't want to make it too complicated
+
+53
+00:03:29,050 --> 00:03:31,980
+but also on top of that
+
+54
+00:03:31,980 --> 00:03:34,180
+we know that these price moves out or drying off
+
+55
+00:03:34,180 --> 00:03:36,040
+which creates these areas
+
+56
+00:03:36,040 --> 00:03:37,040
+with this thinly traded
+
+57
+00:03:37,040 --> 00:03:39,320
+finally exhaust and prices to draw back up
+
+58
+00:03:39,320 --> 00:03:40,140
+to find sell liquidity
+
+59
+00:03:40,140 --> 00:03:43,940
+so we know why these characteristics are occurring
+
+60
+00:03:43,940 --> 00:03:49,300
+And finally, again, the way these large orders are filled, the transactional methods,
+
+61
+00:03:49,600 --> 00:03:55,360
+so if you can write this down, the transactional methods through which large orders are filled
+
+62
+00:03:55,360 --> 00:03:59,240
+or liquidity is delivered creates these midflow characteristics.
+
+63
+00:03:59,620 --> 00:04:03,140
+Because the sell equity is chasing price lower, it's holding price down like a wall.
+
+64
+00:04:03,960 --> 00:04:06,440
+Whenever the volume dries off, there's still that wall there.
+
+65
+00:04:06,880 --> 00:04:10,720
+Whenever the volume comes in, it pushes through the weaker side of the market.
+
+66
+00:04:10,720 --> 00:04:13,920
+And that consistently repeats until this 100%.
+
+67
+00:04:13,940 --> 00:04:18,720
+million is filled, filled, filled, fill until there's a very, very, very small amount left
+
+68
+00:04:18,720 --> 00:04:19,420
+in that inventory.
+
+69
+00:04:20,420 --> 00:04:20,820
+Do you get it?
+
+70
+00:04:20,880 --> 00:04:21,300
+Yeah, yeah, yeah.
+
+71
+00:04:22,340 --> 00:04:26,360
+The inventory of sell liquidity is grabbed and filled and traded and filled and filled and filled
+
+72
+00:04:26,360 --> 00:04:31,820
+the further price travels until the last inventory hasn't got enough sell liquidity left
+
+73
+00:04:31,820 --> 00:04:32,080
+in there.
+
+74
+00:04:32,140 --> 00:04:35,320
+So let's just say there's only 3 million, right?
+
+75
+00:04:37,140 --> 00:04:44,380
+Typically, before prices, before the last inventory is so thin, we'll see a change in the
+
+76
+00:04:44,380 --> 00:04:47,120
+characteristics of mid-flow, what could that be?
+
+77
+00:04:48,700 --> 00:04:57,070
+One of these sole bases might get pushed through, so there's a break, yeah, there's a
+
+78
+00:04:57,070 --> 00:05:03,090
+break, and then then comes the parabolic phase where price stretches and usually gets
+
+79
+00:05:03,090 --> 00:05:12,060
+like super thin and, yeah, right, so parabolic, we'll come on to that, but if the visual
+
+80
+00:05:12,060 --> 00:05:15,780
+characteristics of strong imbalance are all the bases holding.
+
+81
+00:05:16,740 --> 00:05:21,660
+If and when the first base holds, it kind of shows you that the last inventory here was not strong
+
+82
+00:05:21,660 --> 00:05:25,160
+and that there's been a change in the momentum on strength on the cell liquidity.
+
+83
+00:05:25,360 --> 00:05:29,140
+So that's the first sign of the break of midflow, the break of the midflow characteristics
+
+84
+00:05:29,140 --> 00:05:30,780
+or the first sign of weakness.
+
+85
+00:05:32,040 --> 00:05:36,280
+And then typically price will stabilize and you'll get a quite an aggressive surge,
+
+86
+00:05:36,280 --> 00:05:41,440
+which basically the cell liquidity, the cell volume, sorry, is reaching for wherever they stick by
+
+87
+00:05:41,440 --> 00:05:47,180
+liquidity, all right? So now you have this area, which was drained. Think of it on the way down,
+
+88
+00:05:47,300 --> 00:05:52,640
+you had this $100 million. 10 was filled on the way down or 10 was filled there. Price ran down.
+
+89
+00:05:52,640 --> 00:05:58,480
+Price stabilizes. There's sell liquidity there. Market order buyers are coming through,
+
+90
+00:05:58,580 --> 00:06:02,140
+but they just can't push past the sell liquidity. In essence, the sell orders are getting filled here.
+
+91
+00:06:02,980 --> 00:06:07,680
+Yeah. Right. Price pushes down again, comes back up, picks up the liquidity or the sell liquidity
+
+92
+00:06:07,680 --> 00:06:11,420
+moves down here. Still, there's some market order buying going on, but it can't,
+
+93
+00:06:11,440 --> 00:06:16,540
+push through the cell liquidity. So on the way down, the cell orders are being fulfilled.
+
+94
+00:06:17,000 --> 00:06:20,940
+So on this whole way down, is this cell liquidity getting transferred?
+
+95
+00:06:22,310 --> 00:06:29,010
+It's classed. It's a misnomer. When I say misnomer, it's technically inaccurate or in, you know,
+
+96
+00:06:29,010 --> 00:06:35,250
+it's not the most accurate way to describe it. Liquity doesn't get transferred. Liquidity follows.
+
+97
+00:06:35,770 --> 00:06:41,400
+Okay. Right? It's a misnomer. So if I was to say to you that, I'll give you the definition,
+
+98
+00:06:41,400 --> 00:06:43,460
+right because I might just be a bit easier
+
+99
+00:06:43,460 --> 00:06:47,970
+a misnomer is a wrong or inaccurate name or designation
+
+100
+00:06:47,970 --> 00:06:50,910
+so it's inaccurate to say that liquidity is transferred
+
+101
+00:06:50,910 --> 00:06:52,950
+what the fuck's transferring it right
+
+102
+00:06:52,950 --> 00:06:55,790
+what we have is a dynamic where the cell orders have been split into small
+
+103
+00:06:55,790 --> 00:06:57,890
+pieces they filled over a distance of pips
+
+104
+00:06:57,890 --> 00:07:01,630
+and the algorithms which are delivering that liquidity
+
+105
+00:07:01,630 --> 00:07:03,950
+into the market are doing it in this way
+
+106
+00:07:03,950 --> 00:07:07,390
+where if price moves down the cell liquidity chases it
+
+107
+00:07:07,390 --> 00:07:09,890
+either aggressively or relatively
+
+108
+00:07:09,890 --> 00:07:12,450
+passively. Okay. All right
+
+109
+00:07:12,450 --> 00:07:16,160
+I might have called a liquidity transfer before
+
+110
+00:07:16,160 --> 00:07:17,540
+but over time,
+
+111
+00:07:17,880 --> 00:07:19,100
+little little things like that are corrected.
+
+112
+00:07:19,980 --> 00:07:22,360
+The price behaviour is the same
+
+113
+00:07:22,360 --> 00:07:24,000
+would just be in more accurate
+
+114
+00:07:24,000 --> 00:07:25,560
+with the way we're describing it.
+
+115
+00:07:25,560 --> 00:07:27,820
+Okay. So, you know, the parabolic phase,
+
+116
+00:07:27,920 --> 00:07:32,180
+you know, probably like around
+
+117
+00:07:32,180 --> 00:07:34,900
+here somewhere, is that when
+
+118
+00:07:34,900 --> 00:07:37,840
+whatever's left of the order
+
+119
+00:07:37,840 --> 00:07:39,820
+gets filled in like super aggressive?
+
+120
+00:07:40,640 --> 00:07:43,300
+Perfect. Not necessarily super aggressive, yeah.
+
+121
+00:07:43,320 --> 00:07:50,720
+So you have to differentiate between the sell liquidity, the sell limit orders, and the market order sells pushing price down.
+
+122
+00:07:52,190 --> 00:07:54,710
+Here you're having aggressive market order sales.
+
+123
+00:07:55,910 --> 00:07:58,750
+The sell liquidity has already been grabbed, grabbed.
+
+124
+00:07:59,230 --> 00:08:04,390
+There was a bit of weakness here because the sell equity has been picked and picked all the way down.
+
+125
+00:08:04,470 --> 00:08:05,330
+There's a bit of weakness here.
+
+126
+00:08:06,430 --> 00:08:10,480
+Like buying was able to push price through, the last inventory.
+
+127
+00:08:11,180 --> 00:08:13,320
+So already the weakness exists.
+
+128
+00:08:13,320 --> 00:08:14,920
+that's why price pushed through
+
+129
+00:08:14,920 --> 00:08:15,960
+the last sell inventory
+
+130
+00:08:15,960 --> 00:08:17,560
+now
+
+131
+00:08:17,560 --> 00:08:18,720
+there will
+
+132
+00:08:18,720 --> 00:08:19,640
+there will
+
+133
+00:08:19,640 --> 00:08:21,380
+obviously
+
+134
+00:08:21,380 --> 00:08:24,040
+there will be some
+
+135
+00:08:24,040 --> 00:08:25,320
+sell liquidity here but not
+
+136
+00:08:25,320 --> 00:08:25,880
+significant
+
+137
+00:08:25,880 --> 00:08:27,020
+okay
+
+138
+00:08:27,020 --> 00:08:28,280
+so this is the inventory
+
+139
+00:08:28,280 --> 00:08:29,640
+the last base
+
+140
+00:08:29,640 --> 00:08:30,640
+that push price to new lows
+
+141
+00:08:30,640 --> 00:08:31,940
+or in bullish midfow
+
+142
+00:08:31,940 --> 00:08:32,640
+to new highs
+
+143
+00:08:32,640 --> 00:08:34,180
+is always the inventory
+
+144
+00:08:34,180 --> 00:08:35,300
+or the shelf
+
+145
+00:08:35,300 --> 00:08:36,720
+all right
+
+146
+00:08:36,720 --> 00:08:37,120
+okay
+
+147
+00:08:37,120 --> 00:08:40,340
+now by this point
+
+148
+00:08:40,340 --> 00:08:42,320
+price has been grabbed
+
+149
+00:08:42,320 --> 00:08:42,980
+grab grab grab grab grab
+
+150
+00:08:42,980 --> 00:08:44,680
+this area has now been
+
+151
+00:08:44,680 --> 00:08:45,020
+drained
+
+152
+00:08:45,760 --> 00:08:55,100
+here. So it's been picked, picked, picked, pushed out. What push price down here? Market order
+
+153
+00:08:55,100 --> 00:09:00,260
+sales. Market order sells. The sell limit order should really still be back here, no? Yeah.
+
+154
+00:09:01,040 --> 00:09:06,440
+Or if it was aggressive, the selling orders might hold price down here. But in other case, that
+
+155
+00:09:06,440 --> 00:09:11,260
+wasn't what happened. Market order bids were able to push price through the last inventory for the
+
+156
+00:09:11,260 --> 00:09:15,640
+first time. That's your first time. A week. Selling momentum has changed. And it's typically here.
+
+157
+00:09:15,640 --> 00:09:18,000
+you're going to see aggressive market order cells come through
+
+158
+00:09:18,000 --> 00:09:19,880
+to kind of maintain this phase of setting.
+
+159
+00:09:22,280 --> 00:09:23,960
+Simultaneously, it's not unusual
+
+160
+00:09:23,960 --> 00:09:26,480
+for there to have been small areas of bi-liquity
+
+161
+00:09:26,480 --> 00:09:27,060
+on the way down.
+
+162
+00:09:27,740 --> 00:09:27,900
+Yeah.
+
+163
+00:09:28,740 --> 00:09:28,940
+Right?
+
+164
+00:09:29,040 --> 00:09:30,600
+So these are all small areas of bi-liquity.
+
+165
+00:09:30,680 --> 00:09:31,780
+Not huge, huge amounts.
+
+166
+00:09:32,000 --> 00:09:33,040
+That's why it's the weaker side,
+
+167
+00:09:33,040 --> 00:09:35,120
+but there would still be some bi-liquidy.
+
+168
+00:09:36,720 --> 00:09:40,160
+But as a large order approaches,
+
+169
+00:09:40,760 --> 00:09:42,260
+so imagine we come to a level
+
+170
+00:09:42,260 --> 00:09:44,080
+where there's like a huge build-up of bi-liquity,
+
+171
+00:09:44,300 --> 00:09:46,960
+it wouldn't be unusual for this area
+
+172
+00:09:46,980 --> 00:09:47,700
+to show weakness.
+
+173
+00:09:47,940 --> 00:09:49,440
+So there'd be to be hardly any bi-liquity here,
+
+174
+00:09:49,540 --> 00:09:50,680
+but as you approach this level,
+
+175
+00:09:50,760 --> 00:09:52,980
+a huge build-up to present-to-present itself.
+
+176
+00:09:54,110 --> 00:09:56,090
+That's why Price kind of shoots through this area.
+
+177
+00:09:56,450 --> 00:09:56,610
+Yeah.
+
+178
+00:09:57,270 --> 00:09:57,710
+You get it?
+
+179
+00:10:00,200 --> 00:10:03,700
+What would happen if there was absolutely no bi-liquity on the way down?
+
+180
+00:10:03,860 --> 00:10:04,860
+How would Price sell off?
+
+181
+00:10:05,670 --> 00:10:06,530
+Very aggressive.
+
+182
+00:10:07,510 --> 00:10:08,670
+I would just go right through it, yeah?
+
+183
+00:10:08,750 --> 00:10:09,290
+Yeah, yeah, yeah.
+
+184
+00:10:09,410 --> 00:10:10,290
+That's right through it.
+
+185
+00:10:10,350 --> 00:10:10,590
+Yeah.
+
+186
+00:10:12,460 --> 00:10:15,060
+In FX, you hardly ever see a candle,
+
+187
+00:10:16,210 --> 00:10:17,710
+and then the next candle open up here.
+
+188
+00:10:17,710 --> 00:10:20,340
+and then the next candle open up here
+
+189
+00:10:20,340 --> 00:10:23,080
+you actually have all the candles connected together
+
+190
+00:10:23,080 --> 00:10:26,130
+right in that sense
+
+191
+00:10:26,130 --> 00:10:27,770
+FX is again really quite liquid
+
+192
+00:10:27,770 --> 00:10:30,410
+all the volume is at least
+
+193
+00:10:30,410 --> 00:10:33,600
+you know the candles aren't separate
+
+194
+00:10:33,600 --> 00:10:35,580
+so when a market order buy comes through here
+
+195
+00:10:35,580 --> 00:10:37,940
+price doesn't have to jump to the next level to find sellers
+
+196
+00:10:37,940 --> 00:10:40,800
+it kind of finds it close to price
+
+197
+00:10:40,800 --> 00:10:43,160
+the market's quite thick in that sense
+
+198
+00:10:43,160 --> 00:10:43,960
+it's quite liquid
+
+199
+00:10:43,960 --> 00:10:47,040
+because the trade with the candles are representing
+
+200
+00:10:47,040 --> 00:10:48,780
+you know the market orders finding sell liquidity
+
+201
+00:10:48,780 --> 00:10:53,050
+is finding it in consistent streams
+
+202
+00:10:53,050 --> 00:10:54,630
+rather than in broken up amounts
+
+203
+00:10:54,630 --> 00:10:55,910
+if you look at stocks for example
+
+204
+00:10:55,910 --> 00:10:57,090
+they'll open up one day here
+
+205
+00:10:57,090 --> 00:10:58,510
+they'll open up the next day there
+
+206
+00:10:58,510 --> 00:11:01,650
+they'll have huge gaps in the middle
+
+207
+00:11:01,650 --> 00:11:03,250
+where absolutely no trade occurs
+
+208
+00:11:03,250 --> 00:11:04,980
+right
+
+209
+00:11:04,980 --> 00:11:07,800
+FX isn't the case so in that sense
+
+210
+00:11:07,800 --> 00:11:10,020
+FX is again broadly liquid
+
+211
+00:11:10,020 --> 00:11:12,400
+over a large enough time
+
+212
+00:11:12,400 --> 00:11:14,360
+it's liquid by any given instance
+
+213
+00:11:14,360 --> 00:11:16,680
+like here it can become quite illiquid
+
+214
+00:11:16,680 --> 00:11:17,280
+on the buy side
+
+215
+00:11:17,280 --> 00:11:20,000
+even if there's a candle going through it
+
+216
+00:11:20,020 --> 00:11:22,520
+on your screen, you can see a candle that sold off,
+
+217
+00:11:23,280 --> 00:11:27,120
+there was still market order cells that matched with bi-liquidy,
+
+218
+00:11:27,340 --> 00:11:29,520
+but just there wasn't enough bi-liquity there,
+
+219
+00:11:29,560 --> 00:11:30,860
+so price had to continue lower.
+
+220
+00:11:32,060 --> 00:11:32,580
+Are you following me?
+
+221
+00:11:35,170 --> 00:11:38,410
+But on the, you know, on the opposite end,
+
+222
+00:11:39,030 --> 00:11:42,570
+it's not like there's a consistent supply of bi-liquity either.
+
+223
+00:11:42,870 --> 00:11:46,510
+You could actually have 0.2 pip gap in between here
+
+224
+00:11:46,510 --> 00:11:49,790
+where there was no bi-liquity and price just jumped right through it.
+
+225
+00:11:50,950 --> 00:11:54,090
+the candle just fills that space, right?
+
+226
+00:11:54,150 --> 00:11:55,430
+The candle fills that space,
+
+227
+00:11:55,490 --> 00:11:56,090
+but in reality,
+
+228
+00:11:56,530 --> 00:11:58,350
+absolutely no transactions occurred there.
+
+229
+00:11:58,630 --> 00:12:00,410
+There was no bi-liquity in these two dots.
+
+230
+00:12:00,570 --> 00:12:01,650
+The next buy-liquity is there.
+
+231
+00:12:01,790 --> 00:12:04,010
+Price just jumped down two, three pips.
+
+232
+00:12:04,550 --> 00:12:05,630
+The candle fills it,
+
+233
+00:12:06,030 --> 00:12:09,650
+but still in, you know, technically no transactions occurred here.
+
+234
+00:12:09,850 --> 00:12:11,710
+So what we're seeing is this move of selling
+
+235
+00:12:11,710 --> 00:12:13,170
+or this wave of selling here
+
+236
+00:12:13,170 --> 00:12:17,850
+didn't actually facilitate a lot of selling, right?
+
+237
+00:12:17,850 --> 00:12:21,090
+Or at least a lot of sell transaction market orders.
+
+238
+00:12:21,110 --> 00:12:22,790
+were not matched with
+
+239
+00:12:22,790 --> 00:12:25,050
+by liquidity in quite an efficient way
+
+240
+00:12:25,050 --> 00:12:26,950
+because it was gaps in the middle. It actually broke
+
+241
+00:12:26,950 --> 00:12:29,230
+apart the way
+
+242
+00:12:29,230 --> 00:12:31,210
+the market traded here is not that
+
+243
+00:12:31,210 --> 00:12:33,130
+efficient in the scope of the
+
+244
+00:12:33,130 --> 00:12:35,310
+market, you know, trying to facilitate trade.
+
+245
+00:12:36,430 --> 00:12:36,470
+So
+
+246
+00:12:36,470 --> 00:12:39,660
+so like thinly, you follow me. Yeah, thinly dispersed.
+
+247
+00:12:40,550 --> 00:12:43,510
+Thinly dispersed and not linearly dispersed as well. You can actually
+
+248
+00:12:43,510 --> 00:12:45,630
+have gaps where there was actually no transactions traded
+
+249
+00:12:45,630 --> 00:12:47,590
+etc. or transactions formed.
+
+250
+00:12:49,030 --> 00:12:49,970
+Cool. So
+
+251
+00:12:49,970 --> 00:12:51,670
+the parabolic phase is
+
+252
+00:12:51,690 --> 00:13:01,430
+typically the most jumpiest phase of the price run so normally your candles even if this
+
+253
+00:13:01,430 --> 00:13:08,170
+gap lower like this year this inefficiency it started out here and the market order cell came
+
+254
+00:13:08,170 --> 00:13:12,570
+through and price jumped right past those two dots their next level and started trading here
+
+255
+00:13:12,570 --> 00:13:18,620
+for a minute but the candles on act they're actually forming quite slow price of the ticking
+
+256
+00:13:18,620 --> 00:13:24,460
+is quite slow right yeah whereas in the parabolic phase especially at the end of it it's
+
+257
+00:13:24,540 --> 00:13:32,210
+to be like this. Actually, it's like it's reaching for the buy liquidity. The market order
+
+258
+00:13:32,210 --> 00:13:37,790
+cells reaching for it, reaching for it, reaching for it, reaching for it. The market order buys,
+
+259
+00:13:37,930 --> 00:13:43,810
+sorry, the buy limit orders are kind of sucking down the market order cells. They're making them
+
+260
+00:13:43,810 --> 00:13:49,260
+jump for those levels there. It's typically as well, you know, because of this parabolic move,
+
+261
+00:13:49,260 --> 00:13:54,500
+you have such a thinly dispersed area of cell liquidity. There's not a huge buildup of market limit order
+
+262
+00:13:54,500 --> 00:14:00,120
+sell limit order sells so whenever the market order comes through price reaches right down and it
+
+263
+00:14:00,120 --> 00:14:04,900
+can come right back up on market order buying so at the thinest point in liquidity you'll usually
+
+264
+00:14:04,900 --> 00:14:12,910
+see price come to it come to it reach down and not spend too much time at the point of exhaustion
+
+265
+00:14:12,910 --> 00:14:19,390
+right the ticking the tick frequency the way price is forming is entirely different
+
+266
+00:14:20,380 --> 00:14:25,020
+whilst it's happening compared to most of the rest of the other candles especially during bearish midflot
+
+267
+00:14:25,260 --> 00:14:30,140
+so your ability to spot that is one that needs to be developed
+
+268
+00:14:30,140 --> 00:14:33,020
+when you look at a price chart a historical price chart
+
+269
+00:14:33,020 --> 00:14:35,160
+you won't see that difference because you're not seeing the candles form
+
+270
+00:14:35,160 --> 00:14:37,440
+all the candles have already formed you get it
+
+271
+00:14:37,440 --> 00:14:40,500
+but in lifetime when you start to track life prices
+
+272
+00:14:40,500 --> 00:14:44,040
+you will see a distinct difference in between the way
+
+273
+00:14:44,040 --> 00:14:49,270
+the parabolic leg forms and of course the preceding candles before that
+
+274
+00:14:49,270 --> 00:14:53,940
+now it's important at this stage here I introduce you to the idea of fractal
+
+275
+00:14:53,940 --> 00:14:56,360
+right we're talking about
+
+276
+00:14:56,380 --> 00:14:57,840
+fractal in a geometric sense.
+
+277
+00:14:59,020 --> 00:15:02,160
+So basically the definition of it would be
+
+278
+00:15:02,160 --> 00:15:06,520
+where there's patterns of self-similarity
+
+279
+00:15:06,520 --> 00:15:07,680
+on smaller scales.
+
+280
+00:15:09,500 --> 00:15:11,880
+The easiest example I could give you is a tree.
+
+281
+00:15:12,420 --> 00:15:14,820
+Yeah, you show me that tree with all the faces in, didn't you?
+
+282
+00:15:15,740 --> 00:15:16,280
+No, no, no.
+
+283
+00:15:17,260 --> 00:15:19,760
+That was just to show you a gay example
+
+284
+00:15:19,760 --> 00:15:23,080
+of seeing the less subtle details
+
+285
+00:15:23,080 --> 00:15:24,060
+from more obvious ones.
+
+286
+00:15:24,180 --> 00:15:25,460
+Trading is quite similar to that.
+
+287
+00:15:25,460 --> 00:15:28,380
+You do have less obvious per-priced
+
+288
+00:15:28,400 --> 00:15:32,240
+behaviors, and you have really, really obvious ones that you've seen that you can recognize quite
+
+289
+00:15:32,240 --> 00:15:38,160
+quickly. But in terms of fractal, the definition of fractal, it's patterns of self-similarity
+
+290
+00:15:38,160 --> 00:15:50,800
+repeating on multiple scales. So here you have a tree that's quite sheer, right? Here's a tree,
+
+291
+00:15:50,800 --> 00:15:58,600
+normally leaves form of these little shitty branches. And then this branch as well would have
+
+292
+00:15:58,600 --> 00:16:01,960
+this own leaf or small branch that would have its own branch
+
+293
+00:16:01,960 --> 00:16:06,680
+and then each of those smaller branches would have their own small branches as well
+
+294
+00:16:06,680 --> 00:16:12,920
+so the characteristics and the anatomy the shape of that small twig
+
+295
+00:16:12,920 --> 00:16:17,300
+with this smaller twigs there have the same structure as the overall tree
+
+296
+00:16:17,300 --> 00:16:23,980
+okay you get it yeah yeah the pattern in that smaller scale version
+
+297
+00:16:23,980 --> 00:16:29,160
+of that twig follows the same pattern of the broader the overall pattern
+
+298
+00:16:29,180 --> 00:16:31,260
+here the same way a leaf
+
+299
+00:16:31,260 --> 00:16:35,130
+show what we're talking about the same way
+
+300
+00:16:35,130 --> 00:16:35,950
+a fern tree
+
+301
+00:16:35,950 --> 00:16:38,260
+let me find you an example
+
+302
+00:16:38,260 --> 00:16:43,080
+it's important you capture it conceptually
+
+303
+00:16:43,080 --> 00:16:44,280
+because that's what price does
+
+304
+00:16:44,280 --> 00:16:46,860
+it doesn't matter what scale you look at price on
+
+305
+00:16:46,860 --> 00:16:49,560
+it has the same price swings whether it's one minute
+
+306
+00:16:49,560 --> 00:16:51,320
+all the way to like a daily chart
+
+307
+00:16:51,320 --> 00:16:52,540
+or a weekly chart monthly chart
+
+308
+00:16:52,540 --> 00:16:55,380
+so that's why sometimes I'm going to look at
+
+309
+00:16:55,380 --> 00:16:57,320
+three tick charts you want to what the fuck you're looking at
+
+310
+00:16:57,320 --> 00:16:59,540
+I'm just seeing the price is no different
+
+311
+00:16:59,540 --> 00:17:01,400
+on the three tick chart than it is on the weekly
+
+312
+00:17:01,400 --> 00:17:03,040
+chart the only difference is the
+
+313
+00:17:03,040 --> 00:17:05,120
+time taken to form the weekly charge is obviously
+
+314
+00:17:05,120 --> 00:17:05,840
+much, much longer.
+
+315
+00:17:07,120 --> 00:17:08,920
+These patterns of self-similarity,
+
+316
+00:17:09,220 --> 00:17:11,200
+the point in talking about this is
+
+317
+00:17:11,200 --> 00:17:12,320
+each of these,
+
+318
+00:17:14,960 --> 00:17:17,800
+what is that? And this.
+
+319
+00:17:18,530 --> 00:17:19,170
+And this.
+
+320
+00:17:20,350 --> 00:17:21,990
+In one sense of the world,
+
+321
+00:17:22,370 --> 00:17:24,610
+in the broader sense, it's an area
+
+322
+00:17:24,610 --> 00:17:25,750
+of thinly traded prices.
+
+323
+00:17:27,400 --> 00:17:28,960
+Right? So we can definitely agree
+
+324
+00:17:28,960 --> 00:17:29,560
+that's inefficient.
+
+325
+00:17:31,310 --> 00:17:33,670
+But that's
+
+326
+00:17:33,670 --> 00:17:35,730
+discussing the state of its liquidity,
+
+327
+00:17:36,030 --> 00:17:37,370
+how well the market facilitated.
+
+328
+00:17:37,390 --> 00:17:42,250
+trade what was you know what occurred with the market order sells and the limit orders
+
+329
+00:17:42,250 --> 00:17:48,610
+how the market traded there yeah on the other end that we're trying to that we're looking at
+
+330
+00:17:48,610 --> 00:17:58,760
+here is what condition is the market in broadly it's in bearish midflow yeah so here you have
+
+331
+00:17:58,760 --> 00:18:02,700
+a broader state of liquidity where prices in bearish midflow stronger sell liquidity and
+
+332
+00:18:02,700 --> 00:18:08,840
+and weaker by liquidity but then at times you're having these fractal smaller versions
+
+333
+00:18:08,920 --> 00:18:10,620
+of this price run
+
+334
+00:18:10,620 --> 00:18:12,770
+which are repeating
+
+335
+00:18:12,770 --> 00:18:14,330
+inside of that run
+
+336
+00:18:14,330 --> 00:18:17,870
+so what am I talking about here
+
+337
+00:18:17,870 --> 00:18:18,850
+you have a bearish midflow
+
+338
+00:18:18,850 --> 00:18:19,570
+the higher time frame
+
+339
+00:18:19,570 --> 00:18:21,470
+inside of it you still have areas
+
+340
+00:18:21,470 --> 00:18:22,470
+with selling's going on
+
+341
+00:18:22,470 --> 00:18:23,570
+but now down here
+
+342
+00:18:23,570 --> 00:18:26,610
+you literally have a condition
+
+343
+00:18:26,610 --> 00:18:28,130
+where there's hard any sell equity
+
+344
+00:18:28,130 --> 00:18:30,780
+the market order cells have dried off
+
+345
+00:18:30,780 --> 00:18:32,940
+and any light buying
+
+346
+00:18:32,940 --> 00:18:34,660
+is able to push price right back up
+
+347
+00:18:34,660 --> 00:18:36,440
+so now technically
+
+348
+00:18:36,440 --> 00:18:38,440
+wouldn't this be a state of bullish imbalance
+
+349
+00:18:38,440 --> 00:18:40,000
+wouldn't that be a smaller version
+
+350
+00:18:40,000 --> 00:18:40,880
+of bullish midflop
+
+351
+00:18:40,880 --> 00:19:11,150
+yeah it would at least for that short period of time yeah probably a lot on well depending on what time frame the the broader move is on probably like one minute five minute whatever inside of it yeah yeah so so just like the broader pattern here is bearish mid-flow cell bases hold the buy basis the lows don't hold and price overlaps past them to new lows etc etc the same condition or dynamic or visual characteristics are also present in this smaller move the characteristics are exactly the same just on a different scale
+
+352
+00:19:11,170 --> 00:19:13,070
+scale. There's a pattern of self
+
+353
+00:19:13,070 --> 00:19:15,190
+similarity. The characteristics
+
+354
+00:19:15,190 --> 00:19:17,150
+of bullish, of mid-flow are present
+
+355
+00:19:17,150 --> 00:19:19,150
+here in a bullish form, and
+
+356
+00:19:19,150 --> 00:19:20,990
+the characteristics of mid-flow are present there
+
+357
+00:19:20,990 --> 00:19:21,850
+in bearish form.
+
+358
+00:19:22,850 --> 00:19:25,150
+So this is the purpose and understanding
+
+359
+00:19:25,150 --> 00:19:26,550
+in fact. You're going to see
+
+360
+00:19:26,550 --> 00:19:28,450
+repeated characteristics
+
+361
+00:19:28,450 --> 00:19:30,950
+consistently across all
+
+362
+00:19:30,950 --> 00:19:32,890
+time frames that we can eventually try to
+
+363
+00:19:32,890 --> 00:19:35,050
+then it becomes a problem of how do we use all
+
+364
+00:19:35,050 --> 00:19:36,990
+this information, how we're going to navigate through it, etc.
+
+365
+00:19:37,830 --> 00:19:39,010
+This is why we, for
+
+366
+00:19:39,010 --> 00:19:41,570
+now at least, battening
+
+367
+00:19:41,590 --> 00:19:50,750
+down or like focusing on one condition of in markets which is midflow imbalance and then we are
+
+368
+00:19:50,750 --> 00:19:57,590
+going to transition into the apex where the reversals happen so right and then price goes to bullish midflow
+
+369
+00:19:57,590 --> 00:20:04,590
+and then it's going to exhaust then it's going to form a bearish apex with a buyers dry off and then bearish
+
+370
+00:20:04,590 --> 00:20:11,110
+midflow each of these are composed of the same patterns you have the phase where the market turns around
+
+371
+00:20:11,110 --> 00:20:14,690
+You have the phase where the market shifts into bullishment flow into the imbalance state,
+
+372
+00:20:15,150 --> 00:20:17,230
+where there's weak sell liquidity, stronger bi-liquity.
+
+373
+00:20:17,870 --> 00:20:20,070
+Here you have the point of exhaustion, the parabolic phase.
+
+374
+00:20:21,000 --> 00:20:23,540
+Here you have the, I guess, the reversal.
+
+375
+00:20:24,400 --> 00:20:27,580
+This is now showing you that the buy liquidity is now actually weak.
+
+376
+00:20:27,800 --> 00:20:30,120
+On the way up, the buy-liquity was super, super strong.
+
+377
+00:20:30,860 --> 00:20:34,080
+Now it's kind of confirming to you that the buy-liquity is weak.
+
+378
+00:20:34,980 --> 00:20:38,440
+This is called a shell flip, and then there's a shift in the state of liquidity.
+
+379
+00:20:38,740 --> 00:20:40,760
+So on the way up, there was thick bids, weak offers.
+
+380
+00:20:41,360 --> 00:20:43,660
+Yeah, and then on the way down, it's the other way around.
+
+381
+00:20:43,900 --> 00:20:45,660
+Yeah, so there's a shift in the state of liquidity,
+
+382
+00:20:45,820 --> 00:20:46,980
+by liquidity withdraws.
+
+383
+00:20:47,320 --> 00:20:51,100
+There's already an area which wasn't traded that thickly on the way up
+
+384
+00:20:51,100 --> 00:20:53,340
+and the same dynamic repeats on the way down.
+
+385
+00:20:53,740 --> 00:20:57,600
+So the whole point behind this is the split price up into small pieces,
+
+386
+00:20:57,980 --> 00:21:00,040
+at least the structure of which price moves,
+
+387
+00:21:00,180 --> 00:21:01,020
+which is the price swing,
+
+388
+00:21:01,540 --> 00:21:02,260
+break that down,
+
+389
+00:21:02,420 --> 00:21:05,620
+categorize it into different segments and stages
+
+390
+00:21:05,620 --> 00:21:08,480
+because each of them are different states of liquidity.
+
+391
+00:21:08,900 --> 00:21:11,340
+Right now we're just focusing on midflow slash parabolic phase.
+
+392
+00:21:11,360 --> 00:21:20,140
+But yeah, fractal is something that you need to kind of connect with and do your own validation
+
+393
+00:21:20,140 --> 00:21:24,080
+or go through your own process of validation and how it applies in charts.
+
+394
+00:21:24,500 --> 00:21:28,580
+So one simple version of that is, or a simple example of that is look at the daily chart,
+
+395
+00:21:28,700 --> 00:21:31,420
+you'll see some certain price behaviors, see if they're present on the one minute.
+
+396
+00:21:32,460 --> 00:21:40,130
+You can just go through your timeframes, inspect it, build your own level of understanding,
+
+397
+00:21:40,130 --> 00:21:44,220
+I guess, around it, just so you're not taking my word for it.
+
+398
+00:21:44,220 --> 00:21:47,700
+The validation, what do you call it?
+
+399
+00:21:47,740 --> 00:21:53,200
+The responsibility for you to validate anything I'm telling you is not mine, basically.
+
+400
+00:21:53,680 --> 00:21:54,660
+You have to do it yourself.
+
+401
+00:21:55,830 --> 00:21:59,900
+I will obviously tell you to do it and whatnot, but you get it.
+
+402
+00:21:59,980 --> 00:22:05,080
+So that's your responsibility to go through this in your own time, etc.
+
+403
+00:22:06,200 --> 00:22:07,080
+But where was we?
+
+404
+00:22:07,120 --> 00:22:08,380
+So that's fractal.
+
+405
+00:22:09,920 --> 00:22:13,570
+And yeah, what would be present in here then?
+
+406
+00:22:14,470 --> 00:22:15,910
+So here we had a market order cell.
+
+407
+00:22:15,910 --> 00:22:23,850
+there was weak by liquidity and prices selling off in that smaller leg what would that look
+
+408
+00:22:23,850 --> 00:22:32,960
+like if I was to look inside of it do you think um you'd see bearish midflow perfect exactly
+
+409
+00:22:32,960 --> 00:22:38,820
+100% you see bearishment flow even on a smaller scale here so again that's a function
+
+410
+00:22:38,820 --> 00:22:48,130
+that's an example of how there's self-repeating patterns on all scales fern tree
+
+411
+00:22:48,130 --> 00:23:13,730
+oh here we go again this is a bit gay but you just have to do things to make it
+
+412
+00:23:13,750 --> 00:23:15,230
+it seemed easy to understand.
+
+413
+00:23:26,490 --> 00:23:29,230
+All right, so here you have a firm tree.
+
+414
+00:23:30,030 --> 00:23:30,810
+Oh, my days.
+
+415
+00:23:30,910 --> 00:23:39,220
+Oh, God.
+
+416
+00:23:39,560 --> 00:23:40,060
+All right, go.
+
+417
+00:23:40,140 --> 00:23:41,200
+So here you have a firm tree.
+
+418
+00:23:41,300 --> 00:23:42,480
+You can see how there's a stem in the middle
+
+419
+00:23:42,480 --> 00:23:43,600
+and the multiple leaves coming off.
+
+420
+00:23:44,720 --> 00:23:47,920
+Each of the leaves shape is similar to actually
+
+421
+00:23:47,920 --> 00:23:49,520
+the overall fern leaf shape.
+
+422
+00:23:50,360 --> 00:23:51,660
+And then on a smaller scale,
+
+423
+00:23:51,960 --> 00:23:53,840
+each individual leaf also has a stem
+
+424
+00:23:53,840 --> 00:23:54,920
+going right through the middle with.
+
+425
+00:23:55,060 --> 00:23:56,540
+Again, smaller leaves coming off.
+
+426
+00:23:57,600 --> 00:23:57,840
+Yeah.
+
+427
+00:23:57,840 --> 00:23:59,780
+And then each of those smaller leaves of you
+
+428
+00:23:59,780 --> 00:24:01,260
+to go down to a, you know,
+
+429
+00:24:01,260 --> 00:24:02,960
+or more of a zoomed-in level,
+
+430
+00:24:03,240 --> 00:24:06,380
+you would see, again, a small, small stalk in the middle
+
+431
+00:24:06,380 --> 00:24:09,480
+with small lines coming off them at least,
+
+432
+00:24:10,080 --> 00:24:12,240
+which would eventually grow into leaves.
+
+433
+00:24:13,400 --> 00:24:15,220
+Now, the whole point of this is,
+
+434
+00:24:15,760 --> 00:24:19,300
+we're not discussing why this phenomenon of fractal exists.
+
+435
+00:24:19,300 --> 00:24:24,380
+You could argue that things grow towards a path of least resistance
+
+436
+00:24:24,380 --> 00:24:29,680
+and there's a whole kind of outside of trading point of study on this,
+
+437
+00:24:29,800 --> 00:24:31,000
+but that's not what we're doing.
+
+438
+00:24:31,420 --> 00:24:32,340
+All I'm doing is,
+
+439
+00:24:32,340 --> 00:24:35,240
+I'm making the observation that fact that exists even inside trading.
+
+440
+00:24:36,100 --> 00:24:38,900
+As a result of, you know, why does price form?
+
+441
+00:24:39,000 --> 00:24:40,920
+Why do we see candles forming going up and down?
+
+442
+00:24:41,020 --> 00:24:44,260
+They're just a simple result of liquidity dynamics.
+
+443
+00:24:44,820 --> 00:24:47,200
+How market orders, meet limit orders.
+
+444
+00:24:47,860 --> 00:24:49,580
+Of course, the limit orders can be dispersed.
+
+445
+00:24:49,720 --> 00:24:50,720
+They can be relatively thick.
+
+446
+00:24:52,180 --> 00:24:54,880
+And these create those price swings on all scales.
+
+447
+00:24:54,880 --> 00:24:59,160
+If you go down to the one minute, there's still all market orders coming through on the one minute chart.
+
+448
+00:24:59,520 --> 00:24:59,600
+Yeah.
+
+449
+00:25:00,260 --> 00:25:00,460
+Right.
+
+450
+00:25:00,460 --> 00:25:05,880
+actually that's not that's not that's not i'm probably being a bit inaccurate to say it like that
+
+451
+00:25:05,880 --> 00:25:12,340
+the one minute chart just shows you a zoomed in view of orders coming in over us uh you know
+
+452
+00:25:12,340 --> 00:25:21,630
+on a smaller scale basically so if i show you a chart uh if i shape this chart it's a five
+
+453
+00:25:21,630 --> 00:25:27,350
+minute chart we're seeing a much longer version that there were sell orders here and so
+
+454
+00:25:27,350 --> 00:25:31,990
+there was selling going on here with points of exhaustion by the way sell market order sales
+
+455
+00:25:31,990 --> 00:25:37,850
+dried off multiple times, multiple times, but we still saw consistent selling for this whole
+
+456
+00:25:37,850 --> 00:25:44,890
+period. And then again, we saw some consistent buying in this whole period. This covers a longer
+
+457
+00:25:44,890 --> 00:25:53,560
+timeframe, 13th of October to 60th, October, about two, three days. The same characteristics
+
+458
+00:25:53,560 --> 00:25:59,350
+are present. When I go down to the one minute chart, that doesn't change. All I'm just looking at
+
+459
+00:25:59,350 --> 00:26:00,770
+is the order is coming in
+
+460
+00:26:00,770 --> 00:26:01,730
+and how it affected
+
+461
+00:26:01,730 --> 00:26:04,250
+how we tried to find
+
+462
+00:26:04,250 --> 00:26:06,630
+liquidity on a much shorter scale.
+
+463
+00:26:07,630 --> 00:26:09,130
+Are you following me?
+
+464
+00:26:09,890 --> 00:26:11,790
+So the prices are always the same
+
+465
+00:26:11,790 --> 00:26:13,330
+and the characteristics are always the same.
+
+466
+00:26:13,510 --> 00:26:15,450
+The timeframe doesn't make any difference.
+
+467
+00:26:16,130 --> 00:26:17,270
+The only difference here will be
+
+468
+00:26:17,270 --> 00:26:19,180
+each candle will take
+
+469
+00:26:19,180 --> 00:26:21,240
+it will form quicker.
+
+470
+00:26:21,960 --> 00:26:24,240
+It will take much less of a while to form.
+
+471
+00:26:25,370 --> 00:26:26,770
+We typically see less liquidity
+
+472
+00:26:26,770 --> 00:26:27,950
+on these timeframes as well.
+
+473
+00:26:28,370 --> 00:26:29,630
+So the amount of liquidity
+
+474
+00:26:29,630 --> 00:26:31,390
+in this area that would build up
+
+475
+00:26:31,390 --> 00:26:33,010
+which is about a one-pip level
+
+476
+00:26:33,010 --> 00:26:34,650
+for a two-minute period
+
+477
+00:26:34,650 --> 00:26:36,970
+at maximum two-minute period
+
+478
+00:26:36,970 --> 00:26:39,230
+because the candle went away from it
+
+479
+00:26:39,230 --> 00:26:40,050
+within these two minutes
+
+480
+00:26:40,050 --> 00:26:43,010
+it wouldn't be that much
+
+481
+00:26:43,010 --> 00:26:45,610
+there wasn't a lot of trading that happened there
+
+482
+00:26:45,610 --> 00:26:47,190
+price didn't spend a long time there
+
+483
+00:26:47,190 --> 00:26:50,230
+actually it wouldn't have required a huge sell order
+
+484
+00:26:50,230 --> 00:26:52,070
+considered a move up into it
+
+485
+00:26:52,070 --> 00:26:54,430
+relatively thin price would have popped out
+
+486
+00:26:54,430 --> 00:26:57,590
+hit some sell liquidity the market orders dry off
+
+487
+00:26:57,590 --> 00:26:58,930
+left behind some weak bids
+
+488
+00:26:58,930 --> 00:27:01,650
+it wouldn't have taken a huge market order sell
+
+489
+00:27:01,650 --> 00:27:03,230
+to push price right back down.
+
+490
+00:27:04,370 --> 00:27:06,710
+Right? So not a lot of trading happened there either.
+
+491
+00:27:07,990 --> 00:27:10,170
+And the same kind of exists for every single candle
+
+492
+00:27:10,170 --> 00:27:11,110
+on the lower time frame.
+
+493
+00:27:11,630 --> 00:27:14,070
+When you compare it to a higher time frame
+
+494
+00:27:14,070 --> 00:27:16,290
+where in this, on this scale,
+
+495
+00:27:17,190 --> 00:27:20,250
+price spends a considerably longer time
+
+496
+00:27:20,250 --> 00:27:23,660
+in every single state location.
+
+497
+00:27:23,880 --> 00:27:26,460
+So down here, that's a whole 24 hours of volume
+
+498
+00:27:26,460 --> 00:27:28,260
+coming in trying to find liquidity there.
+
+499
+00:27:28,260 --> 00:27:31,820
+that's a whole 24 hours of volume coming in trying to find liquidity
+
+500
+00:27:31,820 --> 00:27:35,340
+much much more significant data in terms of reflecting
+
+501
+00:27:35,340 --> 00:27:40,300
+you know how much liquidity would be present in an area like that
+
+502
+00:27:40,300 --> 00:27:44,320
+it'd be much more okay right
+
+503
+00:27:44,320 --> 00:27:47,640
+a lot of trading is facilitated there for much longer time
+
+504
+00:27:47,640 --> 00:27:50,420
+so more liquidity builds up compared to a one minute chart
+
+505
+00:27:50,420 --> 00:27:53,880
+which where price only spends sometimes a matter of seconds
+
+506
+00:27:53,880 --> 00:27:56,140
+not a huge amount of liquidity gets to build up there
+
+507
+00:27:56,140 --> 00:27:58,940
+so that's the kind of point point again
+
+508
+00:27:58,960 --> 00:28:03,040
+Again, you know, in a different way of discussing it here is the longer the time frame,
+
+509
+00:28:03,120 --> 00:28:07,880
+the more liquidity turns up, the short of the time frame, the less chance liquidity gets to turn
+
+510
+00:28:07,880 --> 00:28:08,260
+up there.
+
+511
+00:28:08,800 --> 00:28:13,560
+And that's why you kind of see more volatility at least, or why price moves more and ticks more
+
+512
+00:28:13,560 --> 00:28:14,700
+on these lower timeframes.
+
+513
+00:28:15,240 --> 00:28:15,600
+Okay.
+
+514
+00:28:15,800 --> 00:28:18,760
+Whenever you're looking at a lower time frame chart, it can be ticking quite a bit.
+
+515
+00:28:19,840 --> 00:28:19,960
+Yeah.
+
+516
+00:28:19,960 --> 00:28:25,580
+But the visual characteristics of price, here you see there was definitely a sell order here,
+
+517
+00:28:26,000 --> 00:28:29,440
+a cell instance with sell liquidity chasing price.
+
+518
+00:28:29,500 --> 00:28:32,800
+down. We saw it, we saw it, we saw it, we
+
+519
+00:28:32,800 --> 00:28:35,420
+continue to see it. And then if I zoom into here, where you're going to see
+
+520
+00:28:35,420 --> 00:28:39,560
+is a break of bearish midflow. Price, this last candle,
+
+521
+00:28:40,370 --> 00:28:42,810
+where previously these candles on the way down, they would have just
+
+522
+00:28:42,810 --> 00:28:47,170
+formed and price stabilized. And then you would have had a small
+
+523
+00:28:47,170 --> 00:28:54,730
+sell off there, would have a small sell off here.
+
+524
+00:28:55,800 --> 00:28:57,620
+Do you get it? They're not that. They're not that.
+
+525
+00:28:58,020 --> 00:29:01,440
+A candle like this would have gone flash and right back up.
+
+526
+00:29:01,440 --> 00:29:03,700
+So flash, flash, right back up.
+
+527
+00:29:03,820 --> 00:29:07,000
+you could even do this and then flash and come right back up
+
+528
+00:29:07,000 --> 00:29:09,520
+but in other case the exhaustion points
+
+529
+00:29:09,520 --> 00:29:12,060
+on a fractal level
+
+530
+00:29:12,060 --> 00:29:15,220
+that's a smaller version of the exhaustion
+
+531
+00:29:15,220 --> 00:29:17,500
+just for this small price swing down and up
+
+532
+00:29:17,500 --> 00:29:20,470
+this might be the exhaustion point
+
+533
+00:29:20,470 --> 00:29:23,770
+of the bigger price swing down and possibly back up
+
+534
+00:29:23,770 --> 00:29:26,350
+I actually expect cable to gap higher today
+
+535
+00:29:26,350 --> 00:29:28,190
+probably open up somewhere here
+
+536
+00:29:28,190 --> 00:29:29,870
+and need to have a look at actually
+
+537
+00:29:29,870 --> 00:29:32,920
+we had a headline over the weekend
+
+538
+00:29:32,920 --> 00:29:35,440
+saying from the Brexit trade minister or something
+
+539
+00:29:35,440 --> 00:29:36,740
+that we're open to talks
+
+540
+00:29:36,740 --> 00:29:39,680
+and these are just playing a game honestly
+
+541
+00:29:39,680 --> 00:29:42,640
+Boris says that he doesn't want to
+
+542
+00:29:42,640 --> 00:29:45,620
+he's done talking and then the next day he wants to talk
+
+543
+00:29:45,620 --> 00:29:46,480
+and then what the hell
+
+544
+00:29:46,480 --> 00:29:49,950
+this has been going on
+
+545
+00:29:49,950 --> 00:29:52,960
+since I started trading four years ago
+
+546
+00:29:52,960 --> 00:29:56,140
+I'm not even trying shit to you bro
+
+547
+00:29:56,140 --> 00:29:58,780
+this is the exact same thing's been going on for for fucking four years
+
+548
+00:29:58,780 --> 00:30:00,400
+Brexit's been going on for four years
+
+549
+00:30:00,400 --> 00:30:02,320
+in 2016 now
+
+550
+00:30:02,320 --> 00:30:04,800
+is that when David Cameron was still in
+
+551
+00:30:04,800 --> 00:30:06,920
+yeah 2016 we voted
+
+552
+00:30:06,920 --> 00:30:09,380
+in 2017 we had a gap
+
+553
+00:30:09,380 --> 00:30:10,800
+but the market was worried
+
+554
+00:30:10,800 --> 00:30:11,680
+about the effects of it
+
+555
+00:30:11,680 --> 00:30:12,740
+in 2018
+
+556
+00:30:12,740 --> 00:30:15,460
+Theresa May started
+
+557
+00:30:15,460 --> 00:30:17,220
+to like set deadlines and shit
+
+558
+00:30:17,220 --> 00:30:18,580
+I think last year
+
+559
+00:30:18,580 --> 00:30:21,220
+no no at the end of 2018
+
+560
+00:30:21,220 --> 00:30:22,200
+yeah that's when she
+
+561
+00:30:22,200 --> 00:30:23,380
+Theresa May said yeah
+
+562
+00:30:23,380 --> 00:30:25,080
+there was that deadline set
+
+563
+00:30:25,080 --> 00:30:27,150
+and then there's a whole
+
+564
+00:30:27,150 --> 00:30:28,370
+there's been going on for years
+
+565
+00:30:28,370 --> 00:30:30,150
+I'm wrong by the way
+
+566
+00:30:30,150 --> 00:30:31,730
+cable's actually gaping down right now
+
+567
+00:30:31,730 --> 00:30:32,790
+it's at 2750
+
+568
+00:30:32,790 --> 00:30:33,650
+what
+
+569
+00:30:33,650 --> 00:30:36,790
+you're having a
+
+570
+00:30:36,790 --> 00:30:38,090
+fucking joke.
+
+571
+00:30:38,390 --> 00:30:39,390
+That much, 27.
+
+572
+00:30:43,360 --> 00:30:43,500
+No.
+
+573
+00:30:44,640 --> 00:30:45,780
+How's it got down that much?
+
+574
+00:30:46,140 --> 00:30:46,300
+Right.
+
+575
+00:30:46,720 --> 00:30:47,660
+It's right now, what,
+
+576
+00:30:47,680 --> 00:30:48,560
+2751?
+
+577
+00:30:51,600 --> 00:30:52,400
+It's here.
+
+578
+00:30:55,140 --> 00:30:56,500
+How's it got down that much?
+
+579
+00:30:57,740 --> 00:30:58,940
+Wait, something's happened.
+
+580
+00:31:02,020 --> 00:31:02,620
+Let me overlook.
+
+581
+00:31:05,290 --> 00:31:06,270
+That's serious, you know?
+
+582
+00:31:06,830 --> 00:31:07,370
+Can I show you?
+
+583
+00:31:07,970 --> 00:31:08,530
+Yeah, go on.
+
+584
+00:31:08,830 --> 00:31:10,810
+How do you even see where prices are right now?
+
+585
+00:31:11,250 --> 00:31:13,240
+It's because I'm a Saxo Bank client,
+
+586
+00:31:13,340 --> 00:31:13,560
+though.
+
+587
+00:31:14,790 --> 00:31:16,250
+Sure, 2750?
+
+588
+00:31:16,410 --> 00:31:17,890
+That's a massive move.
+
+589
+00:31:19,480 --> 00:31:20,300
+It's huge.
+
+590
+00:31:20,520 --> 00:31:28,250
+it actually hit the low at 2678 as well yeah i sent it to you on
+
+591
+00:31:28,250 --> 00:31:37,400
+shit man that's my other phone one minute let me get my one sucks with markets
+
+592
+00:31:37,400 --> 00:31:48,230
+yeah it's a big move i something that's happened i don't know what it would be you know
+
+593
+00:31:48,230 --> 00:31:55,430
+there was a terrorist attack in yeah that was franz in france yeah but that wouldn't that
+
+594
+00:31:55,430 --> 00:32:03,620
+wouldn't cause these kind of responses in the market b oec's economic risk skewed very heavily to
+
+595
+00:32:03,640 --> 00:32:09,660
+downside. There you go. The Bank of England Governor, Bailey, the fat bastard, he's going to go negative
+
+596
+00:32:09,660 --> 00:32:17,280
+interest rates. I said this in December 2019. Actually, no, no, I don't think I remember that tweet.
+
+597
+00:32:17,520 --> 00:32:28,460
+No. I said it multiple times. Yeah, yeah, yeah. I didn't see it in 2017. He said today, I think about
+
+598
+00:32:28,460 --> 00:32:35,000
+3pm that the country faces on. He's basically taken a tone which says the central bank's view on the
+
+599
+00:32:35,000 --> 00:32:40,240
+economy for the short term is that the economy is not going to recover as heavily skewed to it
+
+600
+00:32:40,240 --> 00:32:49,130
+outside and that means lower interest rates that's why pounds all over anything interest rate interest rate
+
+601
+00:32:49,130 --> 00:33:27,890
+related is always going to be like that fuck off that's a big move for the weekend but it doesn't
+
+602
+00:33:27,890 --> 00:33:37,550
+actually have to stay there it could gap it could come back up and fill it up so so what happens you
+
+603
+00:33:37,550 --> 00:33:40,950
+know over the weekend so when price gaps down
+
+604
+00:33:40,970 --> 00:33:52,640
+isn't that technically very very inefficient so if price gaps down to like 2750 that means
+
+605
+00:33:52,640 --> 00:33:57,890
+the look we the prices we get that from that are streaming from our brokers the banks
+
+606
+00:33:57,890 --> 00:34:01,850
+actually before the market opens on 10 p.m. on Sunday they're already quoting already
+
+607
+00:34:01,850 --> 00:34:06,410
+so they've started to set quotes for each other they're going to be you know if there's any
+
+608
+00:34:06,410 --> 00:34:11,450
+transactions waiting from over the weekend they can start filling them now or if a bank had to
+
+609
+00:34:11,450 --> 00:34:15,750
+they can trade between themselves if they have some risk they want to offload
+
+610
+00:34:15,750 --> 00:34:21,890
+etc etc they can start setting their bid and ask quotes based off the pre-market volume coming
+
+611
+00:34:21,890 --> 00:34:27,890
+in okay but we as retail we are not the primary clients in the market right so their clients
+
+612
+00:34:27,890 --> 00:34:32,670
+they might have had orders over weird for the weekend since the weekend but let's just say
+
+613
+00:34:32,670 --> 00:34:37,050
+there was a set order from their clients over the weekend the first price that is a bidder
+
+614
+00:34:37,050 --> 00:34:41,430
+that the bank can find is down at 2751 that's where the order is
+
+615
+00:34:41,450 --> 00:34:47,810
+getting filled you get it yeah and that's where the price to start trading so that's where the
+
+616
+00:34:47,810 --> 00:34:51,510
+price forms there's the highest bidder there's a market order cell that comes through that's where
+
+617
+00:34:51,510 --> 00:35:02,360
+the price starts that's why you typically see banks they don't want to hold on to risk longer than
+
+618
+00:35:02,360 --> 00:35:13,920
+about 18 minutes that's a mad gap there you go that's a daily chart oh i can't can't see anything
+
+619
+00:35:13,920 --> 00:35:26,210
+it's on your what's up oh okay so do you get it yeah so like if the the market dries up
+
+620
+00:35:26,210 --> 00:35:29,030
+there's hardly there's no volume over the weekend two
+
+621
+00:35:29,050 --> 00:35:30,070
+three hours before the market
+
+622
+00:35:30,070 --> 00:35:31,250
+opens, a market order
+
+623
+00:35:31,250 --> 00:35:32,890
+sell comes through and this is where the buy
+
+624
+00:35:32,890 --> 00:35:35,010
+liquidity is, that's exactly where
+
+625
+00:35:35,010 --> 00:35:36,070
+the market's going to go down to.
+
+626
+00:35:37,430 --> 00:35:39,310
+And then the sell equity might be there.
+
+627
+00:35:39,430 --> 00:35:41,130
+The next market order that comes through goes right
+
+628
+00:35:41,130 --> 00:35:43,410
+directly up there and price starts doing
+
+629
+00:35:43,410 --> 00:35:44,990
+this before the week opens.
+
+630
+00:35:45,610 --> 00:35:47,310
+That's why there's such a big move.
+
+631
+00:35:47,410 --> 00:35:49,370
+The market's so illiquid right now.
+
+632
+00:35:49,570 --> 00:35:51,510
+No, that's a huge move looking on the daily.
+
+633
+00:35:52,820 --> 00:35:54,360
+Yeah. It's just gone right
+
+634
+00:35:54,360 --> 00:35:56,160
+back down to retest this daily apex.
+
+635
+00:35:56,900 --> 00:35:58,800
+Like I said, that's
+
+636
+00:35:58,800 --> 00:35:59,660
+where you would expect.
+
+637
+00:36:00,420 --> 00:36:01,620
+by liquidity. Can you see my scream?
+
+638
+00:36:02,400 --> 00:36:02,640
+Yeah.
+
+639
+00:36:03,600 --> 00:36:05,120
+It's gone down and retested that.
+
+640
+00:36:11,020 --> 00:36:12,240
+I thought it'd be going back up.
+
+641
+00:36:13,240 --> 00:36:14,320
+Pounds shit, man.
+
+642
+00:36:17,160 --> 00:36:18,300
+It's going to 150.
+
+643
+00:36:18,660 --> 00:36:22,050
+I'll put any money on with anybody.
+
+644
+00:36:22,590 --> 00:36:24,170
+The pound is going to 150.
+
+645
+00:36:24,470 --> 00:36:27,480
+So it's going to pass tail.
+
+646
+00:36:28,330 --> 00:36:29,450
+Or to that line, basically.
+
+647
+00:36:29,570 --> 00:36:30,790
+That'd be nice.
+
+648
+00:36:31,720 --> 00:36:32,800
+When it does, I don't know.
+
+649
+00:36:36,570 --> 00:36:39,130
+Look, this could quite easily
+
+650
+00:36:39,130 --> 00:36:41,250
+work here
+
+651
+00:36:41,250 --> 00:36:44,010
+and then by mid-2020
+
+652
+00:36:44,010 --> 00:36:45,130
+jump out
+
+653
+00:36:45,130 --> 00:36:46,970
+it could
+
+654
+00:36:46,970 --> 00:36:49,970
+sell off here
+
+655
+00:36:49,970 --> 00:36:51,730
+on some super bad Brexit news
+
+656
+00:36:51,730 --> 00:36:53,030
+stabilise
+
+657
+00:36:53,030 --> 00:36:55,860
+and then start moving out
+
+658
+00:36:55,860 --> 00:36:56,960
+as the market relay
+
+659
+00:36:56,960 --> 00:36:58,300
+because my bet is always going to be
+
+660
+00:36:58,300 --> 00:36:59,460
+at the moment in time at least
+
+661
+00:36:59,460 --> 00:37:02,220
+the UK will benefit from Brexit
+
+662
+00:37:02,220 --> 00:37:04,080
+the GBUSD
+
+663
+00:37:04,080 --> 00:37:06,520
+will benefit from leaving the European Union
+
+664
+00:37:06,520 --> 00:37:08,180
+the sentiment around EU in my opinion
+
+665
+00:37:08,180 --> 00:37:09,880
+again in the next five 10 years
+
+666
+00:37:09,880 --> 00:37:11,320
+it's going to continue to depreciate
+
+667
+00:37:11,320 --> 00:37:13,640
+so the better trade
+
+668
+00:37:13,640 --> 00:37:15,460
+would be to short EuroGDP
+
+669
+00:37:15,460 --> 00:37:21,040
+but these are swing trades
+
+670
+00:37:21,040 --> 00:37:21,920
+based on macro
+
+671
+00:37:21,920 --> 00:37:23,940
+not even macro just based on like
+
+672
+00:37:23,940 --> 00:37:26,240
+sentiment ideas that I'd have
+
+673
+00:37:26,240 --> 00:37:28,660
+not the way I trade
+
+674
+00:37:28,660 --> 00:37:30,220
+because we don't at my opinion
+
+675
+00:37:30,220 --> 00:37:32,820
+trading directionally requires you to be right
+
+676
+00:37:32,820 --> 00:37:34,080
+about a big thing
+
+677
+00:37:34,080 --> 00:37:36,020
+you have to be right that is strength
+
+678
+00:37:36,020 --> 00:37:37,420
+in the market willing to buy
+
+679
+00:37:37,420 --> 00:37:39,740
+relatively aggressively an asset
+
+680
+00:37:39,740 --> 00:37:41,680
+for a long period of time
+
+681
+00:37:41,680 --> 00:37:43,180
+yeah whereas it's much better
+
+682
+00:37:43,180 --> 00:37:45,860
+just to be right for a few minutes,
+
+683
+00:37:46,200 --> 00:37:47,600
+whatever, whatever, get your arm.
+
+684
+00:37:47,760 --> 00:37:48,080
+No, no.
+
+685
+00:37:48,620 --> 00:37:50,020
+Trading at the exhaustion point,
+
+686
+00:37:50,280 --> 00:37:51,760
+you only have to be right about that
+
+687
+00:37:51,760 --> 00:37:52,760
+a very short period of time.
+
+688
+00:37:52,760 --> 00:37:54,940
+And then once prices away from your entry point,
+
+689
+00:37:55,100 --> 00:37:56,260
+you can give it a chance.
+
+690
+00:37:56,500 --> 00:37:58,540
+You can try to hope for sell strump to come in
+
+691
+00:37:58,540 --> 00:37:59,120
+and push it lower.
+
+692
+00:37:59,600 --> 00:38:01,200
+But at the point of entry,
+
+693
+00:38:02,040 --> 00:38:03,600
+I need it to be skewed liquidity
+
+694
+00:38:03,600 --> 00:38:04,800
+to increase the probability
+
+695
+00:38:04,800 --> 00:38:06,420
+of the initial manageable response.
+
+696
+00:38:07,100 --> 00:38:07,440
+Right?
+
+697
+00:38:08,140 --> 00:38:10,680
+So you can look for big trades,
+
+698
+00:38:11,160 --> 00:38:12,340
+do a hit rate on them,
+
+699
+00:38:12,340 --> 00:38:14,480
+sorry, the frequency of big trades
+
+700
+00:38:14,480 --> 00:38:15,240
+will be quite low.
+
+701
+00:38:16,220 --> 00:38:17,720
+You won't really get them that often
+
+702
+00:38:17,720 --> 00:38:20,540
+in a pair like GbP, U.S.D or any major peer.
+
+703
+00:38:20,640 --> 00:38:23,340
+So U.S.S.S. French, GbP U.S.D, you're U.S.D.
+
+704
+00:38:23,800 --> 00:38:25,920
+You can get them an Australian dollar,
+
+705
+00:38:26,040 --> 00:38:27,640
+New Zealand dollar, because they're risk currencies.
+
+706
+00:38:28,580 --> 00:38:32,130
+But if you want those like big swing trades,
+
+707
+00:38:32,130 --> 00:38:35,470
+you're looking at peers like GbPJPY
+
+708
+00:38:35,470 --> 00:38:39,630
+or AUDJPY, even GBP New Zealand dollar.
+
+709
+00:38:40,680 --> 00:38:44,180
+Those assets will rally like,
+
+710
+00:38:44,200 --> 00:38:50,850
+motherfuckers. Not ready, but they will just trend like motherfuckers. I don't like that because I like to be
+
+711
+00:38:50,850 --> 00:38:54,910
+quite active in and out of the market, taking advantage of the price behavior rather than making
+
+712
+00:38:54,910 --> 00:39:00,290
+their directional bias. If I'm trading in a certain direction based on some form of existence,
+
+713
+00:39:00,410 --> 00:39:05,900
+you know, some existing bias, I have to be right about it. Whereas trading at point of exhaustion,
+
+714
+00:39:05,900 --> 00:39:12,320
+I can be totally wrong about the broader market direction. So price is bullish here, but I can short this
+
+715
+00:39:12,320 --> 00:39:15,080
+and capture profit. Because at that point,
+
+716
+00:39:15,100 --> 00:39:17,060
+point, it's impossible for pricing continue.
+
+717
+00:39:17,180 --> 00:39:18,960
+The bids are thin, et cetera, et cetera.
+
+718
+00:39:20,490 --> 00:39:26,200
+So trading the volatility, which is created as a result of the liquidity dynamics discussed,
+
+719
+00:39:27,120 --> 00:39:30,590
+this actual edge in there, that doesn't go to mean, though.
+
+720
+00:39:30,830 --> 00:39:33,190
+It's not saying you can't be a directional trading.
+
+721
+00:39:33,390 --> 00:39:33,790
+You can.
+
+722
+00:39:34,350 --> 00:39:37,590
+It's about, because what's going to happen is you're going to, when you start exercising
+
+723
+00:39:37,590 --> 00:39:42,020
+and you start trying to, like, just build your ability, you're going to experience times where
+
+724
+00:39:42,020 --> 00:39:43,180
+the market's super stable.
+
+725
+00:39:43,440 --> 00:39:44,920
+There's many times where it's directionally driven.
+
+726
+00:39:44,920 --> 00:39:47,940
+each of those environments have various characteristics.
+
+727
+00:39:48,900 --> 00:39:52,460
+You might connect with the characteristics of the directionally driven environment
+
+728
+00:39:52,460 --> 00:39:56,220
+where you'd recognize it quite well or you at least have the willingness to buy
+
+729
+00:39:56,220 --> 00:39:58,980
+at more expensive prices and ride that wave.
+
+730
+00:39:59,280 --> 00:40:06,690
+So you'd essentially be a similar, you know, akin to a trader who's more of a breakout trader.
+
+731
+00:40:07,050 --> 00:40:09,970
+It doesn't mean you'll buy breakouts really nearly in the middle of nowhere.
+
+732
+00:40:10,650 --> 00:40:14,070
+You'll have specific entry strategies which increase your probabilities,
+
+733
+00:40:14,070 --> 00:40:17,170
+but still it'd be a slightly different type of trading
+
+734
+00:40:17,170 --> 00:40:19,490
+than me who likes to push price back into range.
+
+735
+00:40:19,870 --> 00:40:20,630
+You get it?
+
+736
+00:40:21,940 --> 00:40:25,020
+The reason I trade this way and I trade GDP-USD
+
+737
+00:40:25,020 --> 00:40:29,200
+because it's a peer that ranges predominantly most of the time, right?
+
+738
+00:40:29,440 --> 00:40:31,940
+So it makes sense for my trading style
+
+739
+00:40:31,940 --> 00:40:35,990
+to trade an asset which fits that style.
+
+740
+00:40:37,890 --> 00:40:40,290
+That is I'm going to say that I don't trade mid-flows.
+
+741
+00:40:40,290 --> 00:40:42,890
+I do, but just don't have much lower,
+
+742
+00:40:43,090 --> 00:40:45,590
+you know, there's a much lower frequency of trades in that environment.
+
+743
+00:40:45,590 --> 00:40:47,870
+and I'm much less aggressive.
+
+744
+00:40:48,700 --> 00:40:50,580
+I give my trades much less of a chance.
+
+745
+00:40:50,780 --> 00:40:53,900
+I know that I'm going to take losses in this environment
+
+746
+00:40:53,900 --> 00:40:54,720
+because of the way I trade.
+
+747
+00:40:55,780 --> 00:40:58,800
+It doesn't mean I'm not trading at all.
+
+748
+00:40:59,140 --> 00:41:00,900
+It's just about recognizing which environment.
+
+749
+00:41:01,080 --> 00:41:04,350
+So the point here is you can be a breakout trader.
+
+750
+00:41:04,870 --> 00:41:07,570
+You will learn the characteristics of types of environments
+
+751
+00:41:07,570 --> 00:41:08,950
+where it's heavily, directionally driven,
+
+752
+00:41:09,390 --> 00:41:11,710
+and you may connect with them where you can take advantage of them.
+
+753
+00:41:11,790 --> 00:41:15,430
+You'll have specific trade plans and entry parameters
+
+754
+00:41:15,430 --> 00:41:17,150
+all of that shit will be internalized
+
+755
+00:41:17,150 --> 00:41:18,810
+is just a case of
+
+756
+00:41:18,810 --> 00:41:21,860
+before you know that you have to experience everything
+
+757
+00:41:21,860 --> 00:41:22,540
+you get it
+
+758
+00:41:22,540 --> 00:41:25,380
+I wouldn't worry too much about it
+
+759
+00:41:25,380 --> 00:41:28,420
+but anyway
+
+760
+00:41:28,420 --> 00:41:29,500
+that's that
+
+761
+00:41:29,500 --> 00:41:30,900
+so let's just move on to
+
+762
+00:41:30,900 --> 00:41:34,260
+what did I just close there
+
+763
+00:41:34,260 --> 00:41:36,420
+you're a GPP in it
+
+764
+00:41:36,420 --> 00:41:36,800
+yeah
+
+765
+00:41:36,800 --> 00:41:43,770
+if you said to me you're a trend trader
+
+766
+00:41:43,770 --> 00:41:45,710
+I would send you directly to these assets here
+
+767
+00:41:45,710 --> 00:41:48,660
+SAB 500 Dow Jones 30
+
+768
+00:41:48,660 --> 00:41:50,840
+when you have a slightly bigger account
+
+769
+00:41:50,840 --> 00:41:52,980
+NASDAQ is also
+
+770
+00:41:52,980 --> 00:41:54,060
+when you have a slightly bigger account
+
+771
+00:41:54,060 --> 00:41:56,740
+these are the trending markets
+
+772
+00:41:56,740 --> 00:41:59,540
+you're still see in inventory here
+
+773
+00:41:59,540 --> 00:42:04,770
+you know buy basis hold
+
+774
+00:42:04,770 --> 00:42:07,030
+price breaks the last buy base
+
+775
+00:42:07,030 --> 00:42:09,430
+there pops and starts to draw back in
+
+776
+00:42:09,430 --> 00:42:14,080
+but these go into midflow
+
+777
+00:42:14,080 --> 00:42:15,240
+on the higher time frame
+
+778
+00:42:15,240 --> 00:42:16,940
+they last for a very long time
+
+779
+00:42:16,940 --> 00:42:19,620
+they're much less balanced
+
+780
+00:42:19,620 --> 00:42:20,420
+than the state of liquidity
+
+781
+00:42:20,420 --> 00:42:22,820
+in FX we have demand for buy liquidity
+
+782
+00:42:22,820 --> 00:42:25,020
+for pound and buy liquidity for the US dollar
+
+783
+00:42:25,020 --> 00:42:26,620
+it's a different type of market
+
+784
+00:42:26,620 --> 00:42:28,800
+in equities
+
+785
+00:42:28,800 --> 00:42:30,480
+they're directionally driven
+
+786
+00:42:30,480 --> 00:42:32,480
+there's a sentiment based
+
+787
+00:42:32,480 --> 00:42:34,560
+rally I guess
+
+788
+00:42:34,560 --> 00:42:35,620
+you can you can just tell
+
+789
+00:42:35,620 --> 00:42:36,640
+just by looking at it
+
+790
+00:42:36,640 --> 00:42:39,980
+yeah for for much longer periods of time
+
+791
+00:42:39,980 --> 00:42:41,720
+buyers come in at higher and higher prices
+
+792
+00:42:41,720 --> 00:42:43,040
+without drying off
+
+793
+00:42:43,040 --> 00:42:45,220
+well that's technically again
+
+794
+00:42:45,220 --> 00:42:47,220
+a misnomer buyers do dry off
+
+795
+00:42:47,220 --> 00:42:50,160
+but the buy liquidity is there present
+
+796
+00:42:50,160 --> 00:42:51,000
+do you get it
+
+797
+00:42:51,000 --> 00:42:53,760
+then the buy what sorry drops
+
+798
+00:42:53,760 --> 00:42:56,540
+the buyers do dry off
+
+799
+00:42:56,540 --> 00:42:57,780
+because not the buyers are dry enough.
+
+800
+00:42:58,080 --> 00:43:00,520
+The market water buyers are dry enough time and time again.
+
+801
+00:43:01,520 --> 00:43:07,610
+But the buy liquidity is continuing to accept higher prices for really long periods of time.
+
+802
+00:43:07,750 --> 00:43:08,650
+That's like a two-year rally.
+
+803
+00:43:10,130 --> 00:43:15,480
+That's 518 days, but you only have five trading days a week.
+
+804
+00:43:17,180 --> 00:43:17,580
+Do you get it?
+
+805
+00:43:18,420 --> 00:43:20,460
+This is 518 trading days.
+
+806
+00:43:20,680 --> 00:43:21,760
+It's not included in the weeks.
+
+807
+00:43:23,300 --> 00:43:25,440
+So that is more than a two-year period.
+
+808
+00:43:26,440 --> 00:43:28,440
+For a whole two years, we saw buy liquidity.
+
+809
+00:43:28,460 --> 00:43:29,700
+except higher and higher prices.
+
+810
+00:43:30,180 --> 00:43:31,380
+Just think about what that means.
+
+811
+00:43:33,850 --> 00:43:35,210
+Any shorts you would have taken,
+
+812
+00:43:35,430 --> 00:43:36,390
+you have to be short term,
+
+813
+00:43:36,890 --> 00:43:37,890
+all the buy bases are holding.
+
+814
+00:43:37,890 --> 00:43:40,550
+So you could only really trade this well
+
+815
+00:43:40,550 --> 00:43:43,270
+if you're a directionally trend trader
+
+816
+00:43:43,270 --> 00:43:44,630
+or you can trade with the flow.
+
+817
+00:43:45,250 --> 00:43:45,870
+Here's midflow.
+
+818
+00:43:46,980 --> 00:43:49,080
+You can trade counterflow against it
+
+819
+00:43:49,080 --> 00:43:51,240
+or you can trade with the flow with it.
+
+820
+00:43:51,900 --> 00:43:53,840
+Both will have unique entry parameters.
+
+821
+00:43:54,480 --> 00:43:56,140
+Both will have different types of midflows
+
+822
+00:43:56,140 --> 00:43:57,620
+which are favorable and not favorable.
+
+823
+00:43:57,620 --> 00:44:00,130
+So this
+
+824
+00:44:00,130 --> 00:44:02,190
+You can actually trade with the flow and against the flow
+
+825
+00:44:02,190 --> 00:44:04,030
+Because you're getting responses on both sides of the market
+
+826
+00:44:04,030 --> 00:44:06,710
+Here, in this bullish midflow
+
+827
+00:44:06,710 --> 00:44:08,010
+It's much more directionally driven
+
+828
+00:44:08,010 --> 00:44:10,870
+By bases are even higher and higher
+
+829
+00:44:10,870 --> 00:44:11,550
+They're not breaking
+
+830
+00:44:11,550 --> 00:44:14,230
+Here you can't really short this
+
+831
+00:44:14,230 --> 00:44:17,220
+You follow me
+
+832
+00:44:17,220 --> 00:44:19,660
+Yeah, the only thing you can do in this situation
+
+833
+00:44:19,660 --> 00:44:21,240
+Is be long from the bottom
+
+834
+00:44:21,240 --> 00:44:22,000
+That's it
+
+835
+00:44:22,000 --> 00:44:23,140
+Be long from the bottom
+
+836
+00:44:23,140 --> 00:44:24,340
+Depending on the time
+
+837
+00:44:24,340 --> 00:44:25,420
+So if this is a daily char
+
+838
+00:44:25,420 --> 00:44:26,360
+Right
+
+839
+00:44:26,360 --> 00:44:27,360
+You could
+
+840
+00:44:27,360 --> 00:44:28,740
+You could buy these
+
+841
+00:44:28,740 --> 00:44:30,360
+because price is fractal
+
+842
+00:44:30,360 --> 00:44:31,840
+that move down
+
+843
+00:44:31,840 --> 00:44:32,680
+would be like a small
+
+844
+00:44:32,680 --> 00:44:33,460
+bearish price swing
+
+845
+00:44:33,460 --> 00:44:35,200
+so let's just do this
+
+846
+00:44:35,200 --> 00:44:38,250
+I'm going to
+
+847
+00:44:38,250 --> 00:44:40,510
+zoom into this area
+
+848
+00:44:40,510 --> 00:44:43,400
+pretend zoom in
+
+849
+00:44:43,400 --> 00:44:45,720
+in this circle
+
+850
+00:44:45,720 --> 00:44:46,320
+in red
+
+851
+00:44:46,320 --> 00:44:48,240
+so we're going to start
+
+852
+00:44:48,240 --> 00:44:49,300
+from the high to the low
+
+853
+00:44:49,300 --> 00:44:50,280
+so here's that high
+
+854
+00:44:50,280 --> 00:44:52,040
+parabolic phase
+
+855
+00:44:52,040 --> 00:44:54,000
+shifting state of liquidity
+
+856
+00:44:54,000 --> 00:44:55,620
+price goes into bearish midflow
+
+857
+00:44:55,620 --> 00:44:59,490
+and then it builds up here
+
+858
+00:44:59,490 --> 00:45:01,870
+you see that area
+
+859
+00:45:01,870 --> 00:45:03,310
+likely broke a shelf
+
+860
+00:45:03,310 --> 00:45:05,310
+here's your sideways here's your pop
+
+861
+00:45:05,310 --> 00:45:07,450
+you might be taking a view that
+
+862
+00:45:07,450 --> 00:45:09,710
+this small price swing
+
+863
+00:45:09,710 --> 00:45:11,310
+which is just that move down
+
+864
+00:45:11,310 --> 00:45:13,470
+is likely to meet
+
+865
+00:45:13,470 --> 00:45:15,550
+a huge area of buy liquidity
+
+866
+00:45:15,550 --> 00:45:17,370
+because of the higher
+
+867
+00:45:17,370 --> 00:45:19,050
+time frame state of midflow
+
+868
+00:45:19,050 --> 00:45:21,470
+and you could easily turn to a buyer
+
+869
+00:45:21,470 --> 00:45:22,790
+here trying to ride it higher
+
+870
+00:45:22,790 --> 00:45:24,770
+you can't do if the midflow is higher
+
+871
+00:45:24,770 --> 00:45:25,890
+higher time frame enough
+
+872
+00:45:25,890 --> 00:45:28,530
+this bullish midflow is relatively
+
+873
+00:45:28,530 --> 00:45:30,970
+inefficient it's not like this
+
+874
+00:45:30,970 --> 00:45:33,060
+then you could do absolutely nothing
+
+875
+00:45:33,060 --> 00:45:35,500
+if the daily chart looks like that
+
+876
+00:45:35,500 --> 00:45:37,200
+then yeah you can fucking do shit all
+
+877
+00:45:37,200 --> 00:45:40,110
+both so yeah we're going to discuss this
+
+878
+00:45:40,110 --> 00:45:40,990
+in a lot of depth anyway
+
+879
+00:45:40,990 --> 00:45:43,180
+let's move on
+
+880
+00:45:43,180 --> 00:45:44,700
+I wanted to really talk about
+
+881
+00:45:44,700 --> 00:45:46,180
+internalisation notes
+
+882
+00:45:46,180 --> 00:45:47,480
+just give me one moment please
+
+883
+00:45:47,480 --> 00:45:51,160
+so yeah
+
+884
+00:45:51,160 --> 00:45:54,920
+internalization we discussed
+
+885
+00:45:54,920 --> 00:45:56,100
+the touch on it last session
+
+886
+00:45:56,100 --> 00:45:57,580
+the whole purpose of it is
+
+887
+00:45:57,580 --> 00:45:59,400
+as you go through
+
+888
+00:45:59,400 --> 00:46:02,080
+prices what we already discussed today
+
+889
+00:46:02,080 --> 00:46:03,420
+is that there's various different types of environments
+
+890
+00:46:03,420 --> 00:46:04,920
+you're going to have to experience them all
+
+891
+00:46:04,920 --> 00:46:07,060
+to have an implication on the way you can trade them
+
+892
+00:46:07,060 --> 00:46:07,480
+etc
+
+893
+00:46:10,000 --> 00:46:12,060
+over time have to build
+
+894
+00:46:12,060 --> 00:46:14,160
+at least a relationship with price
+
+895
+00:46:14,160 --> 00:46:14,700
+behaviours
+
+896
+00:46:14,700 --> 00:46:17,860
+you need to understand why they exist conceptually
+
+897
+00:46:17,860 --> 00:46:19,400
+so how they why they happen
+
+898
+00:46:19,400 --> 00:46:22,120
+you then need to understand how they are visually
+
+899
+00:46:22,120 --> 00:46:23,500
+present in charts
+
+900
+00:46:23,500 --> 00:46:26,100
+and connect those two together so understand the concept
+
+901
+00:46:26,100 --> 00:46:27,960
+and connect it together and tie it together with
+
+902
+00:46:27,960 --> 00:46:29,220
+obviously the visual
+
+903
+00:46:29,220 --> 00:46:31,700
+we're already doing that in the form of
+
+904
+00:46:31,700 --> 00:46:32,600
+price swing
+
+905
+00:46:32,600 --> 00:46:35,280
+we're looking at you know
+
+906
+00:46:35,280 --> 00:46:37,720
+in the in the price swing when it's forming
+
+907
+00:46:37,720 --> 00:46:41,020
+we have
+
+908
+00:46:41,020 --> 00:46:43,520
+a move up and I move down.
+
+909
+00:46:44,690 --> 00:46:45,990
+It's split into pieces.
+
+910
+00:46:46,410 --> 00:46:47,570
+You have your midflow,
+
+911
+00:46:47,870 --> 00:46:49,350
+you have your sideways pop,
+
+912
+00:46:49,710 --> 00:46:51,540
+which is the breaking midflow pop.
+
+913
+00:46:52,280 --> 00:46:53,700
+It doesn't always have to break midflow,
+
+914
+00:46:53,800 --> 00:46:56,100
+but it will typically be a sideways pop.
+
+915
+00:46:56,910 --> 00:47:01,050
+Here you have your shelf absorption slash flip,
+
+916
+00:47:01,930 --> 00:47:02,830
+shift in the state of liquidity,
+
+917
+00:47:03,130 --> 00:47:04,010
+and into bearish midflow.
+
+918
+00:47:05,120 --> 00:47:08,440
+So broadly speaking, there's like three main stages,
+
+919
+00:47:08,440 --> 00:47:11,520
+midflow, apex, and the reversal.
+
+920
+00:47:11,920 --> 00:47:14,080
+Any individual swing
+
+921
+00:47:14,080 --> 00:47:15,240
+So this is composed of
+
+922
+00:47:15,240 --> 00:47:15,860
+Oh shit
+
+923
+00:47:15,860 --> 00:47:17,920
+That's composed of
+
+924
+00:47:17,920 --> 00:47:19,400
+A price swing
+
+925
+00:47:19,400 --> 00:47:22,040
+Is composed of two price runs
+
+926
+00:47:22,040 --> 00:47:23,740
+A to B
+
+927
+00:47:23,740 --> 00:47:26,440
+And then B back to A
+
+928
+00:47:26,440 --> 00:47:28,240
+Yeah that's one price run
+
+929
+00:47:28,240 --> 00:47:29,400
+Open that back down
+
+930
+00:47:29,400 --> 00:47:30,240
+No
+
+931
+00:47:30,240 --> 00:47:31,940
+That is a price swing
+
+932
+00:47:31,940 --> 00:47:33,000
+Oh that's price swing
+
+933
+00:47:33,000 --> 00:47:35,560
+A swing is composed of two
+
+934
+00:47:35,560 --> 00:47:36,760
+Individual price runs
+
+935
+00:47:36,760 --> 00:47:37,060
+Okay
+
+936
+00:47:37,060 --> 00:47:39,610
+The A to B
+
+937
+00:47:39,610 --> 00:47:41,980
+And then B back to A
+
+938
+00:47:41,980 --> 00:47:43,600
+they're two runs okay
+
+939
+00:47:43,600 --> 00:47:44,780
+you get it
+
+940
+00:47:44,780 --> 00:47:47,480
+each of the runs has an apex
+
+941
+00:47:47,480 --> 00:47:49,360
+a mid-flow
+
+942
+00:47:49,360 --> 00:47:50,840
+a break and pop
+
+943
+00:47:50,840 --> 00:47:52,420
+and then the
+
+944
+00:47:52,420 --> 00:47:54,740
+the second run we also have an apex
+
+945
+00:47:54,740 --> 00:47:57,610
+a shell flip
+
+946
+00:47:57,610 --> 00:48:00,030
+a shell flip a mid-flow
+
+947
+00:48:00,030 --> 00:48:01,110
+a break and pop
+
+948
+00:48:01,110 --> 00:48:02,290
+etc etc
+
+949
+00:48:02,290 --> 00:48:05,010
+everyone so here you have a full price swing
+
+950
+00:48:05,010 --> 00:48:08,760
+from A to B
+
+951
+00:48:08,760 --> 00:48:10,970
+and then B back to A
+
+952
+00:48:10,970 --> 00:48:11,810
+yeah
+
+953
+00:48:11,810 --> 00:48:13,470
+this has a high
+
+954
+00:48:13,470 --> 00:48:15,490
+this was the last inventory
+
+955
+00:48:15,490 --> 00:48:16,590
+that pushed it to new highs
+
+956
+00:48:16,590 --> 00:48:19,280
+Price then flipped the shelf
+
+957
+00:48:19,280 --> 00:48:20,700
+shift in the state of liquidity
+
+958
+00:48:20,700 --> 00:48:21,780
+bearish midflow
+
+959
+00:48:21,780 --> 00:48:23,660
+broke midflow down here
+
+960
+00:48:23,660 --> 00:48:25,140
+flipped the shelf
+
+961
+00:48:25,140 --> 00:48:27,280
+went into more of an efficient
+
+962
+00:48:27,280 --> 00:48:28,080
+bullish midflow
+
+963
+00:48:28,080 --> 00:48:30,220
+broke midflow around here
+
+964
+00:48:30,220 --> 00:48:30,880
+popped
+
+965
+00:48:30,880 --> 00:48:32,880
+and now I was doing the same kind of thing
+
+966
+00:48:32,880 --> 00:48:33,360
+yeah
+
+967
+00:48:33,360 --> 00:48:34,640
+do you get it
+
+968
+00:48:34,640 --> 00:48:37,460
+now just because
+
+969
+00:48:37,460 --> 00:48:39,220
+it's important that I tell you
+
+970
+00:48:39,220 --> 00:48:39,980
+quite early on
+
+971
+00:48:39,980 --> 00:48:41,420
+just because prices
+
+972
+00:48:41,420 --> 00:48:42,800
+let's just say
+
+973
+00:48:42,800 --> 00:48:46,040
+showing the characteristics of a reversal
+
+974
+00:48:46,040 --> 00:48:49,490
+and it's highly likely
+
+975
+00:48:49,490 --> 00:48:51,630
+that price will shift out into bullish midflow
+
+976
+00:48:51,630 --> 00:48:52,790
+doesn't mean it always will.
+
+977
+00:48:54,170 --> 00:48:56,450
+The problem with realizing that,
+
+978
+00:48:56,670 --> 00:48:58,350
+so when you're looking at historically examples,
+
+979
+00:48:58,750 --> 00:49:00,790
+all of them flipped into bullish midflow
+
+980
+00:49:00,790 --> 00:49:02,430
+they flipped the shelf
+
+981
+00:49:02,430 --> 00:49:03,490
+and they went into bullish midflow,
+
+982
+00:49:03,670 --> 00:49:04,710
+all of them look successful
+
+983
+00:49:04,710 --> 00:49:08,100
+because the historical price swings you're looking at
+
+984
+00:49:08,100 --> 00:49:09,460
+were the successful ones.
+
+985
+00:49:10,060 --> 00:49:11,560
+But at any given point,
+
+986
+00:49:12,360 --> 00:49:14,060
+price can start to show characteristics
+
+987
+00:49:14,120 --> 00:49:17,600
+of a price feature or a price swing stage
+
+988
+00:49:17,600 --> 00:49:19,820
+and then that price swing stage failed
+
+989
+00:49:19,820 --> 00:49:24,100
+so here this could have been
+
+990
+00:49:24,100 --> 00:49:26,060
+a break of the last inventory
+
+991
+00:49:26,060 --> 00:49:29,240
+price coming back up to retest
+
+992
+00:49:29,240 --> 00:49:30,840
+the high basically
+
+993
+00:49:30,840 --> 00:49:32,760
+yeah moving back down yeah
+
+994
+00:49:32,760 --> 00:49:35,640
+it could have flipped the shelf
+
+995
+00:49:35,640 --> 00:49:36,760
+and gone into bearish midflow
+
+996
+00:49:36,760 --> 00:49:39,120
+it could have it was entirely possible
+
+997
+00:49:39,120 --> 00:49:43,340
+in fact it could have been quite probable
+
+998
+00:49:43,340 --> 00:49:45,410
+but it did not happen
+
+999
+00:49:45,410 --> 00:49:47,370
+right so the outcome
+
+1000
+00:49:47,410 --> 00:49:49,890
+the probability in the outcome
+
+1001
+00:49:49,890 --> 00:49:51,450
+are always separate as we've discussed
+
+1002
+00:49:51,450 --> 00:49:55,590
+the probability of an outcome
+
+1003
+00:49:55,590 --> 00:49:56,990
+might be 99 to 1
+
+1004
+00:49:56,990 --> 00:50:00,310
+but the next
+
+1005
+00:50:00,310 --> 00:50:02,870
+outcome under these probabilities
+
+1006
+00:50:02,870 --> 00:50:04,510
+could easily be the losing one
+
+1007
+00:50:04,510 --> 00:50:06,890
+so each individual outcome
+
+1008
+00:50:06,890 --> 00:50:08,710
+does not necessarily reflect the
+
+1009
+00:50:08,710 --> 00:50:11,110
+probability it's only over a large
+
+1010
+00:50:11,110 --> 00:50:13,010
+sample over many
+
+1011
+00:50:13,010 --> 00:50:14,490
+many many many times
+
+1012
+00:50:14,490 --> 00:50:16,610
+you will see that this reflects
+
+1013
+00:50:16,610 --> 00:50:17,450
+99 to 1
+
+1014
+00:50:17,450 --> 00:50:19,660
+not individually
+
+1015
+00:50:19,660 --> 00:50:21,100
+so it's like you know if I flip a
+
+1016
+00:50:21,120 --> 00:50:28,330
+coin 50 heads heads or if a paper coin the heads could come up and I flip it again heads could
+
+1017
+00:50:28,330 --> 00:50:34,730
+come up this is showing 100% heads yeah even though the probability is 5050 it doesn't
+
+1018
+00:50:34,730 --> 00:50:40,390
+reflect the probability does it yeah yeah it needs a much larger sample we need to flip the coin
+
+1019
+00:50:40,390 --> 00:50:46,190
+many many more times for it to eventually show 50 50 heads and tails that's called a law of
+
+1020
+00:50:46,190 --> 00:50:51,940
+large numbers probability is only show up over a large of a large sample so over time
+
+1021
+00:50:51,960 --> 00:50:55,800
+you're going to be exposed to this problem you can be identifying price features and price
+
+1022
+00:50:55,800 --> 00:50:58,880
+behaviors that have discussed with you some of them won't work some of them will work
+
+1023
+00:50:58,880 --> 00:51:04,480
+and then from that junction it's going to be a case of trying to identify the ones that do not work
+
+1024
+00:51:04,480 --> 00:51:10,330
+and cutting them trying to identify the ones that are working and holding them that's the management
+
+1025
+00:51:10,330 --> 00:51:16,390
+side of things okay so it's much much more difficult than what it seems at this moment in time
+
+1026
+00:51:16,390 --> 00:51:20,770
+it seems as if we can all spot these price swings and we can all trade them but in a live
+
+1027
+00:51:20,770 --> 00:51:26,350
+environment when prices are forming is dynamic probabilities can change instantaneously so where one thing
+
+1028
+00:51:26,350 --> 00:51:32,370
+was a highly you know it was highly likely that price would do one thing in the next minute that can become
+
+1029
+00:51:32,370 --> 00:51:39,230
+completely invalid yeah and we have to have an approach which is open to that we have to you know be quite open to
+
+1030
+00:51:39,230 --> 00:51:45,790
+so having and building a relationship with price behaviors is one where you initially understand them
+
+1031
+00:51:45,790 --> 00:51:49,790
+conceptually and you understand why prices form and how they form why the price behaviors exist what
+
+1032
+00:51:49,790 --> 00:51:51,890
+you need in trading, which is an edge, etc.
+
+1033
+00:51:52,250 --> 00:51:54,370
+And then get an intimate with them via process.
+
+1034
+00:51:54,590 --> 00:51:57,170
+So by getting intimate, I mean directly engaging them,
+
+1035
+00:51:57,730 --> 00:52:01,210
+building a process to navigate through, you know,
+
+1036
+00:52:01,250 --> 00:52:02,850
+to building a process to exploit them.
+
+1037
+00:52:03,110 --> 00:52:05,690
+If you consistently see price fields and efficiencies,
+
+1038
+00:52:06,860 --> 00:52:09,560
+that doesn't mean you can now trade price inefficiencies.
+
+1039
+00:52:10,500 --> 00:52:15,900
+The difference between the one who can trade the inefficiency and the one who knows
+
+1040
+00:52:15,900 --> 00:52:20,200
+they exist is the one who can trade it knows how and when to time the trade.
+
+1041
+00:52:20,200 --> 00:52:22,280
+how to manage the trade
+
+1042
+00:52:22,280 --> 00:52:24,360
+when to cut it if it's not
+
+1043
+00:52:24,360 --> 00:52:26,200
+working out whereas the one who
+
+1044
+00:52:26,200 --> 00:52:28,100
+just knows that the inefficiencies get filled
+
+1045
+00:52:28,100 --> 00:52:29,940
+if he tries to trade it
+
+1046
+00:52:29,940 --> 00:52:32,200
+he'll short it there short it there
+
+1047
+00:52:32,200 --> 00:52:34,380
+short it there short it there short it there and continue
+
+1048
+00:52:34,380 --> 00:52:37,080
+to short it and then when the trades are losing one
+
+1049
+00:52:37,080 --> 00:52:39,420
+he'll continue to hold that loser without ever closing it
+
+1050
+00:52:39,420 --> 00:52:42,300
+that's the difference between skill
+
+1051
+00:52:42,300 --> 00:52:44,260
+and execution
+
+1052
+00:52:44,260 --> 00:52:46,870
+versus the opposite end
+
+1053
+00:52:46,870 --> 00:52:48,050
+which is just understanding
+
+1054
+00:52:48,050 --> 00:52:49,750
+both are critical
+
+1055
+00:52:49,750 --> 00:52:53,210
+you start with your understanding and you build the skill
+
+1056
+00:52:53,210 --> 00:52:54,230
+right
+
+1057
+00:52:54,230 --> 00:52:57,190
+ignore my arrows and shit because it's so retarded
+
+1058
+00:52:57,190 --> 00:52:59,690
+if someone ever saw this they think I'm a fucking idiot
+
+1059
+00:52:59,690 --> 00:53:02,970
+I can't speak to you
+
+1060
+00:53:02,970 --> 00:53:04,990
+and simultaneously come up with a nice drawing
+
+1061
+00:53:04,990 --> 00:53:06,130
+to make you look yeah but
+
+1062
+00:53:06,130 --> 00:53:07,490
+we don't need the drawing anyway
+
+1063
+00:53:07,490 --> 00:53:11,310
+the skill is what we build
+
+1064
+00:53:11,310 --> 00:53:13,630
+through the getting into my process and exercising
+
+1065
+00:53:13,630 --> 00:53:15,990
+so through this process you will form a unique
+
+1066
+00:53:15,990 --> 00:53:18,610
+understanding of market trading price
+
+1067
+00:53:18,610 --> 00:53:22,610
+relative to your own personal psychology or you know psyche
+
+1068
+00:53:22,610 --> 00:53:26,390
+this is where that that point i've been discussing today with you comes in
+
+1069
+00:53:26,390 --> 00:53:30,110
+you might be the guy that trades this bang bang bang bang you clear a million
+
+1070
+00:53:30,110 --> 00:53:34,510
+or you might be the guy that trades this and again you clear a million over time
+
+1071
+00:53:34,510 --> 00:53:39,150
+it just depends on who you are as a person or what kind of trading fits your mental
+
+1072
+00:53:39,150 --> 00:53:43,950
+your psyche i will help you discover that as well
+
+1073
+00:53:43,950 --> 00:53:48,290
+based on like the times of exercise you take and whatnot but at this point in time
+
+1074
+00:53:48,290 --> 00:53:52,950
+Again, the point is that you understand how and why we're doing what we're doing.
+
+1075
+00:53:53,070 --> 00:53:55,110
+You can get intimate with a process at least.
+
+1076
+00:53:55,950 --> 00:54:00,850
+So the unique understanding of you form is one where you've seen price behaviors occur over and over and over again.
+
+1077
+00:54:00,950 --> 00:54:02,070
+You know they exist and they're true.
+
+1078
+00:54:02,750 --> 00:54:08,050
+You've also built your ability to exploit them through using fractal and using the tools that we're discussing.
+
+1079
+00:54:08,230 --> 00:54:09,330
+One of the tools is price swing.
+
+1080
+00:54:10,210 --> 00:54:12,330
+That's why we're breaking the tools down for different users.
+
+1081
+00:54:13,230 --> 00:54:16,010
+In bullish midflow, we use fractal for something.
+
+1082
+00:54:16,010 --> 00:54:19,010
+in the apex stage we're using inefficiencies
+
+1083
+00:54:19,010 --> 00:54:20,950
+or even in bullish midflow
+
+1084
+00:54:20,950 --> 00:54:22,870
+if I'm trying to trade against the midflow
+
+1085
+00:54:22,870 --> 00:54:25,010
+I'm trying to short this inefficiency
+
+1086
+00:54:25,010 --> 00:54:26,170
+or this inefficiency.
+
+1087
+00:54:26,530 --> 00:54:26,890
+Do you get it?
+
+1088
+00:54:27,210 --> 00:54:28,910
+So we're using each of these behaviors
+
+1089
+00:54:28,910 --> 00:54:31,910
+and the tools to navigate price and trade it.
+
+1090
+00:54:32,530 --> 00:54:34,930
+You will be using them to exploit the behaviors
+
+1091
+00:54:34,930 --> 00:54:36,790
+you've seen with that work over and over and over
+
+1092
+00:54:36,790 --> 00:54:40,790
+to an extent where it's only you
+
+1093
+00:54:40,790 --> 00:54:44,250
+that understands on an extremely unique level
+
+1094
+00:54:44,250 --> 00:54:46,110
+how to trade that particular
+
+1095
+00:54:46,110 --> 00:54:47,250
+price behavior.
+
+1096
+00:54:48,650 --> 00:54:50,390
+It's so unique that if you were to write
+
+1097
+00:54:50,390 --> 00:54:52,170
+out your exact rules for somebody else,
+
+1098
+00:54:53,710 --> 00:54:54,950
+the exact rules you follow,
+
+1099
+00:54:55,830 --> 00:54:57,670
+how to manage the trade, take the trade,
+
+1100
+00:54:57,770 --> 00:54:58,590
+the rules for entry,
+
+1101
+00:54:58,710 --> 00:55:00,650
+if you wrote them out for somebody else
+
+1102
+00:55:00,650 --> 00:55:02,730
+and then you went to, you know,
+
+1103
+00:55:03,290 --> 00:55:04,650
+one on one against each other,
+
+1104
+00:55:05,090 --> 00:55:06,190
+trying to trade your strategy,
+
+1105
+00:55:06,310 --> 00:55:07,750
+you would always come out with the better results
+
+1106
+00:55:07,750 --> 00:55:10,350
+because you know things about that setup
+
+1107
+00:55:10,350 --> 00:55:13,310
+that can't be taught, right?
+
+1108
+00:55:13,950 --> 00:55:15,770
+Small, small subtle differences
+
+1109
+00:55:15,770 --> 00:55:18,550
+that you've seen happen over a very large sample.
+
+1110
+00:55:18,710 --> 00:55:20,610
+I'm talking tens of thousands of examples
+
+1111
+00:55:20,610 --> 00:55:22,530
+of that one specific behavior
+
+1112
+00:55:22,530 --> 00:55:25,470
+that you engage and build trading around,
+
+1113
+00:55:26,440 --> 00:55:28,200
+it just results in you having a much,
+
+1114
+00:55:28,300 --> 00:55:30,880
+much more of an informational skill-based,
+
+1115
+00:55:30,940 --> 00:55:32,140
+intuitive edge as well.
+
+1116
+00:55:33,100 --> 00:55:37,800
+So it's critical that any trader that wants to trade
+
+1117
+00:55:37,800 --> 00:55:40,340
+goes through this process of building a unique understanding,
+
+1118
+00:55:41,020 --> 00:55:42,680
+see the market in a way that's unique.
+
+1119
+00:55:43,000 --> 00:55:44,980
+You're validating price behavior initially,
+
+1120
+00:55:45,280 --> 00:55:46,380
+that's what we're doing right now,
+
+1121
+00:55:46,480 --> 00:55:49,580
+while it's developing a niche in specific areas.
+
+1122
+00:55:49,680 --> 00:55:51,660
+By niche, I mean you specialize in one area.
+
+1123
+00:55:52,100 --> 00:55:53,100
+It might be in efficiencies.
+
+1124
+00:55:53,780 --> 00:55:55,420
+It might be trading with the flow.
+
+1125
+00:55:56,020 --> 00:55:58,700
+It might be trading in higher time frame and efficiencies.
+
+1126
+00:55:58,880 --> 00:55:59,920
+The niche can be quite broad,
+
+1127
+00:56:00,060 --> 00:56:02,860
+but it will specialize in one specific type of trading
+
+1128
+00:56:02,860 --> 00:56:05,960
+before you can identify what your niche is.
+
+1129
+00:56:05,980 --> 00:56:07,220
+You have to try all types of trading.
+
+1130
+00:56:07,580 --> 00:56:11,200
+One example would be try taking retests.
+
+1131
+00:56:11,700 --> 00:56:13,700
+Don't take the first touch, try to take the retest trade.
+
+1132
+00:56:13,780 --> 00:56:14,540
+See how that works.
+
+1133
+00:56:16,210 --> 00:56:17,610
+Try taking the first touch trade.
+
+1134
+00:56:17,630 --> 00:56:20,120
+where you only go first touch of a level
+
+1135
+00:56:20,120 --> 00:56:22,720
+over time you'll find out
+
+1136
+00:56:22,720 --> 00:56:24,640
+when the retest trades work
+
+1137
+00:56:24,640 --> 00:56:26,700
+when the first touch trades like to work
+
+1138
+00:56:26,700 --> 00:56:28,820
+what the probabilities of each different type of entry is
+
+1139
+00:56:28,820 --> 00:56:31,000
+we'll also discuss
+
+1140
+00:56:31,000 --> 00:56:32,700
+or you'll also go through the motions
+
+1141
+00:56:32,700 --> 00:56:34,700
+of trading a highly highly
+
+1142
+00:56:34,700 --> 00:56:35,900
+an efficient bullish midflow
+
+1143
+00:56:35,900 --> 00:56:38,640
+and trying to buy it
+
+1144
+00:56:38,640 --> 00:56:40,080
+why you can't buy it
+
+1145
+00:56:40,080 --> 00:56:42,080
+you'll also go through the dynamics of trading
+
+1146
+00:56:42,080 --> 00:56:44,020
+a much more efficient bearish midflow
+
+1147
+00:56:44,020 --> 00:56:45,800
+and how it feels to trade that
+
+1148
+00:56:45,800 --> 00:56:47,960
+over time you will specialize
+
+1149
+00:56:47,980 --> 00:56:49,600
+in one type of environment,
+
+1150
+00:56:50,440 --> 00:56:52,260
+not necessarily just want to have
+
+1151
+00:56:52,260 --> 00:56:55,660
+like either efficient or inefficient environment.
+
+1152
+00:56:56,420 --> 00:56:58,300
+There's obviously shades and differences between them.
+
+1153
+00:57:02,640 --> 00:57:03,920
+Yeah, so that can become your niche.
+
+1154
+00:57:04,560 --> 00:57:06,340
+So everything from trade entry to trade management,
+
+1155
+00:57:06,500 --> 00:57:09,000
+trade selection, all of that combined together
+
+1156
+00:57:09,000 --> 00:57:10,740
+results in like a skilled interface
+
+1157
+00:57:10,740 --> 00:57:11,720
+when you're interacting with the market.
+
+1158
+00:57:12,520 --> 00:57:14,700
+Once these concepts have been validated
+
+1159
+00:57:14,700 --> 00:57:16,280
+and the price behavior as well
+
+1160
+00:57:16,280 --> 00:57:18,860
+that's connected to the conceptual side of things
+
+1161
+00:57:18,860 --> 00:57:20,260
+has been validated and understood,
+
+1162
+00:57:20,280 --> 00:57:22,810
+nobody else
+
+1163
+00:57:22,810 --> 00:57:24,870
+you can take trades
+
+1164
+00:57:24,870 --> 00:57:26,370
+first touch off levels
+
+1165
+00:57:26,370 --> 00:57:27,810
+with a three pip stop
+
+1166
+00:57:27,810 --> 00:57:29,980
+take out nine pips from it
+
+1167
+00:57:29,980 --> 00:57:31,060
+because you just bored
+
+1168
+00:57:31,060 --> 00:57:32,340
+you want to fuck off on the screen yeah
+
+1169
+00:57:32,340 --> 00:57:33,980
+you capture three or nine pips
+
+1170
+00:57:33,980 --> 00:57:36,460
+and if anybody else looks at you
+
+1171
+00:57:36,460 --> 00:57:38,820
+like what the fuck are you trading how are you trying to catch knives
+
+1172
+00:57:38,820 --> 00:57:41,500
+or what you don't require anybody else's validation
+
+1173
+00:57:41,500 --> 00:57:43,800
+you know that that person
+
+1174
+00:57:43,800 --> 00:57:45,760
+has not done the same work as you
+
+1175
+00:57:45,760 --> 00:57:47,940
+they don't even understand price on the same level as you
+
+1176
+00:57:47,940 --> 00:57:49,100
+not because you're better than them
+
+1177
+00:57:49,100 --> 00:57:51,000
+it's just the case of like we see the market
+
+1178
+00:57:51,000 --> 00:57:51,840
+through a different lens.
+
+1179
+00:57:52,840 --> 00:57:53,980
+We're looking at the market
+
+1180
+00:57:53,980 --> 00:57:55,260
+through Chanel tents basically.
+
+1181
+00:57:56,580 --> 00:57:58,780
+It gives you access to
+
+1182
+00:57:58,780 --> 00:58:00,680
+a type of trading, which is more appropriate
+
+1183
+00:58:00,680 --> 00:58:02,580
+for financial markets as they exist today.
+
+1184
+00:58:03,020 --> 00:58:04,900
+The more appropriate for retail trade is trying to
+
+1185
+00:58:04,900 --> 00:58:07,140
+exploit and exploit
+
+1186
+00:58:07,140 --> 00:58:09,120
+edges when edges have been
+
+1187
+00:58:09,120 --> 00:58:11,060
+dying, basically. There is
+
+1188
+00:58:11,060 --> 00:58:12,940
+no edge in trading breakouts. There is no
+
+1189
+00:58:12,940 --> 00:58:15,100
+edge in trading late. Hardly any
+
+1190
+00:58:15,100 --> 00:58:16,960
+edge in trading retest. You get like one or two
+
+1191
+00:58:16,960 --> 00:58:18,220
+good trades a fucking weak, bro.
+
+1192
+00:58:18,840 --> 00:58:20,980
+People might take retest trades on a five
+
+1193
+00:58:21,000 --> 00:58:26,100
+minute chart on mt4 and show you their lines that they showed the trade one but what you can do
+
+1194
+00:58:26,100 --> 00:58:34,420
+on mt4 is you can cancel the lines of you're losing trades retest trades are in say again i didn't know you
+
+1195
+00:58:34,420 --> 00:58:39,810
+could do that i'm sure you can like right click what you know the lines that people show yeah yeah
+
+1196
+00:58:39,810 --> 00:58:48,900
+i'm sure you can right click that line and like hide it yeah you probably can um but yeah so
+
+1197
+00:58:48,900 --> 00:58:56,320
+there's a multitude of levels difference between just having a basic approach which is not really
+
+1198
+00:58:56,320 --> 00:59:00,960
+appropriate for trading and one that is the difference will be you as a person and your
+
+1199
+00:59:00,960 --> 00:59:05,780
+interactions with the market the tools are what we're using yeah yeah the tools are price swing
+
+1200
+00:59:05,780 --> 00:59:12,180
+the tools of the price behaviors they were trying to exploit fractal becomes a tool um but it's all
+
+1201
+00:59:12,180 --> 00:59:18,610
+about like yeah it's about using them so the things you can look forward to being able to to
+
+1202
+00:59:18,610 --> 00:59:26,790
+recognize and be able to have solutions for or as follows but just remember that yeah so
+
+1203
+00:59:26,790 --> 00:59:32,350
+validated and understood and skill is basically the junction where you don't need validation
+
+1204
+00:59:32,350 --> 00:59:36,350
+from everybody else because you've done the work on your part you're an independently thinking
+
+1205
+00:59:36,350 --> 00:59:42,170
+trader everything that you do in the market you don't you know how many traders look for validation
+
+1206
+00:59:42,170 --> 00:59:51,580
+externally why are men on twitter loads they look for it's filled the ego isn't it no i i wouldn't
+
+1207
+00:59:51,580 --> 00:59:55,920
+even say ego if i'm honest with you i would say they do not have the necessary conviction
+
+1208
+00:59:55,920 --> 00:59:56,760
+and their own ability
+
+1209
+00:59:56,760 --> 00:59:58,080
+or whatever they're seeing in charts
+
+1210
+00:59:58,080 --> 00:59:59,600
+they want to share
+
+1211
+00:59:59,600 --> 01:00:00,680
+their ideas of everyone
+
+1212
+01:00:00,680 --> 01:00:03,140
+and when you're in something like
+
+1213
+01:00:03,140 --> 01:00:04,900
+what's that guy
+
+1214
+01:00:04,900 --> 01:00:06,040
+you know offshore keys
+
+1215
+01:00:06,040 --> 01:00:07,640
+everybody's thinking the same way
+
+1216
+01:00:07,640 --> 01:00:09,020
+so there isn't anybody criticising
+
+1217
+01:00:09,020 --> 01:00:10,060
+anybody else's idea
+
+1218
+01:00:10,060 --> 01:00:13,020
+it's just all looking at the same thing
+
+1219
+01:00:13,020 --> 01:00:15,000
+and basically bomb-licking everyone's ass
+
+1220
+01:00:15,000 --> 01:00:17,740
+that again isn't really a true reflection
+
+1221
+01:00:17,740 --> 01:00:20,280
+or it doesn't really
+
+1222
+01:00:20,280 --> 01:00:23,460
+whatever results they show to each other
+
+1223
+01:00:23,460 --> 01:00:24,720
+is all kind of showy showy
+
+1224
+01:00:24,720 --> 01:00:28,740
+but they don't ever get to test
+
+1225
+01:00:28,740 --> 01:00:31,060
+how valid their approaches in the markets
+
+1226
+01:00:31,060 --> 01:00:32,400
+you get it
+
+1227
+01:00:32,400 --> 01:00:34,620
+because on an individual level
+
+1228
+01:00:34,620 --> 01:00:35,740
+they're not showing the full results
+
+1229
+01:00:35,740 --> 01:00:37,220
+on an individual level I would argue
+
+1230
+01:00:37,220 --> 01:00:39,400
+that their trading does not work
+
+1231
+01:00:39,400 --> 01:00:41,140
+they get fucked over by market
+
+1232
+01:00:41,140 --> 01:00:42,260
+the volatility changes
+
+1233
+01:00:42,260 --> 01:00:43,100
+as soon as the market
+
+1234
+01:00:43,100 --> 01:00:44,540
+I know they get fucked over
+
+1235
+01:00:44,540 --> 01:00:47,560
+but when you're in a group of like 20 other people
+
+1236
+01:00:47,560 --> 01:00:49,160
+or 50 or 100 over people
+
+1237
+01:00:49,160 --> 01:00:50,860
+showing you the winning results selectively
+
+1238
+01:00:50,860 --> 01:00:52,260
+showing you the strategy works
+
+1239
+01:00:52,260 --> 01:00:55,460
+you then have to you want to then conform
+
+1240
+01:00:55,460 --> 01:00:57,500
+and also only show you winners
+
+1241
+01:00:57,500 --> 01:01:00,010
+now separate yourself
+
+1242
+01:01:00,010 --> 01:01:01,670
+from that group that group is now
+
+1243
+01:01:01,670 --> 01:01:03,490
+like an online fucking
+
+1244
+01:01:03,490 --> 01:01:05,890
+forum which is only showing
+
+1245
+01:01:05,890 --> 01:01:07,650
+you winning trade only showing you
+
+1246
+01:01:07,650 --> 01:01:09,270
+examples of the trade strategy working and
+
+1247
+01:01:09,270 --> 01:01:11,670
+kind of tricking people into thinking it actually
+
+1248
+01:01:11,670 --> 01:01:12,110
+works
+
+1249
+01:01:12,110 --> 01:01:14,950
+it becomes self-fulfilling
+
+1250
+01:01:14,950 --> 01:01:17,770
+that isn't a true reflection on the validity
+
+1251
+01:01:17,770 --> 01:01:19,150
+of this style of trading
+
+1252
+01:01:19,150 --> 01:01:21,830
+they then require everybody else's validation
+
+1253
+01:01:21,830 --> 01:01:23,850
+because on a personal level the trade doesn't work
+
+1254
+01:01:23,850 --> 01:01:25,890
+in the group it does work so they look
+
+1255
+01:01:25,910 --> 01:01:27,010
+for everybody else's validation.
+
+1256
+01:01:27,450 --> 01:01:29,170
+They are not independent thinking traders.
+
+1257
+01:01:29,310 --> 01:01:30,370
+You come over to this
+
+1258
+01:01:30,370 --> 01:01:33,640
+Chanel-in view, right?
+
+1259
+01:01:34,940 --> 01:01:36,800
+Everything you will do is your own validation.
+
+1260
+01:01:37,340 --> 01:01:39,080
+I will tell you every single time
+
+1261
+01:01:39,080 --> 01:01:39,920
+your trade is shit.
+
+1262
+01:01:41,420 --> 01:01:42,940
+It couldn't matter to you.
+
+1263
+01:01:44,000 --> 01:01:45,540
+So again, independent thinking,
+
+1264
+01:01:46,080 --> 01:01:47,160
+as a trader at least,
+
+1265
+01:01:47,220 --> 01:01:48,040
+is a critical part.
+
+1266
+01:01:48,540 --> 01:01:51,160
+Specific price behaviors are learned simultaneously
+
+1267
+01:01:51,160 --> 01:01:57,060
+on such a level that you will
+
+1268
+01:01:57,060 --> 01:02:04,870
+you basically nobody else can copy them right now some of the things like I said you can look forward
+
+1269
+01:02:04,870 --> 01:02:10,070
+to knowing is timing you first need to understand the parameters the rules basically the things that
+
+1270
+01:02:10,070 --> 01:02:15,960
+you look for around a specific trading model what is trying to achieve or what you're engaging
+
+1271
+01:02:15,960 --> 01:02:22,160
+to do that to time your trades first of all you have to validate once you validate you have to try
+
+1272
+01:02:22,160 --> 01:02:27,580
+to use tools to try to exploit these price behaviors one of them is timing the entry of the trade
+
+1273
+01:02:27,600 --> 01:02:29,480
+miss through experience.
+
+1274
+01:02:30,100 --> 01:02:32,020
+We're going to discuss various different types of entry
+
+1275
+01:02:32,020 --> 01:02:34,100
+types, for example.
+
+1276
+01:02:35,060 --> 01:02:37,300
+Already I've given you to retest or first touch.
+
+1277
+01:02:37,900 --> 01:02:40,000
+But before that, you also have to learn how to draw levels.
+
+1278
+01:02:40,780 --> 01:02:46,780
+Now, each time you interact with a particular price behavior,
+
+1279
+01:02:46,900 --> 01:02:47,940
+you form an experience.
+
+1280
+01:02:48,560 --> 01:02:51,580
+The more structured your interactions are,
+
+1281
+01:02:52,080 --> 01:02:54,060
+i.e., the more information that you've retracted
+
+1282
+01:02:54,060 --> 01:02:56,680
+about the context, about that particular trade,
+
+1283
+01:02:56,680 --> 01:02:59,180
+the more accurate your experience outcome will be.
+
+1284
+01:02:59,200 --> 01:03:04,940
+be. If you just looked at something superficially and said, yeah, this is going up, yeah, it's
+
+1285
+01:03:04,940 --> 01:03:08,840
+an efficient, so I'm going to buy it. And you're doing very, very simplistic, low-level type
+
+1286
+01:03:08,840 --> 01:03:17,060
+focus, low-level type of analytical approach, you know, if there's a low-level focus on it,
+
+1287
+01:03:17,360 --> 01:03:22,490
+your results won't necessarily be that accurate. So it will be difficult when you're engaged
+
+1288
+01:03:22,490 --> 01:03:29,000
+and you're always going to be wrong and it's requiring you to focus quite deeply. But over time,
+
+1289
+01:03:29,000 --> 01:03:35,360
+you're building comfort you're building comfort by shifting your psychological viewpoint on what the
+
+1290
+01:03:35,360 --> 01:03:42,080
+market can do where it's best to trade it'll be entirely different basically where you deeply
+
+1291
+01:03:42,080 --> 01:03:46,160
+believe it's best to trade compared to everybody else everybody and everybody else would
+
+1292
+01:03:46,160 --> 01:03:51,620
+always tell you or majority of people tell you that you should trade after a confirmation
+
+1293
+01:03:51,620 --> 01:03:59,360
+yeah based on the behaviors I've seen it's impossible for me to believe that I can
+
+1294
+01:03:59,380 --> 01:04:00,700
+break the confirmations down, by the way.
+
+1295
+01:04:00,940 --> 01:04:04,760
+So, yeah, you'll shift your psychological viewpoint
+
+1296
+01:04:04,760 --> 01:04:05,860
+in the market by making adjustments
+
+1297
+01:04:05,860 --> 01:04:08,200
+to the new scenarios that you've seen playing out
+
+1298
+01:04:08,200 --> 01:04:10,600
+what's possible in the ways they can play out.
+
+1299
+01:04:12,860 --> 01:04:15,660
+They'll play out in ways you didn't anticipate in the past.
+
+1300
+01:04:15,960 --> 01:04:17,900
+In the past, you would have ignored the small details
+
+1301
+01:04:17,900 --> 01:04:20,340
+that, you know, the differences between one is a losers
+
+1302
+01:04:20,340 --> 01:04:22,920
+and the differences between big trades and small trades.
+
+1303
+01:04:23,800 --> 01:04:25,460
+Here, because, first of all, like,
+
+1304
+01:04:25,460 --> 01:04:29,260
+people don't have the necessary language or framework
+
+1305
+01:04:29,260 --> 01:04:30,420
+to see the sort of difference.
+
+1306
+01:04:30,440 --> 01:04:37,870
+If I didn't discuss with you fractal, it would have always been like this conflicting scales.
+
+1307
+01:04:38,970 --> 01:04:42,170
+Sometimes it's going up, but now we've defined what fractal is.
+
+1308
+01:04:42,290 --> 01:04:46,570
+Based on that, we can come up with a rule for separating small swings from big swings.
+
+1309
+01:04:48,280 --> 01:04:51,760
+And we know also now that each swing has the full price swing features.
+
+1310
+01:04:52,340 --> 01:04:57,460
+If it's a price swing on a one minute, it has a one minute midflow apex, sideways,
+
+1311
+01:04:57,460 --> 01:04:58,200
+pop, reversal.
+
+1312
+01:04:59,200 --> 01:05:01,060
+If it's a weekly price swing.
+
+1313
+01:05:01,080 --> 01:05:02,780
+swing it has a weakly midflow
+
+1314
+01:05:02,780 --> 01:05:03,860
+did you get it?
+
+1315
+01:05:04,760 --> 01:05:06,980
+Every swing has price features
+
+1316
+01:05:06,980 --> 01:05:08,480
+because price is fractal.
+
+1317
+01:05:08,820 --> 01:05:10,480
+The price features are made up of the way
+
+1318
+01:05:10,480 --> 01:05:12,160
+orders are dealt in the market and the
+
+1319
+01:05:12,160 --> 01:05:13,780
+liquidity dynamics.
+
+1320
+01:05:15,260 --> 01:05:17,660
+The liquidity dynamics are present on every single
+
+1321
+01:05:17,660 --> 01:05:19,740
+scale. So every single price
+
+1322
+01:05:19,740 --> 01:05:22,060
+swing has all the full features.
+
+1323
+01:05:22,780 --> 01:05:25,050
+Now again
+
+1324
+01:05:25,050 --> 01:05:27,650
+you will shift your
+
+1325
+01:05:27,650 --> 01:05:29,130
+viewpoint, you'll
+
+1326
+01:05:29,130 --> 01:05:31,810
+build into your experience
+
+1327
+01:05:31,810 --> 01:05:34,080
+various types of scenarios
+
+1328
+01:05:34,080 --> 01:05:35,200
+that you didn't expect before
+
+1329
+01:05:35,200 --> 01:05:36,180
+how they can play out
+
+1330
+01:05:36,180 --> 01:05:40,180
+you'll also realize
+
+1331
+01:05:40,180 --> 01:05:42,920
+the dynamics of random distribution
+
+1332
+01:05:42,920 --> 01:05:44,860
+of probability and outcome
+
+1333
+01:05:44,860 --> 01:05:47,700
+just because you've taken a trade
+
+1334
+01:05:47,700 --> 01:05:49,460
+for a specific behavior
+
+1335
+01:05:49,460 --> 01:05:51,200
+so you know you've seen a certain behavior
+
+1336
+01:05:51,200 --> 01:05:52,560
+work over and over and over again
+
+1337
+01:05:52,560 --> 01:05:54,440
+just because you're trying to trade it
+
+1338
+01:05:54,440 --> 01:05:56,300
+the next time you will realize
+
+1339
+01:05:56,300 --> 01:05:58,540
+there is times where it just simply is not going to work
+
+1340
+01:05:58,540 --> 01:06:00,740
+and in that process
+
+1341
+01:06:00,740 --> 01:06:02,700
+there's ways to like identify the losers
+
+1342
+01:06:02,700 --> 01:06:05,920
+from the winners because the price will reflect the weakness in your trade.
+
+1343
+01:06:06,620 --> 01:06:11,670
+So over time, an appropriate psyche shift takes place
+
+1344
+01:06:11,670 --> 01:06:16,250
+where you never have strong, rigid expectations or biases.
+
+1345
+01:06:16,830 --> 01:06:20,530
+Really, it's just a consequent, constant,
+
+1346
+01:06:23,940 --> 01:06:26,380
+it's always constantly unrealised probabilities
+
+1347
+01:06:26,380 --> 01:06:31,140
+for what price should do alongside an appreciation for price behaviours
+
+1348
+01:06:31,140 --> 01:06:35,600
+or like outcomes that are less favourable
+
+1349
+01:06:35,600 --> 01:06:38,320
+you're just thinking in a way that's appropriate for the markets
+
+1350
+01:06:38,320 --> 01:06:40,240
+you approach it in a way that's appropriate for the markets
+
+1351
+01:06:40,240 --> 01:06:43,800
+that is going to that essentially reduces the stress you get from markets
+
+1352
+01:06:43,800 --> 01:06:46,640
+I actually don't stress about losing trades
+
+1353
+01:06:46,640 --> 01:06:50,380
+I get pissed off but I don't stress there's a slight difference there
+
+1354
+01:06:50,380 --> 01:06:53,340
+if I lose two free trades in a row I'm pissed but I'm fucking pissed
+
+1355
+01:06:53,340 --> 01:06:57,100
+but the stress of me taking an entry and worrying about it losing
+
+1356
+01:06:57,100 --> 01:07:00,840
+it's just not present I'm aware that I'm going to lose and you get it
+
+1357
+01:07:00,840 --> 01:07:05,320
+So there is, again, an actual shift in your psyche
+
+1358
+01:07:05,320 --> 01:07:08,520
+and how you view the market on a multi-faceted level,
+
+1359
+01:07:08,640 --> 01:07:09,660
+on multiple scales.
+
+1360
+01:07:09,860 --> 01:07:11,040
+There's dimensions to that shit.
+
+1361
+01:07:12,980 --> 01:07:15,520
+I don't mean to make it sound like you're going to become a superhuman.
+
+1362
+01:07:15,620 --> 01:07:15,980
+You're not.
+
+1363
+01:07:16,120 --> 01:07:18,900
+We're just talking about subtle but significant changes
+
+1364
+01:07:18,900 --> 01:07:21,000
+in the way you see if you approach the market,
+
+1365
+01:07:21,300 --> 01:07:25,160
+which give you a wider access to trading in different ways
+
+1366
+01:07:25,160 --> 01:07:26,640
+in exploiting edge.
+
+1367
+01:07:26,820 --> 01:07:27,900
+We're looking for edge.
+
+1368
+01:07:28,060 --> 01:07:28,640
+This is the point.
+
+1369
+01:07:30,150 --> 01:07:32,200
+Also, you'll have mental.
+
+1370
+01:07:32,220 --> 01:07:37,860
+reference points for winners and losers how they develop you'll realize outcome is random and then
+
+1371
+01:07:37,860 --> 01:07:44,600
+we need the solutions for this the process to interact the price should be done thousands and thousands
+
+1372
+01:07:44,600 --> 01:07:49,940
+of times over the next two three years that doesn't mean you won't be trading live within two years
+
+1373
+01:07:49,940 --> 01:07:55,120
+I still interact with like tomorrow when the market opens I'm not going to take my first the first
+
+1374
+01:07:55,120 --> 01:08:01,790
+I'm not going to take my first trade basically I'm going to go back into the process of tracking price
+
+1375
+01:08:01,790 --> 01:08:03,950
+through exercising and through tracking it basically
+
+1376
+01:08:03,950 --> 01:08:05,790
+by engaging it
+
+1377
+01:08:05,790 --> 01:08:08,030
+a few dozen times
+
+1378
+01:08:08,030 --> 01:08:09,650
+until I'm thinking properly
+
+1379
+01:08:09,650 --> 01:08:11,850
+until I'm identifying the right information and know what that
+
+1380
+01:08:11,850 --> 01:08:12,970
+feels like I have my
+
+1381
+01:08:12,970 --> 01:08:15,190
+to get it and then I'll be looking for my trades
+
+1382
+01:08:15,190 --> 01:08:17,450
+this is why it's quite important to wake up quite earlier
+
+1383
+01:08:17,450 --> 01:08:17,750
+at that
+
+1384
+01:08:17,750 --> 01:08:22,480
+and just like we've discussed your brain
+
+1385
+01:08:22,480 --> 01:08:24,680
+identifies the nature of the moves that are
+
+1386
+01:08:24,680 --> 01:08:26,560
+favorable the nature of the moves that are less
+
+1387
+01:08:26,560 --> 01:08:26,920
+favorable
+
+1388
+01:08:26,920 --> 01:08:31,100
+yeah
+
+1389
+01:08:31,100 --> 01:08:32,960
+so it's critical
+
+1390
+01:08:32,960 --> 01:08:35,040
+so some of the things you can you know
+
+1391
+01:08:35,040 --> 01:08:39,720
+you want to look forward to in the future for how we're going to use them or what you need to
+
+1392
+01:08:39,720 --> 01:08:45,410
+identify is premise for trade selection, the level selection, the price behaviors into your
+
+1393
+01:08:45,410 --> 01:08:48,530
+levels, the types of entries, how you're going to manage the trade, what the winners look like,
+
+1394
+01:08:48,590 --> 01:08:53,210
+users look like, how we're going to use fractal, the lower timeframes to select time,
+
+1395
+01:08:53,350 --> 01:08:55,250
+what information can be retract from fractal.
+
+1396
+01:08:56,150 --> 01:08:59,930
+Liquidity base, there's different types of liquidity bases, you have shelf or inventory,
+
+1397
+01:08:59,930 --> 01:09:03,850
+which is the same thing, you have different types of bases as well.
+
+1398
+01:09:03,850 --> 01:09:07,140
+the level of volatility in the market
+
+1399
+01:09:07,140 --> 01:09:08,140
+how inefficient is it
+
+1400
+01:09:08,140 --> 01:09:09,360
+what time frame is the inefficiency
+
+1401
+01:09:09,360 --> 01:09:11,870
+the current prices
+
+1402
+01:09:11,870 --> 01:09:13,950
+the best bid best offer
+
+1403
+01:09:13,950 --> 01:09:17,530
+how are you going to actually take your entry
+
+1404
+01:09:17,530 --> 01:09:18,670
+sorry for the current prices
+
+1405
+01:09:18,670 --> 01:09:20,690
+are you going to go market order sell on the bid
+
+1406
+01:09:20,690 --> 01:09:23,270
+or are you going to put sell limit orders there
+
+1407
+01:09:23,270 --> 01:09:23,870
+yeah
+
+1408
+01:09:23,870 --> 01:09:26,960
+so some of these things
+
+1409
+01:09:26,960 --> 01:09:27,920
+what are mainly your
+
+1410
+01:09:27,920 --> 01:09:30,600
+your executions on
+
+1411
+01:09:30,600 --> 01:09:34,520
+are yours usually like limits or market orders
+
+1412
+01:09:34,520 --> 01:09:36,600
+yeah I'll be honest with you
+
+1413
+01:09:36,600 --> 01:09:37,540
+it used to be limits on
+
+1414
+01:09:37,560 --> 01:09:41,880
+I see markets, I now struggle to get filled with limit orders.
+
+1415
+01:09:42,060 --> 01:09:43,200
+Oh, on the Saxo Bank.
+
+1416
+01:09:44,020 --> 01:09:44,240
+Yeah.
+
+1417
+01:09:44,480 --> 01:09:48,740
+So I will, it's a balance.
+
+1418
+01:09:48,960 --> 01:09:52,340
+Right now it's a balance, but I prefer limit orders because you have the risk of positive
+
+1419
+01:09:52,340 --> 01:09:52,880
+slippage.
+
+1420
+01:09:53,080 --> 01:09:54,300
+Negative slippage is impossible.
+
+1421
+01:09:54,660 --> 01:09:55,040
+Yeah, yeah.
+
+1422
+01:09:55,400 --> 01:09:58,940
+There are times you have to use market orders because prices is very unlikely to reach
+
+1423
+01:09:58,940 --> 01:09:59,320
+your level.
+
+1424
+01:10:00,320 --> 01:10:03,020
+But again, how do I know when it's unlikely to reach my level?
+
+1425
+01:10:03,020 --> 01:10:08,920
+It's through consistently, and many, many times experiencing the conditions in which
+
+1426
+01:10:08,940 --> 01:10:14,000
+how price looks in the times it misses my level it won't reach there what's happening in those
+
+1427
+01:10:14,000 --> 01:10:21,260
+environments honestly there's such a high level of combinations of possible outcomes and like
+
+1428
+01:10:21,260 --> 01:10:30,740
+contexts i'll give you one example you can have inefficient with a with a broke midflow
+
+1429
+01:10:30,740 --> 01:10:42,180
+price run that's in the sideways pop stage these are all looking good for sure and no yeah so price
+
+1430
+01:10:42,180 --> 01:10:46,560
+broke mid-flow, some sideways path, it's inefficient at the highs, but there's no, there's, there's
+
+1431
+01:10:46,560 --> 01:10:53,810
+hardly any shit level, there's a shit level there. How do I define my risk? Now, think about,
+
+1432
+01:10:54,680 --> 01:10:58,620
+as we go through the motions, price could be in multiple different locations. It could be embellished
+
+1433
+01:10:58,620 --> 01:11:03,080
+mid-flow, it could be an apex, it could be in shell flip, it could be in bearish, but I guess that's
+
+1434
+01:11:03,080 --> 01:11:09,040
+the same. So it could be in shell flip, it could be in the apex, it could, within the apex, there's
+
+1435
+01:11:09,040 --> 01:11:13,830
+like apex retest, and there's a few other locations in some.
+
+1436
+01:11:13,850 --> 01:11:14,510
+the apex.
+
+1437
+01:11:14,690 --> 01:11:16,130
+Apex is the highs and the lows.
+
+1438
+01:11:17,510 --> 01:11:17,910
+Right.
+
+1439
+01:11:20,750 --> 01:11:22,730
+You have inefficient, efficient,
+
+1440
+01:11:22,950 --> 01:11:25,850
+and there's a whole spectrum of middle ground between them.
+
+1441
+01:11:28,010 --> 01:11:32,600
+And yeah, so there's not only this,
+
+1442
+01:11:32,680 --> 01:11:33,880
+but there's also a timeframe.
+
+1443
+01:11:34,100 --> 01:11:35,040
+You can have different timeframes
+
+1444
+01:11:35,040 --> 01:11:35,800
+of bearish midflow,
+
+1445
+01:11:35,900 --> 01:11:36,520
+abolish midflow.
+
+1446
+01:11:37,160 --> 01:11:39,760
+Price can be inside of higher timeframe, efficient areas,
+
+1447
+01:11:40,000 --> 01:11:41,720
+higher time frame, inefficient areas.
+
+1448
+01:11:42,020 --> 01:11:45,400
+All of these can have, you know,
+
+1449
+01:11:45,400 --> 01:11:47,480
+a huge amount of different combinations.
+
+1450
+01:11:47,500 --> 01:11:50,500
+that you need to experience
+
+1451
+01:11:50,500 --> 01:11:52,810
+and this is even all of it
+
+1452
+01:11:52,810 --> 01:11:54,090
+there's event-driven environments
+
+1453
+01:11:54,090 --> 01:11:55,070
+where there's a new event
+
+1454
+01:11:55,070 --> 01:11:56,570
+with the harding liquidity in the market
+
+1455
+01:11:56,570 --> 01:12:00,460
+the time of day
+
+1456
+01:12:00,460 --> 01:12:01,220
+will start tomorrow
+
+1457
+01:12:01,220 --> 01:12:02,260
+the time of the month
+
+1458
+01:12:02,260 --> 01:12:03,180
+so like if there's
+
+1459
+01:12:03,180 --> 01:12:04,700
+interest rate decision
+
+1460
+01:12:04,700 --> 01:12:06,480
+there's a huge
+
+1461
+01:12:06,480 --> 01:12:07,600
+huge amount of experiences
+
+1462
+01:12:07,600 --> 01:12:08,800
+that you have to build up
+
+1463
+01:12:08,800 --> 01:12:12,300
+for all these particular combinations
+
+1464
+01:12:12,300 --> 01:12:14,540
+or any individual combinations
+
+1465
+01:12:14,540 --> 01:12:17,690
+which will take years
+
+1466
+01:12:17,690 --> 01:12:20,770
+100% it will take years
+
+1467
+01:12:20,770 --> 01:12:25,130
+how do you know when the next combination
+
+1468
+01:12:25,130 --> 01:12:26,530
+that you're looking for will turn up?
+
+1469
+01:12:27,410 --> 01:12:29,790
+You know, you just have to wait for it to happen
+
+1470
+01:12:29,790 --> 01:12:33,730
+and you to build, you know, as price unfolds,
+
+1471
+01:12:33,730 --> 01:12:34,630
+it will do many, many different things
+
+1472
+01:12:34,630 --> 01:12:35,670
+or go into many different environments,
+
+1473
+01:12:36,070 --> 01:12:37,750
+there'll be various different influences on the market.
+
+1474
+01:12:38,790 --> 01:12:40,690
+There'll be changes in narratives and sentiment,
+
+1475
+01:12:40,850 --> 01:12:42,910
+all of these things collectively over time,
+
+1476
+01:12:43,050 --> 01:12:45,330
+you consistently experience with them,
+
+1477
+01:12:46,010 --> 01:12:47,590
+always being present to experience them.
+
+1478
+01:12:48,170 --> 01:12:50,570
+This is, and having the appropriate framework
+
+1479
+01:12:50,570 --> 01:12:53,180
+to, you know, to understand
+
+1480
+01:12:53,200 --> 01:12:55,720
+price approach it, trade it, build the process of it.
+
+1481
+01:12:56,160 --> 01:13:02,250
+It's only through that you result, that you eventually get to that level of niche
+
+1482
+01:13:02,250 --> 01:13:08,560
+skill, exploiting behaviours that you understand where you have an appropriate process for
+
+1483
+01:13:08,560 --> 01:13:09,200
+markets, etc.
+
+1484
+01:13:09,480 --> 01:13:09,980
+Only then.
+
+1485
+01:13:10,420 --> 01:13:12,500
+Yeah, you have to keep getting exposed to it, don't you?
+
+1486
+01:13:13,290 --> 01:13:13,550
+Yeah.
+
+1487
+01:13:13,550 --> 01:13:14,170
+That's what it is.
+
+1488
+01:13:14,370 --> 01:13:18,690
+And it's not impossible, but the problem, the problem arises when someone starts to try
+
+1489
+01:13:18,690 --> 01:13:23,130
+and make money because they've had a few areas of success, the market environment was great
+
+1490
+01:13:23,130 --> 01:13:27,430
+for them. As the market environment changes, if you try to start making your money here,
+
+1491
+01:13:27,550 --> 01:13:32,610
+you'll start ingraining things in your process, which are the wrong thing. And simultaneously,
+
+1492
+01:13:32,830 --> 01:13:38,370
+your focus becomes on trying to actually build money rather than still observing price like a student
+
+1493
+01:13:38,370 --> 01:13:44,010
+of the market. So that's typically one of the main reasons people take a long time to learn.
+
+1494
+01:13:46,240 --> 01:13:49,680
+They consistently going back and forth for trying to make money, then realizing the need to be
+
+1495
+01:13:49,680 --> 01:13:54,840
+learners and do that each. If you just stick to this initial 60,
+
+1496
+01:13:54,860 --> 01:13:57,840
+to eight to nine months of hitting the market
+
+1497
+01:13:57,840 --> 01:14:00,060
+and very, very hard without any money,
+
+1498
+01:14:01,060 --> 01:14:02,400
+just observing these behaviours,
+
+1499
+01:14:02,800 --> 01:14:05,060
+you'll quickly, quickly build your skill.
+
+1500
+01:14:07,140 --> 01:14:10,040
+But realistically, the process of exercising
+
+1501
+01:14:10,040 --> 01:14:12,940
+and like not being a full-time trader
+
+1502
+01:14:12,940 --> 01:14:14,920
+should take you about two years, 24 months.
+
+1503
+01:14:15,500 --> 01:14:15,920
+Okay.
+
+1504
+01:14:16,420 --> 01:14:17,960
+And that probably means hitting the charts
+
+1505
+01:14:17,960 --> 01:14:20,220
+for an average of six to eight hours a day,
+
+1506
+01:14:20,420 --> 01:14:23,890
+if not more, for 24 months
+
+1507
+01:14:23,890 --> 01:14:25,190
+and you're making,
+
+1508
+01:14:25,190 --> 01:14:27,450
+and you're only building small accounts
+
+1509
+01:14:27,450 --> 01:14:30,490
+yeah so
+
+1510
+01:14:30,490 --> 01:14:32,800
+this is how I see it
+
+1511
+01:14:32,800 --> 01:14:35,920
+I don't benefit of you
+
+1512
+01:14:35,920 --> 01:14:38,760
+learning for a longer period by the way
+
+1513
+01:14:38,760 --> 01:14:41,080
+it's not like I'm the charge you for 24 months
+
+1514
+01:14:41,080 --> 01:14:44,000
+after this eight weeks I don't benefit from you at all
+
+1515
+01:14:44,000 --> 01:14:47,150
+but I would still always say
+
+1516
+01:14:47,150 --> 01:14:48,290
+you shouldn't trade live
+
+1517
+01:14:48,290 --> 01:14:50,090
+so this is not because
+
+1518
+01:14:50,090 --> 01:14:52,550
+it's not like ICT where you sign up to his mentorship
+
+1519
+01:14:52,550 --> 01:14:55,130
+and he benefits from like longer and shit out for you
+
+1520
+01:14:55,130 --> 01:14:55,650
+I don't
+
+1521
+01:14:55,650 --> 01:14:57,990
+There's actually reasons for this.
+
+1522
+01:14:58,050 --> 01:15:02,970
+The way your brain learns, the types of different environments to save you from trying to
+
+1523
+01:15:02,970 --> 01:15:09,150
+make money and just losing focus, reversing your progress, you, again, like if I had to
+
+1524
+01:15:09,150 --> 01:15:13,330
+explain it to you how progress works, it's simply defined as nonlinear.
+
+1525
+01:15:14,370 --> 01:15:16,630
+So here's your level of progress, yeah?
+
+1526
+01:15:17,830 --> 01:15:21,550
+Zero to a multimillionaire type trader level of ability.
+
+1527
+01:15:22,640 --> 01:15:23,720
+And then here's time.
+
+1528
+01:15:23,720 --> 01:15:32,460
+just because you put in one week, two weeks, three weeks, four weeks of doing the same effort
+
+1529
+01:15:32,460 --> 01:15:39,380
+of exercising doesn't mean you've had the equivalent rise of four weeks worth of progress.
+
+1530
+01:15:41,510 --> 01:15:47,310
+Actually, there's likely going to be a latent effect where you will put in weeks and weeks
+
+1531
+01:15:47,310 --> 01:15:52,500
+and weeks and weeks and weeks a worth of effort and then it could only take one week and you start to do that.
+
+1532
+01:15:54,250 --> 01:15:57,880
+Right? So you had one week here.
+
+1533
+01:15:58,240 --> 01:16:29,570
+hardly any effect. Another week here, hardly any effect. Another week, hardly in effect. Another week, hardly in effect. But the fifth week, you had all the other week's worth of effects come in and present itself. And it's obviously not like that. It will still be steady growth. It actually turns into this. You have growth. You hit a wall where you're fucking up. And it's something you need to solve in your trading. You build a salute. You identify the problem. You build a solution for it. And then you move on to the next hurdle.
+
+1534
+01:16:30,350 --> 01:16:33,710
+And most of your time, it seems as if you're spending it in the same area.
+
+1535
+01:16:34,560 --> 01:16:36,880
+But only small improvements.
+
+1536
+01:16:38,720 --> 01:16:39,980
+But over time, they build up.
+
+1537
+01:16:41,130 --> 01:16:43,070
+This is how the progress of learning occurs.
+
+1538
+01:16:43,070 --> 01:16:49,230
+So most of the time, you'll spend in problem phases and not in, like, where you feel like you're doing amazing.
+
+1539
+01:16:49,790 --> 01:16:50,150
+Okay.
+
+1540
+01:16:50,730 --> 01:16:57,210
+That's where you're, think about how, what the implication of that is on your motivation to continue learning.
+
+1541
+01:16:57,550 --> 01:17:01,450
+If most of the time you feel like you don't know shit or like you've just solved a novel problem,
+
+1542
+01:17:01,470 --> 01:17:02,490
+you've got another problem now.
+
+1543
+01:17:02,590 --> 01:17:04,310
+You don't know how all these things fit together.
+
+1544
+01:17:04,710 --> 01:17:05,950
+It's like operating in the darkness.
+
+1545
+01:17:06,110 --> 01:17:08,590
+You never have a view of the full picture until you do.
+
+1546
+01:17:09,710 --> 01:17:10,170
+Right.
+
+1547
+01:17:10,630 --> 01:17:15,050
+This is where it requires, obviously, motivation and desire to win and be hungry and whatnot.
+
+1548
+01:17:15,250 --> 01:17:16,530
+I'm not a motivational speaker.
+
+1549
+01:17:16,930 --> 01:17:20,730
+I'm just trying to show you early on that most of what you will do in trading,
+
+1550
+01:17:20,730 --> 01:17:23,810
+even when you're making money, is always adversity.
+
+1551
+01:17:24,490 --> 01:17:25,910
+It's always adversity.
+
+1552
+01:17:26,330 --> 01:17:31,370
+You are always operating an uncertainty, not knowing the future, not knowing the full picture.
+
+1553
+01:17:31,530 --> 01:17:33,030
+are when you're taking a trade,
+
+1554
+01:17:33,130 --> 01:17:34,450
+when you're trying to learn price behaviours
+
+1555
+01:17:34,450 --> 01:17:36,730
+that there's so many different variations of,
+
+1556
+01:17:37,330 --> 01:17:40,720
+then you have to add the element of human error
+
+1557
+01:17:40,720 --> 01:17:43,820
+and thinking, you know, like our brains getting inflated
+
+1558
+01:17:43,820 --> 01:17:45,860
+and our ego is being inflated sometimes
+
+1559
+01:17:45,860 --> 01:17:47,880
+because we've had like two free, good, you know, did you get it?
+
+1560
+01:17:49,230 --> 01:17:49,670
+Yeah.
+
+1561
+01:17:49,810 --> 01:17:50,170
+So yeah.
+
+1562
+01:17:51,170 --> 01:17:52,570
+If you can write through that,
+
+1563
+01:17:53,850 --> 01:17:55,090
+you're having a decent chance
+
+1564
+01:17:55,090 --> 01:17:57,850
+of being able to take two, three losses in a row,
+
+1565
+01:17:58,010 --> 01:18:00,150
+not being your fault from the market
+
+1566
+01:18:00,150 --> 01:18:01,490
+is trying to behave in a wrong way
+
+1567
+01:18:01,490 --> 01:18:02,790
+and you're surviving that day.
+
+1568
+01:18:02,810 --> 01:18:06,400
+the best way I can describe it to you
+
+1569
+01:18:06,400 --> 01:18:07,640
+is taking a day to day basis
+
+1570
+01:18:07,640 --> 01:18:09,320
+fuck where you're going to be in two years
+
+1571
+01:18:09,320 --> 01:18:10,520
+just focus on right now
+
+1572
+01:18:10,520 --> 01:18:11,120
+yeah
+
+1573
+01:18:11,120 --> 01:18:14,380
+yeah it's perfect mindset
+
+1574
+01:18:14,380 --> 01:18:17,270
+it's more appropriate man
+
+1575
+01:18:17,270 --> 01:18:19,490
+if I can show you
+
+1576
+01:18:19,490 --> 01:18:20,630
+what you can expect
+
+1577
+01:18:20,630 --> 01:18:21,510
+when you're learning
+
+1578
+01:18:21,510 --> 01:18:25,080
+at least then
+
+1579
+01:18:25,080 --> 01:18:26,700
+once you start to experience this shit
+
+1580
+01:18:26,700 --> 01:18:27,940
+you might have forgot what I told you
+
+1581
+01:18:27,940 --> 01:18:29,020
+but eventually you'll remember
+
+1582
+01:18:29,020 --> 01:18:30,140
+how this guy said
+
+1583
+01:18:30,140 --> 01:18:31,980
+it's going to be like this
+
+1584
+01:18:31,980 --> 01:18:34,660
+you will be losing
+
+1585
+01:18:34,660 --> 01:18:35,640
+a majority of your exercise
+
+1586
+01:18:35,660 --> 01:18:41,200
+You will operate, initially when you're starting out, your reference point of understanding
+
+1587
+01:18:41,200 --> 01:18:44,780
+about what's possible, where this edge, where there's not, is here.
+
+1588
+01:18:45,920 --> 01:18:54,260
+The more you feed experiences into here, structured experiences, then it gets bigger and bigger and bigger
+
+1589
+01:18:54,260 --> 01:18:58,660
+until you know a huge, vast amount of information and skill as well.
+
+1590
+01:18:59,390 --> 01:19:02,770
+But what do I mean by structured experiences?
+
+1591
+01:19:03,830 --> 01:19:06,910
+Well, you could experience and engage the market thinking,
+
+1592
+01:19:07,070 --> 01:19:14,030
+heavily manipulated that you could you could view it through false and against false principles
+
+1593
+01:19:14,030 --> 01:19:19,450
+whatever information you get from that then is likely not going to be that worthwhile or true
+
+1594
+01:19:19,450 --> 01:19:27,920
+feed those experiences off that false you know let's say seeing the market through like a false
+
+1595
+01:19:27,920 --> 01:19:32,320
+prism whatever experiences you get from that shit if you feed that into your psyche then
+
+1596
+01:19:32,320 --> 01:19:37,450
+you're just creating and like you're not actually you're not developing basically
+
+1597
+01:19:37,450 --> 01:19:45,510
+yeah it's like um it's like um it's like um iCT style how you know there's a a stop hunt usually
+
+1598
+01:19:45,510 --> 01:19:49,950
+there's another stop hunt and then when you ask someone why did this happen it's oh i just wanted
+
+1599
+01:19:49,950 --> 01:19:55,470
+to take your money again but like why why did it happen why why the other time why did it not
+
+1600
+01:19:55,470 --> 01:20:00,230
+happen then why did they not want to do it yesterday and i wanted to do it today that oh you just
+
+1601
+01:20:00,230 --> 01:20:08,200
+just like that yeah i agree they're trying to give randomness a fucking uh i
+
+1602
+01:20:08,220 --> 01:20:10,200
+a universal explanation, which is very
+
+1603
+01:20:10,200 --> 01:20:11,920
+simplistic, but
+
+1604
+01:20:11,920 --> 01:20:14,160
+not because I'm better than them.
+
+1605
+01:20:14,220 --> 01:20:16,640
+I'm never saying that. The point is
+
+1606
+01:20:16,640 --> 01:20:17,540
+they're too
+
+1607
+01:20:17,540 --> 01:20:20,960
+ignorant to
+
+1608
+01:20:20,960 --> 01:20:23,060
+realize that this requires a huge
+
+1609
+01:20:23,060 --> 01:20:24,200
+amount of effort.
+
+1610
+01:20:25,180 --> 01:20:26,680
+They've never reached that phase of learning
+
+1611
+01:20:26,680 --> 01:20:29,630
+where you can expect
+
+1612
+01:20:29,630 --> 01:20:31,870
+basically like we've just
+
+1613
+01:20:31,870 --> 01:20:33,730
+discussed, when you are going through the motions
+
+1614
+01:20:33,730 --> 01:20:35,670
+of like building intuition and learning, whatever,
+
+1615
+01:20:35,790 --> 01:20:37,750
+that progress curve
+
+1616
+01:20:37,750 --> 01:20:39,630
+is not linear and it's heavily
+
+1617
+01:20:39,630 --> 01:20:41,630
+heavily involves
+
+1618
+01:20:41,630 --> 01:20:43,410
+adversity, yeah?
+
+1619
+01:20:43,510 --> 01:20:44,010
+It's inherent.
+
+1620
+01:20:46,020 --> 01:20:47,160
+Because of the adversity
+
+1621
+01:20:47,160 --> 01:20:48,780
+that is present there,
+
+1622
+01:20:48,860 --> 01:20:50,180
+people kind of back away from it.
+
+1623
+01:20:50,180 --> 01:20:51,840
+And then they want to oversimplify
+
+1624
+01:20:51,840 --> 01:20:53,440
+and find other routes which are easier.
+
+1625
+01:20:53,640 --> 01:20:54,700
+They're taking the back door.
+
+1626
+01:20:54,920 --> 01:20:55,980
+They're taking the easy route.
+
+1627
+01:20:56,420 --> 01:20:58,280
+And then they're going to share that false information
+
+1628
+01:20:58,280 --> 01:20:59,380
+wherever everybody else
+
+1629
+01:20:59,380 --> 01:21:01,600
+where they don't actually understand shit.
+
+1630
+01:21:02,020 --> 01:21:02,680
+Yeah, they don't understand.
+
+1631
+01:21:02,680 --> 01:21:03,820
+I have a problem with that.
+
+1632
+01:21:03,900 --> 01:21:05,000
+I don't have a problem with the individual
+
+1633
+01:21:05,000 --> 01:21:06,120
+not being a taught.
+
+1634
+01:21:06,160 --> 01:21:06,580
+Did you get it?
+
+1635
+01:21:06,740 --> 01:21:08,240
+Like, I'm not better than them.
+
+1636
+01:21:08,400 --> 01:21:10,200
+But if you want to be,
+
+1637
+01:21:10,400 --> 01:21:13,780
+operating in something that is random outcome
+
+1638
+01:21:13,780 --> 01:21:15,140
+you never know the future
+
+1639
+01:21:15,140 --> 01:21:17,120
+and you're trying to predict the future basically
+
+1640
+01:21:17,120 --> 01:21:18,200
+in a consistent basis
+
+1641
+01:21:18,200 --> 01:21:20,920
+and then you tell a man to fucking simplify it
+
+1642
+01:21:20,920 --> 01:21:23,000
+come up with these false narratives
+
+1643
+01:21:23,000 --> 01:21:24,580
+you're an idiot bro
+
+1644
+01:21:24,580 --> 01:21:27,560
+you actually deserve to lose all your money
+
+1645
+01:21:27,560 --> 01:21:31,030
+not because everybody else is better
+
+1646
+01:21:31,030 --> 01:21:32,970
+none of that shit I'm not superior to anyone
+
+1647
+01:21:32,970 --> 01:21:35,150
+I'm just saying you're a fucking idiot
+
+1648
+01:21:35,150 --> 01:21:38,620
+there is typically a dynamic
+
+1649
+01:21:38,620 --> 01:21:40,540
+where people oversimplified things
+
+1650
+01:21:40,540 --> 01:21:47,240
+because they refuse to be either they have no capacity to like think critically about something
+
+1651
+01:21:47,240 --> 01:21:51,600
+or learn about it but they refuse the adversity of learning that's my i would always simplify
+
+1652
+01:21:51,600 --> 01:21:58,670
+it i'm kind of simplified right now as well but which is a hypocritical but yeah they're avoiding
+
+1653
+01:21:58,670 --> 01:22:06,230
+that adversity that's inherent to learn it yeah you can't make something that is so complex
+
+1654
+01:22:06,230 --> 01:22:12,120
+the market so simple it's not possible at least an explanation
+
+1655
+01:22:12,140 --> 01:22:18,840
+what happens you can definitely trade it in very simple ways you can trade it in very simple ways
+
+1656
+01:22:18,840 --> 01:22:26,440
+but you know why do people fight fuel the need to give these behaviors false narratives because
+
+1657
+01:22:26,440 --> 01:22:31,800
+initially they're taking trades in areas where they shouldn't be traded pointing their stops in
+
+1658
+01:22:31,800 --> 01:22:36,080
+places they shouldn't be pointed at their stops and then when they get fucked over time and time
+
+1659
+01:22:36,080 --> 01:22:41,800
+again they have to give it a reason for why they're losing the actual reason is you don't know
+
+1660
+01:22:41,800 --> 01:22:45,380
+what the fuck you're doing bro yeah that's true get it
+
+1661
+01:22:45,400 --> 01:22:47,140
+they have no edge
+
+1662
+01:22:47,140 --> 01:22:49,060
+they're seeing these trends
+
+1663
+01:22:49,060 --> 01:22:51,320
+they're applying these tools
+
+1664
+01:22:51,320 --> 01:22:53,300
+that they learn on baby pips and thinking
+
+1665
+01:22:53,300 --> 01:22:55,260
+just because on a historical chart
+
+1666
+01:22:55,260 --> 01:22:56,920
+I can find examples that it worked
+
+1667
+01:22:56,920 --> 01:22:59,020
+that it will mean it will work in the future
+
+1668
+01:22:59,020 --> 01:23:01,480
+that doesn't necessarily mean there's edge
+
+1669
+01:23:01,480 --> 01:23:04,110
+there like I said I can show you
+
+1670
+01:23:04,110 --> 01:23:05,450
+a coin toss chart
+
+1671
+01:23:05,450 --> 01:23:07,540
+and it seems
+
+1672
+01:23:07,540 --> 01:23:10,200
+it seems as if there's trends there
+
+1673
+01:23:10,200 --> 01:23:12,260
+but does that mean the trend will
+
+1674
+01:23:12,260 --> 01:23:13,720
+continue in the future
+
+1675
+01:23:13,720 --> 01:23:16,080
+and then you will be able to exploit in the future
+
+1676
+01:23:16,080 --> 01:23:18,680
+they could entirely separate arguments
+
+1677
+01:23:18,680 --> 01:23:20,440
+or entirely separate questions
+
+1678
+01:23:20,440 --> 01:23:24,970
+again it's a lack of ability to think and stuff
+
+1679
+01:23:24,970 --> 01:23:26,950
+so honestly these people
+
+1680
+01:23:26,950 --> 01:23:29,390
+they hardly know who they are themselves
+
+1681
+01:23:29,390 --> 01:23:31,110
+and like yeah
+
+1682
+01:23:31,110 --> 01:23:33,180
+I just have a huge problem
+
+1683
+01:23:33,180 --> 01:23:35,860
+with fucking shortcuts and idiots
+
+1684
+01:23:35,860 --> 01:23:39,790
+bro yeah
+
+1685
+01:23:39,790 --> 01:23:41,050
+taking the shortcut
+
+1686
+01:23:41,050 --> 01:23:44,430
+you think it's good at the time but it's just not
+
+1687
+01:23:44,430 --> 01:23:46,820
+all right bro
+
+1688
+01:23:46,820 --> 01:23:49,880
+last thing about
+
+1689
+01:23:49,880 --> 01:23:52,430
+that haven't
+
+1690
+01:23:52,430 --> 01:23:53,050
+kind of yet
+
+1691
+01:23:53,050 --> 01:23:55,050
+specifically talk to you about
+
+1692
+01:23:55,050 --> 01:23:58,140
+this is obviously
+
+1693
+01:23:58,140 --> 01:23:59,040
+the origin of the move
+
+1694
+01:23:59,040 --> 01:24:01,240
+the core liquidity
+
+1695
+01:24:01,240 --> 01:24:05,050
+and if we were to zoom out
+
+1696
+01:24:05,050 --> 01:24:06,310
+we would find that
+
+1697
+01:24:06,310 --> 01:24:07,250
+this whole area
+
+1698
+01:24:07,250 --> 01:24:08,670
+is the higher time frame
+
+1699
+01:24:08,670 --> 01:24:10,290
+shelf
+
+1700
+01:24:10,290 --> 01:24:13,460
+what does the shelf hold
+
+1701
+01:24:13,460 --> 01:24:15,570
+of this damn move
+
+1702
+01:24:15,570 --> 01:24:16,450
+what's the shelf holding
+
+1703
+01:24:16,450 --> 01:24:17,030
+so liquid
+
+1704
+01:24:17,030 --> 01:24:17,990
+shit shit
+
+1705
+01:24:17,990 --> 01:24:18,830
+shit sorry sorry sorry
+
+1706
+01:24:18,830 --> 01:24:20,460
+that is it
+
+1707
+01:24:20,460 --> 01:24:22,000
+just to validate you now
+
+1708
+01:24:22,000 --> 01:24:22,840
+I'm going to go out
+
+1709
+01:24:22,840 --> 01:24:23,740
+to the one hour chart
+
+1710
+01:24:23,740 --> 01:24:26,360
+where was there
+
+1711
+01:24:26,360 --> 01:24:27,300
+oh there you go
+
+1712
+01:24:27,300 --> 01:24:36,740
+can you see this was the last main inventory we sold sideways sold sideways this was the huge
+
+1713
+01:24:36,740 --> 01:24:43,880
+sideways before the pop yeah now if you wanted to be massively technical about it on the lower
+
+1714
+01:24:43,880 --> 01:24:50,860
+time frame what you'll see is this push price to new lows shit no no on the lower time frame
+
+1715
+01:24:50,860 --> 01:25:01,100
+you know what this I'm looking sometimes you need that granular view wow yeah so this push price to new
+
+1716
+01:25:01,100 --> 01:25:06,180
+lows, then price broke that last range here.
+
+1717
+01:25:06,580 --> 01:25:06,960
+Yeah, yeah.
+
+1718
+01:25:07,500 --> 01:25:09,440
+That was the technical breaker, but a British midflow.
+
+1719
+01:25:09,600 --> 01:25:12,260
+And then we also broke midflow earlier in the previous day.
+
+1720
+01:25:13,260 --> 01:25:15,040
+Anyway, that's not what I'm talking about.
+
+1721
+01:25:15,120 --> 01:25:22,070
+So you can have huge, huge amounts of cell volume pushing price down here,
+
+1722
+01:25:24,280 --> 01:25:25,780
+sell market order sales.
+
+1723
+01:25:26,480 --> 01:25:30,830
+So they couldn't be in a 500 million market order sell.
+
+1724
+01:25:31,410 --> 01:25:32,830
+Not in one piece.
+
+1725
+01:25:32,830 --> 01:25:36,050
+there was a market order sell here for one client
+
+1726
+01:25:36,050 --> 01:25:37,090
+that was a few million
+
+1727
+01:25:37,090 --> 01:25:39,450
+another market order sell here for another client
+
+1728
+01:25:39,450 --> 01:25:41,130
+that ended up being $200 million
+
+1729
+01:25:41,130 --> 01:25:41,550
+you get it
+
+1730
+01:25:41,550 --> 01:25:43,750
+and over the course of the selling
+
+1731
+01:25:43,750 --> 01:25:46,570
+there was a huge amount of market order sales
+
+1732
+01:25:46,570 --> 01:25:48,910
+but the reason the market order sales
+
+1733
+01:25:48,910 --> 01:25:51,170
+push price down is because there was weak by liquidity
+
+1734
+01:25:51,170 --> 01:25:54,400
+and the reason market order buys
+
+1735
+01:25:54,400 --> 01:25:56,960
+couldn't push price up is because there was huge
+
+1736
+01:25:56,960 --> 01:25:58,560
+market order sell liquidity
+
+1737
+01:25:58,560 --> 01:26:00,780
+limit order sell liquidity
+
+1738
+01:26:00,780 --> 01:26:03,020
+so we're going to know this
+
+1739
+01:26:03,020 --> 01:26:09,460
+in essence then the 500 million market order sells we're not talking about the cell limit limit orders
+
+1740
+01:26:09,460 --> 01:26:15,800
+the 500 million market order cells did not really transact individually with a lot of bi liquidity
+
+1741
+01:26:15,800 --> 01:26:24,340
+because it was all weak yeah meaning the move down is traded thinly yeah but where is the thick
+
+1742
+01:26:24,340 --> 01:26:29,620
+areas of liquidity then in this move if we know it's not on the buy side and we know the market
+
+1743
+01:26:29,620 --> 01:26:34,700
+order cells are pushing to the thin side creating weaknesses and overall the whole the
+
+1744
+01:26:34,720 --> 01:26:40,340
+whole move is weak as well just like these small fractal versions a week the whole version's weak as
+
+1745
+01:26:40,340 --> 01:26:48,220
+well where is the thick liquidity it's in the shelves where's the the shelf at this point here
+
+1746
+01:26:48,220 --> 01:26:59,020
+of the down move um which which part you referring to this move down where's the last shelf
+
+1747
+01:26:59,020 --> 01:27:09,100
+or where is the shelf which is the last base um somewhere like here sorry this down move here
+
+1748
+01:27:09,100 --> 01:27:10,780
+A to B
+
+1749
+01:27:10,780 --> 01:27:13,060
+You're not wrong about that one
+
+1750
+01:27:13,060 --> 01:27:14,240
+But I'm talking about the down move
+
+1751
+01:27:14,240 --> 01:27:15,780
+Price is selling
+
+1752
+01:27:15,780 --> 01:27:17,180
+Picked up
+
+1753
+01:27:17,180 --> 01:27:18,550
+Shifted out
+
+1754
+01:27:18,550 --> 01:27:19,750
+Range drop
+
+1755
+01:27:19,750 --> 01:27:20,970
+Range drop
+
+1756
+01:27:20,970 --> 01:27:21,830
+Where's the last space
+
+1757
+01:27:21,830 --> 01:27:25,230
+Can you see the right hand of budget
+
+1758
+01:27:25,230 --> 01:27:25,810
+Yeah perfect
+
+1759
+01:27:25,810 --> 01:27:27,050
+And then
+
+1760
+01:27:27,050 --> 01:27:28,510
+Price drops again
+
+1761
+01:27:28,510 --> 01:27:30,310
+We can see all the sell bases
+
+1762
+01:27:30,310 --> 01:27:31,630
+Prices are hardly pulling back
+
+1763
+01:27:31,630 --> 01:27:32,990
+Where's the last base
+
+1764
+01:27:32,990 --> 01:27:33,730
+That yeah
+
+1765
+01:27:33,730 --> 01:27:33,970
+Yeah
+
+1766
+01:27:33,970 --> 01:27:36,220
+Price breaks it
+
+1767
+01:27:36,220 --> 01:27:36,980
+First sign of weakness
+
+1768
+01:27:36,980 --> 01:27:38,300
+But still continues
+
+1769
+01:27:38,300 --> 01:27:39,780
+Because there's too much weakness
+
+1770
+01:27:39,780 --> 01:27:40,520
+In the bids here
+
+1771
+01:27:40,520 --> 01:27:40,960
+Yeah
+
+1772
+01:27:40,960 --> 01:28:16,170
+right the bids are so even though the sellers are showing weakness now there's still some sell liquidity left but the bids are too weak the whole price off and fuel it higher now a cell basehold sell base hold cell base hold it's a factor price run but the real point that I'm getting at here is in this move we've traded thinly on the way down at the end of it this is the real really the only area that can have sell liquidity inside of it or beneath it here once price pushes past
+
+1773
+01:28:16,170 --> 01:28:18,620
+the selling has stopped
+
+1774
+01:28:18,620 --> 01:28:19,300
+to the sell liquidity
+
+1775
+01:28:19,300 --> 01:28:19,740
+is chasing
+
+1776
+01:28:19,740 --> 01:28:20,160
+and pushing
+
+1777
+01:28:20,160 --> 01:28:21,160
+holding price down
+
+1778
+01:28:21,160 --> 01:28:23,880
+where is the real
+
+1779
+01:28:23,880 --> 01:28:24,380
+sell liquidity
+
+1780
+01:28:24,380 --> 01:28:24,760
+you're going to be
+
+1781
+01:28:24,760 --> 01:28:25,480
+if the middle
+
+1782
+01:28:25,480 --> 01:28:26,480
+is thinly traded
+
+1783
+01:28:26,480 --> 01:28:28,850
+at the origin
+
+1784
+01:28:28,850 --> 01:28:34,790
+so when price
+
+1785
+01:28:34,790 --> 01:28:35,470
+goes into bullish
+
+1786
+01:28:35,470 --> 01:28:36,150
+midflow now
+
+1787
+01:28:36,150 --> 01:28:37,070
+why is it that
+
+1788
+01:28:37,070 --> 01:28:38,410
+these highs aren't holding them
+
+1789
+01:28:38,410 --> 01:28:40,190
+we've seen price run out
+
+1790
+01:28:40,190 --> 01:28:41,430
+market order buyers
+
+1791
+01:28:41,430 --> 01:28:42,470
+get stretched out
+
+1792
+01:28:42,470 --> 01:28:43,370
+exhaust
+
+1793
+01:28:43,370 --> 01:28:44,470
+leave behind that
+
+1794
+01:28:44,470 --> 01:28:45,750
+weak thin by liquidity
+
+1795
+01:28:45,750 --> 01:28:48,790
+and light market order
+
+1796
+01:28:48,790 --> 01:28:49,930
+selling pushes price down
+
+1797
+01:28:49,930 --> 01:28:54,520
+why is it then these high retests don't hold
+
+1798
+01:28:54,520 --> 01:29:00,730
+is because this high originally wasn't put in
+
+1799
+01:29:00,730 --> 01:29:03,850
+because there was a one million trillion billion market order
+
+1800
+01:29:03,850 --> 01:29:05,030
+there's limit order cells there
+
+1801
+01:29:05,030 --> 01:29:09,210
+it's not because there was strong sell liquidity holding price down
+
+1802
+01:29:09,210 --> 01:29:12,800
+it was simply because the market order buying
+
+1803
+01:29:12,800 --> 01:29:14,560
+or pay was so so weak and thin
+
+1804
+01:29:14,560 --> 01:29:18,310
+okay right so imagine
+
+1805
+01:29:18,310 --> 01:29:20,900
+there was 10 million here
+
+1806
+01:29:20,900 --> 01:29:23,110
+four million five million there
+
+1807
+01:29:23,110 --> 01:29:24,850
+3 million there
+
+1808
+01:29:24,850 --> 01:29:25,990
+1 million there
+
+1809
+01:29:25,990 --> 01:29:26,750
+Gaps in the middle
+
+1810
+01:29:26,750 --> 01:29:27,330
+Gaps in the middle
+
+1811
+01:29:27,330 --> 01:29:27,350
+Gaps in the middle
+
+1812
+01:29:27,350 --> 01:29:27,930
+Gaps in the middle
+
+1813
+01:29:27,930 --> 01:29:29,130
+3 million there
+
+1814
+01:29:29,130 --> 01:29:31,580
+Market order by
+
+1815
+01:29:31,580 --> 01:29:32,420
+10 million
+
+1816
+01:29:32,420 --> 01:29:33,260
+pushes
+
+1817
+01:29:33,260 --> 01:29:35,360
+Fills Fills Fills Fills
+
+1818
+01:29:35,360 --> 01:29:36,100
+Until there's only
+
+1819
+01:29:36,100 --> 01:29:37,320
+1 million market order
+
+1820
+01:29:37,320 --> 01:29:37,900
+Left
+
+1821
+01:29:37,900 --> 01:29:39,060
+hits 3 million
+
+1822
+01:29:39,060 --> 01:29:39,320
+Mark
+
+1823
+01:29:39,320 --> 01:29:40,480
+Selling it order
+
+1824
+01:29:40,480 --> 01:29:41,020
+Yeah
+
+1825
+01:29:41,020 --> 01:29:42,200
+Do you get it
+
+1826
+01:29:42,200 --> 01:29:44,580
+It's not a huge
+
+1827
+01:29:44,580 --> 01:29:45,420
+amount of sell liquidity
+
+1828
+01:29:45,420 --> 01:29:48,280
+But it still absorbs
+
+1829
+01:29:48,280 --> 01:29:49,260
+That market order buying
+
+1830
+01:29:49,260 --> 01:29:49,780
+Yeah
+
+1831
+01:29:49,780 --> 01:29:51,830
+Do you get it
+
+1832
+01:29:51,830 --> 01:29:54,310
+Leave him behind
+
+1833
+01:29:54,310 --> 01:29:55,670
+To move up left behind
+
+1834
+01:29:55,670 --> 01:29:56,890
+So a bit of weakness at least.
+
+1835
+01:29:57,430 --> 01:29:59,910
+Market orders dried off, left behind a bit of weakness.
+
+1836
+01:30:00,330 --> 01:30:03,110
+Any light market order sell is able to push price down.
+
+1837
+01:30:04,210 --> 01:30:08,560
+Now once price builds back up, you know, because we know by liquidity chasing price,
+
+1838
+01:30:08,760 --> 01:30:11,980
+by the equity builds up, builds up, absorbs any light selling.
+
+1839
+01:30:12,920 --> 01:30:14,720
+We already know there's weak sell liquidity here.
+
+1840
+01:30:15,040 --> 01:30:15,280
+Yeah.
+
+1841
+01:30:16,000 --> 01:30:21,540
+Whenever the market orders come through, it's quite easily going to push through, right?
+
+1842
+01:30:23,270 --> 01:30:28,780
+Whereas, so the point I'm really making here is we already had three million.
+
+1843
+01:30:28,900 --> 01:30:30,930
+weak already
+
+1844
+01:30:30,930 --> 01:30:33,390
+then this test picked up
+
+1845
+01:30:33,390 --> 01:30:34,110
+1 million yeah
+
+1846
+01:30:34,110 --> 01:30:35,850
+because it was only 1 million market order left
+
+1847
+01:30:35,850 --> 01:30:36,370
+at the highs
+
+1848
+01:30:36,370 --> 01:30:38,920
+which made it even weaker
+
+1849
+01:30:38,920 --> 01:30:44,340
+so these mid-flow highs
+
+1850
+01:30:44,340 --> 01:30:46,800
+are not forming of strong
+
+1851
+01:30:46,800 --> 01:30:47,620
+counter liquidity
+
+1852
+01:30:47,620 --> 01:30:49,520
+but they're actually making
+
+1853
+01:30:49,520 --> 01:30:51,340
+the weak liquidity even weaker
+
+1854
+01:30:51,340 --> 01:30:52,360
+by testing them
+
+1855
+01:30:52,360 --> 01:30:53,540
+okay
+
+1856
+01:30:53,540 --> 01:30:56,770
+compare that to
+
+1857
+01:30:56,770 --> 01:30:58,510
+compare that to come back up to
+
+1858
+01:30:58,510 --> 01:31:00,450
+core where there's 1,300 million
+
+1859
+01:31:00,450 --> 01:31:03,040
+price grabs it one time
+
+1860
+01:31:03,040 --> 01:31:05,280
+the same happens here you had a market order long
+
+1861
+01:31:05,280 --> 01:31:08,760
+stretch stretch stretch stretch until there was only one million left to buy
+
+1862
+01:31:08,760 --> 01:31:13,710
+that got filled rapid there was a bit of weakness left behind in this move
+
+1863
+01:31:13,710 --> 01:31:19,240
+so at least it was weak by liquidity thinly distributed by liquidity
+
+1864
+01:31:19,240 --> 01:31:22,580
+any like market order selling pushes price down yeah yeah yeah
+
+1865
+01:31:22,580 --> 01:31:27,130
+price comes back up again what is there a whole bunch of sell liquidity to
+
+1866
+01:31:27,130 --> 01:31:31,830
+hold price down suck up any buying you can suck it up like a vacuum
+
+1867
+01:31:31,830 --> 01:31:37,020
+do you get it so that's the difference
+
+1868
+01:31:37,040 --> 01:32:07,560
+when the high is going to when the retest holds this retest here is because it's a huge huge amount of sell liquidity wanting to transact when price is embellished midflow and it puts in this high it's already hit a weak area and it's made it even weaker now yeah so when the buying comes back up you can get bam all right so the midflow extremes this is the extreme of bearish midflow this is the extreme of bullish midflow this is the extreme of bullish midflow this is the extreme of bullish midflow
+
+1869
+01:32:07,800 --> 01:32:11,170
+we do not expect retests of them.
+
+1870
+01:32:11,330 --> 01:32:12,790
+It's critical you understand that
+
+1871
+01:32:12,790 --> 01:32:14,270
+because it's already weak liquidity.
+
+1872
+01:32:15,270 --> 01:32:17,050
+The extreme is being put in
+
+1873
+01:32:17,050 --> 01:32:18,810
+not because of strong liquidity
+
+1874
+01:32:18,810 --> 01:32:19,730
+on the opposite end,
+
+1875
+01:32:21,420 --> 01:32:22,780
+but because of exhaustion.
+
+1876
+01:32:24,920 --> 01:32:25,180
+Okay.
+
+1877
+01:32:26,020 --> 01:32:27,340
+The market order is exhausting.
+
+1878
+01:32:28,160 --> 01:32:28,620
+You get it?
+
+1879
+01:32:30,550 --> 01:32:31,910
+So hopefully that makes sense.
+
+1880
+01:32:32,290 --> 01:32:33,630
+That you should be able to answer
+
+1881
+01:32:33,630 --> 01:32:37,340
+why, if I'm trying to trade counterflow,
+
+1882
+01:32:37,440 --> 01:32:38,940
+I wouldn't be taking retest, basically.
+
+1883
+01:32:40,510 --> 01:32:41,430
+In that question,
+
+1884
+01:32:41,930 --> 01:32:43,290
+that's going to wrap up
+
+1885
+01:32:43,290 --> 01:32:44,790
+today's session.
+
+1886
+01:32:46,000 --> 01:32:47,060
+If you have any questions, let me know.
+

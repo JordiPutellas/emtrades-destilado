@@ -111,6 +111,7 @@ def main():
     ap.add_argument("videos_dir", type=Path)
     ap.add_argument("--model", default="distil-large-v3")
     ap.add_argument("--out", type=Path, default=Path(__file__).parent.parent / "10_transcripciones")
+    ap.add_argument("--limit", type=int, default=0, help="max videos por tanda (0 = todos)")
     args = ap.parse_args()
 
     args.out.mkdir(parents=True, exist_ok=True)
@@ -121,6 +122,8 @@ def main():
         sys.exit(f"No hay vídeos en {args.videos_dir}")
 
     pending = [v for v in videos if not (args.out / f"{v.stem}.json").exists()]
+    if args.limit > 0:
+        pending = pending[:args.limit]
     print(f"{len(videos)} vídeos encontrados, {len(pending)} pendientes.")
     if not pending:
         return
