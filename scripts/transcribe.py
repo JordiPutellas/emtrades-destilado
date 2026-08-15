@@ -21,7 +21,7 @@ import json
 import sys
 from pathlib import Path
 
-VIDEO_EXTS = {".mp4", ".mov", ".mkv", ".avi", ".webm"}
+VIDEO_EXTS = {".mp4", ".mov", ".mkv", ".avi", ".webm", ".wav", ".m4a", ".mp3"}
 
 # Prompt inicial: sesga el decodificador hacia la jerga del método
 INITIAL_PROMPT = (
