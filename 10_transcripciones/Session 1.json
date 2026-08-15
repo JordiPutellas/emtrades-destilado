@@ -1,0 +1,2041 @@
+{
+ "file": "Session 1.mp4",
+ "duration": 1697.504,
+ "segments": [
+  {
+   "start": 0.37,
+   "end": 7.87,
+   "text": "Right, so this quick video really on OTC and exchange structure or the differences between the two,"
+  },
+  {
+   "start": 7.93,
+   "end": 14.36,
+   "text": "I've actually been meaning to make this video for quite a while, so just get straight into it."
+  },
+  {
+   "start": 14.36,
+   "end": 28.4,
+   "text": "So when we're referring to OTC or exchange, to keep it extremely simple, it's the way, it's basically the rules under which assets trade."
+  },
+  {
+   "start": 29.22,
+   "end": 32.72,
+   "text": "All right, so in FX, OTC, the specific rules I guess."
+  },
+  {
+   "start": 32.74,
+   "end": 36.94,
+   "text": "or custom to trade FX."
+  },
+  {
+   "start": 37.8,
+   "end": 45.8,
+   "text": "And then in an exchange, there's a different set of rules or customs to trade exchange-based assets."
+  },
+  {
+   "start": 46.42,
+   "end": 52.99,
+   "text": "I will say here, though, any financial product in the world can trade on OTC."
+  },
+  {
+   "start": 53.31,
+   "end": 54.91,
+   "text": "So it can be traded over-the-counter."
+  },
+  {
+   "start": 55.43,
+   "end": 59.19,
+   "text": "Think of over-the-counter as literally just buying something from a shopkeeper."
+  },
+  {
+   "start": 59.75,
+   "end": 62.91,
+   "text": "Your transaction is between you and the owner of the shop."
+  },
+  {
+   "start": 62.93,
+   "end": 69.62,
+   "text": "right that's that's where the transaction taking place just between you and the over the"
+  },
+  {
+   "start": 69.62,
+   "end": 76.82,
+   "text": "shop owner of the shop over the counter literally that's the meaning of OTC so the two"
+  },
+  {
+   "start": 76.82,
+   "end": 84.7,
+   "text": "parties in a OTC way of trading or OTC transaction is between the I guess the"
+  },
+  {
+   "start": 84.7,
+   "end": 94.54,
+   "text": "you can say the buyer and then of course the seller or the the the one that's"
+  },
+  {
+   "start": 94.54,
+   "end": 97.08,
+   "text": "providing you the service"
+  },
+  {
+   "start": 97.08,
+   "end": 99.92,
+   "text": "versus the customer"
+  },
+  {
+   "start": 99.92,
+   "end": 101.62,
+   "text": "because the customer can sell"
+  },
+  {
+   "start": 101.62,
+   "end": 103.0,
+   "text": "to a service provider as well"
+  },
+  {
+   "start": 103.0,
+   "end": 105.58,
+   "text": "now ultimately you call that"
+  },
+  {
+   "start": 105.58,
+   "end": 106.66,
+   "text": "bilateral trading"
+  },
+  {
+   "start": 106.66,
+   "end": 107.96,
+   "text": "right so"
+  },
+  {
+   "start": 107.96,
+   "end": 111.18,
+   "text": "participants or the way of trading"
+  },
+  {
+   "start": 111.18,
+   "end": 112.84,
+   "text": "and OTC will be bilateral"
+  },
+  {
+   "start": 112.84,
+   "end": 114.34,
+   "text": "between two parties"
+  },
+  {
+   "start": 114.34,
+   "end": 116.58,
+   "text": "right now the way that applies to FX"
+  },
+  {
+   "start": 116.58,
+   "end": 118.2,
+   "text": "is you go directly to a"
+  },
+  {
+   "start": 118.2,
+   "end": 119.44,
+   "text": "dealer"
+  },
+  {
+   "start": 119.44,
+   "end": 121.82,
+   "text": "is to with us"
+  },
+  {
+   "start": 121.82,
+   "end": 123.02,
+   "text": "this is our brokers"
+  },
+  {
+   "start": 123.02,
+   "end": 124.42,
+   "text": "but in the Interbank"
+  },
+  {
+   "start": 124.42,
+   "end": 130.36,
+   "text": "market, you go directly to a dealer and the dealer basically gives you liquidity, right?"
+  },
+  {
+   "start": 130.6,
+   "end": 139.56,
+   "text": "What they do with that liquidity is up to them. So here you have a, let me just pull up a pen."
+  },
+  {
+   "start": 141.09,
+   "end": 149.66,
+   "text": "So here you have a dealer, it's door with your bank, right? They have one client. Let's just say it's"
+  },
+  {
+   "start": 149.66,
+   "end": 158.18,
+   "text": "me. And then they have another client. Let's just say it's client two, all right?"
+  },
+  {
+   "start": 158.2,
+   "end": 165.45,
+   "text": "now when I place a trade with them or when I place a trade really I'm asking DB for quotes"
+  },
+  {
+   "start": 165.45,
+   "end": 174.88,
+   "text": "and the transaction is between us too okay so if I'm buying the euro and I'm selling the"
+  },
+  {
+   "start": 174.88,
+   "end": 180.75,
+   "text": "US dollars the transactions between me and Deutsche Bank now I've just bought the euro I've"
+  },
+  {
+   "start": 180.75,
+   "end": 185.17,
+   "text": "sold the US dollars Deutsche Bank have then brought the US dollars off me what they decide to"
+  },
+  {
+   "start": 185.17,
+   "end": 188.95,
+   "text": "do with that is their choice they can hold it they can filter off much it inside for"
+  },
+  {
+   "start": 188.97,
+   "end": 194.51,
+   "text": "client in-house or they can of course filter off into the broader market so just hedge"
+  },
+  {
+   "start": 194.51,
+   "end": 199.43,
+   "text": "themselves or take on the risk that's their choice that's their risk because you know it has"
+  },
+  {
+   "start": 199.43,
+   "end": 207.04,
+   "text": "nothing to do with my transaction so it's bilateral trading between two points that's OTC now in"
+  },
+  {
+   "start": 207.04,
+   "end": 214.6,
+   "text": "an exchange you essentially call it multilateral so rather than my trade also it's important to say"
+  },
+  {
+   "start": 214.6,
+   "end": 219.06,
+   "text": "here that if me and you whoever's listening to the video of me and you wanted to do it over-the-counter"
+  },
+  {
+   "start": 219.06,
+   "end": 224.26,
+   "text": "transaction, guess what, that's OTC transaction, right? It's between me and you, nobody else."
+  },
+  {
+   "start": 225.26,
+   "end": 233.22,
+   "text": "Of course, the risk is that you default. So let's say we're trading something physical, right,"
+  },
+  {
+   "start": 233.22,
+   "end": 241.47,
+   "text": "and I buy a car of you. Ultimately, if you failed to give, like, send over that car to me,"
+  },
+  {
+   "start": 242.15,
+   "end": 247.61,
+   "text": "my risk was that you're going to, you know, you're my risk, basically. So if you're ever trading on"
+  },
+  {
+   "start": 247.61,
+   "end": 252.67,
+   "text": "OTC, your counterparty risk is against whoever you're trading with, and it's usually going to be"
+  },
+  {
+   "start": 252.67,
+   "end": 254.01,
+   "text": "directly with your broker."
+  },
+  {
+   "start": 254.57,
+   "end": 260.13,
+   "text": "Even if your broker says they don't take, so you're trading on ECN, or if your broker says"
+  },
+  {
+   "start": 260.13,
+   "end": 267.52,
+   "text": "that they don't, they're not a dealing desk, they are still acting as principle, right?"
+  },
+  {
+   "start": 267.6,
+   "end": 271.64,
+   "text": "So you're buying, they're selling to you, and then they may, if they're a good broker,"
+  },
+  {
+   "start": 271.64,
+   "end": 276.32,
+   "text": "they may go and hedge that sell whatever they bought off you, if they're a good broker."
+  },
+  {
+   "start": 276.32,
+   "end": 280.36,
+   "text": "but again most of these brokers because a lot of people don't trade large amounts"
+  },
+  {
+   "start": 280.36,
+   "end": 285.48,
+   "text": "retail effects I'm talking about they don't trade large amounts maybe they're trading"
+  },
+  {
+   "start": 285.48,
+   "end": 290.54,
+   "text": "over leveraged brokers on nowadays retail brokers are probably going to just be sitting"
+  },
+  {
+   "start": 290.54,
+   "end": 294.5,
+   "text": "on the flow they're going to internalize it at best they'll match it in-house with another"
+  },
+  {
+   "start": 294.5,
+   "end": 303.72,
+   "text": "client okay because first of all is just to keep it really simple it's to send flow"
+  },
+  {
+   "start": 303.72,
+   "end": 306.64,
+   "text": "off to a I say a liquidity provider at a bank"
+  },
+  {
+   "start": 306.64,
+   "end": 310.84,
+   "text": "they won't accept anything beneath a million, anything, right?"
+  },
+  {
+   "start": 311.52,
+   "end": 314.48,
+   "text": "So that's going to be, maybe, you know, if, let's say,"
+  },
+  {
+   "start": 314.74,
+   "end": 318.34,
+   "text": "a broker doesn't want to take on risk, they'll, I shouldn't really be talking about it,"
+  },
+  {
+   "start": 318.34,
+   "end": 319.62,
+   "text": "but if a broker doesn't want to take on risk,"
+  },
+  {
+   "start": 319.7,
+   "end": 323.76,
+   "text": "they might take, you know, 5,000 orders that come in over the last 10 seconds"
+  },
+  {
+   "start": 323.76,
+   "end": 327.06,
+   "text": "or something, aggregate it, and then go ahead and hedge it, right?"
+  },
+  {
+   "start": 327.06,
+   "end": 330.06,
+   "text": "If they don't want to take the opposite side, or if they can't find in-house counterparties."
+  },
+  {
+   "start": 330.54,
+   "end": 332.54,
+   "text": "But, you know, if there's 5,000 orders come in,"
+  },
+  {
+   "start": 332.58,
+   "end": 334.12,
+   "text": "they can definitely match a few together."
+  },
+  {
+   "start": 334.12,
+   "end": 342.28,
+   "text": "anyway so why are so a central counterparty exchange based trading let's have a look at"
+  },
+  {
+   "start": 342.28,
+   "end": 353.83,
+   "text": "that multilateral is essentially there so here's the table right you can have"
+  },
+  {
+   "start": 353.83,
+   "end": 360.85,
+   "text": "your central counterparty the referee you umpire the fucking whatever you want to call it"
+  },
+  {
+   "start": 360.85,
+   "end": 368.82,
+   "text": "now whenever I place a trade okay so let's say I'm buying"
+  },
+  {
+   "start": 368.82,
+   "end": 374.08,
+   "text": "you know, 5 million euros on an exchange-based system,"
+  },
+  {
+   "start": 374.42,
+   "end": 382.88,
+   "text": "I could essentially be getting filled by 5 million divided by 1,000,"
+  },
+  {
+   "start": 383.1,
+   "end": 387.82,
+   "text": "5,000 other participants, because the minimum execution sides would be 1,000, right?"
+  },
+  {
+   "start": 388.28,
+   "end": 390.2,
+   "text": "0.01 lots."
+  },
+  {
+   "start": 391.0,
+   "end": 397.56,
+   "text": "So this could be 5 million, it could be broken down into 5,000, 0.01 lots."
+  },
+  {
+   "start": 397.56,
+   "end": 407.57,
+   "text": "and in theory it could be matched with 5,000 1K sell trades"
+  },
+  {
+   "start": 407.57,
+   "end": 411.61,
+   "text": "whilst I'm buying 5 million euros, or it could be much directly"
+  },
+  {
+   "start": 411.61,
+   "end": 414.05,
+   "text": "with a 5 million seller I could buy it."
+  },
+  {
+   "start": 414.05,
+   "end": 419.83,
+   "text": "But the point I'm making here is my trade could be against 5,000 other people"
+  },
+  {
+   "start": 419.83,
+   "end": 427.67,
+   "text": "whereas in OTC, you trades directly with the principal, with the dealer, basically, or you're broke up."
+  },
+  {
+   "start": 427.67,
+   "end": 456.35,
+   "text": "Now, essentially, think about if I was buying 5 million euros of 5,000 people, right, so 1,000 each, I think that's right, when it came to settling my trade, so when it came to actually paying them, let's say the U.S.D, I brought the euros in, and I'd have to go individually to 5,000 people and collect my money, it's going to take fucking time, right? So the central counterparty does it."
+  },
+  {
+   "start": 456.35,
+   "end": 461.81,
+   "text": "but in this instance the central counterpart if you want to go trade at this guy's table or the"
+  },
+  {
+   "start": 461.81,
+   "end": 468.05,
+   "text": "exchanges table you have to follow a strict set of rules right that's going to guarantee you"
+  },
+  {
+   "start": 468.05,
+   "end": 476.81,
+   "text": "essentially transparency especially in pricing and available equity so the CP the central"
+  },
+  {
+   "start": 476.81,
+   "end": 481.11,
+   "text": "counterpart is going to be overlooking all transactions making sure really that there's no dodgy"
+  },
+  {
+   "start": 481.11,
+   "end": 486.87,
+   "text": "shit going on although it will happen in terms of spoofing"
+  },
+  {
+   "start": 486.89,
+   "end": 488.63,
+   "text": "which is completely beside the point."
+  },
+  {
+   "start": 489.59,
+   "end": 491.49,
+   "text": "It's just a much more transparent,"
+  },
+  {
+   "start": 491.87,
+   "end": 496.45,
+   "text": "but yet complex way of executing your trades."
+  },
+  {
+   "start": 496.79,
+   "end": 498.13,
+   "text": "It's much more safer as well."
+  },
+  {
+   "start": 498.67,
+   "end": 499.43,
+   "text": "But it's important to note,"
+  },
+  {
+   "start": 499.53,
+   "end": 501.97,
+   "text": "so how I just said you can go individually to 5,000 people,"
+  },
+  {
+   "start": 502.13,
+   "end": 504.05,
+   "text": "collecting money, settle it, takes a long time."
+  },
+  {
+   "start": 504.49,
+   "end": 505.69,
+   "text": "Rather than that happening,"
+  },
+  {
+   "start": 506.37,
+   "end": 510.22,
+   "text": "my trade is settled with the counterparty."
+  },
+  {
+   "start": 510.72,
+   "end": 513.88,
+   "text": "And then, of course, this counterparty never takes on risk."
+  },
+  {
+   "start": 513.88,
+   "end": 514.8,
+   "text": "That's not their job."
+  },
+  {
+   "start": 515.02,
+   "end": 516.74,
+   "text": "They're not a dealer."
+  },
+  {
+   "start": 517.28,
+   "end": 518.66,
+   "text": "They're not essentially even a broker."
+  },
+  {
+   "start": 519.3,
+   "end": 525.34,
+   "text": "They're a referees sitting in the middle, making sure everybody gets a piece of the pie or a fear equal piece of the pie."
+  },
+  {
+   "start": 526.62,
+   "end": 540.9,
+   "text": "So you have a good example, I guess, is if you brought something from eBay on an OTC, you brought something, I sell you something, the transaction between me and you."
+  },
+  {
+   "start": 541.14,
+   "end": 542.26,
+   "text": "Okay, so you've paid me."
+  },
+  {
+   "start": 543.04,
+   "end": 544.86,
+   "text": "I haven't sent the item off."
+  },
+  {
+   "start": 545.26,
+   "end": 549.02,
+   "text": "Your risk was that I didn't send my item, right?"
+  },
+  {
+   "start": 549.02,
+   "end": 553.92,
+   "text": "So your risk on our OTC, eBay transaction is between me, the seller and you, the buyer."
+  },
+  {
+   "start": 554.42,
+   "end": 561.16,
+   "text": "Whereas on an exchange, you're actually going to send your money to the counterparty in the middle, which is eBay."
+  },
+  {
+   "start": 562.46,
+   "end": 564.56,
+   "text": "I'm going to send my package to eBay."
+  },
+  {
+   "start": 565.47,
+   "end": 568.37,
+   "text": "You're going to expect your package from eBay."
+  },
+  {
+   "start": 568.99,
+   "end": 571.55,
+   "text": "And I'm going to expect my money from eBay."
+  },
+  {
+   "start": 572.01,
+   "end": 573.65,
+   "text": "So eBay's in the middle."
+  },
+  {
+   "start": 574.78,
+   "end": 575.78,
+   "text": "You send your money."
+  },
+  {
+   "start": 576.44,
+   "end": 577.62,
+   "text": "I send my package."
+  },
+  {
+   "start": 577.62,
+   "end": 579.66,
+   "text": "eBay sends you"
+  },
+  {
+   "start": 579.66,
+   "end": 581.8,
+   "text": "my package and of course"
+  },
+  {
+   "start": 581.8,
+   "end": 583.84,
+   "text": "eBay sends me your money"
+  },
+  {
+   "start": 583.84,
+   "end": 585.78,
+   "text": "right so the middleman here"
+  },
+  {
+   "start": 585.78,
+   "end": 587.1,
+   "text": "the exchange eBay"
+  },
+  {
+   "start": 587.1,
+   "end": 590.18,
+   "text": "make sure that the trades"
+  },
+  {
+   "start": 590.18,
+   "end": 592.28,
+   "text": "are settled right so your settlement"
+  },
+  {
+   "start": 592.28,
+   "end": 593.88,
+   "text": "risk or counterparty risk is with"
+  },
+  {
+   "start": 593.88,
+   "end": 595.28,
+   "text": "the central counterparty"
+  },
+  {
+   "start": 595.28,
+   "end": 598.0,
+   "text": "that in essence"
+  },
+  {
+   "start": 598.0,
+   "end": 599.76,
+   "text": "facilitates multilateral"
+  },
+  {
+   "start": 599.76,
+   "end": 601.26,
+   "text": "trade okay"
+  },
+  {
+   "start": 601.26,
+   "end": 603.92,
+   "text": "another key point here is the central"
+  },
+  {
+   "start": 603.92,
+   "end": 605.46,
+   "text": "counterparty on an exchange"
+  },
+  {
+   "start": 605.46,
+   "end": 607.9,
+   "text": "sorry on an exchange based system"
+  },
+  {
+   "start": 608.0,
+   "end": 613.26,
+   "text": "there's only one order book because everybody's sitting on the same table right banks are at the same table"
+  },
+  {
+   "start": 613.26,
+   "end": 619.07,
+   "text": "um i'm at the same table all the clients are at the same table hedge funds whatever as long as they"
+  },
+  {
+   "start": 619.07,
+   "end": 624.85,
+   "text": "are part of the exchange they're sitting in the same table okay so let's just say this five million was"
+  },
+  {
+   "start": 624.85,
+   "end": 631.16,
+   "text": "not a market order it's a limit buy order it goes and sits in the book everybody can see it all right"
+  },
+  {
+   "start": 631.16,
+   "end": 640.04,
+   "text": "um and let's just say i'm trying to buy five million on a limit order and then of course"
+  },
+  {
+   "start": 640.28,
+   "end": 643.76,
+   "text": "you here are looking at the limit order book,"
+  },
+  {
+   "start": 644.64,
+   "end": 646.36,
+   "text": "okay, a single book, you can see that,"
+  },
+  {
+   "start": 646.46,
+   "end": 648.28,
+   "text": "okay, there's an order of $5 million here."
+  },
+  {
+   "start": 649.68,
+   "end": 652.2,
+   "text": "You can immediately hit the bid and sell"
+  },
+  {
+   "start": 652.2,
+   "end": 654.4,
+   "text": "and access $5 million worth of liquidity."
+  },
+  {
+   "start": 654.56,
+   "end": 655.24,
+   "text": "It's yours. It's there."
+  },
+  {
+   "start": 655.36,
+   "end": 656.66,
+   "text": "It's not quote-driven."
+  },
+  {
+   "start": 656.8,
+   "end": 658.24,
+   "text": "This is order-driven prices."
+  },
+  {
+   "start": 658.66,
+   "end": 662.2,
+   "text": "Essentially, whatever prices you're seeing on an exchange"
+  },
+  {
+   "start": 662.2,
+   "end": 665.78,
+   "text": "are exactly where supply meets demand, right?"
+  },
+  {
+   "start": 665.82,
+   "end": 666.66,
+   "text": "The equilibrium point."
+  },
+  {
+   "start": 667.06,
+   "end": 668.76,
+   "text": "It's always going to be the thinnest point in liquidity,"
+  },
+  {
+   "start": 668.76,
+   "end": 669.72,
+   "text": "but that's where it is."
+  },
+  {
+   "start": 669.72,
+   "end": 674.72,
+   "text": "Whereas again, on the OTC system, it's not order driven, it's actually quote driven."
+  },
+  {
+   "start": 675.6,
+   "end": 683.04,
+   "text": "So an OTC transaction, I'm here selling my car, all right, I'm selling my car."
+  },
+  {
+   "start": 684.81,
+   "end": 687.79,
+   "text": "I decide what price to sell it out, right?"
+  },
+  {
+   "start": 688.74,
+   "end": 689.3,
+   "text": "I decide."
+  },
+  {
+   "start": 690.02,
+   "end": 691.86,
+   "text": "I can actually change my prices as well."
+  },
+  {
+   "start": 692.78,
+   "end": 694.04,
+   "text": "The same applies with FX."
+  },
+  {
+   "start": 694.72,
+   "end": 700.96,
+   "text": "Docia Bank is providing quotes to their customers, not order driven quotes, not"
+  },
+  {
+   "start": 700.96,
+   "end": 703.12,
+   "text": "guaranteed quotes, but just quotes."
+  },
+  {
+   "start": 703.28,
+   "end": 704.8,
+   "text": "Your broker, if you go look in the execution"
+  },
+  {
+   "start": 704.8,
+   "end": 706.86,
+   "text": "policy, all they're providing you is"
+  },
+  {
+   "start": 706.86,
+   "end": 708.98,
+   "text": "quotes. They're not guaranteed. That's why you can get"
+  },
+  {
+   "start": 708.98,
+   "end": 710.02,
+   "text": "slipped and re-quoted"
+  },
+  {
+   "start": 710.02,
+   "end": 712.5,
+   "text": "with these larger banks."
+  },
+  {
+   "start": 712.62,
+   "end": 714.56,
+   "text": "It used to be the case anyway, where"
+  },
+  {
+   "start": 714.56,
+   "end": 717.55,
+   "text": "last look was a prevalent thing."
+  },
+  {
+   "start": 718.84,
+   "end": 719.96,
+   "text": "So, one hand,"
+  },
+  {
+   "start": 720.0,
+   "end": 721.92,
+   "text": "you have central counterparty, it facilitates"
+  },
+  {
+   "start": 721.92,
+   "end": 723.96,
+   "text": "loads of loads of transactions at once, so you can find"
+  },
+  {
+   "start": 723.96,
+   "end": 727.06,
+   "text": "liquidity, it's a limit order book,"
+  },
+  {
+   "start": 727.2,
+   "end": 729.44,
+   "text": "driven pricing, much more transparent."
+  },
+  {
+   "start": 730.04,
+   "end": 731.18,
+   "text": "Whatever ticks"
+  },
+  {
+   "start": 731.18,
+   "end": 731.94,
+   "text": "price takes,"
+  },
+  {
+   "start": 731.96,
+   "end": 737.96,
+   "text": "up and down or recorded actually on the exchange now that data how the central counterpart makes"
+  },
+  {
+   "start": 737.96,
+   "end": 745.48,
+   "text": "the money is they'll sell that data all right so um the CCP can actually let's just say this is"
+  },
+  {
+   "start": 745.48,
+   "end": 754.66,
+   "text": "showing you the price of uh let's use a real example this is showing you the price of nasdaq all right"
+  },
+  {
+   "start": 754.66,
+   "end": 761.08,
+   "text": "which is uh an index of a hundred of the hundred biggest tech companies in the u.s and think i don't"
+  },
+  {
+   "start": 761.08,
+   "end": 762.2,
+   "text": "We trade the NASDAQ, right?"
+  },
+  {
+   "start": 762.46,
+   "end": 769.92,
+   "text": "But that's the index that's trading on this exchange, and it's a futures contract."
+  },
+  {
+   "start": 770.46,
+   "end": 777.38,
+   "text": "This data is going to be replicated by your broker or by a derivative contract."
+  },
+  {
+   "start": 777.5,
+   "end": 780.54,
+   "text": "So this contract just simply reflects the price of NASDAQ."
+  },
+  {
+   "start": 780.76,
+   "end": 781.3,
+   "text": "That's all it does."
+  },
+  {
+   "start": 781.42,
+   "end": 784.24,
+   "text": "When you buy this contract, it's called a CFD."
+  },
+  {
+   "start": 784.68,
+   "end": 786.62,
+   "text": "It literally just reflects the price of NASDAQ."
+  },
+  {
+   "start": 786.62,
+   "end": 791.48,
+   "text": "In other words, your broker is taking these prices, okay?"
+  },
+  {
+   "start": 792.0,
+   "end": 796.7,
+   "text": "and essentially reflecting it in a contract, right?"
+  },
+  {
+   "start": 797.06,
+   "end": 797.98,
+   "text": "That's called the CFD."
+  },
+  {
+   "start": 798.22,
+   "end": 802.07,
+   "text": "Now, the CCP, the central counterparty,"
+  },
+  {
+   "start": 802.65,
+   "end": 808.17,
+   "text": "they will charge people, right, to access this data, right?"
+  },
+  {
+   "start": 808.23,
+   "end": 809.69,
+   "text": "That's how that essentially they're making their money."
+  },
+  {
+   "start": 809.69,
+   "end": 814.55,
+   "text": "And they also charge these guys sitting at the table a monthly fee or a yearly fee."
+  },
+  {
+   "start": 815.33,
+   "end": 819.97,
+   "text": "But it's important to, I'll say this, a lot of these brokers,"
+  },
+  {
+   "start": 820.09,
+   "end": 823.09,
+   "text": "they have these CFD contacts, but it says on the contract,"
+  },
+  {
+   "start": 823.09,
+   "end": 825.71,
+   "text": "these prices are indicative, right?"
+  },
+  {
+   "start": 826.05,
+   "end": 828.79,
+   "text": "And the prices are going to be slightly, slightly different."
+  },
+  {
+   "start": 829.69,
+   "end": 831.49,
+   "text": "So maybe like one point different"
+  },
+  {
+   "start": 831.49,
+   "end": 835.07,
+   "text": "from the actual futures contract of NASDAQ, all right?"
+  },
+  {
+   "start": 835.67,
+   "end": 837.55,
+   "text": "Ultimately, what it results in is these guys,"
+  },
+  {
+   "start": 837.67,
+   "end": 839.37,
+   "text": "these brokers that are copying the prices of NASDAQ,"
+  },
+  {
+   "start": 839.37,
+   "end": 842.05,
+   "text": "they get to sidestep the fees that the central counterparties"
+  },
+  {
+   "start": 842.05,
+   "end": 844.53,
+   "text": "will charge because they are going to charge a lot."
+  },
+  {
+   "start": 845.63,
+   "end": 847.45,
+   "text": "They're making, it's really good data."
+  },
+  {
+   "start": 847.63,
+   "end": 849.21,
+   "text": "They're providing extremely transparent."
+  },
+  {
+   "start": 849.41,
+   "end": 852.29,
+   "text": "It's true supply and demand backed by orders."
+  },
+  {
+   "start": 852.29,
+   "end": 854.79,
+   "text": "so the data costs a lot"
+  },
+  {
+   "start": 854.79,
+   "end": 857.67,
+   "text": "so OTC"
+  },
+  {
+   "start": 857.67,
+   "end": 859.57,
+   "text": "bilateral exchange"
+  },
+  {
+   "start": 859.57,
+   "end": 860.41,
+   "text": "multi-lateral"
+  },
+  {
+   "start": 860.41,
+   "end": 861.45,
+   "text": "all right"
+  },
+  {
+   "start": 861.45,
+   "end": 862.51,
+   "text": "single order book driven"
+  },
+  {
+   "start": 862.51,
+   "end": 863.29,
+   "text": "exchange"
+  },
+  {
+   "start": 863.29,
+   "end": 864.75,
+   "text": "so it's order driven"
+  },
+  {
+   "start": 864.75,
+   "end": 866.67,
+   "text": "quotes or order-driven prices"
+  },
+  {
+   "start": 866.67,
+   "end": 868.35,
+   "text": "and then OTC is"
+  },
+  {
+   "start": 868.35,
+   "end": 869.03,
+   "text": "quote driven"
+  },
+  {
+   "start": 869.03,
+   "end": 869.87,
+   "text": "okay"
+  },
+  {
+   "start": 869.87,
+   "end": 871.31,
+   "text": "in other words"
+  },
+  {
+   "start": 871.31,
+   "end": 872.33,
+   "text": "you know if I'm buying"
+  },
+  {
+   "start": 872.33,
+   "end": 873.85,
+   "text": "at the price"
+  },
+  {
+   "start": 873.85,
+   "end": 874.69,
+   "text": "quoted by DB"
+  },
+  {
+   "start": 874.69,
+   "end": 875.77,
+   "text": "doesn't mean you're going to"
+  },
+  {
+   "start": 875.77,
+   "end": 876.97,
+   "text": "guarantee you're guaranteed"
+  },
+  {
+   "start": 876.97,
+   "end": 878.25,
+   "text": "to get filled by the time"
+  },
+  {
+   "start": 878.25,
+   "end": 879.13,
+   "text": "my order reaches them"
+  },
+  {
+   "start": 879.13,
+   "end": 880.15,
+   "text": "they could deny the quote"
+  },
+  {
+   "start": 880.15,
+   "end": 882.37,
+   "text": "they could change the price"
+  },
+  {
+   "start": 882.37,
+   "end": 882.81,
+   "text": "and give"
+  },
+  {
+   "start": 882.83,
+   "end": 888.99,
+   "text": "me a re-quote. It could simply, what could also happen is someone else took that liquidity"
+  },
+  {
+   "start": 888.99,
+   "end": 893.03,
+   "text": "before my order reached. Deutsche Bank's already started to move their prices higher whilst I'm"
+  },
+  {
+   "start": 893.03,
+   "end": 900.03,
+   "text": "buying, and I get slipped. Right. It's in a fast market. Now, the products that trade on exchanges"
+  },
+  {
+   "start": 900.03,
+   "end": 908.43,
+   "text": "are some derivative contracts, right? So, so futures, options, stocks, shares, same thing."
+  },
+  {
+   "start": 908.43,
+   "end": 917.49,
+   "text": "the EES, so indices, contracts, so the ES Mini, S&P 500 Mini, these all trade on exchanges."
+  },
+  {
+   "start": 917.49,
+   "end": 923.41,
+   "text": "So there's kind of a limited, limited finite amount of assets that trade on exchanges,"
+  },
+  {
+   "start": 924.01,
+   "end": 927.19,
+   "text": "but OTC is any financial product, okay?"
+  },
+  {
+   "start": 927.57,
+   "end": 931.29,
+   "text": "Now, you might be asking, you know, or I would ask myself,"
+  },
+  {
+   "start": 932.16,
+   "end": 934.42,
+   "text": "why wouldn't everybody trade on the CCP?"
+  },
+  {
+   "start": 934.54,
+   "end": 935.96,
+   "text": "It's more transparent, it's more fair."
+  },
+  {
+   "start": 938.39,
+   "end": 940.73,
+   "text": "You get access to liquidity that's actually there."
+  },
+  {
+   "start": 940.83,
+   "end": 947.69,
+   "text": "right there's no re-quoting um you can get slipped but there's no re-quoting um it basically"
+  },
+  {
+   "start": 947.69,
+   "end": 952.57,
+   "text": "it's much more transparent right it's fair environment your counterparty risk is just with a CCP"
+  },
+  {
+   "start": 952.57,
+   "end": 958.68,
+   "text": "who is never taking on risk right so when i'm buying five million euros and the CCP is"
+  },
+  {
+   "start": 958.68,
+   "end": 965.8,
+   "text": "finding me a seller at no point the CCP is going to take on that five million in risk right"
+  },
+  {
+   "start": 965.8,
+   "end": 973.44,
+   "text": "So they are actually extremely reliable, okay, to give your money, essentially."
+  },
+  {
+   "start": 973.96,
+   "end": 979.8,
+   "text": "Whereas DB, I buy 5 million euros of them and they sell me the euros and they buy my"
+  },
+  {
+   "start": 979.8,
+   "end": 980.66,
+   "text": "USD off me."
+  },
+  {
+   "start": 981.74,
+   "end": 985.14,
+   "text": "What if, whilst this transaction was going on, right?"
+  },
+  {
+   "start": 985.14,
+   "end": 990.07,
+   "text": "So I brought euros and they brought the USD off me."
+  },
+  {
+   "start": 990.84,
+   "end": 994.96,
+   "text": "What if the value of USD just plummeted?"
+  },
+  {
+   "start": 994.96,
+   "end": 1003.73,
+   "text": "right these guys now have before the trade was settled as well i should say so i've brought the two"
+  },
+  {
+   "start": 1003.73,
+   "end": 1009.33,
+   "text": "million euros or five million euros doesn't mean you get it in an instant okay it's settled in two"
+  },
+  {
+   "start": 1009.33,
+   "end": 1015.49,
+   "text": "days that is called fx transactions will have this on their policies it's basically the transaction"
+  },
+  {
+   "start": 1015.49,
+   "end": 1021.53,
+   "text": "is settled in two days so if i buy five million right now my my transaction i'll get the actual"
+  },
+  {
+   "start": 1021.53,
+   "end": 1025.71,
+   "text": "money if i wanted to access it in physical cash uh if i'm trading on the internet"
+  },
+  {
+   "start": 1025.73,
+   "end": 1034.15,
+   "text": "bank especially um in two days okay now if that's the case right and i've brought five million euros"
+  },
+  {
+   "start": 1034.15,
+   "end": 1043.49,
+   "text": "i've paid maybe yeah i've paid db uh five million euros worth of dollars and at that time the"
+  },
+  {
+   "start": 1043.49,
+   "end": 1049.41,
+   "text": "usd plummet so much so just just think about what's happened here that db took on and brought"
+  },
+  {
+   "start": 1049.41,
+   "end": 1056.31,
+   "text": "us dollars and the u.s dollars plummeting so much so that db is not and now has uh"
+  },
+  {
+   "start": 1056.63,
+   "end": 1062.0,
+   "text": "liabilities that are greater than their assets, right?"
+  },
+  {
+   "start": 1062.12,
+   "end": 1065.64,
+   "text": "So they're owning, their own US dollars,"
+  },
+  {
+   "start": 1065.94,
+   "end": 1068.28,
+   "text": "but the value of those US dollars are plummeting,"
+  },
+  {
+   "start": 1068.36,
+   "end": 1071.5,
+   "text": "so they're worth nothing and they're in a big fat hole, right?"
+  },
+  {
+   "start": 1072.06,
+   "end": 1073.06,
+   "text": "How are they then?"
+  },
+  {
+   "start": 1073.26,
+   "end": 1074.88,
+   "text": "And basically the total value of their assets,"
+  },
+  {
+   "start": 1074.98,
+   "end": 1076.2,
+   "text": "including everything that they have,"
+  },
+  {
+   "start": 1076.26,
+   "end": 1077.26,
+   "text": "the buildings were valued,"
+  },
+  {
+   "start": 1077.46,
+   "end": 1079.92,
+   "text": "all the other derivative contracts that they have,"
+  },
+  {
+   "start": 1080.12,
+   "end": 1081.86,
+   "text": "plus this US dollar that's plummeting,"
+  },
+  {
+   "start": 1082.06,
+   "end": 1085.06,
+   "text": "all the, you know, MS, MBSs that they hold everything."
+  },
+  {
+   "start": 1085.76,
+   "end": 1087.34,
+   "text": "The total value of the assets,"
+  },
+  {
+   "start": 1087.36,
+   "end": 1089.34,
+   "text": "by maybe even a small percentage"
+  },
+  {
+   "start": 1089.34,
+   "end": 1091.52,
+   "text": "has just dropped beneath their liabilities."
+  },
+  {
+   "start": 1092.14,
+   "end": 1093.4,
+   "text": "They now can't settle"
+  },
+  {
+   "start": 1093.4,
+   "end": 1096.52,
+   "text": "my 5 million euro trade in two days."
+  },
+  {
+   "start": 1098.51,
+   "end": 1100.71,
+   "text": "Right? So again, the counterparty risk is real."
+  },
+  {
+   "start": 1101.39,
+   "end": 1104.23,
+   "text": "In 2015, the FXCM, a broker,"
+  },
+  {
+   "start": 1105.53,
+   "end": 1106.11,
+   "text": "they went,"
+  },
+  {
+   "start": 1108.1,
+   "end": 1109.1,
+   "text": "basically they had a long,"
+  },
+  {
+   "start": 1109.4,
+   "end": 1112.72,
+   "text": "they had a short exposure on the Swiss franc."
+  },
+  {
+   "start": 1113.32,
+   "end": 1115.5,
+   "text": "The S&B basically just pulled the floor."
+  },
+  {
+   "start": 1117.65,
+   "end": 1118.97,
+   "text": "No, they didn't pull the floor."
+  },
+  {
+   "start": 1118.97,
+   "end": 1119.91,
+   "text": "they stopped"
+  },
+  {
+   "start": 1119.91,
+   "end": 1122.61,
+   "text": "suppressing the value of"
+  },
+  {
+   "start": 1122.61,
+   "end": 1124.18,
+   "text": "the Swiss franc"
+  },
+  {
+   "start": 1124.18,
+   "end": 1126.62,
+   "text": "and essentially the Swiss franc"
+  },
+  {
+   "start": 1126.62,
+   "end": 1127.98,
+   "text": "he had a big flash crash"
+  },
+  {
+   "start": 1127.98,
+   "end": 1129.5,
+   "text": "right the USD Swiss franc"
+  },
+  {
+   "start": 1129.5,
+   "end": 1131.56,
+   "text": "dropped massively like a thousand or"
+  },
+  {
+   "start": 1131.56,
+   "end": 1133.06,
+   "text": "3,000 pips in a single day"
+  },
+  {
+   "start": 1133.06,
+   "end": 1134.5,
+   "text": "literally in minutes I think"
+  },
+  {
+   "start": 1134.5,
+   "end": 1139.15,
+   "text": "yeah so FXEM had a"
+  },
+  {
+   "start": 1139.15,
+   "end": 1141.25,
+   "text": "$300 million hole that day"
+  },
+  {
+   "start": 1141.25,
+   "end": 1143.31,
+   "text": "right so in other words"
+  },
+  {
+   "start": 1143.31,
+   "end": 1145.45,
+   "text": "some of their clients were long"
+  },
+  {
+   "start": 1145.45,
+   "end": 1147.78,
+   "text": "sorry some of their clients were long"
+  },
+  {
+   "start": 1147.78,
+   "end": 1149.64,
+   "text": "Swiss franc against the US dollar"
+  },
+  {
+   "start": 1149.64,
+   "end": 1150.9,
+   "text": "so on the US"
+  },
+  {
+   "start": 1150.92,
+   "end": 1156.54,
+   "text": "S.D. Swiss franc, right? They were short. They were long, this, they were short the"
+  },
+  {
+   "start": 1156.54,
+   "end": 1163.28,
+   "text": "USD, so it's a short position. And FXM were now long USD Swiss franc, and this is what"
+  },
+  {
+   "start": 1163.28,
+   "end": 1170.64,
+   "text": "the pair was doing, right? They had a $300 million hole, but they had clients who were massively"
+  },
+  {
+   "start": 1170.64,
+   "end": 1176.02,
+   "text": "up on this short position. They couldn't pay them out because they didn't have enough money."
+  },
+  {
+   "start": 1176.02,
+   "end": 1181.64,
+   "text": "Their liabilities were now bigger than the assets, right? But they had to go"
+  },
+  {
+   "start": 1181.66,
+   "end": 1188.18,
+   "text": "don't get a loan from a bank for 300 million, right? So counterparty risk is very real. It's true."
+  },
+  {
+   "start": 1188.72,
+   "end": 1192.66,
+   "text": "It exists. That's why you don't keep a lot of your money with any of these shitty little brokers."
+  },
+  {
+   "start": 1193.66,
+   "end": 1197.82,
+   "text": "Do it's your bank a less like its default because they're just my high, they capitalized well."
+  },
+  {
+   "start": 1198.82,
+   "end": 1208.47,
+   "text": "But, you know, in 2008, Lehman Brothers collapsed. So these banks aren't indestructible. I forgot the"
+  },
+  {
+   "start": 1208.47,
+   "end": 1214.57,
+   "text": "over word, right? They're not immune to risk. Anyway, so if that's the case, these structures,"
+  },
+  {
+   "start": 1214.89,
+   "end": 1217.9,
+   "text": "one's much, much more better"
+  },
+  {
+   "start": 1217.9,
+   "end": 1220.04,
+   "text": "and the other one's more risky"
+  },
+  {
+   "start": 1220.04,
+   "end": 1222.0,
+   "text": "why would anyone trade on OTC"
+  },
+  {
+   "start": 1222.0,
+   "end": 1223.46,
+   "text": "well first of all"
+  },
+  {
+   "start": 1223.46,
+   "end": 1225.58,
+   "text": "it's like custom"
+  },
+  {
+   "start": 1225.58,
+   "end": 1226.54,
+   "text": "right"
+  },
+  {
+   "start": 1226.54,
+   "end": 1230.92,
+   "text": "when the FX market started out"
+  },
+  {
+   "start": 1230.92,
+   "end": 1231.74,
+   "text": "that's where"
+  },
+  {
+   "start": 1231.74,
+   "end": 1234.53,
+   "text": "there was an OTC structure that the banks"
+  },
+  {
+   "start": 1234.53,
+   "end": 1236.49,
+   "text": "were dealing with each other on and still do to this day"
+  },
+  {
+   "start": 1236.49,
+   "end": 1238.05,
+   "text": "it's just custom right"
+  },
+  {
+   "start": 1238.05,
+   "end": 1239.75,
+   "text": "but secondly"
+  },
+  {
+   "start": 1239.75,
+   "end": 1241.25,
+   "text": "it's anonymous"
+  },
+  {
+   "start": 1241.25,
+   "end": 1243.45,
+   "text": "if me and you do a transaction"
+  },
+  {
+   "start": 1243.45,
+   "end": 1245.19,
+   "text": "nobody else has to know about it"
+  },
+  {
+   "start": 1245.21,
+   "end": 1251.82,
+   "text": "On an exchange, on an exchange, the transaction is recorded, essentially."
+  },
+  {
+   "start": 1252.85,
+   "end": 1253.03,
+   "text": "Right."
+  },
+  {
+   "start": 1253.65,
+   "end": 1259.19,
+   "text": "Now, also, the exchange-based trading has very strict rules, right?"
+  },
+  {
+   "start": 1259.23,
+   "end": 1260.45,
+   "text": "You have to abide by the rules."
+  },
+  {
+   "start": 1261.15,
+   "end": 1266.53,
+   "text": "But what about, and really, those rules are supporting or facilitating trade"
+  },
+  {
+   "start": 1266.53,
+   "end": 1271.35,
+   "text": "amongst competitive trading or competitive participants, right?"
+  },
+  {
+   "start": 1271.67,
+   "end": 1273.85,
+   "text": "I want liquidity quick, I want it there right now."
+  },
+  {
+   "start": 1273.85,
+   "end": 1283.72,
+   "text": "you know it's much more I guess accustomed for speculative trading and competitive trading"
+  },
+  {
+   "start": 1283.72,
+   "end": 1292.28,
+   "text": "whereas OTC especially affects the the participants aren't necessarily speculative they might"
+  },
+  {
+   "start": 1292.28,
+   "end": 1297.72,
+   "text": "actually have different needs I am because OTC is much more relaxed in terms of regulation and"
+  },
+  {
+   "start": 1297.72,
+   "end": 1302.6,
+   "text": "rule based trading it's not even rule based trading it's principle based trading we trade based on these"
+  },
+  {
+   "start": 1302.6,
+   "end": 1306.26,
+   "text": "general customs that we uh been trading on for the last"
+  },
+  {
+   "start": 1306.28,
+   "end": 1311.78,
+   "text": "100 years or however long it is, 50 years, we're going to stick by them. It gives them more"
+  },
+  {
+   "start": 1311.78,
+   "end": 1317.26,
+   "text": "flexibility to bend the rules, bend the prices. Not even bend the prices, just provide solutions"
+  },
+  {
+   "start": 1317.26,
+   "end": 1324.98,
+   "text": "for different types of clients. So if a client want to do a specific type of FX deal,"
+  },
+  {
+   "start": 1325.24,
+   "end": 1331.38,
+   "text": "they could build essentially a solution for that, right, or provide a solution for that. In an exchange"
+  },
+  {
+   "start": 1331.38,
+   "end": 1335.96,
+   "text": "where it's trading, you don't get to do that. It's just the rules of the exchange or the rules you abide"
+  },
+  {
+   "start": 1335.96,
+   "end": 1345.29,
+   "text": "by right so yeah that's really the main reason it's much more flexible and you"
+  },
+  {
+   "start": 1345.29,
+   "end": 1348.93,
+   "text": "can have multinational corporations trading on OTC you can have hedge fund"
+  },
+  {
+   "start": 1348.93,
+   "end": 1354.84,
+   "text": "managers trying to trade overseas you can have speculative trading it's important"
+  },
+  {
+   "start": 1354.84,
+   "end": 1359.8,
+   "text": "to know that they are I guess you could call it like an exchange models in"
+  },
+  {
+   "start": 1359.8,
+   "end": 1367.51,
+   "text": "FX which is LMAX all right so LMAX are basically here"
+  },
+  {
+   "start": 1370.92,
+   "end": 1381.27,
+   "text": "all right they run a table the banks sit at a table all right and the bank's plug in actual quotes"
+  },
+  {
+   "start": 1381.27,
+   "end": 1386.71,
+   "text": "so here's the order book of the table the bank is plugging in actual quotes in the form of"
+  },
+  {
+   "start": 1386.71,
+   "end": 1392.47,
+   "text": "limit orders all right and then you are also plugging in limit orders or you can take the liquidity"
+  },
+  {
+   "start": 1392.47,
+   "end": 1398.58,
+   "text": "as well and again let's just say you're a client that's buying okay your trade goes to the limit order"
+  },
+  {
+   "start": 1398.58,
+   "end": 1404.31,
+   "text": "book, right? There's no recourse because it's order driven. If there's liquidity there, you take"
+  },
+  {
+   "start": 1404.31,
+   "end": 1412.03,
+   "text": "it. Obviously, then LMAX, essentially it goes to the order book. You're trying to buy the liquidity"
+  },
+  {
+   "start": 1412.03,
+   "end": 1418.13,
+   "text": "that this bank again, let's just call it Deutsche Bank. This Deutsche Bank has a set limit. You're buying"
+  },
+  {
+   "start": 1418.13,
+   "end": 1426.7,
+   "text": "that set limit up, all right, at the top of the book, let's just say. Your order, let's just say"
+  },
+  {
+   "start": 1426.7,
+   "end": 1433.42,
+   "text": "again there's a million limit order sell you're buying a million right the way it's done is your"
+  },
+  {
+   "start": 1433.42,
+   "end": 1440.88,
+   "text": "order goes to try and take this right but what actually happens is you buy one million of elmax"
+  },
+  {
+   "start": 1440.88,
+   "end": 1450.87,
+   "text": "lmax simultaneously go and get the one million from dosha bank and your risk is with elmx not with"
+  },
+  {
+   "start": 1450.87,
+   "end": 1454.17,
+   "text": "do you should make so it's a exchange based trading there's a single order book"
+  },
+  {
+   "start": 1454.17,
+   "end": 1462.72,
+   "text": "um it's order driven prices so it acts as an exchange but it's basically"
+  },
+  {
+   "start": 1462.72,
+   "end": 1470.22,
+   "text": "called it mtf a multilateral trading facility all right and then you have I guess"
+  },
+  {
+   "start": 1470.22,
+   "end": 1475.93,
+   "text": "ECNs which are read these ones are good ECNs like hotspot all right again"
+  },
+  {
+   "start": 1475.93,
+   "end": 1483.34,
+   "text": "they're just the third party aggregator that has deals they have deals"
+  },
+  {
+   "start": 1483.36,
+   "end": 1489.87,
+   "text": "And I guess, yeah, basically I have credit lines with the interbank market, right?"
+  },
+  {
+   "start": 1489.87,
+   "end": 1494.37,
+   "text": "So with one bank, two bank, three bank, four bank, they're connected through something"
+  },
+  {
+   "start": 1494.37,
+   "end": 1500.09,
+   "text": "called APIs, all right, the individual connections, right?"
+  },
+  {
+   "start": 1500.09,
+   "end": 1507.18,
+   "text": "So hotspot, you'll be taking this liquidity, pouring it into essentially an ECN."
+  },
+  {
+   "start": 1507.18,
+   "end": 1513.66,
+   "text": "And in this ECN, you can access this as well, okay."
+  },
+  {
+   "start": 1513.66,
+   "end": 1519.75,
+   "text": "liquidity from their liquidity providers that they can access is also plugged into the"
+  },
+  {
+   "start": 1519.75,
+   "end": 1524.85,
+   "text": "ECM gives you relatively tight spreads it's anonymous order routing hotspot do not"
+  },
+  {
+   "start": 1524.85,
+   "end": 1529.16,
+   "text": "take on this risk they just facilitate trade again right the third-party"
+  },
+  {
+   "start": 1529.16,
+   "end": 1536.79,
+   "text": "ego gear and then you know your brokers are doing this they'll be connected to a"
+  },
+  {
+   "start": 1536.79,
+   "end": 1542.07,
+   "text": "company like hotspot maybe two three hotspot it might be FX all"
+  },
+  {
+   "start": 1542.07,
+   "end": 1546.41,
+   "text": "Korenx all right they might be connected to all three you're placing a trade"
+  },
+  {
+   "start": 1546.73,
+   "end": 1552.99,
+   "text": "the broker's filling you that's it you're placing a trade your broker's filling you what they do"
+  },
+  {
+   "start": 1552.99,
+   "end": 1557.23,
+   "text": "with that you know what they do with by filling you what they do with the liquidity that they're taking"
+  },
+  {
+   "start": 1557.23,
+   "end": 1562.81,
+   "text": "on is their choice really but they can take on the risk again they can most of the time they can"
+  },
+  {
+   "start": 1562.81,
+   "end": 1566.83,
+   "text": "take on the risk because people are shit if they don't want to take on the risk they'll just"
+  },
+  {
+   "start": 1566.83,
+   "end": 1572.03,
+   "text": "match it in-house with another client right this guy's buying this guy's selling all right much them up"
+  },
+  {
+   "start": 1572.03,
+   "end": 1578.66,
+   "text": "2. We don't have to send it through to HotSpot or Koronex. If you're trading on MT4,"
+  },
+  {
+   "start": 1579.46,
+   "end": 1586.28,
+   "text": "these guys are quoting prices individually to your broker. Your broker is taking those"
+  },
+  {
+   "start": 1586.28,
+   "end": 1593.28,
+   "text": "quotes and actually putting it in manually into MT4 through the back office. Whereas C-trader"
+  },
+  {
+   "start": 1593.28,
+   "end": 1601.61,
+   "text": "directly runs the quotes from these guys. It runs the quotes on your platform that you see"
+  },
+  {
+   "start": 1601.61,
+   "end": 1605.21,
+   "text": "directly from the third party aggregate is"
+  },
+  {
+   "start": 1605.21,
+   "end": 1608.13,
+   "text": "the broker's connected to it"
+  },
+  {
+   "start": 1608.13,
+   "end": 1610.43,
+   "text": "and then you're connected I guess"
+  },
+  {
+   "start": 1610.43,
+   "end": 1612.89,
+   "text": "through C-trader, we're onto your broker's server."
+  },
+  {
+   "start": 1613.53,
+   "end": 1615.73,
+   "text": "Now when you place a trade on C-trader,"
+  },
+  {
+   "start": 1616.09,
+   "end": 1617.25,
+   "text": "it hits your broker's server"
+  },
+  {
+   "start": 1617.25,
+   "end": 1620.93,
+   "text": "at the price quoted by these third parties"
+  },
+  {
+   "start": 1620.93,
+   "end": 1624.06,
+   "text": "and essentially"
+  },
+  {
+   "start": 1624.06,
+   "end": 1627.34,
+   "text": "basically the broker can fill you"
+  },
+  {
+   "start": 1627.34,
+   "end": 1629.14,
+   "text": "and hedge it with these third parties"
+  },
+  {
+   "start": 1629.14,
+   "end": 1631.64,
+   "text": "or they can just fill you and internalize the flow"
+  },
+  {
+   "start": 1631.64,
+   "end": 1635.72,
+   "text": "but at no point does the broker have control over the prices."
+  },
+  {
+   "start": 1636.0,
+   "end": 1636.8,
+   "text": "That's the key thing."
+  },
+  {
+   "start": 1636.98,
+   "end": 1639.58,
+   "text": "So it's slightly more transparent, right?"
+  },
+  {
+   "start": 1639.62,
+   "end": 1642.2,
+   "text": "It's not completely because the broker can still trade against you,"
+  },
+  {
+   "start": 1642.58,
+   "end": 1644.72,
+   "text": "but only at the price is quoted by the real market."
+  },
+  {
+   "start": 1645.36,
+   "end": 1645.58,
+   "text": "All right."
+  },
+  {
+   "start": 1647.92,
+   "end": 1653.62,
+   "text": "So you have MTFs, you have ECNs, and you have this retail model shit."
+  },
+  {
+   "start": 1659.99,
+   "end": 1663.04,
+   "text": "OTC exchange is simply that."
+  },
+  {
+   "start": 1664.06,
+   "end": 1666.36,
+   "text": "OTC is good, flexible."
+  },
+  {
+   "start": 1666.56,
+   "end": 1670.2,
+   "text": "anonymous really you're going to get some"
+  },
+  {
+   "start": 1670.2,
+   "end": 1674.38,
+   "text": "some of the dodgy practices on OTC"
+  },
+  {
+   "start": 1674.38,
+   "end": 1676.48,
+   "text": "because it's hard to regulate it"
+  },
+  {
+   "start": 1676.48,
+   "end": 1678.74,
+   "text": "it's really hard to find out what a transaction"
+  },
+  {
+   "start": 1678.74,
+   "end": 1681.46,
+   "text": "or what kind of transaction happened just between two parties"
+  },
+  {
+   "start": 1681.46,
+   "end": 1684.4,
+   "text": "but I would say you know these main banks these main"
+  },
+  {
+   "start": 1684.4,
+   "end": 1688.38,
+   "text": "dealers they're tier one banks they abide by the"
+  },
+  {
+   "start": 1688.38,
+   "end": 1689.98,
+   "text": "global FX code"
+  },
+  {
+   "start": 1689.98,
+   "end": 1693.1,
+   "text": "it's just hard to enforce it"
+  },
+  {
+   "start": 1693.1,
+   "end": 1694.64,
+   "text": "but anyway if you have any questions"
+  },
+  {
+   "start": 1694.64,
+   "end": 1695.46,
+   "text": "I don't know"
+  }
+ ]
+}

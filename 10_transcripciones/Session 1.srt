@@ -1,0 +1,1628 @@
+1
+00:00:00,370 --> 00:00:07,870
+Right, so this quick video really on OTC and exchange structure or the differences between the two,
+
+2
+00:00:07,930 --> 00:00:14,360
+I've actually been meaning to make this video for quite a while, so just get straight into it.
+
+3
+00:00:14,360 --> 00:00:28,400
+So when we're referring to OTC or exchange, to keep it extremely simple, it's the way, it's basically the rules under which assets trade.
+
+4
+00:00:29,220 --> 00:00:32,720
+All right, so in FX, OTC, the specific rules I guess.
+
+5
+00:00:32,740 --> 00:00:36,940
+or custom to trade FX.
+
+6
+00:00:37,800 --> 00:00:45,800
+And then in an exchange, there's a different set of rules or customs to trade exchange-based assets.
+
+7
+00:00:46,420 --> 00:00:52,990
+I will say here, though, any financial product in the world can trade on OTC.
+
+8
+00:00:53,310 --> 00:00:54,910
+So it can be traded over-the-counter.
+
+9
+00:00:55,430 --> 00:00:59,190
+Think of over-the-counter as literally just buying something from a shopkeeper.
+
+10
+00:00:59,750 --> 00:01:02,910
+Your transaction is between you and the owner of the shop.
+
+11
+00:01:02,930 --> 00:01:09,620
+right that's that's where the transaction taking place just between you and the over the
+
+12
+00:01:09,620 --> 00:01:16,820
+shop owner of the shop over the counter literally that's the meaning of OTC so the two
+
+13
+00:01:16,820 --> 00:01:24,700
+parties in a OTC way of trading or OTC transaction is between the I guess the
+
+14
+00:01:24,700 --> 00:01:34,540
+you can say the buyer and then of course the seller or the the the one that's
+
+15
+00:01:34,540 --> 00:01:37,080
+providing you the service
+
+16
+00:01:37,080 --> 00:01:39,920
+versus the customer
+
+17
+00:01:39,920 --> 00:01:41,620
+because the customer can sell
+
+18
+00:01:41,620 --> 00:01:43,000
+to a service provider as well
+
+19
+00:01:43,000 --> 00:01:45,580
+now ultimately you call that
+
+20
+00:01:45,580 --> 00:01:46,660
+bilateral trading
+
+21
+00:01:46,660 --> 00:01:47,960
+right so
+
+22
+00:01:47,960 --> 00:01:51,180
+participants or the way of trading
+
+23
+00:01:51,180 --> 00:01:52,840
+and OTC will be bilateral
+
+24
+00:01:52,840 --> 00:01:54,340
+between two parties
+
+25
+00:01:54,340 --> 00:01:56,580
+right now the way that applies to FX
+
+26
+00:01:56,580 --> 00:01:58,200
+is you go directly to a
+
+27
+00:01:58,200 --> 00:01:59,440
+dealer
+
+28
+00:01:59,440 --> 00:02:01,820
+is to with us
+
+29
+00:02:01,820 --> 00:02:03,020
+this is our brokers
+
+30
+00:02:03,020 --> 00:02:04,420
+but in the Interbank
+
+31
+00:02:04,420 --> 00:02:10,360
+market, you go directly to a dealer and the dealer basically gives you liquidity, right?
+
+32
+00:02:10,600 --> 00:02:19,560
+What they do with that liquidity is up to them. So here you have a, let me just pull up a pen.
+
+33
+00:02:21,090 --> 00:02:29,660
+So here you have a dealer, it's door with your bank, right? They have one client. Let's just say it's
+
+34
+00:02:29,660 --> 00:02:38,180
+me. And then they have another client. Let's just say it's client two, all right?
+
+35
+00:02:38,200 --> 00:02:45,450
+now when I place a trade with them or when I place a trade really I'm asking DB for quotes
+
+36
+00:02:45,450 --> 00:02:54,880
+and the transaction is between us too okay so if I'm buying the euro and I'm selling the
+
+37
+00:02:54,880 --> 00:03:00,750
+US dollars the transactions between me and Deutsche Bank now I've just bought the euro I've
+
+38
+00:03:00,750 --> 00:03:05,170
+sold the US dollars Deutsche Bank have then brought the US dollars off me what they decide to
+
+39
+00:03:05,170 --> 00:03:08,950
+do with that is their choice they can hold it they can filter off much it inside for
+
+40
+00:03:08,970 --> 00:03:14,510
+client in-house or they can of course filter off into the broader market so just hedge
+
+41
+00:03:14,510 --> 00:03:19,430
+themselves or take on the risk that's their choice that's their risk because you know it has
+
+42
+00:03:19,430 --> 00:03:27,040
+nothing to do with my transaction so it's bilateral trading between two points that's OTC now in
+
+43
+00:03:27,040 --> 00:03:34,600
+an exchange you essentially call it multilateral so rather than my trade also it's important to say
+
+44
+00:03:34,600 --> 00:03:39,060
+here that if me and you whoever's listening to the video of me and you wanted to do it over-the-counter
+
+45
+00:03:39,060 --> 00:03:44,260
+transaction, guess what, that's OTC transaction, right? It's between me and you, nobody else.
+
+46
+00:03:45,260 --> 00:03:53,220
+Of course, the risk is that you default. So let's say we're trading something physical, right,
+
+47
+00:03:53,220 --> 00:04:01,470
+and I buy a car of you. Ultimately, if you failed to give, like, send over that car to me,
+
+48
+00:04:02,150 --> 00:04:07,610
+my risk was that you're going to, you know, you're my risk, basically. So if you're ever trading on
+
+49
+00:04:07,610 --> 00:04:12,670
+OTC, your counterparty risk is against whoever you're trading with, and it's usually going to be
+
+50
+00:04:12,670 --> 00:04:14,010
+directly with your broker.
+
+51
+00:04:14,570 --> 00:04:20,130
+Even if your broker says they don't take, so you're trading on ECN, or if your broker says
+
+52
+00:04:20,130 --> 00:04:27,520
+that they don't, they're not a dealing desk, they are still acting as principle, right?
+
+53
+00:04:27,600 --> 00:04:31,640
+So you're buying, they're selling to you, and then they may, if they're a good broker,
+
+54
+00:04:31,640 --> 00:04:36,320
+they may go and hedge that sell whatever they bought off you, if they're a good broker.
+
+55
+00:04:36,320 --> 00:04:40,360
+but again most of these brokers because a lot of people don't trade large amounts
+
+56
+00:04:40,360 --> 00:04:45,480
+retail effects I'm talking about they don't trade large amounts maybe they're trading
+
+57
+00:04:45,480 --> 00:04:50,540
+over leveraged brokers on nowadays retail brokers are probably going to just be sitting
+
+58
+00:04:50,540 --> 00:04:54,500
+on the flow they're going to internalize it at best they'll match it in-house with another
+
+59
+00:04:54,500 --> 00:05:03,720
+client okay because first of all is just to keep it really simple it's to send flow
+
+60
+00:05:03,720 --> 00:05:06,640
+off to a I say a liquidity provider at a bank
+
+61
+00:05:06,640 --> 00:05:10,840
+they won't accept anything beneath a million, anything, right?
+
+62
+00:05:11,520 --> 00:05:14,480
+So that's going to be, maybe, you know, if, let's say,
+
+63
+00:05:14,740 --> 00:05:18,340
+a broker doesn't want to take on risk, they'll, I shouldn't really be talking about it,
+
+64
+00:05:18,340 --> 00:05:19,620
+but if a broker doesn't want to take on risk,
+
+65
+00:05:19,700 --> 00:05:23,760
+they might take, you know, 5,000 orders that come in over the last 10 seconds
+
+66
+00:05:23,760 --> 00:05:27,060
+or something, aggregate it, and then go ahead and hedge it, right?
+
+67
+00:05:27,060 --> 00:05:30,060
+If they don't want to take the opposite side, or if they can't find in-house counterparties.
+
+68
+00:05:30,540 --> 00:05:32,540
+But, you know, if there's 5,000 orders come in,
+
+69
+00:05:32,580 --> 00:05:34,120
+they can definitely match a few together.
+
+70
+00:05:34,120 --> 00:05:42,280
+anyway so why are so a central counterparty exchange based trading let's have a look at
+
+71
+00:05:42,280 --> 00:05:53,830
+that multilateral is essentially there so here's the table right you can have
+
+72
+00:05:53,830 --> 00:06:00,850
+your central counterparty the referee you umpire the fucking whatever you want to call it
+
+73
+00:06:00,850 --> 00:06:08,820
+now whenever I place a trade okay so let's say I'm buying
+
+74
+00:06:08,820 --> 00:06:14,080
+you know, 5 million euros on an exchange-based system,
+
+75
+00:06:14,420 --> 00:06:22,880
+I could essentially be getting filled by 5 million divided by 1,000,
+
+76
+00:06:23,100 --> 00:06:27,820
+5,000 other participants, because the minimum execution sides would be 1,000, right?
+
+77
+00:06:28,280 --> 00:06:30,200
+0.01 lots.
+
+78
+00:06:31,000 --> 00:06:37,560
+So this could be 5 million, it could be broken down into 5,000, 0.01 lots.
+
+79
+00:06:37,560 --> 00:06:47,570
+and in theory it could be matched with 5,000 1K sell trades
+
+80
+00:06:47,570 --> 00:06:51,610
+whilst I'm buying 5 million euros, or it could be much directly
+
+81
+00:06:51,610 --> 00:06:54,050
+with a 5 million seller I could buy it.
+
+82
+00:06:54,050 --> 00:06:59,830
+But the point I'm making here is my trade could be against 5,000 other people
+
+83
+00:06:59,830 --> 00:07:07,670
+whereas in OTC, you trades directly with the principal, with the dealer, basically, or you're broke up.
+
+84
+00:07:07,670 --> 00:07:36,350
+Now, essentially, think about if I was buying 5 million euros of 5,000 people, right, so 1,000 each, I think that's right, when it came to settling my trade, so when it came to actually paying them, let's say the U.S.D, I brought the euros in, and I'd have to go individually to 5,000 people and collect my money, it's going to take fucking time, right? So the central counterparty does it.
+
+85
+00:07:36,350 --> 00:07:41,810
+but in this instance the central counterpart if you want to go trade at this guy's table or the
+
+86
+00:07:41,810 --> 00:07:48,050
+exchanges table you have to follow a strict set of rules right that's going to guarantee you
+
+87
+00:07:48,050 --> 00:07:56,810
+essentially transparency especially in pricing and available equity so the CP the central
+
+88
+00:07:56,810 --> 00:08:01,110
+counterpart is going to be overlooking all transactions making sure really that there's no dodgy
+
+89
+00:08:01,110 --> 00:08:06,870
+shit going on although it will happen in terms of spoofing
+
+90
+00:08:06,890 --> 00:08:08,630
+which is completely beside the point.
+
+91
+00:08:09,590 --> 00:08:11,490
+It's just a much more transparent,
+
+92
+00:08:11,870 --> 00:08:16,450
+but yet complex way of executing your trades.
+
+93
+00:08:16,790 --> 00:08:18,130
+It's much more safer as well.
+
+94
+00:08:18,670 --> 00:08:19,430
+But it's important to note,
+
+95
+00:08:19,530 --> 00:08:21,970
+so how I just said you can go individually to 5,000 people,
+
+96
+00:08:22,130 --> 00:08:24,050
+collecting money, settle it, takes a long time.
+
+97
+00:08:24,490 --> 00:08:25,690
+Rather than that happening,
+
+98
+00:08:26,370 --> 00:08:30,220
+my trade is settled with the counterparty.
+
+99
+00:08:30,720 --> 00:08:33,880
+And then, of course, this counterparty never takes on risk.
+
+100
+00:08:33,880 --> 00:08:34,800
+That's not their job.
+
+101
+00:08:35,020 --> 00:08:36,740
+They're not a dealer.
+
+102
+00:08:37,280 --> 00:08:38,660
+They're not essentially even a broker.
+
+103
+00:08:39,300 --> 00:08:45,340
+They're a referees sitting in the middle, making sure everybody gets a piece of the pie or a fear equal piece of the pie.
+
+104
+00:08:46,620 --> 00:09:00,900
+So you have a good example, I guess, is if you brought something from eBay on an OTC, you brought something, I sell you something, the transaction between me and you.
+
+105
+00:09:01,140 --> 00:09:02,260
+Okay, so you've paid me.
+
+106
+00:09:03,040 --> 00:09:04,860
+I haven't sent the item off.
+
+107
+00:09:05,260 --> 00:09:09,020
+Your risk was that I didn't send my item, right?
+
+108
+00:09:09,020 --> 00:09:13,920
+So your risk on our OTC, eBay transaction is between me, the seller and you, the buyer.
+
+109
+00:09:14,420 --> 00:09:21,160
+Whereas on an exchange, you're actually going to send your money to the counterparty in the middle, which is eBay.
+
+110
+00:09:22,460 --> 00:09:24,560
+I'm going to send my package to eBay.
+
+111
+00:09:25,470 --> 00:09:28,370
+You're going to expect your package from eBay.
+
+112
+00:09:28,990 --> 00:09:31,550
+And I'm going to expect my money from eBay.
+
+113
+00:09:32,010 --> 00:09:33,650
+So eBay's in the middle.
+
+114
+00:09:34,780 --> 00:09:35,780
+You send your money.
+
+115
+00:09:36,440 --> 00:09:37,620
+I send my package.
+
+116
+00:09:37,620 --> 00:09:39,660
+eBay sends you
+
+117
+00:09:39,660 --> 00:09:41,800
+my package and of course
+
+118
+00:09:41,800 --> 00:09:43,840
+eBay sends me your money
+
+119
+00:09:43,840 --> 00:09:45,780
+right so the middleman here
+
+120
+00:09:45,780 --> 00:09:47,100
+the exchange eBay
+
+121
+00:09:47,100 --> 00:09:50,180
+make sure that the trades
+
+122
+00:09:50,180 --> 00:09:52,280
+are settled right so your settlement
+
+123
+00:09:52,280 --> 00:09:53,880
+risk or counterparty risk is with
+
+124
+00:09:53,880 --> 00:09:55,280
+the central counterparty
+
+125
+00:09:55,280 --> 00:09:58,000
+that in essence
+
+126
+00:09:58,000 --> 00:09:59,760
+facilitates multilateral
+
+127
+00:09:59,760 --> 00:10:01,260
+trade okay
+
+128
+00:10:01,260 --> 00:10:03,920
+another key point here is the central
+
+129
+00:10:03,920 --> 00:10:05,460
+counterparty on an exchange
+
+130
+00:10:05,460 --> 00:10:07,900
+sorry on an exchange based system
+
+131
+00:10:08,000 --> 00:10:13,260
+there's only one order book because everybody's sitting on the same table right banks are at the same table
+
+132
+00:10:13,260 --> 00:10:19,070
+um i'm at the same table all the clients are at the same table hedge funds whatever as long as they
+
+133
+00:10:19,070 --> 00:10:24,850
+are part of the exchange they're sitting in the same table okay so let's just say this five million was
+
+134
+00:10:24,850 --> 00:10:31,160
+not a market order it's a limit buy order it goes and sits in the book everybody can see it all right
+
+135
+00:10:31,160 --> 00:10:40,040
+um and let's just say i'm trying to buy five million on a limit order and then of course
+
+136
+00:10:40,280 --> 00:10:43,760
+you here are looking at the limit order book,
+
+137
+00:10:44,640 --> 00:10:46,360
+okay, a single book, you can see that,
+
+138
+00:10:46,460 --> 00:10:48,280
+okay, there's an order of $5 million here.
+
+139
+00:10:49,680 --> 00:10:52,200
+You can immediately hit the bid and sell
+
+140
+00:10:52,200 --> 00:10:54,400
+and access $5 million worth of liquidity.
+
+141
+00:10:54,560 --> 00:10:55,240
+It's yours. It's there.
+
+142
+00:10:55,360 --> 00:10:56,660
+It's not quote-driven.
+
+143
+00:10:56,800 --> 00:10:58,240
+This is order-driven prices.
+
+144
+00:10:58,660 --> 00:11:02,200
+Essentially, whatever prices you're seeing on an exchange
+
+145
+00:11:02,200 --> 00:11:05,780
+are exactly where supply meets demand, right?
+
+146
+00:11:05,820 --> 00:11:06,660
+The equilibrium point.
+
+147
+00:11:07,060 --> 00:11:08,760
+It's always going to be the thinnest point in liquidity,
+
+148
+00:11:08,760 --> 00:11:09,720
+but that's where it is.
+
+149
+00:11:09,720 --> 00:11:14,720
+Whereas again, on the OTC system, it's not order driven, it's actually quote driven.
+
+150
+00:11:15,600 --> 00:11:23,040
+So an OTC transaction, I'm here selling my car, all right, I'm selling my car.
+
+151
+00:11:24,810 --> 00:11:27,790
+I decide what price to sell it out, right?
+
+152
+00:11:28,740 --> 00:11:29,300
+I decide.
+
+153
+00:11:30,020 --> 00:11:31,860
+I can actually change my prices as well.
+
+154
+00:11:32,780 --> 00:11:34,040
+The same applies with FX.
+
+155
+00:11:34,720 --> 00:11:40,960
+Docia Bank is providing quotes to their customers, not order driven quotes, not
+
+156
+00:11:40,960 --> 00:11:43,120
+guaranteed quotes, but just quotes.
+
+157
+00:11:43,280 --> 00:11:44,800
+Your broker, if you go look in the execution
+
+158
+00:11:44,800 --> 00:11:46,860
+policy, all they're providing you is
+
+159
+00:11:46,860 --> 00:11:48,980
+quotes. They're not guaranteed. That's why you can get
+
+160
+00:11:48,980 --> 00:11:50,020
+slipped and re-quoted
+
+161
+00:11:50,020 --> 00:11:52,500
+with these larger banks.
+
+162
+00:11:52,620 --> 00:11:54,560
+It used to be the case anyway, where
+
+163
+00:11:54,560 --> 00:11:57,550
+last look was a prevalent thing.
+
+164
+00:11:58,840 --> 00:11:59,960
+So, one hand,
+
+165
+00:12:00,000 --> 00:12:01,920
+you have central counterparty, it facilitates
+
+166
+00:12:01,920 --> 00:12:03,960
+loads of loads of transactions at once, so you can find
+
+167
+00:12:03,960 --> 00:12:07,060
+liquidity, it's a limit order book,
+
+168
+00:12:07,200 --> 00:12:09,440
+driven pricing, much more transparent.
+
+169
+00:12:10,040 --> 00:12:11,180
+Whatever ticks
+
+170
+00:12:11,180 --> 00:12:11,940
+price takes,
+
+171
+00:12:11,960 --> 00:12:17,960
+up and down or recorded actually on the exchange now that data how the central counterpart makes
+
+172
+00:12:17,960 --> 00:12:25,480
+the money is they'll sell that data all right so um the CCP can actually let's just say this is
+
+173
+00:12:25,480 --> 00:12:34,660
+showing you the price of uh let's use a real example this is showing you the price of nasdaq all right
+
+174
+00:12:34,660 --> 00:12:41,080
+which is uh an index of a hundred of the hundred biggest tech companies in the u.s and think i don't
+
+175
+00:12:41,080 --> 00:12:42,200
+We trade the NASDAQ, right?
+
+176
+00:12:42,460 --> 00:12:49,920
+But that's the index that's trading on this exchange, and it's a futures contract.
+
+177
+00:12:50,460 --> 00:12:57,380
+This data is going to be replicated by your broker or by a derivative contract.
+
+178
+00:12:57,500 --> 00:13:00,540
+So this contract just simply reflects the price of NASDAQ.
+
+179
+00:13:00,760 --> 00:13:01,300
+That's all it does.
+
+180
+00:13:01,420 --> 00:13:04,240
+When you buy this contract, it's called a CFD.
+
+181
+00:13:04,680 --> 00:13:06,620
+It literally just reflects the price of NASDAQ.
+
+182
+00:13:06,620 --> 00:13:11,480
+In other words, your broker is taking these prices, okay?
+
+183
+00:13:12,000 --> 00:13:16,700
+and essentially reflecting it in a contract, right?
+
+184
+00:13:17,060 --> 00:13:17,980
+That's called the CFD.
+
+185
+00:13:18,220 --> 00:13:22,070
+Now, the CCP, the central counterparty,
+
+186
+00:13:22,650 --> 00:13:28,170
+they will charge people, right, to access this data, right?
+
+187
+00:13:28,230 --> 00:13:29,690
+That's how that essentially they're making their money.
+
+188
+00:13:29,690 --> 00:13:34,550
+And they also charge these guys sitting at the table a monthly fee or a yearly fee.
+
+189
+00:13:35,330 --> 00:13:39,970
+But it's important to, I'll say this, a lot of these brokers,
+
+190
+00:13:40,090 --> 00:13:43,090
+they have these CFD contacts, but it says on the contract,
+
+191
+00:13:43,090 --> 00:13:45,710
+these prices are indicative, right?
+
+192
+00:13:46,050 --> 00:13:48,790
+And the prices are going to be slightly, slightly different.
+
+193
+00:13:49,690 --> 00:13:51,490
+So maybe like one point different
+
+194
+00:13:51,490 --> 00:13:55,070
+from the actual futures contract of NASDAQ, all right?
+
+195
+00:13:55,670 --> 00:13:57,550
+Ultimately, what it results in is these guys,
+
+196
+00:13:57,670 --> 00:13:59,370
+these brokers that are copying the prices of NASDAQ,
+
+197
+00:13:59,370 --> 00:14:02,050
+they get to sidestep the fees that the central counterparties
+
+198
+00:14:02,050 --> 00:14:04,530
+will charge because they are going to charge a lot.
+
+199
+00:14:05,630 --> 00:14:07,450
+They're making, it's really good data.
+
+200
+00:14:07,630 --> 00:14:09,210
+They're providing extremely transparent.
+
+201
+00:14:09,410 --> 00:14:12,290
+It's true supply and demand backed by orders.
+
+202
+00:14:12,290 --> 00:14:14,790
+so the data costs a lot
+
+203
+00:14:14,790 --> 00:14:17,670
+so OTC
+
+204
+00:14:17,670 --> 00:14:19,570
+bilateral exchange
+
+205
+00:14:19,570 --> 00:14:20,410
+multi-lateral
+
+206
+00:14:20,410 --> 00:14:21,450
+all right
+
+207
+00:14:21,450 --> 00:14:22,510
+single order book driven
+
+208
+00:14:22,510 --> 00:14:23,290
+exchange
+
+209
+00:14:23,290 --> 00:14:24,750
+so it's order driven
+
+210
+00:14:24,750 --> 00:14:26,670
+quotes or order-driven prices
+
+211
+00:14:26,670 --> 00:14:28,350
+and then OTC is
+
+212
+00:14:28,350 --> 00:14:29,030
+quote driven
+
+213
+00:14:29,030 --> 00:14:29,870
+okay
+
+214
+00:14:29,870 --> 00:14:31,310
+in other words
+
+215
+00:14:31,310 --> 00:14:32,330
+you know if I'm buying
+
+216
+00:14:32,330 --> 00:14:33,850
+at the price
+
+217
+00:14:33,850 --> 00:14:34,690
+quoted by DB
+
+218
+00:14:34,690 --> 00:14:35,770
+doesn't mean you're going to
+
+219
+00:14:35,770 --> 00:14:36,970
+guarantee you're guaranteed
+
+220
+00:14:36,970 --> 00:14:38,250
+to get filled by the time
+
+221
+00:14:38,250 --> 00:14:39,130
+my order reaches them
+
+222
+00:14:39,130 --> 00:14:40,150
+they could deny the quote
+
+223
+00:14:40,150 --> 00:14:42,370
+they could change the price
+
+224
+00:14:42,370 --> 00:14:42,810
+and give
+
+225
+00:14:42,830 --> 00:14:48,990
+me a re-quote. It could simply, what could also happen is someone else took that liquidity
+
+226
+00:14:48,990 --> 00:14:53,030
+before my order reached. Deutsche Bank's already started to move their prices higher whilst I'm
+
+227
+00:14:53,030 --> 00:15:00,030
+buying, and I get slipped. Right. It's in a fast market. Now, the products that trade on exchanges
+
+228
+00:15:00,030 --> 00:15:08,430
+are some derivative contracts, right? So, so futures, options, stocks, shares, same thing.
+
+229
+00:15:08,430 --> 00:15:17,490
+the EES, so indices, contracts, so the ES Mini, S&P 500 Mini, these all trade on exchanges.
+
+230
+00:15:17,490 --> 00:15:23,410
+So there's kind of a limited, limited finite amount of assets that trade on exchanges,
+
+231
+00:15:24,010 --> 00:15:27,190
+but OTC is any financial product, okay?
+
+232
+00:15:27,570 --> 00:15:31,290
+Now, you might be asking, you know, or I would ask myself,
+
+233
+00:15:32,160 --> 00:15:34,420
+why wouldn't everybody trade on the CCP?
+
+234
+00:15:34,540 --> 00:15:35,960
+It's more transparent, it's more fair.
+
+235
+00:15:38,390 --> 00:15:40,730
+You get access to liquidity that's actually there.
+
+236
+00:15:40,830 --> 00:15:47,690
+right there's no re-quoting um you can get slipped but there's no re-quoting um it basically
+
+237
+00:15:47,690 --> 00:15:52,570
+it's much more transparent right it's fair environment your counterparty risk is just with a CCP
+
+238
+00:15:52,570 --> 00:15:58,680
+who is never taking on risk right so when i'm buying five million euros and the CCP is
+
+239
+00:15:58,680 --> 00:16:05,800
+finding me a seller at no point the CCP is going to take on that five million in risk right
+
+240
+00:16:05,800 --> 00:16:13,440
+So they are actually extremely reliable, okay, to give your money, essentially.
+
+241
+00:16:13,960 --> 00:16:19,800
+Whereas DB, I buy 5 million euros of them and they sell me the euros and they buy my
+
+242
+00:16:19,800 --> 00:16:20,660
+USD off me.
+
+243
+00:16:21,740 --> 00:16:25,140
+What if, whilst this transaction was going on, right?
+
+244
+00:16:25,140 --> 00:16:30,070
+So I brought euros and they brought the USD off me.
+
+245
+00:16:30,840 --> 00:16:34,960
+What if the value of USD just plummeted?
+
+246
+00:16:34,960 --> 00:16:43,730
+right these guys now have before the trade was settled as well i should say so i've brought the two
+
+247
+00:16:43,730 --> 00:16:49,330
+million euros or five million euros doesn't mean you get it in an instant okay it's settled in two
+
+248
+00:16:49,330 --> 00:16:55,490
+days that is called fx transactions will have this on their policies it's basically the transaction
+
+249
+00:16:55,490 --> 00:17:01,530
+is settled in two days so if i buy five million right now my my transaction i'll get the actual
+
+250
+00:17:01,530 --> 00:17:05,710
+money if i wanted to access it in physical cash uh if i'm trading on the internet
+
+251
+00:17:05,730 --> 00:17:14,150
+bank especially um in two days okay now if that's the case right and i've brought five million euros
+
+252
+00:17:14,150 --> 00:17:23,490
+i've paid maybe yeah i've paid db uh five million euros worth of dollars and at that time the
+
+253
+00:17:23,490 --> 00:17:29,410
+usd plummet so much so just just think about what's happened here that db took on and brought
+
+254
+00:17:29,410 --> 00:17:36,310
+us dollars and the u.s dollars plummeting so much so that db is not and now has uh
+
+255
+00:17:36,630 --> 00:17:42,000
+liabilities that are greater than their assets, right?
+
+256
+00:17:42,120 --> 00:17:45,640
+So they're owning, their own US dollars,
+
+257
+00:17:45,940 --> 00:17:48,280
+but the value of those US dollars are plummeting,
+
+258
+00:17:48,360 --> 00:17:51,500
+so they're worth nothing and they're in a big fat hole, right?
+
+259
+00:17:52,060 --> 00:17:53,060
+How are they then?
+
+260
+00:17:53,260 --> 00:17:54,880
+And basically the total value of their assets,
+
+261
+00:17:54,980 --> 00:17:56,200
+including everything that they have,
+
+262
+00:17:56,260 --> 00:17:57,260
+the buildings were valued,
+
+263
+00:17:57,460 --> 00:17:59,920
+all the other derivative contracts that they have,
+
+264
+00:18:00,120 --> 00:18:01,860
+plus this US dollar that's plummeting,
+
+265
+00:18:02,060 --> 00:18:05,060
+all the, you know, MS, MBSs that they hold everything.
+
+266
+00:18:05,760 --> 00:18:07,340
+The total value of the assets,
+
+267
+00:18:07,360 --> 00:18:09,340
+by maybe even a small percentage
+
+268
+00:18:09,340 --> 00:18:11,520
+has just dropped beneath their liabilities.
+
+269
+00:18:12,140 --> 00:18:13,400
+They now can't settle
+
+270
+00:18:13,400 --> 00:18:16,520
+my 5 million euro trade in two days.
+
+271
+00:18:18,510 --> 00:18:20,710
+Right? So again, the counterparty risk is real.
+
+272
+00:18:21,390 --> 00:18:24,230
+In 2015, the FXCM, a broker,
+
+273
+00:18:25,530 --> 00:18:26,110
+they went,
+
+274
+00:18:28,100 --> 00:18:29,100
+basically they had a long,
+
+275
+00:18:29,400 --> 00:18:32,720
+they had a short exposure on the Swiss franc.
+
+276
+00:18:33,320 --> 00:18:35,500
+The S&B basically just pulled the floor.
+
+277
+00:18:37,650 --> 00:18:38,970
+No, they didn't pull the floor.
+
+278
+00:18:38,970 --> 00:18:39,910
+they stopped
+
+279
+00:18:39,910 --> 00:18:42,610
+suppressing the value of
+
+280
+00:18:42,610 --> 00:18:44,180
+the Swiss franc
+
+281
+00:18:44,180 --> 00:18:46,620
+and essentially the Swiss franc
+
+282
+00:18:46,620 --> 00:18:47,980
+he had a big flash crash
+
+283
+00:18:47,980 --> 00:18:49,500
+right the USD Swiss franc
+
+284
+00:18:49,500 --> 00:18:51,560
+dropped massively like a thousand or
+
+285
+00:18:51,560 --> 00:18:53,060
+3,000 pips in a single day
+
+286
+00:18:53,060 --> 00:18:54,500
+literally in minutes I think
+
+287
+00:18:54,500 --> 00:18:59,150
+yeah so FXEM had a
+
+288
+00:18:59,150 --> 00:19:01,250
+$300 million hole that day
+
+289
+00:19:01,250 --> 00:19:03,310
+right so in other words
+
+290
+00:19:03,310 --> 00:19:05,450
+some of their clients were long
+
+291
+00:19:05,450 --> 00:19:07,780
+sorry some of their clients were long
+
+292
+00:19:07,780 --> 00:19:09,640
+Swiss franc against the US dollar
+
+293
+00:19:09,640 --> 00:19:10,900
+so on the US
+
+294
+00:19:10,920 --> 00:19:16,540
+S.D. Swiss franc, right? They were short. They were long, this, they were short the
+
+295
+00:19:16,540 --> 00:19:23,280
+USD, so it's a short position. And FXM were now long USD Swiss franc, and this is what
+
+296
+00:19:23,280 --> 00:19:30,640
+the pair was doing, right? They had a $300 million hole, but they had clients who were massively
+
+297
+00:19:30,640 --> 00:19:36,020
+up on this short position. They couldn't pay them out because they didn't have enough money.
+
+298
+00:19:36,020 --> 00:19:41,640
+Their liabilities were now bigger than the assets, right? But they had to go
+
+299
+00:19:41,660 --> 00:19:48,180
+don't get a loan from a bank for 300 million, right? So counterparty risk is very real. It's true.
+
+300
+00:19:48,720 --> 00:19:52,660
+It exists. That's why you don't keep a lot of your money with any of these shitty little brokers.
+
+301
+00:19:53,660 --> 00:19:57,820
+Do it's your bank a less like its default because they're just my high, they capitalized well.
+
+302
+00:19:58,820 --> 00:20:08,470
+But, you know, in 2008, Lehman Brothers collapsed. So these banks aren't indestructible. I forgot the
+
+303
+00:20:08,470 --> 00:20:14,570
+over word, right? They're not immune to risk. Anyway, so if that's the case, these structures,
+
+304
+00:20:14,890 --> 00:20:17,900
+one's much, much more better
+
+305
+00:20:17,900 --> 00:20:20,040
+and the other one's more risky
+
+306
+00:20:20,040 --> 00:20:22,000
+why would anyone trade on OTC
+
+307
+00:20:22,000 --> 00:20:23,460
+well first of all
+
+308
+00:20:23,460 --> 00:20:25,580
+it's like custom
+
+309
+00:20:25,580 --> 00:20:26,540
+right
+
+310
+00:20:26,540 --> 00:20:30,920
+when the FX market started out
+
+311
+00:20:30,920 --> 00:20:31,740
+that's where
+
+312
+00:20:31,740 --> 00:20:34,530
+there was an OTC structure that the banks
+
+313
+00:20:34,530 --> 00:20:36,490
+were dealing with each other on and still do to this day
+
+314
+00:20:36,490 --> 00:20:38,050
+it's just custom right
+
+315
+00:20:38,050 --> 00:20:39,750
+but secondly
+
+316
+00:20:39,750 --> 00:20:41,250
+it's anonymous
+
+317
+00:20:41,250 --> 00:20:43,450
+if me and you do a transaction
+
+318
+00:20:43,450 --> 00:20:45,190
+nobody else has to know about it
+
+319
+00:20:45,210 --> 00:20:51,820
+On an exchange, on an exchange, the transaction is recorded, essentially.
+
+320
+00:20:52,850 --> 00:20:53,030
+Right.
+
+321
+00:20:53,650 --> 00:20:59,190
+Now, also, the exchange-based trading has very strict rules, right?
+
+322
+00:20:59,230 --> 00:21:00,450
+You have to abide by the rules.
+
+323
+00:21:01,150 --> 00:21:06,530
+But what about, and really, those rules are supporting or facilitating trade
+
+324
+00:21:06,530 --> 00:21:11,350
+amongst competitive trading or competitive participants, right?
+
+325
+00:21:11,670 --> 00:21:13,850
+I want liquidity quick, I want it there right now.
+
+326
+00:21:13,850 --> 00:21:23,720
+you know it's much more I guess accustomed for speculative trading and competitive trading
+
+327
+00:21:23,720 --> 00:21:32,280
+whereas OTC especially affects the the participants aren't necessarily speculative they might
+
+328
+00:21:32,280 --> 00:21:37,720
+actually have different needs I am because OTC is much more relaxed in terms of regulation and
+
+329
+00:21:37,720 --> 00:21:42,600
+rule based trading it's not even rule based trading it's principle based trading we trade based on these
+
+330
+00:21:42,600 --> 00:21:46,260
+general customs that we uh been trading on for the last
+
+331
+00:21:46,280 --> 00:21:51,780
+100 years or however long it is, 50 years, we're going to stick by them. It gives them more
+
+332
+00:21:51,780 --> 00:21:57,260
+flexibility to bend the rules, bend the prices. Not even bend the prices, just provide solutions
+
+333
+00:21:57,260 --> 00:22:04,980
+for different types of clients. So if a client want to do a specific type of FX deal,
+
+334
+00:22:05,240 --> 00:22:11,380
+they could build essentially a solution for that, right, or provide a solution for that. In an exchange
+
+335
+00:22:11,380 --> 00:22:15,960
+where it's trading, you don't get to do that. It's just the rules of the exchange or the rules you abide
+
+336
+00:22:15,960 --> 00:22:25,290
+by right so yeah that's really the main reason it's much more flexible and you
+
+337
+00:22:25,290 --> 00:22:28,930
+can have multinational corporations trading on OTC you can have hedge fund
+
+338
+00:22:28,930 --> 00:22:34,840
+managers trying to trade overseas you can have speculative trading it's important
+
+339
+00:22:34,840 --> 00:22:39,800
+to know that they are I guess you could call it like an exchange models in
+
+340
+00:22:39,800 --> 00:22:47,510
+FX which is LMAX all right so LMAX are basically here
+
+341
+00:22:50,920 --> 00:23:01,270
+all right they run a table the banks sit at a table all right and the bank's plug in actual quotes
+
+342
+00:23:01,270 --> 00:23:06,710
+so here's the order book of the table the bank is plugging in actual quotes in the form of
+
+343
+00:23:06,710 --> 00:23:12,470
+limit orders all right and then you are also plugging in limit orders or you can take the liquidity
+
+344
+00:23:12,470 --> 00:23:18,580
+as well and again let's just say you're a client that's buying okay your trade goes to the limit order
+
+345
+00:23:18,580 --> 00:23:24,310
+book, right? There's no recourse because it's order driven. If there's liquidity there, you take
+
+346
+00:23:24,310 --> 00:23:32,030
+it. Obviously, then LMAX, essentially it goes to the order book. You're trying to buy the liquidity
+
+347
+00:23:32,030 --> 00:23:38,130
+that this bank again, let's just call it Deutsche Bank. This Deutsche Bank has a set limit. You're buying
+
+348
+00:23:38,130 --> 00:23:46,700
+that set limit up, all right, at the top of the book, let's just say. Your order, let's just say
+
+349
+00:23:46,700 --> 00:23:53,420
+again there's a million limit order sell you're buying a million right the way it's done is your
+
+350
+00:23:53,420 --> 00:24:00,880
+order goes to try and take this right but what actually happens is you buy one million of elmax
+
+351
+00:24:00,880 --> 00:24:10,870
+lmax simultaneously go and get the one million from dosha bank and your risk is with elmx not with
+
+352
+00:24:10,870 --> 00:24:14,170
+do you should make so it's a exchange based trading there's a single order book
+
+353
+00:24:14,170 --> 00:24:22,720
+um it's order driven prices so it acts as an exchange but it's basically
+
+354
+00:24:22,720 --> 00:24:30,220
+called it mtf a multilateral trading facility all right and then you have I guess
+
+355
+00:24:30,220 --> 00:24:35,930
+ECNs which are read these ones are good ECNs like hotspot all right again
+
+356
+00:24:35,930 --> 00:24:43,340
+they're just the third party aggregator that has deals they have deals
+
+357
+00:24:43,360 --> 00:24:49,870
+And I guess, yeah, basically I have credit lines with the interbank market, right?
+
+358
+00:24:49,870 --> 00:24:54,370
+So with one bank, two bank, three bank, four bank, they're connected through something
+
+359
+00:24:54,370 --> 00:25:00,090
+called APIs, all right, the individual connections, right?
+
+360
+00:25:00,090 --> 00:25:07,180
+So hotspot, you'll be taking this liquidity, pouring it into essentially an ECN.
+
+361
+00:25:07,180 --> 00:25:13,660
+And in this ECN, you can access this as well, okay.
+
+362
+00:25:13,660 --> 00:25:19,750
+liquidity from their liquidity providers that they can access is also plugged into the
+
+363
+00:25:19,750 --> 00:25:24,850
+ECM gives you relatively tight spreads it's anonymous order routing hotspot do not
+
+364
+00:25:24,850 --> 00:25:29,160
+take on this risk they just facilitate trade again right the third-party
+
+365
+00:25:29,160 --> 00:25:36,790
+ego gear and then you know your brokers are doing this they'll be connected to a
+
+366
+00:25:36,790 --> 00:25:42,070
+company like hotspot maybe two three hotspot it might be FX all
+
+367
+00:25:42,070 --> 00:25:46,410
+Korenx all right they might be connected to all three you're placing a trade
+
+368
+00:25:46,730 --> 00:25:52,990
+the broker's filling you that's it you're placing a trade your broker's filling you what they do
+
+369
+00:25:52,990 --> 00:25:57,230
+with that you know what they do with by filling you what they do with the liquidity that they're taking
+
+370
+00:25:57,230 --> 00:26:02,810
+on is their choice really but they can take on the risk again they can most of the time they can
+
+371
+00:26:02,810 --> 00:26:06,830
+take on the risk because people are shit if they don't want to take on the risk they'll just
+
+372
+00:26:06,830 --> 00:26:12,030
+match it in-house with another client right this guy's buying this guy's selling all right much them up
+
+373
+00:26:12,030 --> 00:26:18,660
+2. We don't have to send it through to HotSpot or Koronex. If you're trading on MT4,
+
+374
+00:26:19,460 --> 00:26:26,280
+these guys are quoting prices individually to your broker. Your broker is taking those
+
+375
+00:26:26,280 --> 00:26:33,280
+quotes and actually putting it in manually into MT4 through the back office. Whereas C-trader
+
+376
+00:26:33,280 --> 00:26:41,610
+directly runs the quotes from these guys. It runs the quotes on your platform that you see
+
+377
+00:26:41,610 --> 00:26:45,210
+directly from the third party aggregate is
+
+378
+00:26:45,210 --> 00:26:48,130
+the broker's connected to it
+
+379
+00:26:48,130 --> 00:26:50,430
+and then you're connected I guess
+
+380
+00:26:50,430 --> 00:26:52,890
+through C-trader, we're onto your broker's server.
+
+381
+00:26:53,530 --> 00:26:55,730
+Now when you place a trade on C-trader,
+
+382
+00:26:56,090 --> 00:26:57,250
+it hits your broker's server
+
+383
+00:26:57,250 --> 00:27:00,930
+at the price quoted by these third parties
+
+384
+00:27:00,930 --> 00:27:04,060
+and essentially
+
+385
+00:27:04,060 --> 00:27:07,340
+basically the broker can fill you
+
+386
+00:27:07,340 --> 00:27:09,140
+and hedge it with these third parties
+
+387
+00:27:09,140 --> 00:27:11,640
+or they can just fill you and internalize the flow
+
+388
+00:27:11,640 --> 00:27:15,720
+but at no point does the broker have control over the prices.
+
+389
+00:27:16,000 --> 00:27:16,800
+That's the key thing.
+
+390
+00:27:16,980 --> 00:27:19,580
+So it's slightly more transparent, right?
+
+391
+00:27:19,620 --> 00:27:22,200
+It's not completely because the broker can still trade against you,
+
+392
+00:27:22,580 --> 00:27:24,720
+but only at the price is quoted by the real market.
+
+393
+00:27:25,360 --> 00:27:25,580
+All right.
+
+394
+00:27:27,920 --> 00:27:33,620
+So you have MTFs, you have ECNs, and you have this retail model shit.
+
+395
+00:27:39,990 --> 00:27:43,040
+OTC exchange is simply that.
+
+396
+00:27:44,060 --> 00:27:46,360
+OTC is good, flexible.
+
+397
+00:27:46,560 --> 00:27:50,200
+anonymous really you're going to get some
+
+398
+00:27:50,200 --> 00:27:54,380
+some of the dodgy practices on OTC
+
+399
+00:27:54,380 --> 00:27:56,480
+because it's hard to regulate it
+
+400
+00:27:56,480 --> 00:27:58,740
+it's really hard to find out what a transaction
+
+401
+00:27:58,740 --> 00:28:01,460
+or what kind of transaction happened just between two parties
+
+402
+00:28:01,460 --> 00:28:04,400
+but I would say you know these main banks these main
+
+403
+00:28:04,400 --> 00:28:08,380
+dealers they're tier one banks they abide by the
+
+404
+00:28:08,380 --> 00:28:09,980
+global FX code
+
+405
+00:28:09,980 --> 00:28:13,100
+it's just hard to enforce it
+
+406
+00:28:13,100 --> 00:28:14,640
+but anyway if you have any questions
+
+407
+00:28:14,640 --> 00:28:15,460
+I don't know
+
