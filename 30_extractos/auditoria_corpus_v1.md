@@ -37,6 +37,22 @@ Normalización de `90_preguntas_abiertas.md` a los seis estados declarados en CL
 
 Juicio añadido (único caso sin marcador previo): **"Mapeo lección↔vídeo"** (antigua abierta 10) no llevaba estado; se le asignó [NO-LOCALIZADA] [PENDIENTE-USUARIO] — los vídeos referenciados no están en el corpus y Jordi podría recordar la correspondencia. Revisar si se prefiere otro estado.
 
+## Tanda 2 — muestreo de integración extracto → maestro (bloque 3)
+
+Muestreo dirigido a los tres puntos de menor ratio citas/líneas: PS01 (7/76L), PS09 (6/70L), S15 (10/60L). Clasificación: (a) omitido por jerarquía · (b) omitido por redundancia · (c) pérdida real.
+
+**PS01 — LIMPIO.** Integrados: CPS framework/feature (02:28, 04:61), core vs residual (02:364), precursor legacy S-08 (03:79). Omitidos: "trading on the principles" y fractalidad (b — principios cubiertos por PDFs/M2020); "extensions get filled" PS01 (b — claim ya registrado con S2 + genealogía PS02, estatus PRECURSOR); "never definitive" del CLB retest (b — equivale al "response ≠ hold ≠ reversal" M2020); uso temprano de "washed up" (b — criterio top+bottom picked ya en SWE/washed vía PS04). La baja ratio se explica por jerarquía, no por prisa.
+
+**PS09 — LIMPIO.** Integrados: síntesis/mapa relacional (02:29, 02:159, 04:125, 91:33). Omitidos: definición legacy de shelf "last core area of inventory that needs to hold" (b — coincide con la definición M2020 "the last inventory that pushed price to new lows" ya en 02:shelf); "last inventory dinámico" (cubierto funcionalmente por 02:159); metáfora battle/tug-of-war (a — pedagogía superada por M2020); apexes "highly responsive" como adjetivo común (b — negativo de caza ya registrado en cierre_price_swing). **Atención PS04/PS08:** el material wash/shift de PS09 no revela huecos en la morfología SWE integrada — sin anotaciones.
+
+**S15 — 3 PÉRDIDAS REALES (c), integradas:**
+1. Mecanismo completo de "HTF pulls more liquidity" (vela diaria = 24–48h de volumen; granularidad LTF como artefacto de cotización a 5 decimales) → añadido a 01_principios § Jerarquía de timeframes. [VID-M2020: Session 15 @ 00:07:01–00:10:57]
+2. Detección del viraje de régimen HTF + gestión de fades fallidos ("runs, doesn't fill — first sign"; "extension beneath Asia range = HTF inefficiency characteristic"; "my high becomes the invalidation") → añadido como regla 14b en 03_setups. [VID-M2020: Session 15 @ 01:00:00–01:06:07]
+3. Autodefinición del edge ("probabilistic anticipatory approach trading the properties of price behaviors which are a result of market mechanisms"; modelos lagging; edge death sin aviso de los ladder traders) → añadido a 04_proceso. [VID-M2020: Session 15 @ 00:27:41–00:32:23]
+Redundantes correctos en S15 (b): repaso microestructura (S2/S12), "trading the volatility" (S12 + regla 11), countermeasures, workspace, niveles-sensor, FX conduit — todos ya integrados.
+
+**Veredicto del criterio de ampliación:** resultado MIXTO — los dos Price Swing salen limpios (la baja integración ES jerarquía), pero S15 tenía 3 pérdidas puntuales, ya reparadas. Ni "los tres limpios" ni "los tres sucios": no se amplía el muestreo por cuenta propia; queda a decisión humana si se muestrea algún otro M2020 denso (candidatos por densidad: S13, S11.2).
+
 ## Casos sin clasificar — requieren decisión humana
 
 Marcadores que no encajan limpiamente en las cinco etiquetas. NO convertidos; texto actual intacto:
