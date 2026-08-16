@@ -8,7 +8,7 @@
 
 **Estructura del run/swing:** [Price run](#price-run) · [Price spike](#price-spike) · [Skinny leg](#skinny-leg) · [Price pause](#price-pause) · [Parabolic phase](#parabolic-phase) · [Shelf](#shelf--shelf-liquidity) · [Shelf flip](#shelf-flip) · [Washed (shelf)](#washed-shelf) · [Apex](#apex--apex-base--apex-base-retest) · [Shifting point](#shifting-point) · [Shift in state of liquidity](#shift-in-state-of-liquidity) · [Midflow](#midflow) · [Core liquidity base](#core-liquidity-base) · [Poor high/low](#poor-high--poor-low-unfinished-auction)
 
-**Liquidez y entrega:** [Residual liquidity](#residual-liquidity--residual-levels) · [Liquidity void](#liquidity-void--vacuum) · [Chain reaction](#chain-reaction) · [Gap slip](#gap-slip--gapslip) · [Last point of liquidity](#last-point-of-liquidity) · [Rebalance](#rebalance) · [Trending extension fill](#trending-extension-fill-short-extension-fill) · [Feeder](#feeder--feeding-liquidity) · [Volume stability / surge](#volume-stability--relative-volume-surge) · [Breakout PI](#breakout-pi--fractal-breakout-pi) · [Fractal pushing](#fractal-pushing) · [Latent liquidity / conversion rate](#latent-liquidity--conversion-rate) · [SR / SR flip](#sr--sr-flip)
+**Liquidez y entrega:** [Residual liquidity](#residual-liquidity--residual-levels) · [Liquidity void](#liquidity-void--vacuum) · [Chain reaction](#chain-reaction) · [Gap slip](#gap-slip--gapslip) · [Last point of liquidity](#last-point-of-liquidity) · [Rebalance](#rebalance) · [Trending extension fill](#trending-extension-fill-short-extension-fill) · [Feeder](#feeder--feeding-liquidity) · [Volume stability / surge](#volume-stability--relative-volume-surge) · [Balanced liquidity](#balanced-liquidity--equilibrium) · [Breakout PI](#breakout-pi--fractal-breakout-pi) · [Fractal pushing](#fractal-pushing) · [Latent liquidity / conversion rate](#latent-liquidity--conversion-rate) · [SR / SR flip](#sr--sr-flip)
 
 **Trading y gestión:** [Midflow / counter flow trading](#midflow-trading--counter-flow-trading) · [Paying for the trade](#paying-for-the-trade) · [Compound](#compound) · [Dealing range](#dealing-range) · [Responsive vs market-state-dependent levels](#responsive-vs-market-state-dependent-levels) · [Washed IV](#washed-iv) · [Momentum](#momentum-definición-y-taxonomía)
 
@@ -176,6 +176,12 @@
 ### Volume stability / relative volume surge
 - **Estado:** confirmado.
 - Estado de volumen bajo y estable que mantiene el precio en rango; el run se dispara cuando entra un surge **relativo** ("just more than the volume keeping price stable"). [PDF: The Price Run p.7] [IMG: p.10]
+
+### Balanced liquidity / equilibrium
+- **Estado:** confirmado (definición explícita en Discord; no confundir con entrega eficiente de una pierna).
+- Estado a corto plazo donde hay "**short term buy side liquidity and sell side liquidity having similar distribution**"; el precio refleja una opinión agregada que coincide y EssFX lo llama equilibrium. [DISCORD: Disc 86]
+- Implicación: comprar o hacer trend trading en balance produce chop ("**you'll get chopped up**" / "**you'll do your arse**"). El edge exige una distribución sesgada/distorsión y desaparece al repararse. [DISCORD: Disc 80, 85–87]
+- Terminología de EM: "**Value in markets = balanced liquidity**" e "**Inefficient = divergence from value**". No es un modelo de valoración fundamental: "**We're not fair value traders**"; se opera la reparación desde la distorsión hacia el balance. [DISCORD: Disc 87–88]
 
 ### Parabolic phase
 - **Estado:** confirmado.
