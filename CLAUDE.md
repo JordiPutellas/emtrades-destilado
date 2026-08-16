@@ -84,6 +84,23 @@ Las fuentes tienen épocas y fiabilidad distinta. Etiquetar época en vídeos:
   En conflicto entre épocas: prevalece M2020, y el conflicto se registra en
   91_contradicciones.md como "evolución del método".
 
+## Estados epistémicos
+
+Además de la etiqueta de fuente, las afirmaciones de `40_destilado/` llevan
+(cuando aplica) una etiqueta de estado epistémico. Solo existen estas cinco,
+siempre entre corchetes:
+
+- `[CONFIRMADO]` — definido explícitamente por EM.
+- `[PRECURSOR: PS → refinado en M2020]` — formulación temprana superada.
+- `[SOLO-PS: no confirmado después]` — solo aparece en material temprano; no reutilizado.
+- `[INFERENCIA]` / `[INFERENCIA-FUERTE]` — deducción del proyecto, con grado.
+- `[USUARIO]` — aportación o corrección de Jordi (ver sección siguiente).
+
+"NO ESPECIFICADO EN FUENTES" se mantiene tal cual como marcador de campo
+vacío en setups (regla 4); no es un estado epistémico. Los marcadores de
+ciclo de vida de `90_preguntas_abiertas.md` (RESUELTA, PARCIALMENTE
+RESUELTA, CERRADA-IRRECUPERABLE...) son un sistema aparte y no se tocan.
+
 ## Etiqueta [USUARIO]
 
 Correcciones o desacuerdos del usuario con el material original (p.ej.
