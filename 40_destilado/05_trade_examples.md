@@ -26,3 +26,11 @@
 **Plantilla extraída por el propio EM ("the three main components"):** extension into core liquidity + en fase parabólica o tras break de midflow + de un swing H1. Mismo día, trade análogo contra residual sin nivel = expectancy muy inferior "over a thousand samples". → S-08 en 03_setups.md. [@ 01:14:18–01:15:46]
 
 **Frases operativas:** "My strategy is: **area of strength, move of weakness, I look for my manageable response. That's it.**" · "If you can make 7R 10 times a month, you're a genius." [@ 00:49:57–00:51:04]
+
+## TE-03 · GBPUSD, anticipación pre-COVID documentada (feb-mar 2020) [IMG-MIET: 1.0–1.4, 2]
+
+Proyección dibujada a mano el 26-feb-2020: extensión bajista hasta la daily buy base (~1.2725-1.2750) → giro en V hasta ~1.31. Serie de 5 pantallazos fechados mostrando el cumplimiento paso a paso hasta el high 1.32003 del 9-mar (~450 pips). Contexto H4: core area 1.3050-1.3200 como origen/imán. Es el patrón S-08 a escala HTF y la demostración más clara del enfoque anticipatorio en el material. (El 9-mar arrancó el crash COVID: la proyección murió justo al cumplirse — ejemplo de límite event-driven.)
+
+## TE-04 · GBPUSD long post-COVID con compounding (mar-abr 2020) [IMG-MIET: GBP April, GBP screanshot]
+
+Long real desde ~1.2290: pantallazo con +189.4 pips corriendo y **SL movido a -9 pips**; tweet del 2-abr: "Still long, **X2** atm" + la razón para mantener: "**runs like these typically end in parabolic phase — haven't had that yet**" (la ausencia de parabólica = señal de que el run no ha terminado). Confirma en real: compound a favor, stop a cuasi-BE, y la fase parabólica como criterio de salida.
