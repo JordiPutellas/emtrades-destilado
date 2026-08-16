@@ -49,6 +49,7 @@
 - **Estado:** confirmado.
 - Segmento de precio con cambio extremo del estado de liquidez, entregado en un run fino por escasez de liquidez en un lado del libro. Sinónimos en el material: gap, liquidity gap. [PDF: Introduction Price Inefficiencies]
 - **Corrección doctrinal de EM (tweet 4-may-2020):** la ineficiencia es propiedad del MOVIMIENTO/ESTADO completo, no de micro skinny legs aisladas: "the whole move is inefficient, not just some 3 pip skinny leg from 143 hours ago". [IMG-MIET: InNeFFiciencY]
+- **La definición más limpia** (Discord): "inefficiency is relative... but broadly defined as **thinly traded**. Doesnt mean less volume: **imagine a book quoting offers at price 1 and then price 100. You lift everything at price 1 with HUGE volume with remaining unfilled flow — price will run to 100. Thats huge volume, but everything from 2-99 is not traded.**" (Puede haber volumen enorme y ser ineficiente: lo no-transaccionado en medio es la ineficiencia.) [DISCORD: Disc 55, 56]
 
 ### YO / WO / MO — Yearly / Weekly / Monthly Open
 - **Estado:** confirmado (uso como etiquetas de nivel en charts).
@@ -265,6 +266,8 @@
 - Esquema "**Visible orderbook vs Real orderbook**": el libro real esconde órdenes mucho mayores — "**traders hide orders to limit information leakage**... much more volume is traded vs available [visible] liquidity → participants hide orders and **only reveal after they've been clipped or as price approaches levels — conversion rate. Conversion of latent liquidity is a huge influence on LP behaviour or subsequent price behaviour.**" "Effect more pronounced in centrally traded products but the **information game is played in all markets**." [DISCORD: Disc 21, 21.1]
 - Los movimientos de largo plazo son función de esta liquidez lenta/latente: "long term moves are functions of slower liquidity aka **latent distribution** — the normal digesting forces that dont turn up". [DISCORD: Disc 20]
 - Vale también fuera de OTC: "[en futuros tampoco la ves] — **most liquidity is hidden. It shows up over time and has a conversion rate which varies.**" [DISCORD: answers]
+- **Definición formal de conversion rate**: "**the rate the latent liquidity converts into orders. If it doesn't, there's only top-of-book liquidity plugged in by market makers — hence you have an open book.**" Lecturas: "**very fast rate as price approaches level = they'll absorb the move; little to no conversion = open book**"; se frena por "**uncertainty usually**" → "skewed latent liquidity, or a skewed book". Driver: "**directly linked to conviction/certainty/willingness to transact**." FX tiene demanda natural alta → "a pretty evenly distributed latent book over time — **hence the large large ranges**". Evidencia: "there's ALWAYS more volume transacted [per day] than the total visible liquidity net — because most of the liquidity is hidden, **to avoid information leakage**." [DISCORD: Disc 64, 65]
+- Passive→aggressive: los que esperan su precio "can become aggressive **and populate the book in one direction whilst the opposite remains open** — cable March 2020; EURUSD 2014 is similar, almost unbelievable". [DISCORD: Disc 66]
 
 ### SR / SR flip
 - **Estado:** confirmado (uso).
