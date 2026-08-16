@@ -108,7 +108,8 @@ Ampliación Twitter (2019-2020, capturas EM Twits):
 16. **Regla direccional de dealing ranges para holds**: "until we form a dealing range ABOVE the previous one I'd be v v cautious holding longs — by the time it happens & you get that shift in flow, another shift will be underway" (S&P500, crash COVID). [IMG-TWIT: Dealing Ranges]
 17. **Filtro para faders en volatilidad event-driven**: "differentiate between **responsive and market-state-dependent levels** — will save faders a lot of pain". [IMG-TWIT: Inneficiency]
 18. **Entradas "after high in" en baja volatilidad**: "this is what you can do in **low volatility (relative to recent weeks)** environments"; "volatility always shifting, it's dynamic — in broadly high vol environments you still have periods of vol contraction". [IMG-TWIT: Volatility]
-19. **Otro trade real con stop de pips**: "Price goes to the less liquid side. See you tomorrow #GBPUSD" — long 15min corriendo **+72.6 pips con SL ~4.5 pips (~16R)**, 4-feb-2020. [IMG-TWIT: Excess demand- less liquid side] (Consistente con la serie: stops 2-10 pips, targets estructurales.)
+19. **Otro trade real con stop de pips**: "Price goes to the less liquid side. See you tomorrow #GBPUSD" — long 15min corriendo **+72.6 pips con SL ~4.5 pips (~16R)**, 4-feb-2020. [IMG-TWIT: Excess demand- less liquid side] Y micro-trades del 5-feb con **SL 1.8 pips** (+22.2 pips corriendo). [IMG-TWIT: PA Only] (Consistente con la serie: stops 2-10 pips, targets estructurales.)
+20. **Excepción con catalizador de calibre** (playbook invertido): tras un evento tipo emergency cut, con la liquidez desaparecida y el libro abierto en una dirección, "**you can chase price... trail stops, buy the retest of highs**" — lo contrario del fade por defecto. Condición: "long as you get the significance of the catalyst on available liquidity". [IMG-TWIT: Emergency Cut]
 
 ## Comportamientos de referencia (aún sin setup formalizado)
 

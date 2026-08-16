@@ -9,6 +9,7 @@
 - "Observe price for what it is rather than trying to trade it." [PDF: Liquidity Principles p.1]
 - "Exercising, engaging builds process. Process builds equity. Equity builds wealth." [PDF: Tracking Unfilled Liquidity p.1]
 - "GET USED TO THE DISCOMFORT — its where you learn." [PDF: Tracking Unfilled Liquidity p.3]
+- **Proceso antes que psicología**: "number one reason traders lose money is thinking they've had an 'aha' moment after a few observations under same market conditions. **Over optimising approach + no framework to assess context.** When environment inevitably shifts... market has its way with you. **It's always then psychology and never weak process**" (irónico: el fallo casi siempre es de proceso, no mental). [IMG-TWIT: PSych]
 
 ## Itinerario de aprendizaje (el "3 step exercising objective") — RESUELTO en Session 15
 
@@ -22,6 +23,7 @@ Estructura definitiva dictada en M2020 [VID-M2020: Session 15 @ 00:42:01–00:54
 3. **Step 3 — derivar cómo operar cada entorno/setup**: "how to trade an efficient environment, the characteristics, the types of levels that work there" (= construcción de trade models).
 - Antecedentes en PDFs: los principios son el paso previo ("prior to even trying to trade" [PDF: Liquidity Principles p.1]); "broad non-contextual exercising" [PDF: Price Swings Continued p.11] = el exercising contextless de Session 13.
 - El exercising **no termina nunca**: rutina diaria de EM para "get back in my groove" — trackear y dibujar niveles cada mañana; los recordatorios operativos emergen de ahí (p.ej. "**when price misses your level, don't chase — often it will end up spiking to it later**"). [VID-M2020: Session 15 @ 00:54:31–00:55:59]
+- Tercera formulación pública (abr-2020): "**Intense engagement to 'activate' brain's learning function**... Observing price in 3 tranches — **1st centred around 'seeing' & validating, 2nd on tracking & dealing with dynamic environment & 3rd around identifying edge, parameters + process building**." [IMG-TWIT: Learning]
 
 ## Workspace de charts (M2020)
 
@@ -31,6 +33,7 @@ Cuatro charts con roles fijos [VID-M2020: Session 15 @ 00:56:22–00:57:45]: **L
 
 1. Track price very closely. 2. Consider multiple outcomes. 3. Probabilistic approach (qué es MÁS probable, nunca expectativas rígidas). [VID-M2020: Session 15 @ 00:17:40–00:23:28]
 - **Los niveles como sensor de régimen**: cuando van a funcionar, responden; cuando dejan de responder, eso ES la información de que el estado cambió ("when it's the time that it runs out, none of these levels are going to work and you'll see them get rolled over"). [VID-M2020: Session 15 @ 01:17:59–01:18:44]
+- Marco epistemológico en una imagen: "distinction between **non-randomness & observable characteristics in something random** — earthquakes are 'random' but there's a measurable & observable impact of one allowing for **anticipation & response**." [IMG-TWIT: Randomness]
 - **Gestión de fatiga — plan 5/12** (de Lance Beggs, guardado por EM): (1) menos de 5h de sueño en las últimas 24h → NO TRADING; (2) menos de 12h en 48h → NO TRADING; (3) llevar despierto más horas de las dormidas en 48h → NO TRADING. Mide solo fatiga aguda; la crónica "will typically require longer periods of time away from the markets". "**Look after yourself. There is a whole career ahead of you. There's no need to burn out now.**" [IMG-TWIT: ESu8Xh9U8AAbhOT] (tercero endosado por EM)
 
 ## Process building model (5 etapas) [PDF: Process Over Profits p.4]

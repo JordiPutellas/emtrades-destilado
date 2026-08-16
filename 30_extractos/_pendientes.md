@@ -35,7 +35,7 @@
   - [x] Session 13-003 (2020-11-19) → `extracto_vid_m2020_session13.md` (2026-08-16)
   - [x] Session 14- drawing levels (2020-12-17) → `extracto_vid_m2020_session14.md` (2026-08-16)
   - [x] Session 15-007 (2021-03-21) → `extracto_vid_m2020_session15.md` — pasos exercising, workspace, estilo de gestión (2026-08-16)
-  - **Dependencia SIN RESOLVER — template 4 variaciones de apex** (+ gestión de apex + "second level information", prometido en S13 @ 01:45:10): NO está en S14 ni S15. Entre S14 (dic-2020) y S15 (mar-2021) hay un salto de 3 meses: probablemente se entregó como archivo del drive. Candidatos al procesar capturas: `Inverted Fractal.png`, carpetas EM Twits / Most Important EM Trades. Descartado que esté en S12 (anterior a la promesa).
+  - **Dependencia SIN RESOLVER — template 4 variaciones de apex** (+ gestión de apex + "second level information", prometido en S13 @ 01:45:10): NO está en S14 ni S15. Entre S14 (dic-2020) y S15 (mar-2021) hay un salto de 3 meses: probablemente se entregó como archivo del drive. Candidatos al procesar capturas: `Inverted Fractal.png`, carpetas EM Twits / Most Important EM Trades. Descartado que esté en S12 (anterior a la promesa). **Actualización 2026-08-16 (EM Twits): el archivo formal tampoco está ahí, pero SÍ su precursor Twitter — hilo "variation of a low" (jun-jul 2019) con 3-4 variaciones predominantes y ejemplos en XAU/GBPUSD/WTI [IMG-TWIT: Reversal 1-2]. Restan como candidatos: Discord, CLP, sesiones 1-11.**
   - **"Process video" y "exercise video"**: vídeos del drive de la mentoría referenciados como ya vistos [S13 @ 01:33:47; S15 @ 00:23:52; PDF Liquidity Principles p.1]. NO son las sesiones grabadas (verificado con S12) — posiblemente NO están en el repo. Preguntar al usuario si los tiene.
   - S12 @ 00:30:17 promete "next session" el detalle de cómo cambian las probabilidades cuando el precio hace poke past the low del OP — S13 no lo desarrolla explícitamente: buscar en sesiones restantes.
   - Session 1.mp4 … Session 4.mp4, session 5-006.mov, Session 6-001.mov, Session 7.mov,
@@ -49,7 +49,7 @@ Plan: transcribir todos en batch primero, destilar después por orden temático.
 ## Capturas (00_fuentes/capturas — 4 subcarpetas + 2 sueltas)
 
 - [ ] **CLP** (12 imgs)
-- [ ] **EM Twits** (50 imgs)
+- [x] **EM Twits** (50 imgs) — procesado 2026-08-16 en 4 sublotes → `extracto_capturas_TWIT_01..04.md`. Hallazgos mayores: template de variaciones de low (jun-2019, precursor del 4-apex), setup "Washed IV" (sin definición), excepción chase con catalizador (Emergency Cut), mecanismo LP en 7 pasos (EMTRADES.jpg), Chris Lori respondiendo "Sounds familiar" (pregunta 16), base académica del marco (Stanford/EBS, Farmer, Oomen, BoC). Template 4 apexes como archivo / CPS-setup / SWE formal: NO están aquí.
 - [x] **Most Important EM Trades** (44 imgs) — procesado 2026-08-16 en 4 sublotes → `extracto_capturas_MIET_01..04.md`. Template 4 apexes / CPS-setup / SWE: NO encontrados aquí.
 - [ ] **discord-conversation-screenshots** (129 imgs)
 - [x] Sueltas (2026-08-16) → `extracto_capturas_sueltas.md`: ambas son el esquema CPS (alcista+bajista) con marca Chris Lori/Pro Traders Club → CPS confirmado + procedencia externa
