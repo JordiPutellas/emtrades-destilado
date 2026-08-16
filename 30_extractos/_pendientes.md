@@ -30,32 +30,32 @@
 
 ## Vídeos (00_fuentes/videos — 26 ficheros)
 
-- [ ] **2020 Mentorship** (16 vídeos, 4 procesados) — etiqueta `[VID-M2020: ...]`. Fuente más refinada y autoritativa.
+- [~] **2020 Mentorship** (16 vídeos, 16/16 transcritos; 4 destilados) — etiqueta `[VID-M2020: ...]`. Fuente más refinada y autoritativa.
   - [x] Session 12-004 (2020-11-06) → `extracto_vid_m2020_session12.md` — definición formal de BA, anatomía del core (2026-08-16)
   - [x] Session 13-003 (2020-11-19) → `extracto_vid_m2020_session13.md` (2026-08-16)
   - [x] Session 14- drawing levels (2020-12-17) → `extracto_vid_m2020_session14.md` (2026-08-16)
   - [x] Session 15-007 (2021-03-21) → `extracto_vid_m2020_session15.md` — pasos exercising, workspace, estilo de gestión (2026-08-16)
-  - **Dependencia SIN RESOLVER — template 4 variaciones de apex** (+ gestión de apex + "second level information", prometido en S13 @ 01:45:10): NO está en S14 ni S15. Entre S14 (dic-2020) y S15 (mar-2021) hay un salto de 3 meses: probablemente se entregó como archivo del drive. Candidatos al procesar capturas: `Inverted Fractal.png`, carpetas EM Twits / Most Important EM Trades. Descartado que esté en S12 (anterior a la promesa). **Actualización 2026-08-16 (EM Twits): el archivo formal tampoco está ahí, pero SÍ su precursor Twitter — hilo "variation of a low" (jun-jul 2019) con 3-4 variaciones predominantes y ejemplos en XAU/GBPUSD/WTI [IMG-TWIT: Reversal 1-2]. Restan como candidatos: Discord, CLP, sesiones 1-11.**
+  - **Dependencia SIN RESOLVER — template 4 variaciones de apex** (+ gestión de apex + "second level information", prometido en S13 @ 01:45:10): NO está en S12, S14, S15, EM Twits, MIET ni Discord. Sí aparece su precursor Twitter — hilo "variation of a low" (jun-jul 2019) con 3-4 variaciones predominantes y ejemplos en XAU/GBPUSD/WTI [IMG-TWIT: Reversal 1-2]. Restan como candidatos: M2020 sesiones 1-11, CLP o un archivo perdido del drive.
   - **"Process video" y "exercise video"**: CERRADO-IRRECUPERABLE (2026-08-16) — [USUARIO] no los conserva. Contenido parcialmente reconstruido vía S13/S15 + Liquidity Principles p.1 + tweet "3 tranches" (ver pregunta 6 en 90_preguntas_abiertas.md).
   - S12 @ 00:30:17 promete "next session" el detalle de cómo cambian las probabilidades cuando el precio hace poke past the low del OP — S13 no lo desarrolla explícitamente: buscar en sesiones restantes.
   - Session 1.mp4 … Session 4.mp4, session 5-006.mov, Session 6-001.mov, Session 7.mov,
     Session 8.mp4 … Session 10.mp4, Session 11 part 1-009.mov, Session 11 part 2.mov,
     Session 12-004.mov, Session 13-003.mov, Session 14- drawing levels.mov, Session 15-007.mov
-- [ ] **Price Swing series** (10 vídeos) — etiqueta `[VID-PS: ...]`. Época anterior, menos refinada.
+- [~] **Price Swing series** (10 vídeos, 10/10 transcritos; pendientes de destilar) — etiqueta `[VID-PS: ...]`. Época anterior, menos refinada.
   - PriceSwing_01.mp4 … PriceSwing_10.mp4
 
-Plan: transcribir todos en batch primero, destilar después por orden temático.
+Plan: transcripción batch completada (26/26; 27,4 h; 693 frames). Destilar primero las 12 sesiones M2020 restantes y después Price Swing.
 
 ## Capturas (00_fuentes/capturas — 4 subcarpetas + 2 sueltas)
 
 - [ ] **CLP** (12 imgs)
 - [x] **EM Twits** (50 imgs) — procesado 2026-08-16 en 4 sublotes → `extracto_capturas_TWIT_01..04.md`. Hallazgos mayores: template de variaciones de low (jun-2019, precursor del 4-apex), setup "Washed IV" (sin definición), excepción chase con catalizador (Emergency Cut), mecanismo LP en 7 pasos (EMTRADES.jpg), Chris Lori respondiendo "Sounds familiar" (pregunta 16), base académica del marco (Stanford/EBS, Farmer, Oomen, BoC). Template 4 apexes como archivo / CPS-setup / SWE formal: NO están aquí.
 - [x] **Most Important EM Trades** (44 imgs) — procesado 2026-08-16 en 4 sublotes → `extracto_capturas_MIET_01..04.md`. Template 4 apexes / CPS-setup / SWE: NO encontrados aquí.
-- [~] **discord-conversation-screenshots** (129 imgs) — **parte 1 procesada 2026-08-16** (Disc 2–52.1, 58 imgs, en 4 sublotes → `extracto_discord_01..04.md`; no existen "disc 1" ni Disc 27-28). EM = "EssFX"; **GrifoneTrader = el usuario ([USUARIO] confirmado 2026-08-16)**. Hallazgos: definición de momentum + taxonomía por urgencia, latent liquidity/conversion rate, mecanismo por timeframe, anti-stop-hunt ("no such thing as fake highs"), "shifting points" = término de Lori, día de metaorden 26-may narrado en vivo. **Pendiente parte 2**: Disc 53 en adelante (~67 imgs) + nombradas (Bund.jpg, MM.jpg, Mirosctructure.jpg, answers.jpg). Caza aún sin resolver ahí: Washed IV, SWE, 4-apex, CPS-setup, YO/WO/MO, responsive-vs-state.
+- [x] **discord-conversation-screenshots** (129 imgs) — procesado completo 2026-08-16 en 9 sublotes → `extracto_discord_01..09.md` (incluye las nombradas y las numeradas; los ficheros lowercase `disc 1`, `disc 11`, `disc 27` y `disc 28` quedaron incorporados en el sublote 05). EM = "EssFX"; **GrifoneTrader = el usuario ([USUARIO] confirmado 2026-08-16)**. Hallazgos mayores: momentum + taxonomía por urgencia; latent liquidity/conversion rate; mecanismo por timeframe; anti-stop-hunt; "shifting points" como término de Lori; metaorden del 26-may narrado en vivo; poor high/low; enfoque anticipatorio sobre responsive; balanced liquidity/equilibrium; y protocolo de riesgo event-driven. La caza prioritaria (Washed IV, SWE formal, 4-apex, CPS-setup, YO/WO/MO, responsive-vs-state, poke del OP, fractal pushing y HOTW) no produjo respuestas cerradas.
 - [x] Sueltas (2026-08-16) → `extracto_capturas_sueltas.md`: ambas son el esquema CPS (alcista+bajista) con marca Chris Lori/Pro Traders Club → CPS confirmado + procedencia externa
 - [x] Price Inefficiencies (10 imgs usadas en el extracto de muestra)
 
-Procesar por lotes de 20-30.
+**Cierre de Discord — mapa para no repetir la búsqueda:** Discord queda agotado como candidato. Para **Washed IV, SWE y criterios de washed**, revisar primero CLP (12 imgs) y después M2020 S1-S11; Price Swing puede aportar genealogía. Para **template 4-apex, gestión de apex y second level information**, priorizar M2020 S1-S11, luego CLP; Price Swing solo como precursor, y sigue siendo posible que el archivo formal estuviera en el drive perdido. Para **CPS como setup** y el **poke past the low del OP**, priorizar M2020 S1-S11, usando CLP para ejemplos y Price Swing para el marco antiguo. Para **YO/WO/MO**, revisar CLP y M2020 S1-S11; Price Swing como segunda vía. Para los criterios **responsive vs market-state-dependent**, M2020 S1-S11 es el candidato principal y Price Swing el secundario. Para **fractal pushing** y **HOTW**, empezar por Price Swing 1-10 (vocabulario temprano), después M2020 S1-S11 y CLP.
 
 ## Trades propios del usuario
 

@@ -1,6 +1,6 @@
-# EMTrades — Mapa del método (estado tras los 17 PDFs)
+# EMTrades — Mapa del método (estado tras la Sesión 8)
 
-> Documento de orientación para la fase de vídeos (2026-08). Todo lo afirmado aquí tiene fuente detallada en los maestros enlazados. Época: material escrito ~2019 (pre-Mentoría 2020); los vídeos M2020 prevalecen en caso de conflicto.
+> Documento de orientación vivo (2026-08). Todo lo afirmado aquí tiene fuente detallada en los maestros enlazados. Los vídeos M2020, más refinados, prevalecen sobre el material anterior en caso de conflicto.
 
 ## La idea en tres frases
 
@@ -34,7 +34,7 @@ El precio es una función de la liquidez disponible: la volatilidad sube donde l
 
 ## El esquema que ordena todo: CPS (13 componentes)
 
-"Characteristics of a Price Swing" [IMG: Tracking Unfilled Liquidity p.4] — [INFERENCIA fuerte] es la expansión de CPS:
+"Characteristics of a Price Swing" — expansión de CPS confirmada por el PDF y las dos capturas sueltas; la plantilla procede de Chris Lori / Pro Traders Club y fue adoptada por EM [IMG: Tracking Unfilled Liquidity p.4; IMG: sueltas]:
 
 `1 Liquidity Base → 2 Point of Release → 3 Skinny Leg → 4 Price Pause (Shelf Bottom) → 5 Continuation Leg → 6 Consolidation Apex → 7 Retest H/L → 8 Apex Base (break) Retest → 9 Shelf Top/Bottom Retest → 10 Gap Slip → 11 Clean Breaking Point → 12 PoR (vuelta) → 13 Liquidity Base Bottom`
 
@@ -42,17 +42,18 @@ Uso: "Identify liquidity, use CPS to navigate through price & manage the trade."
 
 ## Qué se opera (estado actual)
 
-Setups S-01…S-07 + catálogo de EM (ABRs, shelf flips, swing retests de CLBs, void fills, midflow) + response areas de alta probabilidad + reglas de gestión del trade real de 2019 (stop 10 pips, shelf como primer target, "paying for the trade", stop a invalidación, compounds): [03_setups](03_setups.md) y [05_trade_examples](05_trade_examples.md).
+Setups S-01…S-08 + catálogo de EM (ABRs, shelf flips, swing retests de CLBs, void fills, midflow) + response areas de alta probabilidad + reglas de gestión del trade real de 2019 (stop 10 pips, shelf como primer target, "paying for the trade", stop a invalidación, compounds): [03_setups](03_setups.md) y [05_trade_examples](05_trade_examples.md).
 
 Calibración clave: la MISMA zona es alta probabilidad con entrega ineficiente hacia ella (mejor aún tras SWE) y baja probabilidad con entrega eficiente.
 
 ## Cómo se aprende/ejecuta (proceso)
 
-Itinerario de 3 pasos (principios → structured engagement → broad exercising), process building model por componente (sample sets de 10/día), tracking unfilled liquidity a doble vía (spots de respuesta + probabilidades favourable/unfavourable): [04_proceso](04_proceso.md).
+Itinerario de 3 pasos formalizado en M2020 S15: (1) aprender a ver swings, (2) aplicar el marco a precio vivo —trackear/explicar, añadir contexto y buscar respuestas— y (3) derivar cómo operar cada entorno/setup. Process building por componente (sample sets de 10/día) y tracking de unfilled liquidity a doble vía: [04_proceso](04_proceso.md).
 
 ## Estado de la destilación
 
 - ✅ 17/17 PDFs procesados (extractos en `30_extractos/`).
-- ⏳ Pendiente: 26 vídeos (16 M2020 + 10 Price Swing), ~235 capturas, Discord.
-- Prioridades para vídeos: CPS-como-setup, definición formal de SWE y "feeder", reglas de trazado de niveles (Session 14 M2020), trade models/momentum trade, anatomía de tops (parabolic phase), y contraste C-001.
+- ✅ 26/26 vídeos transcritos (27,4 h; 693 frames). Destilados 4/16 M2020 (S12-S15); pendientes 12 M2020 + 10 Price Swing.
+- ✅ Discord 129/129 procesado en `extracto_discord_01..09.md`. Capturas totales: 225/237 procesadas; solo queda CLP (12).
+- Prioridades restantes: CPS-como-setup; definición operativa de SWE/washed y Washed IV; template formal de 4 apexes; poke past the low del OP; reglas YO/WO/MO; responsive-vs-market-state-dependent; fractal pushing; HOTW; y momentum trade como setup.
 - Dudas vivas: [90_preguntas_abiertas](90_preguntas_abiertas.md) · Conflictos: [91_contradicciones](91_contradicciones.md) · Ideas BTC (aparcadas): [92_ideas_btc](92_ideas_btc.md).

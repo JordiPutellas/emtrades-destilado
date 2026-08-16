@@ -17,7 +17,7 @@
 
 ## Término nuevo
 
-- **Feeder**: usado sin definir ("extended past a high into a feeder = potential short"). [PDF: p.4] → glosario como "por confirmar"; buscar en vídeos/Discord.
+- **Feeder**: usado sin definir ("extended past a high into a feeder = potential short"). [PDF: p.4] **Actualización M2020 S14:** resuelto en lo esencial como el nivel original al que el precio alimenta, prioritario sobre su pickup. [VID-M2020: Session 14 @ 00:00:41–00:01:02]
 
 ## Aporta al destilado
 

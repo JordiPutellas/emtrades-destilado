@@ -29,7 +29,7 @@
 - **Estado:** sigla encontrada en fuente (sin expandir); expansión aportada por [USUARIO].
 - Uso en fuente, como precursor de un setup de alta probabilidad: "You have a liquidity base, price runs inefficiently into it **extending past highs after a SWE — high probability**." [PDF: Trade Example p.8]
 - [USUARIO] SWE = **Shelf Wash Extension**.
-- Conexión con el "wash" del shelf: "Only time I will expect price to move through the shelf straight away is **if it is washed** & even then expect some stalling & absorption." [IMG: Trade Example p.5] [INFERENCIA] SWE = barrido del shelf seguido de extensión; definición operativa completa pendiente de vídeos/Discord.
+- Conexión con el "wash" del shelf: "Only time I will expect price to move through the shelf straight away is **if it is washed** & even then expect some stalling & absorption." [IMG: Trade Example p.5] [INFERENCIA] SWE = barrido del shelf seguido de extensión; Discord quedó agotado sin definición operativa completa. Candidatos: CLP y M2020 S1-S11; Price Swing como genealogía.
 
 ### BA — Breakout Accumulation
 - **Estado:** confirmado (definición formal en M2020).
