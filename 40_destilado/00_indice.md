@@ -68,4 +68,4 @@ Itinerario de 3 pasos formalizado en M2020 S15: (1) aprender a ver swings, (2) a
 - ✅ Corpus fuente conservado procesado íntegramente. No quedan PDFs, vídeos ni capturas pendientes de destilar.
 - Cierres transversales: [M2020](../30_extractos/cierre_m2020.md) · [Price Swing](../30_extractos/cierre_price_swing.md).
 - Próximas fases posibles —todavía no iniciadas—: aclaraciones de Jordi, recuperación/genealogía externa opcional o validación empírica. La clasificación canónica está en [_pendientes](../30_extractos/_pendientes.md).
-- Dudas vivas: [90_preguntas_abiertas](90_preguntas_abiertas.md) · Conflictos: [91_contradicciones](91_contradicciones.md) · Ideas BTC (aparcadas): [92_ideas_btc](92_ideas_btc.md).
+- Dudas vivas: [90_preguntas_abiertas](90_preguntas_abiertas.md) · Conflictos: [91_contradicciones](91_contradicciones.md) · Ideas BTC (aparcadas): [92_ideas_btc](92_ideas_btc.md) · Contexto de usuario, no doctrina: [93_contexto_usuario](93_contexto_usuario.md).
