@@ -118,6 +118,21 @@ Sistema distinto del anterior: estados del ciclo de vida de las PREGUNTAS de
 Una pregunta puede llevar dos estados si de verdad los tiene
 (p.ej. `[IRRECUPERABLE]` + `[VALIDACIÓN]`). No forzar uno solo.
 
+## Estados prospectivos (capa de extensión)
+
+Los estados epistémicos y de pregunta anteriores son retrospectivos (describen
+el corpus). La capa `60_extension/` añade cuatro estados PROSPECTIVOS para lo
+que el proyecto propone (ver `60_extension/00_metodo.md`):
+
+- `[HIPÓTESIS]` — propuesta del proyecto, razonada, sin medir.
+- `[EVIDENCIA]` — medida bajo protocolo, con resultado.
+- `[OPERATIVO]` — autorizada para uso real, con versión y contexto.
+- `[REFUTADA]` — se midió y no aguantó; SE CONSERVA, no se borra.
+
+Reglas duras: nada nace [OPERATIVO]; toda ficha exige criterio de falsación;
+todo lleva autor y fecha; v1 no se toca (las contradicciones con v1 se
+registran como TENSIÓN); nada de esa capa autoriza a operar con dinero real.
+
 ## Etiqueta [USUARIO]
 
 Correcciones o desacuerdos del usuario con el material original (p.ej.
