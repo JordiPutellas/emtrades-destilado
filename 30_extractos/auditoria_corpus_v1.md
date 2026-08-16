@@ -61,6 +61,13 @@ Redundantes correctos en S15 (b): repaso microestructura (S2/S12), "trading the 
 - **ANOMALÍA INTERNA DE LA FUENTE (registrada, no resuelta):** EM rotula "CPL - consumption response leg", pero esas palabras darían CRL, no CPL. Hipótesis posibles (palabra omitida; "Consumption Price Leg" glosado de memoria) — NO se infiere cuál. Anotada también en 02_conceptos.
 - **Dato de R verificado** en EEBe34cXoAEhKWw.png: SL rotulado "Pips: -58" (1515.46 vs entrada ~1514.88), beneficio abierto rotulado "Pips: 222.0" → **≈3.8R corriendo**, números legibles con claridad. Se mantiene la salvedad: la captura no acredita autoría ni cierre.
 
+## Tanda 3 — preguntas en la misma situación que q18 (propuesta, NO aplicada)
+
+q18 se reclasificó a [VALIDACIÓN] [NO-LOCALIZADA] porque la morfología está completa y los parámetros fueron retenidos deliberadamente por la fuente. Dos preguntas más comparten el patrón "morfología completa + parámetros remitidos por EM a samples/engagement, nunca publicados" y son candidatas a añadir [VALIDACIÓN] como segundo estado — **se listan para decisión humana, sin aplicar**:
+
+1. **Resueltas #2 (SWE)** — [RESUELTA-PARCIAL]: PS04/PS08 dan morfología y target, pero "EM remite los parámetros a samples y no fija hard stop, distancia, breakdown trigger ni reglas de reentrada". Mismo patrón: no se encontrarán leyendo; se construyen en fase 2.
+2. **Abiertas #15 (criterios de "washed")** — [RESUELTA-PARCIAL]: cualitativo resuelto, threshold cuantitativo inexistente en fuente (PS08: "sus parámetros deben desarrollarse mediante engagement"). Mismo patrón.
+
 ## Casos sin clasificar — requieren decisión humana
 
 Marcadores que no encajan limpiamente en las cinco etiquetas. NO convertidos; texto actual intacto:
