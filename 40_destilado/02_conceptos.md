@@ -25,6 +25,7 @@
 - **Los 13 componentes del esquema CPS** [IMG: Tracking Unfilled Liquidity p.4], con eje "Mass Psychological Shift":
   1. Liquidity Base → 2. Point of Release (PoR) → 3. Skinny Leg → 4. Price Pause (Shelf Bottom) → 5. Continuation Leg → 6. Consolidation Apex → 7. Retest H/L → 8. Apex Base (break) Retest → 9. Shelf Top/Bottom Retest → 10. Gap slip → 11. Clean Breaking Point → 12. PoR (vuelta) → 13. Liquidity Base Bottom.
 - Uso operativo: "Identify liquidity, use CPS to navigate through price & manage the trade." [PDF: Tracking Unfilled Liquidity p.4] "Use CPS features to determine selling continuation points." [PDF: Liquidity Imbalance continuum p.1]
+- **Genealogía Price Swing:** EM lo llama `the framework that price moves in`; pide escoger un feature, construirle parámetros/sample set y convertir **ese feature** en trade. PS01 confirma que CPS es el mapa, no un setup único. [VID-PS: PriceSwing_01 @ 00:00:14–00:00:19] [VID-PS: PriceSwing_01 @ 00:05:13–00:06:03] `CONFIRMADO/CONSERVADO EN M2020`.
 - [USUARIO] CPS es además un setup muy concreto (a trabajar más adelante) — pendiente vídeos.
 
 ### FTR — expansión NO ESPECIFICADA
@@ -343,6 +344,7 @@
 ### CLB — Core Liquidity Base
 - **Estado:** confirmado (sigla).
 - Abreviatura de core liquidity base; "swing retests of CLBs" es un comportamiento tradeable del catálogo. [IMG: Fractals _ Scaling p.8]
+- Formulación temprana: una skinny-leg extension débil que llega a liquidity gruesa `inside of the base, the core base` debería ofrecer mejor/más manejable response. Residual en mitad del run ofrece normalmente respuesta menor; el timeframe del nivel limita la expectativa. [VID-PS: PriceSwing_01 @ 00:01:34–00:02:50] `CONFIRMADO/CONSERVADO EN M2020`.
 
 ### Clean Breaking Point (CBP)
 - **Estado:** confirmado.

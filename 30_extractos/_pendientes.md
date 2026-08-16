@@ -50,10 +50,11 @@
   - **Dependencia SIN RESOLVER — template 4 variaciones de apex** (+ gestión por variante + "second level information", prometido en S13 @ 01:45:10): NO está en ninguna de las 16 sesiones M2020 ni en EM Twits, MIET, Discord o CLP. S11.2 solo compara dos morfologías y menciona otras sin template. Sí aparece el precursor Twitter — hilo "variation of a low" (jun-jul 2019) con 3-4 variaciones predominantes [IMG-TWIT: Reversal 1-2]. Restan Price Swing o un archivo perdido del drive.
   - **"Process video" y "exercise video"**: CERRADO-IRRECUPERABLE (2026-08-16) — [USUARIO] no los conserva. Contenido parcialmente reconstruido vía S13/S15 + Liquidity Principles p.1 + tweet "3 tranches" (ver pregunta 6 en 90_preguntas_abiertas.md).
   - S12 @ 00:30:17 promete "next session" el detalle de cómo cambian las probabilidades cuando el precio hace poke past the low del OP; no aparece en ninguna otra sesión M2020. Candidatos: Price Swing o dependencia perdida.
-- [~] **Price Swing series** (10 vídeos, 10/10 transcritos; pendientes de destilar) — etiqueta `[VID-PS: ...]`. Época anterior, menos refinada.
-  - PriceSwing_01.mp4 … PriceSwing_10.mp4
+- [~] **Price Swing series** (10 vídeos, 10/10 transcritos; 1/10 destilado) — etiqueta `[VID-PS: ...]`. Época anterior, menos refinada.
+  - [x] PriceSwing_01.mp4 → `extracto_vid_priceswing_01.md` — CPS como framework, core/residual y precursor de S-08 (2026-08-16)
+  - [ ] PriceSwing_02.mp4 … PriceSwing_10.mp4
 
-Plan: transcripción batch completada (26/26; 27,4 h; 693 frames). M2020 cerrado 16/16; siguiente corpus: Price Swing 01–10, empezando por 01–03.
+Plan: transcripción batch completada (26/26; 27,4 h; 693 frames). M2020 cerrado 16/16; Price Swing 1/10, continúa PS02–05 en la tanda actual.
 
 ### Caza transversal cerrada tras M2020 S4–S6
 
