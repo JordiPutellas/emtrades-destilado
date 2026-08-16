@@ -4,13 +4,13 @@
 
 ## Índice
 
-**Siglas:** [CPS](#cps--characteristics-of-a-price-swing-inferencia-fuerte) · [SWE](#swe--shelf-wash-extension) · [BA](#ba--breakout-accumulation) · [LLS](#lls--low-liquidity-state) · [PI](#pi--price-inefficiency) · [HTF/LTF](#htf--ltf) · [AB/ABR](#ab--abr--apex-base--apex-base-retest) · [ST/SB](#st--sb--shelf-top--shelf-bottom) · [CLB](#clb--core-liquidity-base) · [CBP](#clean-breaking-point-cbp) · [PoR](#por--point-of-release) · [LIC](#liquidity-imbalance-continuum-lic) · [TOB](#tob--top-of-book) · [HOTW](#hotw--high-of-the-week-inferencia)
+**Siglas:** [CPS](#cps--characteristics-of-a-price-swing-inferencia-fuerte) · [FTR](#ftr--expansión-no-especificada) · [SWE](#swe--shelf-wash-extension) · [BA](#ba--breakout-accumulation) · [LLS](#lls--low-liquidity-state) · [PI](#pi--price-inefficiency) · [HTF/LTF](#htf--ltf) · [AB/ABR](#ab--abr--apex-base--apex-base-retest) · [ST/SB](#st--sb--shelf-top--shelf-bottom) · [CLB](#clb--core-liquidity-base) · [CBP](#clean-breaking-point-cbp) · [PoR](#por--point-of-release) · [LIC](#liquidity-imbalance-continuum-lic) · [TOB](#tob--top-of-book) · [HOTW](#hotw--high-of-the-week-inferencia)
 
 **Estructura del run/swing:** [Price run](#price-run) · [Price spike](#price-spike) · [Skinny leg](#skinny-leg) · [Price pause](#price-pause) · [Parabolic phase](#parabolic-phase) · [Shelf](#shelf--shelf-liquidity) · [Shelf flip](#shelf-flip) · [Washed (shelf)](#washed-shelf) · [Apex](#apex--apex-base--apex-base-retest) · [Shifting point](#shifting-point) · [Shift in state of liquidity](#shift-in-state-of-liquidity) · [Midflow](#midflow) · [Core liquidity base](#core-liquidity-base) · [Poor high/low](#poor-high--poor-low-unfinished-auction)
 
 **Liquidez y entrega:** [Residual liquidity](#residual-liquidity--residual-levels) · [Liquidity void](#liquidity-void--vacuum) · [Chain reaction](#chain-reaction) · [Gap slip](#gap-slip--gapslip) · [Last point of liquidity](#last-point-of-liquidity) · [Rebalance](#rebalance) · [Trending extension fill](#trending-extension-fill-short-extension-fill) · [Feeder](#feeder--feeding-liquidity) · [Volume stability / surge](#volume-stability--relative-volume-surge) · [Balanced liquidity](#balanced-liquidity--equilibrium) · [Breakout PI](#breakout-pi--fractal-breakout-pi) · [Fractal pushing](#fractal-pushing) · [Latent liquidity / conversion rate](#latent-liquidity--conversion-rate) · [SR / SR flip](#sr--sr-flip)
 
-**Organización de mercado:** [OTC / bilateral](#otc--bilateral--quote-driven) · [Exchange / multilateral](#exchange--multilateral--order-driven) · [Dealer / principal / internalización](#dealer--principal--internalización) · [CCP / settlement](#ccp--central-counterparty--settlement) · [MTF / ECN](#mtf--ecn)
+**Organización de mercado:** [OTC / bilateral](#otc--bilateral--quote-driven) · [Exchange / multilateral](#exchange--multilateral--order-driven) · [Best bid/offer y tipos de orden](#best-bid--best-offer--tipos-de-orden) · [Market-to-limit-order ratio](#market-to-limit-order-ratio) · [Dealer / principal / internalización](#dealer--principal--internalización) · [CCP / settlement](#ccp--central-counterparty--settlement) · [MTF / ECN](#mtf--ecn)
 
 **Trading y gestión:** [Midflow / counter flow trading](#midflow-trading--counter-flow-trading) · [Paying for the trade](#paying-for-the-trade) · [Compound](#compound) · [Dealing range](#dealing-range) · [Responsive vs market-state-dependent levels](#responsive-vs-market-state-dependent-levels) · [CPL](#cpl--consumption-response-leg) · [Washed IV](#washed-iv) · [Momentum](#momentum-definición-y-taxonomía)
 
@@ -27,11 +27,16 @@
 - Uso operativo: "Identify liquidity, use CPS to navigate through price & manage the trade." [PDF: Tracking Unfilled Liquidity p.4] "Use CPS features to determine selling continuation points." [PDF: Liquidity Imbalance continuum p.1]
 - [USUARIO] CPS es además un setup muy concreto (a trabajar más adelante) — pendiente vídeos.
 
+### FTR — expansión NO ESPECIFICADA
+
+- **Estado:** sigla confirmada por audio; expansión y anatomía no especificadas. EM dice “your Quasimodo or your **FTR pattern**” y reutiliza “FTR setup” para ilustrar que el expectancy histórico no determina el siguiente resultado. [VID-M2020: Session 2 @ 00:12:04–00:13:15]
+- **Procedencia/uso:** ejemplo hipotético de un patrón ya conocido por el alumno, no setup definido ni atribuido a EM. La sesión no aporta trigger, invalidación, gestión ni significado literal; no forma parte de S-01–S-09. [VID-M2020: Session 2 @ 00:15:05–00:16:20]
+
 ### SWE — Shelf Wash Extension
 - **Estado:** sigla encontrada en fuente (sin expandir); expansión aportada por [USUARIO].
 - Uso en fuente, como precursor de un setup de alta probabilidad: "You have a liquidity base, price runs inefficiently into it **extending past highs after a SWE — high probability**." [PDF: Trade Example p.8]
 - [USUARIO] SWE = **Shelf Wash Extension**.
-- Conexión con el "wash" del shelf: "Only time I will expect price to move through the shelf straight away is **if it is washed** & even then expect some stalling & absorption." [IMG: Trade Example p.5] [INFERENCIA] SWE = barrido del shelf seguido de extensión; Discord, CLP y M2020 Session 1 quedaron agotados sin definición operativa completa. Candidatos: M2020 S2-S11; Price Swing como genealogía.
+- Conexión con el "wash" del shelf: "Only time I will expect price to move through the shelf straight away is **if it is washed** & even then expect some stalling & absorption." [IMG: Trade Example p.5] [INFERENCIA] SWE = barrido del shelf seguido de extensión; Discord, CLP y M2020 Sessions 1-2 quedaron agotados sin definición operativa completa. Candidatos: M2020 S3-S11; Price Swing como genealogía.
 
 ### BA — Breakout Accumulation
 - **Estado:** confirmado (definición formal en M2020).
@@ -70,12 +75,25 @@
 ### Exchange — multilateral / order-driven
 
 - **Estado:** confirmado en M2020. Una orden puede casarse con una o muchas contrapartes en un single order book. Las limits mostradas son accesibles y la actividad queda registrada; EM lo denomina **order-driven pricing** y lo contrasta con OTC quote-driven. [VID-M2020: Session 1 @ 00:05:34–00:06:59] [VID-M2020: Session 1 @ 00:10:01–00:12:17]
-- “Más transparente” se refiere al libro mostrado/registro y firmeza de esas órdenes, no a que toda la liquidez latente sea visible (ver C-002). [VID-M2020: Session 1 @ 00:14:14–00:15:47] [DISCORD: answers] [DISCORD: Disc 64–65]
+- “Más transparente” se refiere a un book común y al registro de trades, no a que toda la liquidez latente sea visible ni a que cada resting order permanezca firme (ver C-002). [VID-M2020: Session 1 @ 00:14:14–00:15:47] [VID-M2020: Session 2 @ 01:30:19–01:34:55] [DISCORD: answers] [DISCORD: Disc 64–65]
+
+### Best bid / best offer — tipos de orden
+
+- **Best bid:** buy limit más alta. **Best offer/ask:** sell limit más baja. Son los dos precios más competitivos del book. [VID-M2020: Session 2 @ 00:21:42–00:23:10]
+- **Limit:** price-sensitive, pasiva/price-making y proveedora de liquidez; paga con riesgo de no-fill. **Market:** time-sensitive, agresiva/price-taking y consumidora de liquidez; paga urgencia mediante slippage/barrido de niveles si falta depth. [VID-M2020: Session 2 @ 00:23:14–00:24:44] [VID-M2020: Session 2 @ 00:31:23–00:32:56]
+
+### Market-to-limit-order ratio
+
+- **Estado:** confirmado y formulado como principio causal. Si las market orders superan las limits disponibles en una dirección, consumen los niveles y mueven el best price. [VID-M2020: Session 2 @ 00:26:04–00:30:21] [VID-M2020: Session 2 @ 00:33:13–00:33:35]
+- **Depth frente a volumen:** puede transaccionarse mucha venta contra un bid grueso sin desplazamiento y mucha menos compra barrer un ask fino; por eso precio puede subir pese a mayor volumen vendedor. Liquidez es profundidad/fricción disponible, no volumen ya cruzado. [VID-M2020: Session 2 @ 00:33:35–00:38:11]
+- El ratio supera uno con más facilidad en el lado menos líquido, sesgando la probabilidad de movimiento hacia él. La identificación live es difícil y la máxima asimetría dura poco porque basta muy poco volumen para mover precio. [VID-M2020: Session 2 @ 00:40:45–00:45:17] [VID-M2020: Session 2 @ 01:01:24–01:03:09]
 
 ### Dealer / principal / internalización
 
 - El dealer es contraparte/principal de la operación bilateral: proporciona liquidez y después decide mantener el riesgo, casar con otro cliente o cubrirlo fuera. El broker retail sigue siendo principal frente al cliente aunque se llame ECN/no-dealing-desk. [VID-M2020: Session 1 @ 00:01:54–00:03:19] [VID-M2020: Session 1 @ 00:04:07–00:04:35]
 - **Internalización:** el broker/dealer absorbe o casa flow dentro de su propia clientela en vez de enviarlo al mercado amplio; puede agregar tickets pequeños y cubrir solo el neto. [VID-M2020: Session 1 @ 00:04:36–00:05:34]
+- Cada dealer mantiene book/quotes propios y compite por best bid/offer. Construye inventario comprando, lo descarga vendiendo y captura el spread; el estado más favorable es casar flujo comprador/vendedor simultáneo sin retener riesgo direccional. [VID-M2020: Session 2 @ 01:08:02–01:13:46] [VID-M2020: Session 2 @ 01:25:55–01:27:14]
+- **Inventory risk / toxic inventory:** si el precio se mueve antes de encontrar el otro lado, el dealer queda atrapado y puede descargar agresivamente con pérdida. **Hot potato trading:** esa descarga revela información a competidores, que pueden retirar bids/replicar la venta, creando book fino y mayor volatilidad; EM dice que el mecanismo clásico no era ya predominante en 2020. [VID-M2020: Session 2 @ 01:17:12–01:25:28]
 
 ### CCP — central counterparty / settlement
 
@@ -185,6 +203,7 @@
 ### Trending extension fill (short extension fill)
 - **Estado:** confirmado.
 - En tendencia, el fill de una extensión "aka short extension fill — no reversal, just rebalance to find sellers": los rebalances contra tendencia encuentran liquidez a favor y el precio sigue a nuevos extremos. No confundir fill con giro. [IMG: Liquidity Void p.15] [PDF: p.16]
+- Session 2 reitera sobre una extensión HTF: “**It almost always fills**”. No aporta tasa, condiciones de suficiencia ni separación operativa entre fill y reversal; se conserva como claim contextual pendiente de validación. [VID-M2020: Session 2 @ 00:01:27–00:01:36]
 
 ### Feeder / feeding liquidity
 - **Estado:** confirmado (uso aclarado en M2020).

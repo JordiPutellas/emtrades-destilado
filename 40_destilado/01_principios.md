@@ -16,6 +16,8 @@ Del documento "Liquidity Principles" [PDF: Liquidity Principles]:
 8. Los price runs y swings son fractales: todas las escalas, todo el día.
 9. La entrega eficiente de precio es muy fuerte... hasta que deja de serlo.
 
+M2020 Session 2 no modifica la lista: desarrolla directamente los principios 1, 2 y 6 mediante profundidad, market-to-limit-order ratio e inventario dealer, y reitera el 7 como claim contextual (“extension almost always fills”) pendiente de validación. [VID-M2020: Session 2 @ 00:29:50–00:33:35] [VID-M2020: Session 2 @ 00:40:45–00:45:17] [VID-M2020: Session 2 @ 01:04:31–01:06:30] [VID-M2020: Session 2 @ 00:01:27–00:01:36]
+
 ## Desarrollo (por módulo procesado)
 
 ### Volatilidad = f(liquidez disponible)
@@ -120,6 +122,15 @@ Estabilidad de volumen (low liquid state) → surge relativo en un lado → run 
 - **Diferencia observacional:** el precio exchange mostrado representa encuentro de órdenes en un venue; el FX OTC observado representa quotes fragmentadas de dealers/agregadores. No son el mismo objeto informativo. Matiz: “más transparente” no significa liquidez total visible — fuentes posteriores dicen que mucha liquidez permanece latente incluso en futuros (C-002). [VID-M2020: Session 1 @ 00:10:01–00:12:17] [DISCORD: answers] [DISCORD: Disc 64–65]
 - **Estructuras híbridas FX:** LMAX/MTF opera exchange-like (single book, order-driven, LMAX como contraparte); ECNs como Hotspot/FXall/Currenex agregan quotes/credit lines y facilitan routing; el broker retail sigue decidiendo si internaliza o cubre. cTrader muestra directamente quotes de agregadores integrados según EM, pero el fill todavía pasa por el broker y no elimina el principal risk. [VID-M2020: Session 1 @ 00:22:34–00:27:25]
 - **Trade-off OTC:** anonimato/flexibilidad para necesidades comerciales y soluciones a medida frente a menor transparencia y mayor dificultad regulatoria/counterparty risk. Exchange impone reglas uniformes y registro, más adaptados al trading competitivo. [VID-M2020: Session 1 @ 00:20:20–00:22:28] [VID-M2020: Session 1 @ 00:27:39–00:28:09]
+
+### Price discovery, profundidad e inventario (M2020 Session 2)
+
+- **Market-to-limit-order ratio:** limits pasivas aportan liquidez/fricción; markets urgentes la consumen. Cuando las market orders superan la profundidad disponible en un lado, barren niveles y desplazan el best price. [VID-M2020: Session 2 @ 00:23:14–00:24:44] [VID-M2020: Session 2 @ 00:29:50–00:33:35]
+- **Liquidez ≠ volumen transaccionado:** un seller grande puede ser absorbido por un bid profundo sin mover precio, mientras un buyer mucho menor barre un ask fino y lo hace subir. El destino inmediato depende de profundidad relativa, no de contar compras frente a ventas. [VID-M2020: Session 2 @ 00:33:35–00:38:11]
+- **Asimetría estructural:** el lado con menos limit depth requiere menos volumen para que el ratio supere uno; por eso EM deriva “price goes to the less liquid side”. La oportunidad puede durar muy poco y no es fácil de identificar en vivo. [VID-M2020: Session 2 @ 00:38:11–00:45:17] [VID-M2020: Session 2 @ 01:01:24–01:03:09]
+- **Book exchange vs agregado OTC:** exchange reúne las órdenes en un book; FX agrega quotes de dealers con books propios. Last look permite rechazar/re-cotizar una operación adversa, de modo que el quote OTC no equivale a una limit firme central. [VID-M2020: Session 2 @ 01:06:56–01:07:40] [VID-M2020: Session 2 @ 01:13:13–01:17:08]
+- **Inventory risk → volatilidad:** un dealer atrapado con inventario tóxico puede descargarlo agresivamente; competidores interpretan esa acción, retiran/asimetrizan su liquidez y replican la descarga. EM llama a esta propagación hot potato trading/information leakage y aclara que su versión clásica ya no era dominante en 2020. [VID-M2020: Session 2 @ 01:17:12–01:25:28]
+- **Estado ideal del dealer:** flujo bilateral simultáneo que puede casar internamente, capturando repetidamente el spread sin acumular riesgo direccional. [VID-M2020: Session 2 @ 01:25:55–01:27:14]
 
 ### Estados y shifts de liquidez
 

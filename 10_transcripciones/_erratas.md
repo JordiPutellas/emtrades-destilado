@@ -11,3 +11,7 @@
 | EES                                       | indices / ES (E-mini S&P) según contexto |
 | C-trader                                  | cTrader                                  |
 | MS, MBSs                                  | MBS (mortgage-backed securities)         |
+| Quasemodo                                 | Quasimodo                                |
+| bidonast / bid and ass                    | bid/ask                                  |
+| infantry (contexto dealer)                | inventory                                |
+| market's limit order ratio                | market-to-limit-order ratio              |
