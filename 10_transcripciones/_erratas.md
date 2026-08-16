@@ -23,3 +23,6 @@
 | Reuters trade/spot match                   | Reuters FX Spot Matching                 |
 | byside                                    | buy side                                 |
 | Virtue HFT                                | Virtu                                    |
+| scrutiny (contexto order falsa)           | spoofing                                 |
+| HFD / HFP / H&T                           | HFT                                      |
+| EES / CME (según contexto)                | ES / CME                                 |

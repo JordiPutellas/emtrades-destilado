@@ -257,12 +257,19 @@
 - Implicación: comprar o hacer trend trading en balance produce chop ("**you'll get chopped up**" / "**you'll do your arse**"). El edge exige una distribución sesgada/distorsión y desaparece al repararse. [DISCORD: Disc 80, 85–87]
 - Terminología de EM: "**Value in markets = balanced liquidity**" e "**Inefficient = divergence from value**". No es un modelo de valoración fundamental: "**We're not fair value traders**"; se opera la reparación desde la distorsión hacia el balance. [DISCORD: Disc 87–88]
 
+### Ineficiencia operativa / dislocación
+
+- Session 4 da una definición mecánica: si la organización/conducta de participantes hace que un buyer no encuentre al seller donde estaba disponible y deba pagar precios progresivamente más altos, el mercado facilita peor el matching. El tramo resultante viaja “further than it should”, se negocia fino y queda dislocado del área previa de matching. [VID-M2020: Session 4 @ 00:41:37–00:46:55]
+- El caso mostrado es latency/HFT: fast liquidity toma o retira offers delante del comprador lento y se las revende más caras, aumentando niveles recorridos y slippage. No toda ineficiencia requiere HFT y EM menciona por separado el arbitraje cross-venue; no fusionar ambos significados. [VID-M2020: Session 4 @ 00:29:50–00:33:55] [VID-M2020: Session 4 @ 00:47:49–00:49:06]
+- `Efficient Market Hypothesis` pertenece a otro plano. La crítica informal de EM no sustituye una definición académica ni demuestra el edge; el concepto operativo del corpus es desviación temporal del matching/balance observable. [VID-M2020: Session 4 @ 00:42:07–00:43:37]
+
 ### Parabolic phase
 - **Estado:** confirmado.
 - Parte de la anatomía de un top/bottom HTF ("what a top looks like including parabolic phase"). [IMG: Price Swings Continued p.14]
 - En el trade real equivale al componente 5: "continuation leg/parabolic phase — **weakest part of the run**". [IMG: Trade Example p.4]
 - "The shelf which pushed price into parabolic phase" [IMG: Trade Example p.5]; "sideways pop into parabolic phase = often precedes highs". [IMG: Fractals _ Scaling p.8]
 - Secuencia M2020: primer break de midflow → **sideways** (drena inventario) → **pop = parabólica** ("after the sideways comes the pop"); la parabólica lidera el último tramo antes del retorno al shelf. "**We typically don't see the parabolic leg be a leg of significance — we see a reversal and a shift after it.**" [VID-M2020: Session 13 @ 00:18:55–00:19:57, 01:23:47–01:24:00]
+- Definición microtemporal de Session 4: no es una forma de candlestick, sino el **tempo de impresión**. Frente a ticks espaciados/irregulares, la fase parabólica hace `flash, flash, flash` y es “crazy fast”. La vela agregada puede ocultar esta diferencia; observar tick rate/rhythm. [VID-M2020: Session 4 @ 00:00:00–00:01:31]
 
 ### Midflow trading / counter flow trading
 - **Estado:** confirmado (nombres de estilo de trade). Ver 03_setups.md.
