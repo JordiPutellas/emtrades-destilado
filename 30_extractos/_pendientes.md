@@ -50,7 +50,7 @@
   - **Dependencia SIN RESOLVER — template 4 variaciones de apex** (+ gestión por variante + "second level information", prometido en S13 @ 01:45:10): NO está en M2020 ni en el corpus visual. PS05 muestra varias morfologías, pero no cuatro casos enumerados ni su gestión. Restan PS06–10 o un archivo perdido del drive; se conserva el precursor Twitter "variation of a low".
   - **"Process video" y "exercise video"**: CERRADO-IRRECUPERABLE (2026-08-16) — [USUARIO] no los conserva. Contenido parcialmente reconstruido vía S13/S15 + Liquidity Principles p.1 + tweet "3 tranches" (ver pregunta 6 en 90_preguntas_abiertas.md).
   - S12 @ 00:30:17 promete "next session" el detalle de cómo cambian las probabilidades cuando el precio hace poke past the low del OP; no aparece en M2020 ni PS01–05. Candidatos: PS06–10 o dependencia perdida.
-- [~] **Price Swing series** (10 vídeos, 10/10 transcritos; 7/10 destilados) — etiqueta `[VID-PS: ...]`. Época anterior, menos refinada.
+- [~] **Price Swing series** (10 vídeos, 10/10 transcritos; 8/10 destilados) — etiqueta `[VID-PS: ...]`. Época anterior, menos refinada.
   - [x] PriceSwing_01.mp4 → `extracto_vid_priceswing_01.md` — CPS como framework, core/residual y precursor de S-08 (2026-08-16)
   - [x] PriceSwing_02.mp4 → `extracto_vid_priceswing_02.md` — core base, PoR, refinamiento y CLB retest legacy (2026-08-16)
   - [x] PriceSwing_03.mp4 → `extracto_vid_priceswing_03.md` — genealogía de transfer, price pause y gestión counterflow (2026-08-16)
@@ -58,9 +58,10 @@
   - [x] PriceSwing_05.mp4 → `extracto_vid_priceswing_05.md` — consolidation apex, variaciones no cerradas y ABR legacy (2026-08-16)
   - [x] PriceSwing_06.mp4 → `extracto_vid_priceswing_06.md` — shelves anidados, shelf flip y pain trade (2026-08-16)
   - [x] PriceSwing_07.mp4 → `extracto_vid_priceswing_07.md` — gestión multiescala del apex retest (2026-08-16)
-  - [ ] PriceSwing_08.mp4 … PriceSwing_10.mp4
+  - [x] PriceSwing_08.mp4 → `extracto_vid_priceswing_08.md` — shelf retests, SWE y stop-out (2026-08-16)
+  - [ ] PriceSwing_09.mp4 … PriceSwing_10.mp4
 
-Plan: transcripción batch completada (26/26; 27,4 h; 693 frames). M2020 cerrado 16/16; Price Swing 7/10; continúa PS08–10.
+Plan: transcripción batch completada (26/26; 27,4 h; 693 frames). M2020 cerrado 16/16; Price Swing 8/10; continúa PS09–10.
 
 ### Matriz única Price Swing PS01–PS05
 
