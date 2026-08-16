@@ -36,6 +36,7 @@
 - **DÓNDE invalida:** NO ESPECIFICADO EN FUENTES como regla de stop. Criterio condicional sobre el shelf del rebalance (Gold 2min): "If price starts trading back below this red box (shelf), we are likely to see lower prices. If it can still hold this red box and continue to new highs, all depends on broader state of liquidity." [IMG: Liquidity Void p.8]
 - **CÓMO gestiona:** target implícito = last point of liquidity / pierna débil. Diagnóstico obligatorio del continuum: si el movimiento es fill de extensión en tendencia, NO esperar giro ("trending extension fill ≠ reversal"). [PDF: Liquidity Void p.15–16; Liquidity Imbalance continuum p.2]
 - **Contexto event-driven:** los spikes de datos son fadeables por la misma mecánica, SALVO sorpresa grande vs consenso (repricing agresivo sostenido) — anotar consenso y resultado. [PDF: Liquidity Void p.11]
+- **Protocolo de riesgo event-driven (Discord):** no entrar con tamaño justo antes del resultado sin cushion de beneficio: se queda expuesto a sorpresa y pérdida grande. Operar ligero; el fade post-release puede ser válido cuando solo hay light book/nerviosismo. Si el dato sorprende y crea urgencia/convicción, no asumir fade; incluso cuando el TOB vuelve, la liquidez puede seguir ligera y el precio buscar más profundidad. [DISCORD: Disc 96–98]
 
 ## S-06 · Operar alrededor del LLS
 
@@ -115,6 +116,7 @@ Ampliación Twitter (2019-2020, capturas EM Twits):
 21c. **Gestión de la "big idea"**: "when my big idea fails to follow through, I'll often just go back to day trading it like I have all day already — **ditch the broad idea [if] price needed to continue showing/fitting that scenario**." Y contra reglas temporales mecánicas ("three day rotation rule"): "**some lows can take 6 months. Or highs. Gold bottomed out for like 4 years.**" [DISCORD: Disc 53]
 22. **Anatomía de rango en tick chart** (chart anotado de EM): limits comerciales "aleatorios" sosteniendo el low ("'random' British importers limit orders"), el "**last available level before range low breaks**", y la dinámica "**hit before ride to other end of range**". [DISCORD: Disc 45]
 23. **Excepción con catalizador de calibre** (playbook invertido): tras un evento tipo emergency cut, con la liquidez desaparecida y el libro abierto en una dirección, "**you can chase price... trail stops, buy the retest of highs**" — lo contrario del fade por defecto. Condición: "long as you get the significance of the catalyst on available liquidity". [IMG-TWIT: Emergency Cut]
+24. **Sizing alrededor de eventos**: "**People should trade lightly around events, Cus of event risk**". Light-book volatility sin apuestas de convicción puede recorrer decenas de pips y volver al origen; no confundir amplitud con propósito direccional. Rate decisions/elections con sorpresa real son la excepción de mayor peligro y pueden crear urgencia sostenida. [DISCORD: Disc 96–98]
 
 ## Comportamientos de referencia (aún sin setup formalizado)
 
