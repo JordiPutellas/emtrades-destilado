@@ -8,7 +8,7 @@
 
 **Estructura del run/swing:** [Price run](#price-run) · [Price spike](#price-spike) · [Skinny leg](#skinny-leg) · [Price pause](#price-pause) · [Parabolic phase](#parabolic-phase) · [Shelf](#shelf--shelf-liquidity) · [Shelf flip](#shelf-flip) · [Washed (shelf)](#washed-shelf) · [Apex](#apex--apex-base--apex-base-retest) · [Shifting point](#shifting-point) · [Shift in state of liquidity](#shift-in-state-of-liquidity) · [Midflow](#midflow) · [Core liquidity base](#core-liquidity-base)
 
-**Liquidez y entrega:** [Residual liquidity](#residual-liquidity--residual-levels) · [Liquidity void](#liquidity-void--vacuum) · [Chain reaction](#chain-reaction) · [Gap slip](#gap-slip--gapslip) · [Last point of liquidity](#last-point-of-liquidity) · [Rebalance](#rebalance) · [Trending extension fill](#trending-extension-fill-short-extension-fill) · [Feeder](#feeder--feeding-liquidity) · [Volume stability / surge](#volume-stability--relative-volume-surge) · [Breakout PI](#breakout-pi--fractal-breakout-pi) · [Fractal pushing](#fractal-pushing)
+**Liquidez y entrega:** [Residual liquidity](#residual-liquidity--residual-levels) · [Liquidity void](#liquidity-void--vacuum) · [Chain reaction](#chain-reaction) · [Gap slip](#gap-slip--gapslip) · [Last point of liquidity](#last-point-of-liquidity) · [Rebalance](#rebalance) · [Trending extension fill](#trending-extension-fill-short-extension-fill) · [Feeder](#feeder--feeding-liquidity) · [Volume stability / surge](#volume-stability--relative-volume-surge) · [Breakout PI](#breakout-pi--fractal-breakout-pi) · [Fractal pushing](#fractal-pushing) · [Latent liquidity / conversion rate](#latent-liquidity--conversion-rate) · [SR / SR flip](#sr--sr-flip)
 
 **Trading y gestión:** [Midflow / counter flow trading](#midflow-trading--counter-flow-trading) · [Paying for the trade](#paying-for-the-trade) · [Compound](#compound) · [Dealing range](#dealing-range) · [Responsive vs market-state-dependent levels](#responsive-vs-market-state-dependent-levels) · [Washed IV](#washed-iv) · [Momentum](#momentum-definición-y-taxonomía)
 
@@ -259,6 +259,15 @@
 - **Estado:** por confirmar (nombrado sin definición).
 - Setup nombrado: "**Washed IV setting up on WTI — need a parabolic move lower on daily**" (WTI D1, 15-abr-2020; 5 días antes del crudo negativo). Aclaración: "Doesn't mean WTI is bullish, **price just runs through thin spots to nearest yet thickest areas**." Citando su tweet de 8-sep-2019: "**One of my favourite setups. PaTtErN is present everywhere on every timeframe... really really simple — price goes to the weaker side. Weakness (or strength) is a spectrum, it's never binary.**" [IMG-TWIT: Washed iv wti]
 - [INFERENCIA] "IV" sin expandir en fuentes: ¿numeral romano (variación 4 del template de lows — ver 90_preguntas 4/7)? ¿forma "V invertida"? Probablemente el mismo "favourite" del hilo de variaciones de low (jun-2019) [IMG-TWIT: Reversal].
+
+### Latent liquidity / conversion rate
+- **Estado:** confirmado (definido en Discord con esquema propio).
+- Esquema "**Visible orderbook vs Real orderbook**": el libro real esconde órdenes mucho mayores — "**traders hide orders to limit information leakage**... much more volume is traded vs available [visible] liquidity → participants hide orders and **only reveal after they've been clipped or as price approaches levels — conversion rate. Conversion of latent liquidity is a huge influence on LP behaviour or subsequent price behaviour.**" "Effect more pronounced in centrally traded products but the **information game is played in all markets**." [DISCORD: Disc 21, 21.1]
+- Los movimientos de largo plazo son función de esta liquidez lenta/latente: "long term moves are functions of slower liquidity aka **latent distribution** — the normal digesting forces that dont turn up". [DISCORD: Disc 20]
+
+### SR / SR flip
+- **Estado:** confirmado (uso).
+- El repertorio de EM incluye soporte/resistencia plano, distinto del shelf: ante una caja en su chart, "**thats not shelf. just SR... its just SR flip.** Reasoning — my eyes." Y el anti-mecanicismo: "the features are definable... but theres a whole spectrum of things that happen at highs and lows. **Any single aspect of it on its own is kinda irrelevant** — better for you to observe it yourself." [DISCORD: Disc 25.1]
 
 ### Metaorder / slow vs fast liquidity
 - **Estado:** confirmado (uso).
