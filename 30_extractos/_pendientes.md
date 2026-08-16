@@ -30,10 +30,14 @@
 
 ## Vídeos (00_fuentes/videos — 26 ficheros)
 
-- [ ] **2020 Mentorship** (16 vídeos, 2 procesados) — etiqueta `[VID-M2020: ...]`. Fuente más refinada y autoritativa.
-  - [x] Session 13-003 → `extracto_vid_m2020_session13.md` (2026-08-16)
-  - [x] Session 14- drawing levels → `extracto_vid_m2020_session14.md` (2026-08-16)
-  - Dependencias detectadas: Session 13 anuncia para "next session" el template de 4 variaciones de apex + gestión de apex + "second level information" — NO está en Session 14 (drawing levels): buscar en Session 15 al procesarla. Session 13 menciona un "process video" y un "exercise video" ya vistos por el alumno (¿Sessions 11-12?).
+- [ ] **2020 Mentorship** (16 vídeos, 4 procesados) — etiqueta `[VID-M2020: ...]`. Fuente más refinada y autoritativa.
+  - [x] Session 12-004 (2020-11-06) → `extracto_vid_m2020_session12.md` — definición formal de BA, anatomía del core (2026-08-16)
+  - [x] Session 13-003 (2020-11-19) → `extracto_vid_m2020_session13.md` (2026-08-16)
+  - [x] Session 14- drawing levels (2020-12-17) → `extracto_vid_m2020_session14.md` (2026-08-16)
+  - [x] Session 15-007 (2021-03-21) → `extracto_vid_m2020_session15.md` — pasos exercising, workspace, estilo de gestión (2026-08-16)
+  - **Dependencia SIN RESOLVER — template 4 variaciones de apex** (+ gestión de apex + "second level information", prometido en S13 @ 01:45:10): NO está en S14 ni S15. Entre S14 (dic-2020) y S15 (mar-2021) hay un salto de 3 meses: probablemente se entregó como archivo del drive. Candidatos al procesar capturas: `Inverted Fractal.png`, carpetas EM Twits / Most Important EM Trades. Descartado que esté en S12 (anterior a la promesa).
+  - **"Process video" y "exercise video"**: vídeos del drive de la mentoría referenciados como ya vistos [S13 @ 01:33:47; S15 @ 00:23:52; PDF Liquidity Principles p.1]. NO son las sesiones grabadas (verificado con S12) — posiblemente NO están en el repo. Preguntar al usuario si los tiene.
+  - S12 @ 00:30:17 promete "next session" el detalle de cómo cambian las probabilidades cuando el precio hace poke past the low del OP — S13 no lo desarrolla explícitamente: buscar en sesiones restantes.
   - Session 1.mp4 … Session 4.mp4, session 5-006.mov, Session 6-001.mov, Session 7.mov,
     Session 8.mp4 … Session 10.mp4, Session 11 part 1-009.mov, Session 11 part 2.mov,
     Session 12-004.mov, Session 13-003.mov, Session 14- drawing levels.mov, Session 15-007.mov

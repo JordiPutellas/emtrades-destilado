@@ -10,14 +10,27 @@
 - "Exercising, engaging builds process. Process builds equity. Equity builds wealth." [PDF: Tracking Unfilled Liquidity p.1]
 - "GET USED TO THE DISCOMFORT — its where you learn." [PDF: Tracking Unfilled Liquidity p.3]
 
-## Itinerario de aprendizaje (el "3 step exercising objective")
+## Itinerario de aprendizaje (el "3 step exercising objective") — RESUELTO en Session 15
 
-Reconstrucción a partir de referencias cruzadas (numeración exacta aún por confirmar en vídeos):
+Estructura definitiva dictada en M2020 [VID-M2020: Session 15 @ 00:42:01–00:54:31]:
 
-1. **Paso 1 — fundamentos**: entender los 9 liquidity principles ("prior to even trying to trade"). [PDF: Liquidity Principles p.1]
-2. **Paso 2 — structured engagement**: "the structured engagement outlined in the exercise video is step number TWO towards internalising price behaviour". [PDF: Liquidity Principles p.1] Pistas paralelas: steps 1 & 2 = ver/marcar price swings "in definition". [PDF: Price Swings Continued p.11]
-3. **Paso 3 — "broad non-contextual exercising"**: exercising amplio; después de él se distinguen features LTF/HTF y se incorporan los principios a los parámetros de selección. [PDF: Price Swings Continued p.11]
-4. Después: "once confidence is there can start to isolate aspects of price to build trade models". [PDF: Price Swings Continued p.16]
+1. **Step 1 — ver swings**: construir sample set y capacidad de ver price swing features en todas sus variaciones ("some are subtle, some vague, others clear — you need to see all of them").
+2. **Step 2 — aplicar a precio vivo**, con tres sub-pasos:
+   - **2.1 Track & explain**: identificar y explicar QUÉ hace el precio, sin predecir ("simply identify all the information you can").
+   - **2.2 Contextualizar (HTF) + anticipar**: usar los stages para anticipar; los fallos de expectativa y los niveles que "dejan de funcionar" enseñan a incorporar el estado HTF.
+   - **2.3 Buscar respuestas**: pasar de observar a buscar trades.
+3. **Step 3 — derivar cómo operar cada entorno/setup**: "how to trade an efficient environment, the characteristics, the types of levels that work there" (= construcción de trade models).
+- Antecedentes en PDFs: los principios son el paso previo ("prior to even trying to trade" [PDF: Liquidity Principles p.1]); "broad non-contextual exercising" [PDF: Price Swings Continued p.11] = el exercising contextless de Session 13.
+- El exercising **no termina nunca**: rutina diaria de EM para "get back in my groove" — trackear y dibujar niveles cada mañana; los recordatorios operativos emergen de ahí (p.ej. "**when price misses your level, don't chase — often it will end up spiking to it later**"). [VID-M2020: Session 15 @ 00:54:31–00:55:59]
+
+## Workspace de charts (M2020)
+
+Cuatro charts con roles fijos [VID-M2020: Session 15 @ 00:56:22–00:57:45]: **Local PA** (tracking del día, 1-5min) · **Levels** (chart dedicado a identificar/refinar niveles históricos) · **HTF** (H1/H4/D) · **Higher-higher TF** (weekly, separado para que sus cajas no ensucien el H1). Multi-TF en gestión: 1-5-15min [PDF/IMG: Trade Example p.6].
+
+## Countermeasures to randomness (sistematizadas)
+
+1. Track price very closely. 2. Consider multiple outcomes. 3. Probabilistic approach (qué es MÁS probable, nunca expectativas rígidas). [VID-M2020: Session 15 @ 00:17:40–00:23:28]
+- **Los niveles como sensor de régimen**: cuando van a funcionar, responden; cuando dejan de responder, eso ES la información de que el estado cambió ("when it's the time that it runs out, none of these levels are going to work and you'll see them get rolled over"). [VID-M2020: Session 15 @ 01:17:59–01:18:44]
 
 ## Process building model (5 etapas) [PDF: Process Over Profits p.4]
 

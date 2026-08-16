@@ -97,6 +97,12 @@ Del único trade completamente documentado en PDFs [PDF/IMG: Trade Example p.1�
 9. **Fractal ≠ broader**: el flip de apex/shelf del fractal en el high "doesn't mean a shift of the broader price swing, rather it opened up a run down to the shelf" — dimensionar expectativas a la escala del feature.
 10. **Contexto SIEMPRE** ("CONTEXT MATTERS, ALWAYS"): catalizadores (FOMC) alteran las reglas por defecto.
 
+Ampliación M2020 (Session 15) — estilo "take my money" y runners:
+11. **Estilo base = trading the volatility**: "price spikes up, we short it, it moves 3-5R intraday, take my money. I'm not a swing trader." Cerrar la mayoría el primer día. [VID-M2020: Session 15 @ 00:34:45–00:35:15]
+12. **Runner solo con ubicación HTF**: cuando el nivel/swing HTF da "greater probability of a bigger run", tomar beneficio y dejar un trozo pequeño correr ("leave a piece on, forget about it" — WTI desde $5 con 0.5 lots, cable 1.42004 con 0.8 lots). Matemática: buscar 10R sistemáticamente implica cortar varios 3-5R fallidos antes; el estilo activo renuncia a algunos runners a cambio de consistencia. [VID-M2020: Session 15 @ 00:35:36–00:39:16]
+13. **Riesgo de cola overnight**: flash spikes en baja liquidez pueden slippear stops masivamente ("probably account gone if over-leveraged") → cuidado con posiciones/órdenes fuera de horario activo. [VID-M2020: Session 15 @ 01:02:21–01:03:28]
+14. **No perseguir niveles no tocados**: "when price misses your level, don't chase — often it will end up spiking to it later". [VID-M2020: Session 15 @ 00:55:12–00:55:30]
+
 ## Comportamientos de referencia (aún sin setup formalizado)
 
 - **Gaps & rebalances**: "una de las mejores" conductas por consistencia. [PDF: módulo Price Inefficiencies]
