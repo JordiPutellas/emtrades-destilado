@@ -42,3 +42,96 @@
 - **T3 — Reposición sin regla:** el corpus documenta reposición del lado débil tras días ("weak side of book is replenished" [IMG-MIET: Tweet 4]) pero sin criterio de cuándo/cuánto (hueco ya registrado en 20_modelo_causal.md C6).
 
 Las tres tensiones NO refutan la regla: la acotan. Y son coherentes con la formulación de cabecera — el mapa dice dónde habrá fricción **si llega y con qué magnitud dada la llegada**; nunca garantiza la respuesta.
+
+---
+
+## 2. El protocolo (8 pasos ejecutables)
+
+Convenciones: las reglas R1–R26 y los observables Ob-01–Ob-34 son los de `20_motor_lectura.md`. Toda salida ambigua se marca `INDETERMINADO` y pasa a la sección Incertidumbres de la ficha — **nunca se resuelve improvisando**. Las decisiones que el corpus no resuelve están numeradas DP-1…DP-4 en §2.9 y se citan desde los pasos.
+
+### P1 — Corte, instrumento y TF gobernante
+
+- **ENTRADA:** instrumento; fecha/hora de corte (nada posterior al corte entra en la lectura); workspace de 4 charts con roles fijos — higher-higher TF (weekly) · HTF (H1/H4/D) · Levels (histórico de niveles) · Local PA (1–5min). [VID-M2020: Session 15 @ 00:56:22–00:57:45]
+- **ACCIÓN:** declarar el corte. Identificar el **swing gobernante**: el run/swing con imbalance activo en el TF más alto cuya base de origen y extensión explican dónde está el precio hoy. Declarar TF gobernante y subordinados. "Higher time frame governs lower time frame"; cada swing se lee relativo a su propio TF. [VID-M2020: Session 13 @ 00:13:52–00:21:18]
+- **SALIDA:** `{instrumento, corte, TF gobernante, swing gobernante (origen→extremo actual), TFs subordinados}`.
+- **REGLAS APLICABLES:** paso 5 del orden de lectura del motor; R8, R25.
+- **SI NO ESTÁ CLARO:** si dos TFs compiten con swings activos distintos, gobierna el MÁS ALTO ("HTF takes precedence" [VID-M2020: Session 13 @ 00:13:52–00:14:17]) y el conflicto se registra en Incertidumbres.
+
+### P2 — Acumulaciones grandes → trazado y proyección
+
+- **ENTRADA:** charts HTF y higher-higher desde el corte hacia atrás, SIN límite temporal fijo: hacia atrás hasta cubrir la última acumulación grande cuyo borde siga unpicked (regla [USUARIO] §1 — los niveles no caducan por tiempo).
+- **ACCIÓN:** identificar rangos amplios y prolongados con dealing bilateral sostenido (acumulaciones grandes). Trazar niveles desde sus bordes; refinar el borde al release point cuando la escala lo permita [VID-M2020: Session 14 @ 00:03:03–00:05:05]; el shelf se dibuja ENTERO, sin refinar [VID-M2020: Session 14 @ 00:07:19]. Proyectar cada nivel hacia adelante indefinidamente [USUARIO §1]. Cada nivel es SOLO su parte unpicked [VID-M2020: Session 14 @ 00:00:16–00:02:40]. Todo trazado ANTES de mirar qué hizo el precio después (en lectura histórica: antes de mirar a la derecha del corte) [VID-M2020: Session 14 @ 00:34:05].
+- **SALIDA:** lista de niveles `{banda de precio, TF de origen, rango de origen (fechas, duración, amplitud)}`.
+- **REGLAS APLICABLES:** R1, R2; Ob-11, Ob-23; regla [USUARIO] §1.
+- **SI NO ESTÁ CLARO:** si un rango no califica claramente como "acumulación grande", se INCLUYE con peso degradado y marca `INDETERMINADO` — mejor un nivel de más marcado como dudoso que un nivel de menos (el umbral mínimo de tamaño/duración es DP-1).
+
+### P3 — Clasificación de cada nivel
+
+- **ENTRADA:** lista de P2 + swing gobernante de P1.
+- **ACCIÓN:** etiquetar cada nivel: **origen funcional** (core = base de origen de un run; residual = pocket a mitad de recorrido; shelf/inventory; BA; OP/feeder; apex — taxonomía S14: "categorizar siempre" [VID-M2020: Session 14 @ 00:13:53–00:15:36]) y **peso** = f(tamaño, duración del rango de origen) [USUARIO §1] + TF de origen ("HTF pulls more liquidity" [VID-M2020: Session 13 @ 00:16:40–00:17:06]). Peso en tres grados: alto / medio / bajo, con justificación escrita.
+- **SALIDA:** tabla `{nivel, categoría, peso (justificado)}`.
+- **REGLAS APLICABLES:** R17, R18; CL-19.
+- **SI NO ESTÁ CLARO:** si el rol es doble (p.ej. residual del run gobernante PERO apex de un fractal — el caso TE-02: "technically residual of this H1 price run" pero fractal apex [VID-M2020: Session 13 @ 01:08:51–01:16:08]), registrar AMBAS etiquetas y clasificar por el TF del nivel, no por el del run ("view your price swings relative to the timeframe they're present on" [VID-M2020: Session 13 @ 00:17:41–00:21:18]). Si aun así es ambiguo → `INDETERMINADO`.
+
+### P4 — Estado de cada nivel
+
+- **ENTRADA:** tabla de P3 + historial de interacciones precio↔nivel desde la formación del nivel hasta el corte.
+- **ACCIÓN:** asignar a cada nivel UNO de estos estados, con la evidencia observable que lo sostiene:
+  - **intacto** — sin visita desde su formación (R1);
+  - **parcialmente picked** — visitas que recogieron parte; se redibuja solo la parte viva (S14, R1);
+  - **drenado** — tests repetidos/profundos con respuestas menguantes (R4, R10; Ob-12/13/16);
+  - **washed** — top y bottom/middle picked (R3; Ob-17), o bottom alcanzado = consumo total (R7).
+- **SALIDA:** tabla ampliada `{nivel, estado, evidencia (qué tests, cuándo, profundidad)}`.
+- **REGLAS APLICABLES:** R3, R4, R6, R7, R10; Ob-12, Ob-13, Ob-16, Ob-17, Ob-18.
+- **SI NO ESTÁ CLARO:** el corpus NO da umbral cuantitativo de drain (hueco C6 de 20_modelo_causal.md; DP-2) → usar solo el criterio funcional (cada feed empuja menos, R10). Evidencia mixta → estado `drenado-parcial (INDETERMINADO)`; nunca promediar hacia un estado limpio. Si desde la formación del nivel hubo un evento mayor (crash, banco central de calibre), añadir la marca `sujeto a dispersión (INDETERMINADO)` (R1-SALVO, [DISCORD: Disc 54]; el detector de dispersión es DP-3).
+
+### P5 — Vacíos (tramos sin estructura)
+
+- **ENTRADA:** charts + niveles trazados de P2.
+- **ACCIÓN:** identificar los tramos ENTRE niveles donde el precio nunca se detuvo o que se entregaron rápido (runs finos, gap slips) y no se reconstruyeron después: ahí no hay fricción esperable (inverso de Ob-11: donde no hubo dealing no quedó memoria de liquidez; "what's usually left behind in the move lower is dispersed liquidity, or 'vacuum'" [DISCORD: Disc 7]). Registrar la extensión exacta de cada vacío y cómo se formó.
+- **SALIDA:** lista de vacíos `{banda, cómo se formó (run fino/gap), ¿parcialmente rellenado después?}`.
+- **REGLAS APLICABLES:** R19; Ob-06, Ob-11 (inverso); [PDF: Liquidity Void p.6].
+- **SI NO ESTÁ CLARO:** si el tramo contiene estructura mínima (un pocket residual pequeño), registrarlo como `vacío con residual débil`: la respuesta esperable ahí es local y absorbible (R17), no fricción real.
+
+### P6 — Las tres métricas permanentes
+
+- **ENTRADA:** todo lo anterior + price action reciente (Local PA).
+- **ACCIÓN:** leer y anotar las tres métricas de S13 [VID-M2020: Session 13 @ 00:56:47–00:57:33]:
+  1. **Volatilidad** — ¿expansión o contracción relativa al período reciente? ("contraction = stable liquidity" [IMG-TWIT: Volatility 2]; Ob-29);
+  2. **Estado de liquidez** — ¿qué lado tiene niveles vivos cerca y cuál está drenado/vacío? ¿el precio está en LLS? (R23);
+  3. **Fase del swing gobernante** — localizar en la secuencia de estados (run / pausa / midflow / technical break / sideways / parabólica / apex / rebalance / LLS; R24–R25).
+- **SALIDA:** tres valores con su evidencia observable.
+- **REGLAS APLICABLES:** R22, R23, R24, R25; Ob-01, Ob-29–Ob-33.
+- **SI NO ESTÁ CLARO:** la fase puede legítimamente diferir entre escalas (fractalidad): declarar fase POR TF relevante, no forzar una única. Si ni por TF se puede asignar → `fase INDETERMINADA` y el mapa final sale con esa advertencia en cabecera.
+
+### P7 — Diagnóstico LIC
+
+- **ENTRADA:** fase (P6) + carácter del movimiento en curso o del movimiento anticipado hacia el siguiente nivel (drift/spike, calidad de entrega).
+- **ACCIÓN:** clasificar en el continuum [PDF: Liquidity Imbalance continuum p.1–2]: **exhaustion** (pierna débil secándose — el flujo natural contrario basta para el rebalance; R12) vs **presión genuina** (rompe y se estabiliza encima, o drift de metaorden; R13). Aplicar el veto del drift: si el movimiento drifta/worked its way through → etiqueta `no-fade` (R21, [DISCORD: Disc 47–51]). Si el fill esperado ocurre EN TENDENCIA → etiquetarlo trending extension fill, no reversal (R14).
+- **SALIDA:** posición en el continuum + evidencia + etiquetas de veto si aplican.
+- **REGLAS APLICABLES:** R12, R13, R14, R21; Ob-04.
+- **SI NO ESTÁ CLARO:** el LIC es un espectro ("weakness is a spectrum, it's never binary" [IMG-TWIT: Washed iv wti]): declarar posición aproximada + qué observable falta para afinar. Si drift vs spike es indistinguible al corte → `INDETERMINADO — esperar más información` (doctrina bayesiana, §4 del motor). No emitir diagnóstico forzado.
+
+### P8 — El mapa de fricción
+
+- **ENTRADA:** salidas P2–P7.
+- **ACCIÓN:** componer el mapa final:
+  1. Para cada banda del entorno del precio: **fricción esperable = f(peso del nivel × estado)** — alta (core/acumulación grande intacta), media (parcialmente picked o peso medio), baja/nula (drenado, washed sin contexto R5, vacío).
+  2. **Condicionar SIEMPRE cada respuesta a la llegada** (R20, R26): la magnitud esperada se enuncia "si el precio llega con entrega ineficiente/débil → respuesta grande; si llega eficiente → nivel probablemente atravesado tras dealing". Nunca respuesta incondicional.
+  3. **Destino natural de una respuesta grande** = rebalance hacia el core/origen del run que la extensión completa ("respuesta en la core liquidity base" [IMG: The Price Run p.10]; cadena C3 de 20_modelo_causal.md).
+  4. Ordenar las zonas por probabilidad de respuesta (peso × estado × llegada esperable).
+  5. Declarar explícitamente qué NO dice el mapa: ni dirección, ni timing (formulación de cabecera).
+- **SALIDA:** la ficha de lectura de §3.
+- **REGLAS APLICABLES:** R5, R15, R16, R17, R18, R20, R26; formulación [USUARIO] de cabecera.
+- **SI NO ESTÁ CLARO:** dos niveles con peso similar compitiendo → NO elegir: listar ambos y anotar qué evidencia futura los separaría — la conclusión se difiere a la respuesta del precio ("it's confirmed in how price responds off it", R11). La renovación de liquidez en niveles muy antiguos no está garantizada (T2 de §1.3; DP-4): los niveles de más de un ciclo macro llevan marca `renovación no verificable`.
+
+### 2.9 — Decisiones pendientes (el corpus no las resuelve; NO improvisar)
+
+| ID | Decisión pendiente | Dónde bloquea | Estado |
+|---|---|---|---|
+| DP-1 | Umbral mínimo (tamaño/duración) para que un rango cuente como "acumulación grande" | P2 | pendiente — conectar con H-xxx si se formaliza |
+| DP-2 | Umbral cuantitativo de drain (cuántos tests / qué profundidad = drenado) | P4 | pendiente — hueco C6 del modelo causal |
+| DP-3 | Detector operativo de dispersión post-evento (cuándo un nivel murió sin recogerse) | P4 | pendiente — T1 de §1.3 |
+| DP-4 | Ponderación de la renovación en niveles muy antiguos (¿descuento por edad pese a la regla de no-caducidad?) | P8 | pendiente — T2 de §1.3; tensión directa con [USUARIO] §1.2 |
+
+Mientras estén pendientes, el protocolo exige la salida marcada (`INDETERMINADO`, `sujeto a dispersión`, `renovación no verificable`) — la ambigüedad se PROPAGA a la ficha, no se tapa.
