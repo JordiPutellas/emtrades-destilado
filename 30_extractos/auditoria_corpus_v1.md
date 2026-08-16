@@ -53,6 +53,14 @@ Redundantes correctos en S15 (b): repaso microestructura (S2/S12), "trading the 
 
 **Veredicto del criterio de ampliación:** resultado MIXTO — los dos Price Swing salen limpios (la baja integración ES jerarquía), pero S15 tenía 3 pérdidas puntuales, ya reparadas. Ni "los tres limpios" ni "los tres sucios": no se amplía el muestreo por cuenta propia; queda a decisión humana si se muestrea algún otro M2020 denso (candidatos por densidad: S13, S11.2).
 
+## Tanda 3 (Sesión 19) — correcciones de fuente (capturas CLP en alta resolución)
+
+- **Error factual corregido:** [IMG: CLP/EEBe34cXoAEhKWw.png] es XAUUSD **t30 = 30 TICKS**, no "30s" (visible en el selector de TF: barra T5/T25/T30/T40, T30 activo). Corregido en extracto_capturas_CLP.md, 02_conceptos y 03_setups. Cambia el significado: es el extremo LTF de la serie.
+- **Sospecha derivada, SIN corregir (decisión humana):** [IMG: CLP/EEBgtXpXUAAoEmR.png] figura como "XAUUSD, 5s" — con la misma plataforma y la barra de ticks visible (T5), probablemente sea **t5 = 5 ticks**, no 5 segundos. No se ha reverificado en alta resolución; revisar antes del congelado v1.
+- **IV = inventory elevado a [CONFIRMADO]** con la anotación "Bids dry off, red inventory pushes price back down through the rip area" [IMG: CLP/ED6JtkLXsAEu4X4.png]. Expansión literal de las letras: sigue sin escribir.
+- **ANOMALÍA INTERNA DE LA FUENTE (registrada, no resuelta):** EM rotula "CPL - consumption response leg", pero esas palabras darían CRL, no CPL. Hipótesis posibles (palabra omitida; "Consumption Price Leg" glosado de memoria) — NO se infiere cuál. Anotada también en 02_conceptos.
+- **Dato de R verificado** en EEBe34cXoAEhKWw.png: SL rotulado "Pips: -58" (1515.46 vs entrada ~1514.88), beneficio abierto rotulado "Pips: 222.0" → **≈3.8R corriendo**, números legibles con claridad. Se mantiene la salvedad: la captura no acredita autoría ni cierre.
+
 ## Casos sin clasificar — requieren decisión humana
 
 Marcadores que no encajan limpiamente en las cinco etiquetas. NO convertidos; texto actual intacto:

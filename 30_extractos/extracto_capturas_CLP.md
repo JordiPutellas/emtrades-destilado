@@ -73,9 +73,9 @@ No hay duplicados binarios dentro de CLP ni contra otras capturas del corpus. La
 
 ### [IMG: CLP/EEBe34cXoAEhKWw.png]
 
-- **Procedencia:** EM/EssFX por atribución contextual fuerte. **Instrumento/TF/fecha:** XAUUSD, 30s, 9-sep-2019 (UTC+1).
+- **Procedencia:** EM/EssFX por atribución contextual fuerte. **Instrumento/TF/fecha:** XAUUSD, **t30 = gráfico de 30 TICKS** (visible en el selector de TF de la plataforma: T5/T25/T30/T40 en la barra lateral, T30 activo), 9-sep-2019 (UTC+1). CORRECCIÓN 2026-08-16: el extracto decía "30s" (segundos); revisado en alta resolución es tick chart — es el extremo LTF de la serie.
 - **Clasificación:** trade o gestión real + ejemplo docente.
-- **Anotaciones/visual:** caja `IV Consumed`, salida alcista `CPL`; posición short visible desde ~1514.88 con stop ~1515.46 y beneficio abierto mientras el precio retorna ~1512.52; cifras monetarias/cuenta ocultas en la propia fuente.
+- **Anotaciones/visual:** caja `IV Consumed`, salida alcista `CPL`; posición short visible desde ~1514.88 con **SL 1515.46 rotulado "Pips: -58"** y beneficio abierto rotulado "**Pips: 222.0**" mientras el precio retorna ~1512.52 (≈ **3.8R abierto**, verificado 2026-08-16); cifras monetarias/cuenta ocultas en la propia fuente.
 - **Límite:** la imagen no acredita de forma embebida al titular de la cuenta ni muestra el cierre; no se usa como regla numérica.
 
 ### [IMG: CLP/EEBgtXpXUAAoEmR.png]
