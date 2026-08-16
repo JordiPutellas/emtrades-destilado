@@ -135,3 +135,65 @@ Convenciones: las reglas R1–R26 y los observables Ob-01–Ob-34 son los de `20
 | DP-4 | Ponderación de la renovación en niveles muy antiguos (¿descuento por edad pese a la regla de no-caducidad?) | P8 | pendiente — T2 de §1.3; tensión directa con [USUARIO] §1.2 |
 
 Mientras estén pendientes, el protocolo exige la salida marcada (`INDETERMINADO`, `sujeto a dispersión`, `renovación no verificable`) — la ambigüedad se PROPAGA a la ficha, no se tapa.
+
+---
+
+## 3. Formato de salida estandarizado (la ficha de lectura)
+
+Toda ejecución del protocolo produce EXACTAMENTE esta ficha, en este orden. El test de calidad del protocolo es que un humano y un agente, ante el mismo gráfico y el mismo corte, rellenen fichas equivalentes; si divergen, se corrige el protocolo (nunca la ficha a posteriori). Las lecturas de casos se guardan en `60_extension/casos/`.
+
+```markdown
+# Lectura · {INSTRUMENTO} · corte {AAAA-MM-DD HH:MM UTC}
+
+Ejecutor: {humano/agente + identificador} · Fecha de ejecución: {fecha}
+Protocolo: 30_protocolo_lectura.md v{versión/commit}
+Información usada: SOLO anterior al corte — fuentes listadas al pie.
+
+## P1 · Marco
+- TF gobernante: … · Swing gobernante: {origen → extremo, fechas}
+- TFs subordinados: … · Conflictos de gobierno: {ninguno / detalle}
+
+## P2–P4 · Tabla de niveles
+| Banda | Origen (rango: fechas, duración, amplitud) | Categoría | Peso | Estado | Evidencia observable |
+|---|---|---|---|---|---|
+(un nivel por fila; INDETERMINADO donde aplique, nunca casilla vacía)
+
+## P5 · Vacíos
+| Banda | Cómo se formó | ¿Rellenado parcial posterior? |
+|---|---|---|
+
+## P6 · Tres métricas
+- Volatilidad: {expansión/contracción} — evidencia: …
+- Estado de liquidez: … — evidencia: …
+- Fase del swing gobernante: … (por TF si difieren) — evidencia: …
+
+## P7 · Diagnóstico LIC
+- Posición en el continuum: {exhaustion ←→ presión genuina} — evidencia: …
+- Vetos: {no-fade por drift / trending extension fill / ninguno}
+
+## P8 · Mapa de fricción esperable
+(ordenado por probabilidad de respuesta, de mayor a menor)
+1. {banda} — fricción {alta/media/baja/nula} — respuesta esperable SI el precio
+   llega {condición de llegada}: {magnitud/destino esperado} — por {peso×estado}
+2. …
+Destino natural de la respuesta mayor: {core/origen de referencia}
+
+## Incertidumbres declaradas
+- {todo INDETERMINADO propagado de P1–P7, con su paso de origen}
+- {marcas: sujeto a dispersión / renovación no verificable / fase INDETERMINADA}
+
+## Lo que invalidaría esta lectura
+- {observaciones futuras concretas que obligarían a rehacer el mapa}
+
+## Lo que esta lectura NO dice
+Ni si el precio irá, ni cuándo. Mapa de fricción condicional a la llegada.
+
+## Fuentes
+- {charts/capturas usados, con fecha de cada uno}
+```
+
+Reglas del formato:
+- **Ninguna casilla en blanco**: lo no determinable se escribe `INDETERMINADO` con el motivo — la ambigüedad se propaga, no se omite (§2.9).
+- **Toda evidencia es observable y citable** (qué se ve en el chart, con fecha); nada de "se siente débil".
+- **La sección "Lo que invalidaría esta lectura" es obligatoria**: una lectura sin condiciones de invalidación no es una lectura, es una opinión (misma regla que las fichas de hipótesis de `00_metodo.md`).
+- La condición de llegada en P8 es parte de la respuesta esperada, no un adorno: sin ella la fila está mal rellenada (R20/R26).
