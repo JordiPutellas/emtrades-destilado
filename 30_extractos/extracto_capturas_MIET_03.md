@@ -36,7 +36,7 @@
 ## Otras
 
 - [IMG-MIET: Washed zone.jpeg] (GBPUSD H1, dic-19/feb-20, plataforma JForex): cajas naranjas con elipses en cada grab sucesivo = visualización canónica de washed zone (nivel agarrado N veces → drenado).
-- [IMG-MIET: Vol is a F of Av Liq 6.jpg, 6.1.jpg] (EURUSD 3min/20min, abr-2020, plataforma en ESPAÑOL "Velas"): tracking con cajas/elipses sin texto. [INFERENCIA] Por el idioma de la plataforma, posiblemente charts del propio usuario practicando — confirmar con [USUARIO].
+- [IMG-MIET: Vol is a F of Av Liq 6.jpg, 6.1.jpg] (EURUSD 3min/20min, abr-2020, plataforma en ESPAÑOL "Velas"): **[USUARIO] CONFIRMA (2026-08-16): son charts SUYOS** — práctica propia en su plataforma, no material de EM. **NO-FUENTE: excluidos del destilado.** (Nada de estas dos imágenes se integró en 40_destilado; se conservan aquí solo como registro del lote.)
 
 ## Caza de prioridades
 

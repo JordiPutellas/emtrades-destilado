@@ -1,6 +1,6 @@
 # Extracto — Discord, sublote 1: Disc 2–12.1 (16 imgs)
 
-> Capturas de #trading-chat del Discord (mayo-2020, en torno al 6-7 mayo). EM aparece como **EssFX**. Nota: no existe archivo "disc 1"; la serie empieza en Disc 2. ⚠️ **GrifoneTrader = [INFERENCIA fuerte] el propio usuario (Jordi)** — coincide el nick con su usuario de sistema; varios intercambios son EssFX respondiendo directamente a sus preguntas/charts. Confirmar con [USUARIO].
+> Capturas de #trading-chat del Discord (mayo-2020, en torno al 6-7 mayo). EM aparece como **EssFX**. Nota (corregida en Sesión 8): sí existen "disc 1.jpg", "disc 11.jpg", "disc 27.jpg" y "disc 28.png" en minúscula — procesados en `extracto_discord_05.md`. ⚠️ **GrifoneTrader = el propio usuario: [USUARIO] CONFIRMADO (2026-08-16, "GrifoneTrader soy yo. Jordi")** — varios intercambios son EssFX respondiendo directamente a sus preguntas/charts.
 > Participantes recurrentes: EssFX (EM), GrifoneTrader (usuario), Proxy, harry, trader_umr, gdfghdfghdfgf, Knightrader92, Matt B.
 
 ## [DISCORD: Disc 2] — stops vs liquidez fragmentada; delta; ventaja estructural de los LPs
