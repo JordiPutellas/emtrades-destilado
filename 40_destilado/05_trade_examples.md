@@ -40,3 +40,18 @@ Fuente del tweet con el chart completo: [IMG-TWIT: Screenshot_11] (2-abr-2020, 1
 ## TE-05 · GBPUSD, fill del drift de Asia (20-abr-2020) [IMG-MIET: Asia trade 1-2]
 
 Regla anotada: "Directional moves through Asia usually weak due to light volume & thin liquidity. **Often get filled** unless recent catalyst/aggressive sentiment shift." Ejecución en 1min: long 1.24530, **SL ~3.8 pips**, +21.5 pips. Variante intradía de S-08 con el drift asiático como extensión débil. Complemento (5-may-2020): "**first run out of Asia is usually really weak and dries off**" — fadeable ante absorción en el HOD (short +18.3 pips, SL -4.8). [IMG-MIET: First Run out of Asia]
+
+## Candidatos evaluados y descartados
+
+Auditoría 2026-08-16 (consulta acotada ±3 min por timestamp sobre `10_transcripciones/`). Criterio: un TE requiere **entrada + invalidación + gestión + resolución** juntas en la fuente; no se fabrican operaciones sintéticas ni se completan huecos por inferencia.
+
+| Fuente | Qué muestra | Por qué se descarta |
+|---|---|---|
+| [VID-M2020: Session 8 @ 00:32:41] | "that area today where I took a short today" — usa el short del día para ilustrar condiciones de exhaustion (liquidez "super super stretched", weakness en bids por retirada de LPs) | Mención ilustrativa: sin entrada, invalidación, gestión ni resolución |
+| [VID-M2020: Session 9 @ 00:06:20–00:07:30, 02:00:03–02:02:35] | Anécdotas del día ("I caught some nice trades early on... **Had to cut it for pretty much nothing**"); el nivel 1.29619 perdido ("I was on the shower... would have made you a week") con la regla de stop "**always past the level**"; la estrategia en dos palabras ("**fading weakness**... first touch of levels, extensions and inefficiencies only") | Todo es anécdota u hipotético; ningún trade reúne los cuatro campos. Lo doctrinal ya está en 03_setups/04_proceso |
+| [VID-M2020: Session 11 part 1 @ 00:37:03–00:38:22] | Long real cuyo TP (sell limit) estaba "in an area where **I deemed it to be sell liquidity**"; un spike de ~35 pips en segundos lo llena ("price would have spent less than a second here") | Entrada = "long from somewhere earlier" (sin especificar) e invalidación ausente. Documenta la colocación de TP como limit en nivel, no un TE |
+| [VID-M2020: Session 11 part 2 @ 01:25:33–01:28:25] | "**I actually shorted I think here, which is not my usual way of trading**" — contexto completo (low débil, break de shelf/último inventory, core evaluado débil desde la mañana) y desarrollo esperado (shelf retest → midflow → break) | Entrada imprecisa hasta para EM ("I think here"), sin stop y sin resolución declarada; la narración salta al breakout inesperado por headline (Brexit/pesca) |
+
+**Nota de cierre:** La base empírica de gestión son 5 TEs (TE-01–TE-05, 2019–2020, GBPUSD). Insuficiente como muestra estadística; sirve como especificación de comportamiento, no como evidencia de edge.
+
+**Contexto autobiográfico (no TE):** EM declara que su negocio habitual son varios trades pequeños de aprox. **25–36 pips en GBPUSD**, sin perseguir siempre el swing de 60–70 pips. Son datos autobiográficos, no targets del setup. [VID-M2020: Session 11 part 2 @ 01:52:20–01:54:14]
