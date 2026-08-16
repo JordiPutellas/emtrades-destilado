@@ -179,6 +179,8 @@
 - Los apexes HTF acumulan más liquidez; se refinan pockets con el LTF. [PDF: Price Swings Continued p.12, p.14]
 - Características del apex favorable (M2020): el extremo aguanta, el apex retest aguanta, el shelf falla en empujar a nuevos extremos, se rompe el shelf y el precio **se estabiliza encima** antes del shift. En los más fuertes, el shelf cae al primer intento y el retest ni siquiera llega al fondo del pickup. [VID-M2020: Session 13 @ 00:58:02–00:58:36]
 - **Consolidation apex**: debilidad del movimiento a favor + fuerza core del lado contrario; el shelf ya no tiene "punching power". [VID-M2020: Session 13 @ 01:01:08–01:06:13]
+- **Morfología temprana PS05:** tras pause/continuation y llegada extremadamente ineficiente a HTF feeding/core liquidity, el apex puede formar una pequeña consolidación con runs internos. La anatomía preferida de EM es pause → `last/second-last release`; tras el high/low, rallies cada vez más débiles y breakdown. [VID-PS: PriceSwing_05 @ 00:00:00–00:01:13] [VID-PS: PriceSwing_05 @ 00:03:30–00:04:08] `PRECURSOR REFINADO EN M2020`.
+- **Variaciones PS05, sin template cerrado:** straight release; pause→release; SWE; y breakdown seguido de apex-base/swing retest si queda liquidity interna. Son formas/etapas solapables, no cuatro variantes enumeradas ni gestión por cuatro casos. [VID-PS: PriceSwing_05 @ 00:02:35–00:05:09]
 - Existen **4 variaciones principales de apex** (template anunciado por EM, pendiente de localizar en las sesiones). [VID-M2020: Session 13 @ 01:45:10–01:45:27]
 - **Dos morfologías comparadas en S11.2, no el template de cuatro:** EM prefiere el apex/parabolic que `reaches` al nivel con delivery pronunciadamente débil y menos dependencia de opposing strength. La variante con buildup, varios swipes y deeper tests puede seguir siendo favorable, pero el inventory aún alimenta parcialmente y exige gestión más estrecha. Menciona otras formas sin numerarlas, nombrarlas ni dar contrato por variante. [VID-M2020: Session 11 part 2 @ 00:25:44–00:29:33] [VID-M2020: Session 11 part 2 @ 01:12:26–01:15:38] [VID-M2020: Session 11 part 2 @ 01:33:00–01:35:10]
 
@@ -343,6 +345,7 @@
 ### AB / ABR — Apex Base / Apex Base Retest
 - **Estado:** confirmado (siglas usadas como etiquetas de gráfico).
 - "AB & ABR" marcando apex bases y sus retests. El ABR figura en el menú de comportamientos tradeables ("trading ABRs"). [IMG: Fractals _ Scaling p.2, p.8]
+- **Contrato legacy incompleto PS05:** tras shelf flip, el retorno por la extension a la breakout accumulation/apex base que empujó el break puede recoger liquidity y continuar. Selección: identificar shelf y accumulation con claridad; EM lo prefiere especialmente HTF. Shelf+accumulation permiten `define our risk`, pero trigger, stop exacto y gestión no se especifican. [VID-PS: PriceSwing_05 @ 00:10:54–00:11:24] [VID-PS: PriceSwing_05 @ 00:12:33–00:13:54] `SOLO PRICE SWING — NO CONFIRMADO DESPUÉS` como contrato.
 
 ### ST / SB — Shelf Top / Shelf Bottom
 - **Estado:** confirmado (siglas usadas como etiquetas de gráfico).

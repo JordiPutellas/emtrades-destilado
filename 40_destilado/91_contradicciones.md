@@ -20,3 +20,10 @@
 - **Simplificación pedagógica de Session 3:** al dibujar EBS, EM dice primero “all the liquidity is posted here”, pero segundos después lo acota a “90% or 70% of the liquidity” y habla de la concentración histórica de gran parte del interdealer. El propio contexto impide leer `all` como totalidad de liquidez latente/futura o como irrevocabilidad de cada order. [VID-M2020: Session 3 @ 01:12:28–01:13:23]
 - **Resolución:** NO hay contradicción si “transparencia” significa un book/registro común y ejecuciones observables, no exhaustividad ni compromiso permanente de toda la profundidad mostrada. Las resting orders pueden ocultarse, convertirse después, cancelarse o ser spoofing; los trades ejecutados sí quedan registrados. Exchange sigue siendo más observable que OTC, pero el DOM visible no es un mapa total ni totalmente firme de liquidez.
 - **Estado:** CERRADA como matiz de alcance; reabrir solo si EM equipara explícitamente visible book con total liquidity.
+
+## C-003 — Consolidation apex: entrada legacy frente a taxonomía M2020
+
+- **Price Swing PS05:** agrupa en el entorno del apex la entrada desde `last/second-last release`, el straight release, SWE, breakdown y posterior apex-base/swing retest. La elección queda a anatomía preferida/sample y no hay cuatro contratos cerrados. [VID-PS: PriceSwing_05 @ 00:00:48–00:05:09]
+- **M2020:** separa fade de first-touch/parabolic exhaustion (S-08), technical break como evidencia no obligatoria, shelf flip y retests/BA; añade nivel good/core, OP/invalidation y probabilities shifting.
+- **Resolución:** evolución de granularidad, no contradicción. La morfología temprana es `PRECURSOR REFINADO EN M2020`; no trasladar `last/second-last release` como trigger canónico ni fusionar fade y retest en un único expectancy.
+- **Estado:** CERRADA como evolución terminológica/operativa; reabrir solo si PS06–10 aporta contratos incompatibles explícitos.
