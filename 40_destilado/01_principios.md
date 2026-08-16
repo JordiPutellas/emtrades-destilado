@@ -38,6 +38,12 @@ Estabilidad de volumen (low liquid state) → surge relativo en un lado → run 
 
 ### Fractalidad
 
+- Causa declarada: "price reflects traders behaviour — traders repeatedly do the same thing thus price reflects this on all scales". Todo comportamiento del precio es fractal (PIs, swings, ranges, responsive areas), sea cual sea el sentimiento o la dirección. [PDF: Fractals _ Scaling p.13]
+- Entre escalas solo cambian distancia, tiempo y volatilidad relativa ("somewhat proportionately"); la **anatomía es la misma**. Los fractales dan timing y "tempo" del movimiento. [PDF: Fractals _ Scaling p.1, p.7] [PDF: Fractal _ Shift Basics p.1]
+- Se repite incluso a escala de eventos macro (GFC y Brexit como "full repeat" en el semanal de GBPUSD). [IMG: Fractals _ Scaling p.5]
+- Cada run deja "micro pgaps & inefficiency which will impact later price movements — tempo". [PDF: Fractal _ Shift Basics p.2]
+- El estudio de la escala menor debe considerar qué papel juega en el timeframe mayor — es lo que permite operar el contexto amplio y evitar mala gestión. [PDF: Fractals _ Scaling p.1]
+- **Enfoque anticipatorio, sin confirmación**: buscar los patrones precedentes que anuncian el run y su lado probable para posicionarse ANTES del movimiento, leyendo anatomía, fase y parámetros relativos de cada fase. [PDF: Fractal _ Shift Basics p.2]
 - Todo swing contiene swings menores; el swing HTF es el contenedor de los fractales LTF. [IMG: Price Swing Basics video p.3–p.5]
 - Los apexes fractales son auto-similares "regardless of scale or pip distance". [IMG: Price Swings Continued p.13]
 - Los shelves son relativos a su timeframe: un shelf de 5min no afecta a un swing H1+; los shelves menores son el inventario de los swings fractales internos. [PDF: Price Swings Continued p.8]

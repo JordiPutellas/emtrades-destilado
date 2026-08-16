@@ -45,6 +45,17 @@
 - **DÓNDE invalida:** NO ESPECIFICADO EN FUENTES.
 - **CÓMO gestiona:** NO ESPECIFICADO EN FUENTES. Regla de ubicación: "we want to do our business whilst price is in the low liquidity state, anticipating which side is weaker & thus where price is likely to break (more on this during trade examples & trade management)". [PDF: Low Liquidity State p.9]
 
+## S-07 · Tres entradas sobre un nivel (plantilla general)
+
+- **QUÉ describe:** decidido el nivel (con shelf inventory localizado y tipo de respuesta esperada), hay tres formas de entrar, cada una con parámetros propios e independientes: (1) **fade del movimiento hacia el nivel**, (2) **esperar breakdown y tomar el retest del apex**, (3) **shelf flip trade**. [IMG: Fractals _ Scaling p.12]
+- **CUÁNDO entra:** "over time you will come to know which entry is best — can only do that through exercising". Parámetros concretos por variante: NO ESPECIFICADO EN FUENTES.
+- **DÓNDE invalida:** NO ESPECIFICADO EN FUENTES.
+- **CÓMO gestiona:** seguimiento del espectro favourable/unfavourable escalando al fractal para ver si el precio responde como debería. [IMG: Fractals _ Scaling p.12]
+
+## Catálogo de comportamientos tradeables (menú declarado por EM)
+
+"Extensions, ABR, Shelf flips, Midflow, Swing Retest of CLB, Residual Liquidity Base responses — everything is inside there... specify which behaviour you want to trade and form parameters to engage the specific feature — for example trading ABRs or shelf flips or swing retests of CLBs, Void Fills. Eventually will include time of day, timeframe alongside entry & execution parameters, developmental & management parameters." [IMG: Fractals _ Scaling p.8]
+
 ## Comportamientos de referencia (aún sin setup formalizado)
 
 - **Gaps & rebalances**: "una de las mejores" conductas por consistencia. [PDF: módulo Price Inefficiencies]
