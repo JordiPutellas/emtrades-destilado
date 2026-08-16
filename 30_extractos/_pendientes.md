@@ -50,7 +50,7 @@ Plan: transcribir todos en batch primero, destilar después por orden temático.
 
 - [ ] **CLP** (12 imgs)
 - [ ] **EM Twits** (50 imgs)
-- [ ] **Most Important EM Trades** (44 imgs)
+- [x] **Most Important EM Trades** (44 imgs) — procesado 2026-08-16 en 4 sublotes → `extracto_capturas_MIET_01..04.md`. Template 4 apexes / CPS-setup / SWE: NO encontrados aquí.
 - [ ] **discord-conversation-screenshots** (129 imgs)
 - [x] Sueltas (2026-08-16) → `extracto_capturas_sueltas.md`: ambas son el esquema CPS (alcista+bajista) con marca Chris Lori/Pro Traders Club → CPS confirmado + procedencia externa
 - [x] Price Inefficiencies (10 imgs usadas en el extracto de muestra)

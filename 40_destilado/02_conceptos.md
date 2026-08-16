@@ -18,7 +18,7 @@
 
 ### CPS — Characteristics of a Price Swing (CONFIRMADO)
 - **Estado:** confirmado (2026-08-16). Tres fuentes con el título literal y los mismos 13 componentes: [PDF: Tracking Unfilled Liquidity p.4], [IMG: Characteristics of Price swing.png] (versión alcista) e [IMG: Inverted Fractal.png] (versión bajista).
-- **Procedencia:** el esquema lleva marcas "Pro Traders Club" y "ChrisLori.com" → la plantilla CPS procede de **Chris Lori / Pro Traders Club**; EM la adoptó y construyó encima su vocabulario propio (shelf/washed/OP/BA/LIC...). Distinguir herencia vs desarrollo propio al validar.
+- **Procedencia:** el esquema lleva marcas "Pro Traders Club" y "ChrisLori.com" → la plantilla CPS procede de **Chris Lori / Pro Traders Club**; EM la adoptó y construyó encima su vocabulario propio (shelf/washed/OP/BA/LIC...). Confirmado además por [IMG-MIET: Chris Question.png]: frame de vídeo PTC (TeamLiquidity, 2-dic-2019) con el vocabulario fractal/pickup/absorption/dealing en charts de 34 ticks. Distinguir herencia vs desarrollo propio al validar.
 - El material lo usa como **"CPS framework"**: "the CPS framework is what we use to navigate & trade price... clearly defines components of price which we can categorise throughout the duration of a swing formation... **a representation of HOW price moves rather than why** (!!!)". [PDF: Price Swings Continued p.2]
 - **Los 13 componentes del esquema CPS** [IMG: Tracking Unfilled Liquidity p.4], con eje "Mass Psychological Shift":
   1. Liquidity Base → 2. Point of Release (PoR) → 3. Skinny Leg → 4. Price Pause (Shelf Bottom) → 5. Continuation Leg → 6. Consolidation Apex → 7. Retest H/L → 8. Apex Base (break) Retest → 9. Shelf Top/Bottom Retest → 10. Gap slip → 11. Clean Breaking Point → 12. PoR (vuelta) → 13. Liquidity Base Bottom.
@@ -49,6 +49,10 @@
 - **Estado:** confirmado.
 - Segmento de precio con cambio extremo del estado de liquidez, entregado en un run fino por escasez de liquidez en un lado del libro. Sinónimos en el material: gap, liquidity gap. [PDF: Introduction Price Inefficiencies]
 - **Corrección doctrinal de EM (tweet 4-may-2020):** la ineficiencia es propiedad del MOVIMIENTO/ESTADO completo, no de micro skinny legs aisladas: "the whole move is inefficient, not just some 3 pip skinny leg from 143 hours ago". [IMG-MIET: InNeFFiciencY]
+
+### YO / WO / MO — Yearly / Weekly / Monthly Open
+- **Estado:** confirmado (uso como etiquetas de nivel en charts).
+- Aperturas anuales/semanales/mensuales usadas como niveles de referencia en las anticipaciones dibujadas. [IMG-MIET: Prediction 1, Prediction 2, EXZchDyWAAE1rMG]
 
 ### HTF / LTF
 - **Estado:** confirmado (uso estándar): higher/lower timeframe. Las bases y apexes HTF acumulan más liquidez. [PDF: Liquidity Principles; Price Swings Continued p.10, p.12]

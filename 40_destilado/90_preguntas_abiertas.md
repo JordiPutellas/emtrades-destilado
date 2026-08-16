@@ -40,3 +40,5 @@
 12. **"Momentum trade" y "trade models"** — anunciados ("shelf flips & momentum trade later on" [PDF: Trade Example p.6]) pero no desarrollados en PDFs → vídeos M2020.
 13. **HOTW** — ¿High Of The Week? [PDF: Tracking Unfilled Liquidity p.3] → confirmar.
 14. **Criterios de "washed" shelf** — cuándo se considera barrido un shelf (enlaza con SWE) → vídeos.
+15. **Herencia Chris Lori vs desarrollo propio de EM** (nuevo, Sesión 5): el esquema CPS y el vocabulario base (fractals, pickups, absorption, dealing) proceden de Pro Traders Club / Chris Lori ([IMG: sueltas] + [IMG-MIET: Chris Question]). Mapear qué términos son capa propia de EM (shelf, washed, OP, BA, LIC, midflow...) — relevante para buscar material fuente adicional de PTC y para la validación.
+16. **YO/WO/MO** como familia de niveles (yearly/weekly/monthly open): ¿reglas de uso? Solo aparecen como etiquetas en charts → vídeos/Discord.

@@ -34,3 +34,7 @@ Proyección dibujada a mano el 26-feb-2020: extensión bajista hasta la daily bu
 ## TE-04 · GBPUSD long post-COVID con compounding (mar-abr 2020) [IMG-MIET: GBP April, GBP screanshot]
 
 Long real desde ~1.2290: pantallazo con +189.4 pips corriendo y **SL movido a -9 pips**; tweet del 2-abr: "Still long, **X2** atm" + la razón para mantener: "**runs like these typically end in parabolic phase — haven't had that yet**" (la ausencia de parabólica = señal de que el run no ha terminado). Confirma en real: compound a favor, stop a cuasi-BE, y la fase parabólica como criterio de salida.
+
+## TE-05 · GBPUSD, fill del drift de Asia (20-abr-2020) [IMG-MIET: Asia trade 1-2]
+
+Regla anotada: "Directional moves through Asia usually weak due to light volume & thin liquidity. **Often get filled** unless recent catalyst/aggressive sentiment shift." Ejecución en 1min: long 1.24530, **SL ~3.8 pips**, +21.5 pips. Variante intradía de S-08 con el drift asiático como extensión débil. Complemento (5-may-2020): "**first run out of Asia is usually really weak and dries off**" — fadeable ante absorción en el HOD (short +18.3 pips, SL -4.8). [IMG-MIET: First Run out of Asia]

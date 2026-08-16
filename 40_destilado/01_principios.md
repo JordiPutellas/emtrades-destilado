@@ -100,6 +100,15 @@ Estabilidad de volumen (low liquid state) → surge relativo en un lado → run 
 - Tras el shift, el precio corre por liquidez residual débil cuyas respuestas se absorben → midflow (continuación). [IMG: Price Swings Continued p.6]
 - **"Midflow means imbalance."** En un HTF midflow la dinámica se invierte respecto a lo normal: la liquidez a favor acepta precios cada vez peores y "turns up at residual levels — at fractal runs which SHOULD be weak", señal de imbalance HTF; las rupturas de shelf fractal dan fills pequeños. Entorno "unusual, not a normal dynamic" que exige adaptar el trading. [VID-M2020: Session 14 @ 00:44:40–00:49:13]
 
+### Formulaciones-tweet del marco (época 2019-2020, capturas MIET)
+
+- "**Think of liquidity as friction. If it's being fragmented in one direction, what's left behind is exposed** — doesn't take much weight for price to push back. Most moves are functions of measures which limit adverse selection that fragment liquidity over a distance of prices → one-sided moves are highly vulnerable to being faded. Optimal: look for weakness in one-sided moves vs continuation. **Price behaviour will show you.**" [IMG-MIET: Tweet Fragmented Lq 1-2]
+- "The process of information being embedded into price **'leaks' information. At all times price is reflecting the state of liquidity provision vs liquidity taking** — just a case of interpreting it." [IMG-MIET: First Run out of Asia]
+- "Very liquid markets are quite efficient... **until there's a reflexive distortion underway OR, on a shorter term basis, the liquidity landscape is skewed in response to order flow — with the latter repeating and repairing quickly**." (= la definición del edge de EM: esa distorsión corta que repite y se repara.) [IMG-MIET: Efficient markets]
+- "After a few days of liquidity hitting one side aggressively, flows dry off, **weak side of book is replenished**... if you missed the big move and you're still after it, you're gonna get chopped up." [IMG-MIET: Tweet 4]
+- Mecanismo stop-run (esquema de Tilopa guardado por EM): acumulación de stops bajo el swing low → al saltar, "**price overshoots as market makers reprice and the market has to reach for counterparties**" → llega a buy limits → "price has little trouble retracing this move on relatively low volume". [IMG-MIET: Tilopa]
+- "Without the constant change in the state of liquidity on all scales, specifically in FX, I wouldn't be able to trade the way I do... the infrastructure and behaviour of LPs **forces prices into very observable patterns**." [IMG-MIET: Liquidity Dynamics]
+
 ### Qué NO es el método (delimitación explícita)
 
 - Contra order blocks/breakers (ICT): su lógica asume "trapped traders" especulativos; EM objeta que gran parte de la sell liquidity viene de entidades sin interés direccional ("they just need to transact for operational purposes — that's the FX market"). [VID-M2020: Session 14 @ 00:08:01–00:08:42]
