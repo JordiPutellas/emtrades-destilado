@@ -15,3 +15,11 @@
 | bidonast / bid and ass                    | bid/ask                                  |
 | infantry (contexto dealer)                | inventory                                |
 | market's limit order ratio                | market-to-limit-order ratio              |
+| bi-liquidity / by liquidity               | buy liquidity                            |
+| Tijuana banks                             | tier-one banks                           |
+| Bank of International Settlements         | Bank for International Settlements (BIS) |
+| Raul Oman                                 | Roel Oomen                               |
+| EPS (contexto interdealer)                 | EBS                                      |
+| Reuters trade/spot match                   | Reuters FX Spot Matching                 |
+| byside                                    | buy side                                 |
+| Virtue HFT                                | Virtu                                    |

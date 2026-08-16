@@ -1,4 +1,4 @@
-# EMTrades — Mapa del método (estado tras la Sesión 10)
+# EMTrades — Mapa del método (estado tras la Sesión 11)
 
 > Documento de orientación vivo (2026-08). Todo lo afirmado aquí tiene fuente detallada en los maestros enlazados. Los vídeos M2020, más refinados, prevalecen sobre el material anterior en caso de conflicto.
 
@@ -53,7 +53,7 @@ Itinerario de 3 pasos formalizado en M2020 S15: (1) aprender a ver swings, (2) a
 ## Estado de la destilación
 
 - ✅ 17/17 PDFs procesados (extractos en `30_extractos/`).
-- ✅ 26/26 vídeos transcritos (27,4 h; 693 frames). Destilados 6/16 M2020 (S1-S2, S12-S15); pendientes 10 M2020 + 10 Price Swing.
+- ✅ 26/26 vídeos transcritos (27,4 h; 693 frames). Destilados 7/16 M2020 (S1-S3, S12-S15); pendientes 9 M2020 + 10 Price Swing.
 - ✅ Corpus visual completo: 237/237 capturas procesadas (incluye Discord 129/129 y CLP 12/12).
 - Prioridades restantes: CPS-como-setup; definición operativa de SWE y criterio shelf-specific de washed; parámetros de ejecución del modelo Washed IV/CPL; template formal de 4 apexes; poke past the low del OP; reglas YO/WO/MO; responsive-vs-market-state-dependent; fractal pushing; HOTW; y momentum trade como setup.
 - Dudas vivas: [90_preguntas_abiertas](90_preguntas_abiertas.md) · Conflictos: [91_contradicciones](91_contradicciones.md) · Ideas BTC (aparcadas): [92_ideas_btc](92_ideas_btc.md).

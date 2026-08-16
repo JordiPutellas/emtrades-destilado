@@ -10,7 +10,7 @@
 
 **Liquidez y entrega:** [Residual liquidity](#residual-liquidity--residual-levels) · [Liquidity void](#liquidity-void--vacuum) · [Chain reaction](#chain-reaction) · [Gap slip](#gap-slip--gapslip) · [Last point of liquidity](#last-point-of-liquidity) · [Rebalance](#rebalance) · [Trending extension fill](#trending-extension-fill-short-extension-fill) · [Feeder](#feeder--feeding-liquidity) · [Volume stability / surge](#volume-stability--relative-volume-surge) · [Balanced liquidity](#balanced-liquidity--equilibrium) · [Breakout PI](#breakout-pi--fractal-breakout-pi) · [Fractal pushing](#fractal-pushing) · [Latent liquidity / conversion rate](#latent-liquidity--conversion-rate) · [SR / SR flip](#sr--sr-flip)
 
-**Organización de mercado:** [OTC / bilateral](#otc--bilateral--quote-driven) · [Exchange / multilateral](#exchange--multilateral--order-driven) · [Best bid/offer y tipos de orden](#best-bid--best-offer--tipos-de-orden) · [Market-to-limit-order ratio](#market-to-limit-order-ratio) · [Dealer / principal / internalización](#dealer--principal--internalización) · [CCP / settlement](#ccp--central-counterparty--settlement) · [MTF / ECN](#mtf--ecn)
+**Organización de mercado:** [OTC / bilateral](#otc--bilateral--quote-driven) · [Exchange / multilateral](#exchange--multilateral--order-driven) · [Best bid/offer y tipos de orden](#best-bid--best-offer--tipos-de-orden) · [Market-to-limit-order ratio](#market-to-limit-order-ratio) · [Skewed liquidity](#skewed-liquidity) · [Dealer / principal / internalización](#dealer--principal--internalización) · [CCP / settlement](#ccp--central-counterparty--settlement) · [MTF / ECN](#mtf--ecn) · [Sell side / buy side](#sell-side--buy-side) · [EBS / Reuters y price discovery](#ebs--reuters-matching--price-discovery) · [Prime brokerage](#prime-brokerage) · [Information leakage](#information-leakage)
 
 **Trading y gestión:** [Midflow / counter flow trading](#midflow-trading--counter-flow-trading) · [Paying for the trade](#paying-for-the-trade) · [Compound](#compound) · [Dealing range](#dealing-range) · [Responsive vs market-state-dependent levels](#responsive-vs-market-state-dependent-levels) · [CPL](#cpl--consumption-response-leg) · [Washed IV](#washed-iv) · [Momentum](#momentum-definición-y-taxonomía)
 
@@ -88,6 +88,11 @@
 - **Depth frente a volumen:** puede transaccionarse mucha venta contra un bid grueso sin desplazamiento y mucha menos compra barrer un ask fino; por eso precio puede subir pese a mayor volumen vendedor. Liquidez es profundidad/fricción disponible, no volumen ya cruzado. [VID-M2020: Session 2 @ 00:33:35–00:38:11]
 - El ratio supera uno con más facilidad en el lado menos líquido, sesgando la probabilidad de movimiento hacia él. La identificación live es difícil y la máxima asimetría dura poco porque basta muy poco volumen para mover precio. [VID-M2020: Session 2 @ 00:40:45–00:45:17] [VID-M2020: Session 2 @ 01:01:24–01:03:09]
 
+### Skewed liquidity
+
+- **Estado:** confirmado. Distribución asimétrica de resting limit liquidity; no describe market-order flow. Bids mucho más gruesos que offers = book sesgado a favor del buy side: probabilísticamente hace falta más venta agresiva para bajar que compra agresiva para subir. [VID-M2020: Session 3 @ 00:04:05–00:06:09]
+- Es una instantánea dinámica, no un pronóstico permanente. Quotes pueden retirarse, reaparecer o repricing; EM busca leer el desarrollo del estado en price action. [VID-M2020: Session 3 @ 00:16:26–00:21:24]
+
 ### Dealer / principal / internalización
 
 - El dealer es contraparte/principal de la operación bilateral: proporciona liquidez y después decide mantener el riesgo, casar con otro cliente o cubrirlo fuera. El broker retail sigue siendo principal frente al cliente aunque se llame ECN/no-dealing-desk. [VID-M2020: Session 1 @ 00:01:54–00:03:19] [VID-M2020: Session 1 @ 00:04:07–00:04:35]
@@ -104,6 +109,27 @@
 
 - **MTF (multilateral trading facility):** modelo exchange-like dentro de FX; EM usa LMAX como ejemplo de single order book/order-driven con LMAX interpuesto como contraparte. [VID-M2020: Session 1 @ 00:22:34–00:24:22]
 - **ECN/agregador:** Hotspot, FXall y Currenex agregan quotes/liquidez de bancos conectados y facilitan routing sin asumir el riesgo principal según EM. No elimina al broker como principal de la operación retail. [VID-M2020: Session 1 @ 00:24:30–00:25:57]
+
+### Sell side / buy side
+
+- **Estado:** confirmado como definición funcional de EM. **Sell side** vende/provee el servicio de liquidez; **buy side** lo compra/consume, incluso si la firma está vendiendo la divisa. [VID-M2020: Session 3 @ 01:00:39–01:01:52]
+- EM incluye entre buy side a corporates, asset/hedge funds, pension funds, governments y clientes de prime brokerage. Gran parte usa FX para transacción o hedge, no para especular direccionalmente. [VID-M2020: Session 3 @ 01:01:52–01:04:13]
+
+### EBS / Reuters Matching — price discovery
+
+- **Estado:** confirmado como explicación histórica de EM, no verificada externamente. EBS y Reuters FX Spot Matching centralizaron gran parte del interdealer en electronic single order books con matching y pre-trade credit checks. EM asigna principalmente EURUSD a EBS y GBPUSD a Reuters; no mapea inequívocamente USDJPY/USDCHF. [VID-M2020: Session 3 @ 01:08:03–01:11:47]
+- **Price discovery:** el punto donde la información entra y forma/cambia primero el precio antes de redistribuirse a clientes. Cuando gran parte del flujo interdealer estaba en EBS, los dealers próximos a ese book recibían antes los cambios de best bid/offer. [VID-M2020: Session 3 @ 01:11:47–01:15:15] [VID-M2020: Session 3 @ 01:18:40–01:20:38]
+- “All liquidity” es shorthand pedagógico: EM lo acota inmediatamente a “70% or 90%”. Significa concentración importante del interdealer visible/ejecutable, no totalidad de latent liquidity ni firmeza perpetua de cada order (ver C-002). [VID-M2020: Session 3 @ 01:12:28–01:13:23]
+
+### Prime brokerage
+
+- **Estado:** confirmado. Una relación de crédito/margen con un prime broker permite acceder, bajo el nombre/crédito del PB, a quotes de varios banks sin mantener una relación y counterparty exposure separada con cada uno. El PB cobra comisiones/servicio y puede conceder leverage contra margin. [VID-M2020: Session 3 @ 01:21:03–01:26:43] [VID-M2020: Session 3 @ 01:33:27–01:35:38]
+- En distribución retail, un broker puede agregar best bid/offer de banks distintos, comprar esa liquidez y revenderla al cliente con spread añadido; puede cubrir inmediatamente el trade o conservar/internalizar el riesgo. Cifras de spreads, comisión y leverage de la lección son ejemplos pedagógicos. [VID-M2020: Session 3 @ 01:26:43–01:33:27]
+
+### Information leakage
+
+- **Estado:** confirmado como mecanismo según EM. Cuando un dealer cubre customer flow en el interdealer visible, tamaño/dirección se revelan por la ejecución; competidores responden, puede activarse hot potato y el precio corre contra el ticket aún incompleto, elevando slippage y volatilidad. [VID-M2020: Session 3 @ 01:15:15–01:17:13]
+- Internalizar/warehousear el riesgo evita que esa transacción concreta llegue al book y oculta cliente, tamaño y dirección a otros dealers; reduce leakage potencial, no elimina inventory risk. [VID-M2020: Session 3 @ 01:17:13–01:18:40]
 
 ## Anatomía del price swing
 
