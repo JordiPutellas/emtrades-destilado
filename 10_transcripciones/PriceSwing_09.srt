@@ -1,0 +1,656 @@
+1
+00:00:00,500 --> 00:00:05,660
+All right, so what we're looking at is the price run in its entirety, some of the features that we look at, etc.
+
+2
+00:00:07,140 --> 00:00:11,900
+Just to put together the CPS series, really, so we're going to start off from this low here.
+
+3
+00:00:12,440 --> 00:00:18,960
+Essentially, what's happened is prior to this low, preceding that low, we've seen offers, offers, offers, ultimately push lower.
+
+4
+00:00:20,020 --> 00:00:27,920
+Every time price extended out to the downside, price would draw back in, back up the extension leg, fill it.
+
+5
+00:00:27,920 --> 00:00:30,500
+There's more than enough sellers at the most low.
+
+6
+00:00:30,560 --> 00:00:36,580
+base of inventory, in this case in the downtrend, sell inventory, and you continue pushing
+
+7
+00:00:36,580 --> 00:00:43,920
+with the downtrend. So here we picked up sellers, ran down, all right? Offers dry off, because
+
+8
+00:00:43,920 --> 00:00:48,200
+we're extending by this low, there's some buy liquidity here. Offers dry off price draws
+
+9
+00:00:48,200 --> 00:00:53,680
+back up the extension leg and there's more than enough sell liquidity inside this leg, inside
+
+10
+00:00:53,680 --> 00:00:58,840
+this practical liquidity base and of course sellers continue to push, right? Same happens here. Price
+
+11
+00:00:58,840 --> 00:01:00,260
+runs out, draws back in.
+
+12
+00:01:00,620 --> 00:01:06,060
+than of sellers price runs out draws back in more than of sellers price runs out draws
+
+13
+00:01:06,060 --> 00:01:12,030
+back in and now we have a shift in behavior where every time previously it drew back into the
+
+14
+00:01:12,030 --> 00:01:18,510
+last inventory of sell liquidity in the move down it was able to continue pushing to new
+
+15
+00:01:18,510 --> 00:01:24,030
+lows but in this instance because of how far prices travel to the downside and the level
+
+16
+00:01:24,030 --> 00:01:30,780
+price is picking up as in what low this or the liquidity this low is picking up now
+
+17
+00:01:30,940 --> 00:01:35,660
+whatever inventory of cell liquidity is left inside this last core area of
+
+18
+00:01:35,660 --> 00:01:40,940
+dual flow shelf is unable to push price down to new lows okay so we have a
+
+19
+00:01:40,940 --> 00:01:45,740
+response price ultimately it picks up whatever cell liquidity is inside the shelf
+
+20
+00:01:45,740 --> 00:01:50,380
+picks it up deals it off but the strength and the impetus behind this cell
+
+21
+00:01:50,380 --> 00:01:56,380
+this injection of cell liquidity is not able to materially push past whatever
+
+22
+00:01:56,380 --> 00:02:00,780
+buy liquidity has just entered the market down here so buy liquidity entered
+
+23
+00:02:00,940 --> 00:02:07,040
+this cell liquidity here is a battle this is a to go a war previously sellers won the tug-of-war
+
+24
+00:02:07,040 --> 00:02:12,560
+won it won it the further the cell liquidity the further the move travel to the downside the
+
+25
+00:02:12,560 --> 00:02:17,500
+weaker the sell liquidity gets the thinner the cell liquidity runs price cleared out these
+
+26
+00:02:17,500 --> 00:02:24,620
+lows extended comes back into shelf okay the last core area of sell liquidity responds can't
+
+27
+00:02:24,620 --> 00:02:30,920
+push to new lows bids continue to step in bids continue to step in low liquid state causes a shift
+
+28
+00:02:30,940 --> 00:02:37,170
+and price runs out. Now there's a shift in momentum. There's a shift in dynamics where buyers are
+
+29
+00:02:37,170 --> 00:02:42,690
+taking control and the same thing happens here. The sell liquidity is picking up sell liquidity,
+
+30
+00:02:42,690 --> 00:02:47,570
+picking up sell liquidity, but there's weakness in sellers now because of where buyers are pushed to.
+
+31
+00:02:47,570 --> 00:02:53,730
+They've literally changed the momentum. Price accumulates, it's a price pause, extremely inefficient
+
+32
+00:02:53,730 --> 00:03:00,510
+extension to the upside. I bet this is pinging off a level on the left. Look. Yeah, so we're actually
+
+33
+00:03:00,510 --> 00:03:08,400
+pinning off this apex-ish area all right well this whole area is an apex but there's a
+
+34
+00:03:08,400 --> 00:03:14,160
+fractal liquidity base inside of this apex because price is fractal and we extended extremely
+
+35
+00:03:14,160 --> 00:03:19,680
+inefficiently past these highs often bids have dried off and prices just drawn back in
+
+36
+00:03:20,320 --> 00:03:25,360
+the extension leg but still bids continue to come in i would assume there's a small
+
+37
+00:03:25,360 --> 00:03:31,360
+fractal there bids continue to step in new range price runs out bids dry
+
+38
+00:03:31,440 --> 00:03:36,820
+off, price draws back in, okay, this is the last core area of buy inventory, holding price
+
+39
+00:03:36,820 --> 00:03:41,840
+up, and there's more than not liquidity to push it, okay, bids drive off again, price
+
+40
+00:03:41,840 --> 00:03:47,360
+draws back in, it tries to, a response of this clean breaking point, but ultimately it goes back
+
+41
+00:03:47,360 --> 00:03:52,840
+to this core base, and again, there's more liquidity in this last deal flow area to
+
+42
+00:03:52,840 --> 00:03:57,560
+continue pushing price. Now, bids are picked up, price runs out, comes back to the last
+
+43
+00:03:57,560 --> 00:04:01,420
+core area, pushes again. This is the new area of deal flow.
+
+44
+00:04:01,440 --> 00:04:09,960
+flow. The last core area of dealing, price runs out. It doesn't basically, it doesn't fully fill it,
+
+45
+00:04:10,200 --> 00:04:15,060
+but often it will come back, fill it, it's picking up liquidity and it's more than enough to
+
+46
+00:04:15,060 --> 00:04:21,540
+continue pushing it. The fact that it did not fill it, okay, and it ultimately pushes to new
+
+47
+00:04:21,540 --> 00:04:25,520
+highs, it's going to show that price is getting really inefficient, okay, because it's leaving
+
+48
+00:04:25,520 --> 00:04:31,380
+these inefficiencies. But price, a bit of cumulate, price runs out, comes back, okay, more than enough
+
+49
+00:04:31,380 --> 00:04:35,460
+to continue pushing if price runs out comes back more than enough liquidity to
+
+50
+00:04:35,460 --> 00:04:41,660
+continue pushing to the upside at the last inventory okay at the last inventory and
+
+51
+00:04:41,660 --> 00:04:48,140
+then price accumulates price runs out okay runs again now this time when
+
+52
+00:04:48,140 --> 00:04:53,340
+price returns it tries to respond but ultimately it goes through it okay which now has
+
+53
+00:04:53,340 --> 00:04:57,820
+shown us that there's a shift in behavior where bids were successfully pushing
+
+54
+00:04:57,820 --> 00:05:03,100
+and pushing and pushing and pushing and pushing here and now there's not enough liquidity in this
+
+55
+00:05:03,100 --> 00:05:08,380
+area to continue pushing price up so this again is the shelf the shelf is defined as the last
+
+56
+00:05:08,380 --> 00:05:14,300
+core area of inventory that needs to hold up to continue pushing price along so this area held
+
+57
+00:05:14,300 --> 00:05:19,900
+up that was the last core area of inventory this area held up that was the last core area of inventory
+
+58
+00:05:19,900 --> 00:05:26,250
+to continue pushing price up now this is the last core area of inventory it needs to
+
+59
+00:05:26,250 --> 00:05:30,410
+the whole to continue pushing price up and oh shit it doesn't right price goes through it that
+
+60
+00:05:30,410 --> 00:05:36,710
+causes a shift in the state um ultimately you know there's going to be shelves on different time
+
+61
+00:05:36,710 --> 00:05:44,550
+frames but one could classify this is the whole area of the last core area of dealing that is the
+
+62
+00:05:44,550 --> 00:05:50,870
+whole of it price comes already picked up the middle so it comes to the bottom again whatever
+
+63
+00:05:50,870 --> 00:05:56,150
+liquidity is remaining inside of this shelf is failing to continue pushing price to new highs
+
+64
+00:05:56,310 --> 00:05:59,770
+These are all signs of weakness in price and price goes to the weaker side.
+
+65
+00:06:00,470 --> 00:06:02,230
+But again, look at what area this picked up.
+
+66
+00:06:02,270 --> 00:06:04,470
+It picked up the highs, right?
+
+67
+00:06:04,710 --> 00:06:06,590
+Basically, visited the liquidity at these highs.
+
+68
+00:06:09,320 --> 00:06:11,620
+Once price starts breaking past this shelf,
+
+69
+00:06:11,740 --> 00:06:14,340
+there's another shift in momentum where sellers take control
+
+70
+00:06:14,340 --> 00:06:16,800
+and prices trades through all of these levels,
+
+71
+00:06:18,080 --> 00:06:21,780
+primarily because of how they were picked up on the way up, right?
+
+72
+00:06:21,860 --> 00:06:24,040
+So we had liquidity, the top was picked, the bottom,
+
+73
+00:06:24,340 --> 00:06:25,960
+to wash this area at the top and the middle.
+
+74
+00:06:27,370 --> 00:06:28,670
+The same applies with this.
+
+75
+00:06:29,310 --> 00:06:30,330
+The top was already picked.
+
+76
+00:06:30,410 --> 00:06:32,210
+We came and picked it up again and delta off.
+
+77
+00:06:32,290 --> 00:06:33,730
+So this area is getting drained.
+
+78
+00:06:34,970 --> 00:06:37,150
+And, you know, we're going to look at later anyway.
+
+79
+00:06:37,630 --> 00:06:41,650
+The differences in price delivery and what the implications are for how much
+
+80
+00:06:41,650 --> 00:06:45,360
+liquidity is left over in different instances.
+
+81
+00:06:46,180 --> 00:06:49,120
+But we extend all the way back down to this core area.
+
+82
+00:06:49,120 --> 00:06:53,560
+So again, this is different, okay, to these mid-price run levels.
+
+83
+00:06:54,100 --> 00:06:56,960
+This is where the move was initiated and broke to the oxide, essentially.
+
+84
+00:06:57,400 --> 00:07:03,160
+price visits it visits the bottom side the response draws all the way back up this weakness in
+
+85
+00:07:03,160 --> 00:07:08,680
+price to the to sell liquidity base the bottom was picked on the way down so price goes towards
+
+86
+00:07:08,680 --> 00:07:18,070
+the middle but the point in me um basically just experience what's going on is to just show you
+
+87
+00:07:18,070 --> 00:07:24,870
+how consistently price is swinging from one side to the other where on an entry day basis
+
+88
+00:07:24,870 --> 00:07:30,310
+anyway and on a high time trip as well but a price is just swinging and there's
+
+89
+00:07:30,310 --> 00:07:37,180
+multitude of price swings and there's a lot of price features that we can
+
+90
+00:07:37,180 --> 00:07:41,660
+engage with throughout the day so let's take this price run for example is up and
+
+91
+00:07:41,660 --> 00:07:50,220
+down basically from about 12 p.m. until the next day you know yeah so this is 12 p.m. this is 12
+
+92
+00:07:50,220 --> 00:07:54,920
+p.m. the next day so more than 24 hours a price swing on a five-minute shot
+
+93
+00:07:55,000 --> 00:08:01,940
+Bids push past here, the shelf, so bids to control, price runs out, this is a pattern of
+
+94
+00:08:01,940 --> 00:08:07,760
+self-similarity inside the broader one, okay, so bids pushed out, there's a leg of inefficiency
+
+95
+00:08:07,760 --> 00:08:13,790
+there, bids dry off, price draws back down, picks up of bids from here, and runs again,
+
+96
+00:08:13,790 --> 00:08:19,950
+okay, runs really inefficiently, bids dry off, draws back down, picks up liquidity, runs again.
+
+97
+00:08:19,950 --> 00:08:24,710
+Of course, inside of these moves, we have patterns of self-similarity on a smaller scale, but
+
+98
+00:08:24,710 --> 00:08:27,990
+this price rings inside there with all the relative features that we've covered in this series
+
+99
+00:08:27,990 --> 00:08:35,750
+anyway but ultimately price runs again extends to new highs this is now the last core area of
+
+100
+00:08:35,750 --> 00:08:40,790
+inventory price bleeds back down to the shelf there's not enough liquidity in the buy
+
+101
+00:08:40,790 --> 00:08:44,630
+shelf and the buy there's not enough by liquidity in the shelf to continue pushing it to new
+
+102
+00:08:44,630 --> 00:08:50,790
+highs ultimately what price does is it retest the apex sellers continue to pressure
+
+103
+00:08:50,790 --> 00:08:57,710
+we push past the shelf, shift in the state of liquidity here, and now there's a change in
+
+104
+00:08:57,710 --> 00:09:02,650
+behaviour. We're on the way of bids were pushing, now sellers are pushing, price extends down,
+
+105
+00:09:03,330 --> 00:09:09,750
+clips on residual liquidity, draws back up and sellers sell into any values. Price extends past
+
+106
+00:09:09,750 --> 00:09:14,290
+this low, clip some liquidity somewhere anywhere in the lower time frame, the pocket's there.
+
+107
+00:09:15,290 --> 00:09:20,770
+And of course, we're starting to see every time price extends past lows, it draws back
+
+108
+00:09:20,790 --> 00:09:26,070
+up to fill the extension modestly anyway but of course sellers continue to
+
+109
+00:09:26,070 --> 00:09:31,590
+pressure price lower primarily because these middle spots have weak areas of
+
+110
+00:09:31,590 --> 00:09:37,620
+liquidity when prices coming back through them so we see this again low price
+
+111
+00:09:37,620 --> 00:09:41,820
+extends draws back up low extends draws back up these are generally going to be
+
+112
+00:09:41,820 --> 00:09:47,540
+pinging off some residual liquidity areas like this price extends okay
+
+113
+00:09:47,540 --> 00:09:51,120
+passes lows extends comes and grab liquidity and this time
+
+114
+00:09:51,140 --> 00:09:56,840
+runs up deeper into cell inventory here okay so now we're draining whatever
+
+115
+00:09:56,840 --> 00:10:02,200
+cell liquidity is pushing down with this and of course again inside of here
+
+116
+00:10:02,200 --> 00:10:06,880
+we have just to give you an idea one big swing a smaller swing inside
+
+117
+00:10:06,880 --> 00:10:11,540
+that smaller swing there swing there and then you have swings there there
+
+118
+00:10:11,540 --> 00:10:15,340
+there there's another swing inside the big one and then there swings there
+
+119
+00:10:15,340 --> 00:10:21,340
+there literally just fucking everyone okay and that's like the tempo and the rhythm
+
+120
+00:10:21,340 --> 00:10:26,760
+price moves in. So when you have a big move, think of it as a big move like this is composed
+
+121
+00:10:26,760 --> 00:10:33,760
+on the lower time frame, smaller moves, price swings inside it. All right. But when you start
+
+122
+00:10:33,760 --> 00:10:37,920
+to observe these now, you basically want to find them, okay, on a chart, mark them out, mark all
+
+123
+00:10:37,920 --> 00:10:43,140
+the features out. And generally, because of what we've discussed, we should be able to relate
+
+124
+00:10:43,140 --> 00:10:48,280
+with the liquidity principles that be applied to the market and why it's relevant for each
+
+125
+00:10:48,280 --> 00:10:53,610
+feature. So in other words, you know, price going to the weaker side, the shelf failing to push
+
+126
+00:10:53,610 --> 00:10:58,470
+price to new highs is showing weakness, okay, in the buy liquidity that pushed this price up.
+
+127
+00:10:58,990 --> 00:11:04,390
+And of course, price draws back down. Or things like inefficient extensions get filled. So this
+
+128
+00:11:04,390 --> 00:11:08,870
+is inefficient, it extended, really inefficiently, and ultimately you've filled it. It tried to
+
+129
+00:11:08,870 --> 00:11:14,770
+anyway. We extended, we filled it. We extended past these lows. We filled it. We extend past these
+
+130
+00:11:14,770 --> 00:11:18,290
+lows, fill it. Extend past these lows, fill it. All these details you really kind of
+
+131
+00:11:18,310 --> 00:11:21,530
+should be mocking out any way going through in your mind.
+
+132
+00:11:21,530 --> 00:11:23,170
+But then once you have a firm understanding
+
+133
+00:11:23,170 --> 00:11:24,430
+of all the liquidity principles
+
+134
+00:11:24,430 --> 00:11:26,410
+and how to spot these price swings,
+
+135
+00:11:26,410 --> 00:11:28,330
+then you can go in and start trying to take trades.
+
+136
+00:11:28,330 --> 00:11:31,590
+So you see price extend past the high.
+
+137
+00:11:31,590 --> 00:11:33,870
+The liquidity factor on the left,
+
+138
+00:11:33,870 --> 00:11:35,930
+you can then take a pretend trade
+
+139
+00:11:35,930 --> 00:11:39,370
+and basically get a feel and try to exercise
+
+140
+00:11:39,370 --> 00:11:42,090
+how it feels fading fast price movement.
+
+141
+00:11:42,090 --> 00:11:44,590
+If that's not your staff, you can take apex retest.
+
+142
+00:11:44,590 --> 00:11:48,290
+If that's not your style, you can try to trade in breakouts.
+
+143
+00:11:48,310 --> 00:11:49,910
+And essentially what you're gonna find
+
+144
+00:11:49,910 --> 00:11:51,870
+is some trades have a negative expectancy,
+
+145
+00:11:51,870 --> 00:11:53,550
+which is a good thing to know.
+
+146
+00:11:53,550 --> 00:11:56,070
+And some trades have a positive expectancy,
+
+147
+00:11:56,070 --> 00:11:58,190
+again, which is a good thing to know.
+
+148
+00:11:58,190 --> 00:12:00,510
+That way you can differentiate between shit and bad trade
+
+149
+00:12:00,510 --> 00:12:01,990
+because you've gone and done your work,
+
+150
+00:12:01,990 --> 00:12:03,390
+you've done your due diligence,
+
+151
+00:12:03,390 --> 00:12:05,350
+and you know which areas of a pricing
+
+152
+00:12:05,350 --> 00:12:06,590
+are highly, highly responsive,
+
+153
+00:12:06,590 --> 00:12:09,150
+like the apexes, the apexes.
+
+154
+00:12:09,150 --> 00:12:12,550
+You know what price behavior is highly, highly probable
+
+155
+00:12:12,550 --> 00:12:15,500
+where price extends and efficiently it fills it.
+
+156
+00:12:15,500 --> 00:12:17,460
+We're extending, we ultimately fill it.
+
+157
+00:12:17,460 --> 00:12:25,220
+And on a micro scale as well, we have extensions, builds, extensions, builds, inefficient
+
+158
+00:12:25,220 --> 00:12:29,520
+price runs, you know, there's inefficiency there, price tries to fill it.
+
+159
+00:12:29,520 --> 00:12:33,940
+It's inefficiency back in the way open price builds it.
+
+160
+00:12:33,940 --> 00:12:38,640
+There's just a multitude of things that we're going to cover later on in the series, sorry,
+
+161
+00:12:38,640 --> 00:12:44,720
+later on in the course basically, and the mentoring, but right now it's just a case of building
+
+162
+00:12:44,720 --> 00:12:48,020
+scale, finding these price features, trying to understand why these price features are
+
+163
+00:12:48,040 --> 00:12:55,510
+relevant and trying to get a gauge of why price is doing why is doing okay yeah any
+
+164
+00:12:55,510 --> 00:12:58,630
+questions let me know
+

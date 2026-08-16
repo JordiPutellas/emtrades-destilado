@@ -1,0 +1,1028 @@
+1
+00:00:00,180 --> 00:00:31,470
+Right, okay, so what we're going to discuss here is the price pause continued and obviously the continuation leg and how that relates to the shelf as well. Okay, so in this case, like, what happens is you had the initial price for it, right? And generally, the only reason price will pause, so, you know, so we've got above any feeding fractal there or a shelf, okay, now we've got above it, we've come and picked up liquidity and we're going to.
+
+2
+00:00:31,490 --> 00:00:38,510
+again yeah now once price has cleared you know the shelf and it goes into
+
+3
+00:00:38,510 --> 00:00:42,510
+trending mode the state of liquidity has changed we clearly see
+
+4
+00:00:42,510 --> 00:00:48,750
+by side liquidity effectively hug price closely and well i see what
+
+5
+00:00:48,750 --> 00:00:54,930
+that results in is price stay stepping higher okay generally speaking and then we'll
+
+6
+00:00:54,930 --> 00:00:57,410
+come into like a fractal mid-price one level
+
+7
+00:00:57,410 --> 00:01:01,580
+price will pick up some pickup up the bottom of this level right
+
+8
+00:01:02,060 --> 00:01:07,580
+and then it'll go deeper into it and go deeper into and we clearly see by side liquidity hog and
+
+9
+00:01:07,580 --> 00:01:13,100
+hog and hog and hog price closely okay that that shows absorption of whatever cell side
+
+10
+00:01:13,100 --> 00:01:17,740
+liquidity that was left over inside there generally speaking if there was a strong amount of
+
+11
+00:01:17,740 --> 00:01:23,820
+liquidity inside the residual level and or price extended into it really weekly
+
+12
+00:01:25,410 --> 00:01:30,690
+you're not going to see price cluster at that level if this is weak if there's weakness in
+
+13
+00:01:30,690 --> 00:01:36,210
+in the run that's coming into the residual level prices will respond okay so anytime you're
+
+14
+00:01:36,210 --> 00:01:40,610
+clustering at a level especially with the bases going deeper and deeper and deeper into a level
+
+15
+00:01:41,090 --> 00:01:49,010
+that this basically then becomes a continuation pattern okay not you know is more of a trade
+
+16
+00:01:49,010 --> 00:01:55,380
+management tool okay or a component of price that we use to manage trades because what we're
+
+17
+00:01:55,380 --> 00:02:00,980
+effectively expecting anyway once we're above this shelf and prices flipped it and now it's coming
+
+18
+00:02:00,980 --> 00:02:06,760
+into mid-price-run levels, we're expecting these to have weak levels of liquidity anyway because
+
+19
+00:02:06,760 --> 00:02:12,010
+the bulk was down in the shelf down there. And naturally, we'd expect there to be weak
+
+20
+00:02:12,010 --> 00:02:19,630
+responses as a function of less liquidity, less friction in these residual levels. And also because
+
+21
+00:02:19,630 --> 00:02:25,590
+prices changed in the state of liquidity. On the way down, the state of liquidity was strong
+
+22
+00:02:25,590 --> 00:02:30,160
+sellers or weak buyers and price reached a level until it
+
+23
+00:02:30,160 --> 00:02:36,460
+where it picked up buyers the inventory of sell-side liquidity was absorbed by the
+
+24
+00:02:36,460 --> 00:02:41,380
+buyers flipped which causes a shift in the state of liquidity and that basically
+
+25
+00:02:41,380 --> 00:02:45,520
+means sellers aren't strong anymore buyers are in the control or sellers a week
+
+26
+00:02:45,520 --> 00:02:51,460
+okay because price can rise as a function of weak selling okay basically if
+
+27
+00:02:51,460 --> 00:02:55,120
+there's not enough sellers here here and here there's only like let's just say for
+
+28
+00:02:55,120 --> 00:03:01,060
+argument's sake 10 million of supply seven and 10 but an order of 50 comes in you know price
+
+29
+00:03:01,060 --> 00:03:07,430
+going to go through these levels filling filling filling until you want to try it off but yeah back
+
+30
+00:03:07,430 --> 00:03:13,210
+to my point these price pausing levels okay there are accumulations which are effectively
+
+31
+00:03:13,210 --> 00:03:19,530
+absorbing any sell side or liquidity inside there the reason being there's just too much
+
+32
+00:03:19,530 --> 00:03:24,870
+flows on the buy side or the state of liquidity is shifted so profoundly that sellers are
+
+33
+00:03:24,870 --> 00:03:29,570
+really, really weak. They withdrawing from the market, etc. And when you'll generally see as price
+
+34
+00:03:29,570 --> 00:03:35,980
+then continue after this level is absorbed, leaving a pocket of liquidity here. And sometimes,
+
+35
+00:03:36,100 --> 00:03:41,380
+you know, it can come right back filling this extension leg to build up. And there's your midflow
+
+36
+00:03:41,380 --> 00:03:48,560
+trades. So generally speaking, right, when we're in the territory of mid price one, pay on me,
+
+37
+00:03:48,640 --> 00:03:52,800
+one minute, right, someone came to the door. So I forgot where I was, but back to my point,
+
+38
+00:03:52,800 --> 00:04:00,240
+the essence of mid-flow is right price price is pausing at a level of residual sell-side liquidity in this
+
+39
+00:04:00,240 --> 00:04:07,560
+bullish example of a price run and there's residual level weak levels of liquidity but liquidity remains
+
+40
+00:04:07,560 --> 00:04:15,640
+friction okay and generally a pause pick up the counter flow level okay pick up that counter liquidity
+
+41
+00:04:15,640 --> 00:04:20,840
+level but bids continue to come in and push along with the market okay they're pushing and the pushing
+
+42
+00:04:20,840 --> 00:04:27,220
+and the pushing because of this profound shift after we broke above the liquidity base and it just
+
+43
+00:04:27,220 --> 00:04:32,740
+continues to pick up build up by side pick up build up by side pick up build up by side absorbing absorbing
+
+44
+00:04:32,740 --> 00:04:41,240
+absorbing absorbing generally a stronger absorption is okay if price continues to go deeper and deeper
+
+45
+00:04:41,240 --> 00:04:46,840
+and deeper into the level and then we want it to release if it comes back down okay we're
+
+46
+00:04:46,840 --> 00:04:53,140
+at the point of release or the base bottom for it to give a response and then you have the
+
+47
+00:04:53,140 --> 00:04:58,340
+continuation leg sometimes around the continuation leg price can become more volatile so what you might
+
+48
+00:04:58,340 --> 00:05:05,360
+get is price pump come right back down and then be contained inside here and then come grab the shelf
+
+49
+00:05:05,360 --> 00:05:10,800
+bottom or the price post bottom and then run to new heights that's what we would call a shelf
+
+50
+00:05:10,800 --> 00:05:15,680
+wash extension okay because the top of the shelf was picked the bottom of the shelf was picked
+
+51
+00:05:15,680 --> 00:05:45,580
+picking up all the buy inventory at this region and then not only picking all of it up but releasing really inefficiently to seek sellers and as long as there's a cell base there that is profound it's good enough it's higher time frame we look to go short there and run it right past the wash shelf into an area of unfilled liquidity also you know up here we're going to be very specific features that we look at for a trade entry management purposes as well and favorability
+
+52
+00:05:45,840 --> 00:05:56,160
+Okay, for the favorability of the trade, there's going to be features inside here that we're looking at the shelf, the apex base, how prices absorbing the buy liquidity in this run higher.
+
+53
+00:05:57,020 --> 00:05:59,180
+That's going to help us, you know, turn the odds in our favor.
+
+54
+00:05:59,980 --> 00:06:03,480
+But that is a continuation like so, and that is the price pause.
+
+55
+00:06:04,080 --> 00:06:08,280
+Let's have a look at an example of it. Okay, so we can have a look at this example.
+
+56
+00:06:08,660 --> 00:06:15,860
+It's a 25 tick charm pound. I think it was last week, 11th of July, so maybe the week, no, this week. I just went by.
+
+57
+00:06:15,880 --> 00:06:46,500
+So this is a price from a 25 tick shop. Okay, but the key thing to know here is if we were to look at this in a one minute or five minute, it will just simply be a pop like this and it's just kind of mid flow. Okay, so when prices in midflow, remember there's weak levels of sell side liquidity in a bullish midflow and buy liquidity is hugging and moving along because it's too much inventory for buyers and we clearly see price taking stairs steps higher. Okay. Now, we're going to go into counter flows in a moment.
+
+58
+00:06:46,520 --> 00:07:00,520
+Okay, so in what instance do I want to take these shorts, okay, when price is releasing in midflow, when do I want to take that short to rebalance it back to the local, most closest inventory of buyers?
+
+59
+00:07:01,740 --> 00:07:19,860
+Just to cover that point. We want this to extend past some form of high into a, so, okay, we want this to extend past some form of a high into a unfilled cell side pocket.
+
+60
+00:07:19,880 --> 00:07:26,440
+it and we can take that short, rebalance it right back down to the core liquidity base.
+
+61
+00:07:26,440 --> 00:07:31,160
+Now the only instance I would be taking these counterflow trades, just like we're trading
+
+62
+00:07:31,160 --> 00:07:37,640
+against the flow. We know that this is strong by side liquidity, okay, but this leg that
+
+63
+00:07:37,640 --> 00:07:43,400
+extended past the highs can also become weak, okay? Yeah, sorry about that. So yeah, the leg that's
+
+64
+00:07:43,400 --> 00:07:47,640
+extending past these highs can also become weak and that will require rebalancing, right? This
+
+65
+00:07:47,640 --> 00:07:52,940
+the fractal multi-directional nature of the market, there's so much liquidity hogging price,
+
+66
+00:07:53,040 --> 00:07:58,660
+you know, we're constantly going to see gyrations and switches, many shifts in momentum like
+
+67
+00:07:58,660 --> 00:08:03,600
+that, that ultimately will have to be rebalanced to find liquidity and for it to continue.
+
+68
+00:08:04,220 --> 00:08:09,040
+Now, so yeah, if we're trading counterflow, we need this leg to be quite inefficient into an
+
+69
+00:08:09,040 --> 00:08:13,680
+unfilled fractal, generally an extension, pass some height, and then I can look to take that
+
+70
+00:08:13,680 --> 00:08:20,830
+short against the trend to fill it right back down to the core liquidity area again this requires
+
+71
+00:08:20,830 --> 00:08:27,470
+exercising it is a great great great model but you need a keen understanding of when to actually
+
+72
+00:08:27,470 --> 00:08:33,230
+straight counterflow for example i wouldn't be trying to buy any of these counterflows because this
+
+73
+00:08:33,230 --> 00:08:39,790
+is too too efficient i would like some degree of an efficiency that extends giving me the chance
+
+74
+00:08:39,790 --> 00:08:46,210
+giving me this space to trade against into a pocket and I'll rebalance it into this core base
+
+75
+00:08:46,210 --> 00:08:53,890
+and you know midflow price movements can be a bit wider ranging okay or there could be much
+
+76
+00:08:53,890 --> 00:09:01,390
+tighter okay and we want the wider ranging midflow movements unless we're getting this on
+
+77
+00:09:01,390 --> 00:09:06,010
+a weekly chart or a daily chart or a four-hourly chart then of course you know these ranges are
+
+78
+00:09:06,010 --> 00:09:10,230
+going to be big enough for us to zoom into the lower time frame and trade the context in price
+
+79
+00:09:10,230 --> 00:09:15,810
+trade the state of liquidity and of course you know take both sides but again this
+
+80
+00:09:15,810 --> 00:09:25,000
+requires a lot a lot of engagement you know and really and truly you know the more
+
+81
+00:09:25,000 --> 00:09:31,120
+you engage you're going to see okay the mistakes you're making the definition and
+
+82
+00:09:31,120 --> 00:09:35,520
+when to you know to be able to differentiate between when to counter flow when to trade
+
+83
+00:09:35,520 --> 00:09:39,320
+with the flow whether you can do both what time frame is ideal to see this kind
+
+84
+00:09:39,320 --> 00:09:42,040
+of structure on okay so we don't really want to be
+
+85
+00:09:42,060 --> 00:09:44,740
+trading five minute mid flows, okay?
+
+86
+00:09:44,740 --> 00:09:45,840
+Because they're just too small.
+
+87
+00:09:45,840 --> 00:09:51,880
+The contractions and the, what you call it,
+
+88
+00:09:51,880 --> 00:09:53,940
+shot on one side and then rebalance,
+
+89
+00:09:53,940 --> 00:09:56,580
+they're just too small, the price ones are too small.
+
+90
+00:09:56,580 --> 00:09:58,000
+I'll show you an example of a good one,
+
+91
+00:09:58,000 --> 00:10:00,760
+but let's just deal with this particular price pause
+
+92
+00:10:00,760 --> 00:10:02,000
+for a minute.
+
+93
+00:10:02,000 --> 00:10:04,580
+25 tick chart, what this is,
+
+94
+00:10:04,580 --> 00:10:08,400
+the eight to 24 is about 14 pips, yeah?
+
+95
+00:10:08,400 --> 00:10:10,040
+Of 14, 15 pips.
+
+96
+00:10:10,040 --> 00:10:13,340
+Price would've come into a residual base here.
+
+97
+00:10:13,340 --> 00:10:14,460
+It accumulates.
+
+98
+00:10:14,460 --> 00:10:16,780
+This is the point of release where liquidity dries off.
+
+99
+00:10:16,780 --> 00:10:21,320
+There's a shot and price releases really quite inefficiently.
+
+100
+00:10:21,320 --> 00:10:25,140
+And then, of course, it's coming into some kind of residual level here.
+
+101
+00:10:25,140 --> 00:10:30,640
+Even if it doesn't, you know, the parabolic phase is a sign that by side liquidity is drying out.
+
+102
+00:10:30,640 --> 00:10:31,840
+You know, it's really inefficient.
+
+103
+00:10:31,840 --> 00:10:35,400
+It's thin levels of the further price runs, the weaker it gets, this thin levels of liquidity.
+
+104
+00:10:35,400 --> 00:10:36,780
+Now look at what happens.
+
+105
+00:10:36,780 --> 00:10:40,440
+Inside here, there is a base.
+
+106
+00:10:40,440 --> 00:10:43,360
+There's a shelf and effectively that would have
+
+107
+00:10:43,380 --> 00:10:51,060
+the inventory just like price pumped formed a point of release extended paused in some residual
+
+108
+00:10:51,060 --> 00:10:56,980
+liquidity extended came back and picked it up that's the price continuation feature we just discussed
+
+109
+00:10:56,980 --> 00:11:02,420
+and then again it releases again liquidity is being pushed along with it okay and the bulk of the
+
+110
+00:11:02,420 --> 00:11:07,540
+liquidity was there it was picked up bulk of it is now there picked up etc until it can't run
+
+111
+00:11:07,540 --> 00:11:13,460
+anymore the bulk is too weak okay so the further price run the weaker it gets buying pressure dries out
+
+112
+00:11:13,540 --> 00:11:18,780
+it comes right back inside the shelf and you see your price pause okay you see price
+
+113
+00:11:18,780 --> 00:11:25,510
+pause liquidity drop off if price was going to continue very likely would it just even
+
+114
+00:11:25,510 --> 00:11:29,390
+if it wasn't going to continue even if there was a if there was a strong amount of liquidity
+
+115
+00:11:29,390 --> 00:11:35,730
+here this is a relatively exposed open leg into this shelf we could have easily seen price
+
+116
+00:11:35,730 --> 00:11:40,390
+come right back to the height but the fact that price sits in there is really telling us you
+
+117
+00:11:40,390 --> 00:11:43,610
+know there's just not many bins inside there and of course there
+
+118
+00:11:43,630 --> 00:11:45,050
+This is 25 tick chart, right?
+
+119
+00:11:45,050 --> 00:11:48,870
+So contextualize it and the fact that these price behaviors
+
+120
+00:11:48,870 --> 00:11:52,450
+are present on this time frame is, you know, miraculous.
+
+121
+00:11:52,450 --> 00:11:58,350
+But this is effectively the shelf slash price pause.
+
+122
+00:11:58,350 --> 00:11:59,870
+Price already picked the top.
+
+123
+00:11:59,870 --> 00:12:00,770
+Price, look what it does.
+
+124
+00:12:00,770 --> 00:12:05,370
+It extends inefficiently right to the point of release response.
+
+125
+00:12:05,370 --> 00:12:08,790
+Now again, 25 tick chart, probably not even two, three pips.
+
+126
+00:12:08,790 --> 00:12:14,790
+But if this was a weekly chart, you bet I want to trade that rebalance, okay?
+
+127
+00:12:14,790 --> 00:12:16,310
+even if it's a daily chart.
+
+128
+00:12:16,310 --> 00:12:18,770
+But then again, price pause extends.
+
+129
+00:12:18,770 --> 00:12:20,110
+You have some kind of pausing.
+
+130
+00:12:20,110 --> 00:12:21,690
+It extends again.
+
+131
+00:12:21,690 --> 00:12:27,030
+Now liquidity is drying out around 427 in the morning.
+
+132
+00:12:27,030 --> 00:12:30,630
+And then, you know, there's a bit of a shot on one side.
+
+133
+00:12:30,630 --> 00:12:32,190
+When you're in a stable range like this,
+
+134
+00:12:32,190 --> 00:12:35,830
+it's susceptible to get a shot on one side of the market.
+
+135
+00:12:35,830 --> 00:12:39,730
+Price releases right back inside this leg
+
+136
+00:12:39,730 --> 00:12:42,650
+and it pauses right here.
+
+137
+00:12:42,650 --> 00:12:44,770
+Okay, this small mini fractal.
+
+138
+00:12:44,790 --> 00:12:50,710
+accumulation. Again, that was a price pause. Okay. So the point I'm making here is if you're
+
+139
+00:12:50,710 --> 00:12:55,630
+trying to trade any direction and you have these kind of price pauses, you're going to have to
+
+140
+00:12:55,630 --> 00:12:59,930
+contend with them. Okay, you're going to have to decide, is this level weak? Is it mid-price
+
+141
+00:12:59,930 --> 00:13:04,510
+run level? Is it a lower time frame level? Do I want to trade through it? Is price absorbing it?
+
+142
+00:13:04,590 --> 00:13:08,930
+It's price responding of it. Is there a lot of liquidity and the way price is moving into the
+
+143
+00:13:08,930 --> 00:13:14,710
+level? Does it leave my trade vulnerable? Will I have to face price moving against my
+
+144
+00:13:14,790 --> 00:13:18,190
+position was I in 10 R profit and now it's going to go back to three R profit.
+
+145
+00:13:18,190 --> 00:13:22,390
+You know, these things have to be considered, but you know, it's part of the game.
+
+146
+00:13:23,200 --> 00:13:28,840
+So price comes, builds up, goes deeper into this price, price pause.
+
+147
+00:13:28,840 --> 00:13:31,320
+This is the breakout accumulation really, which pushed to new lows.
+
+148
+00:13:31,320 --> 00:13:33,440
+Again, this is a price pause.
+
+149
+00:13:33,440 --> 00:13:40,920
+So once it extends past this high, it draws right back down into this pause, picks up liquidity and runs again.
+
+150
+00:13:40,920 --> 00:13:44,840
+Okay, now inside here, prices,
+
+151
+00:13:44,880 --> 00:13:51,400
+a bit you know it pops draws right back to the point of release builds up and goes
+
+152
+00:13:51,400 --> 00:13:57,280
+in a small price from here becomes slightly inefficient at the high okay and of course
+
+153
+00:13:57,280 --> 00:14:02,480
+by that point we were already beneath the show okay so the real question would
+
+154
+00:14:02,480 --> 00:14:09,200
+have been why did set why did buy why did price push so far down to find buyers okay so
+
+155
+00:14:09,200 --> 00:14:12,080
+you know there's gonna be some kind of kind of sell side liquidity left over inside the
+
+156
+00:14:12,080 --> 00:14:15,200
+high now what does it do it goes in another price run
+
+157
+00:14:15,520 --> 00:14:25,520
+okay pausing it drops responds pauses drops comes into nothing here responds
+
+158
+00:14:25,520 --> 00:14:32,960
+pauses and every time it's pausing and it's always in the local when price in this case we
+
+159
+00:14:32,960 --> 00:14:38,530
+flip the shelf okay of this price run higher we flipped the shelf at this price run high
+
+160
+00:14:38,530 --> 00:14:42,850
+which had the bulk of the inventory of this of the buyers that pushed higher once we flip
+
+161
+00:14:42,850 --> 00:14:46,770
+beneath there is a shift in the state of equity this price one is now weak now we
+
+162
+00:14:46,770 --> 00:14:51,410
+that's what we can expect even if price ends up in validating the high then we know
+
+163
+00:14:53,730 --> 00:14:58,370
+that this is an improbable trade to continue shorting and you know very often come
+
+164
+00:14:58,370 --> 00:15:01,970
+back in profit and whatever you can take some equity out or close the position of
+
+165
+00:15:01,970 --> 00:15:06,530
+break even but we're talking about mid flow here so price pauses at some residual
+
+166
+00:15:06,530 --> 00:15:12,530
+level continues draws back picks up sellers now this forms a bit of accumulation
+
+167
+00:15:12,530 --> 00:15:24,530
+it extends becomes inefficient draws into this base and it responds pretty much towards the core base and again here is pausing
+
+168
+00:15:24,530 --> 00:15:31,970
+it drops draws right back into the breaking point pauses okay you're just doing the same thing over and over
+
+169
+00:15:31,970 --> 00:15:41,570
+until it becomes inefficient slipping gap slipping through this area back to a liquidity base but this in the
+
+170
+00:15:41,570 --> 00:15:45,290
+broader scheme of things in broader context it's just a price port not just the price
+
+171
+00:15:45,290 --> 00:15:51,530
+pause okay so 14 27 that's probably gonna be about what three four five
+
+172
+00:15:51,530 --> 00:15:56,300
+minutes it would be probably visible on the high timeframe now let's look at
+
+173
+00:15:56,300 --> 00:16:13,890
+another example okay bear with me let me let me just pull it up okay so that is
+
+174
+00:16:13,890 --> 00:16:22,780
+you know what we'll cover it here anyway price or show cool right we just
+
+175
+00:16:22,800 --> 00:16:26,080
+let's start from the bottom right so here you know this picked up a decent level
+
+176
+00:16:26,080 --> 00:16:35,140
+show the daily level um form the base picking up liquidity pumped okay pausing this is a price
+
+177
+00:16:35,140 --> 00:16:41,430
+pause inside this level and then it releases draws right back down to the clean
+
+178
+00:16:41,430 --> 00:16:47,840
+breaking sorry the point of release builds up again extends past this high becomes inefficient
+
+179
+00:16:47,840 --> 00:16:53,200
+draws right back down picks up liquidity at the clean breaking point okay now once we got past this
+
+180
+00:16:53,440 --> 00:17:00,740
+in here it actually flipped a h1 shell you can't see it but it did and from there this came into a
+
+181
+00:17:00,740 --> 00:17:07,060
+residual level this came to a residual level and look what price does it releases comes right back down
+
+182
+00:17:07,060 --> 00:17:13,220
+to a mini fractal base accumulates picking up liquidity pushing it along and here again it releases
+
+183
+00:17:13,220 --> 00:17:19,940
+draws right back down picking up liquidity releases again into like a h1 residual level
+
+184
+00:17:19,940 --> 00:17:27,500
+it does respond look can you see this wick it is responding of this base but ultimately is drawing
+
+185
+00:17:27,500 --> 00:17:34,520
+to the bottom and it's come into this price pause region extension pick the price pause region up
+
+186
+00:17:34,520 --> 00:17:41,540
+the accumulation midflow buyers are pushing by side liquidity along not enough sellers and um we have
+
+187
+00:17:41,540 --> 00:17:47,800
+the continuation there same thing is happening here this then picked up liquidity from here price
+
+188
+00:17:47,800 --> 00:17:54,920
+pumps picks up the top pumps coming into this point of release region draws right back down picking up
+
+189
+00:17:54,920 --> 00:18:01,960
+bids now the real question is you know this these sellers couldn't push past the buyers here so why would
+
+190
+00:18:01,960 --> 00:18:08,120
+the children of the sales ad liquidity push past the buyers okay there's going to be some residual
+
+191
+00:18:08,120 --> 00:18:11,560
+liquidity that was transferred over and that was picked up by the wick
+
+192
+00:18:12,920 --> 00:18:17,720
+probably that was picked up by the wick but naturally this whole level is mid
+
+193
+00:18:17,800 --> 00:18:23,020
+is picking up a mid-price run level which is residual is weak it's already failed to push past
+
+194
+00:18:23,020 --> 00:18:29,960
+the local inventory it still could theoretically fail but because of where the level is
+
+195
+00:18:29,960 --> 00:18:35,760
+because what this kind of the nature of this level is mid-price run we're expecting price to continue
+
+196
+00:18:35,760 --> 00:18:42,180
+trending for the stair-stepping to continue the mid-flow characteristics to continue we know when
+
+197
+00:18:42,180 --> 00:18:46,520
+the mid-flow should come up we know what kind of responses we can expect out of these
+
+198
+00:18:46,520 --> 00:18:53,760
+residual levels and if we know that what price should be doing the characteristics in those particular
+
+199
+00:18:53,760 --> 00:19:01,300
+in that particular stage prices in if prices you know showing those characteristics it gives us
+
+200
+00:19:01,300 --> 00:19:06,240
+a reason to continue trading because not only are we explaining why it should be behaving like
+
+201
+00:19:06,240 --> 00:19:12,640
+this but we can identify the relative parameters for you know this particular price
+
+202
+00:19:12,640 --> 00:19:17,600
+behavior where it's pausing and eating up residual and buyers are transferring
+
+203
+00:19:17,600 --> 00:19:25,590
+liquidity along and until there's just this whole area of residual bids is absorbed
+
+204
+00:19:25,590 --> 00:19:32,310
+price releases again leaving this whole area are quite vulnerable important to note
+
+205
+00:19:32,310 --> 00:19:36,470
+price comes right back down responds look at the nature of this leg
+
+206
+00:19:37,190 --> 00:19:42,630
+gap slipping through the through the skinny leg that released out of this fractal mace
+
+207
+00:19:42,710 --> 00:19:46,950
+okay that's the price response that could be a weekly chart there's a one-hour chart so that i would
+
+208
+00:19:46,950 --> 00:19:52,630
+love to trade that but naturally anyway even if this was a weekly chart you know again some
+
+209
+00:19:52,630 --> 00:20:00,840
+nice price responses and then let's just look at the shelf okay so price comes and picks up a daily
+
+210
+00:20:00,840 --> 00:20:09,010
+cell side level right here this is the one-hour apex okay we flip it can see this accumulation
+
+211
+00:20:09,730 --> 00:20:13,490
+now look what happens if this is the one-hour shelf right or this present the four-hour
+
+212
+00:20:13,570 --> 00:20:19,230
+as well. But the top side of the shelf was picked. Price came to the bottom. The top side
+
+213
+00:20:19,230 --> 00:20:24,890
+couldn't push past the daily pickup. Sorry, the top side ran into the daily level. Then we came
+
+214
+00:20:24,890 --> 00:20:30,700
+down, picked up whatever liquidity was left in the bottom of the shelf, washing it, because
+
+215
+00:20:30,700 --> 00:20:35,980
+the top and the bottom slash the middle is picked. And that again failed to push past the local
+
+216
+00:20:35,980 --> 00:20:40,780
+inventory. But that's already telling us that the bids are drying up. And then once we have this
+
+217
+00:20:40,780 --> 00:20:46,700
+skinny leg down okay first of all you know it's vulnerable it comes into this small small
+
+218
+00:20:46,700 --> 00:20:52,220
+fractal that would be visible in the high time lower time frame but already that by that point there's
+
+219
+00:20:52,220 --> 00:20:57,340
+been a shift and if there's a shift in state equity this high has to hold we're already anticipating
+
+220
+00:20:57,340 --> 00:21:01,660
+the high to hold because of the nature the level is picking up but or by that point you know we should
+
+221
+00:21:01,660 --> 00:21:09,620
+clearly start to see price stair step lower once this level was gone price gap slipped leaving that leg
+
+222
+00:21:09,620 --> 00:21:14,900
+vulnerable into a core bit into a residual base but this is a core liquidity area
+
+223
+00:21:15,820 --> 00:21:21,180
+well just a residual because it's then mid price run after the shell flipped and it responds right
+
+224
+00:21:21,180 --> 00:21:26,940
+back into the local base nearly the bottom was picked and picks the middle level goes on another
+
+225
+00:21:26,940 --> 00:21:32,700
+price run this time it comes the next unfilled liquidity extends and efficiently
+
+226
+00:21:32,700 --> 00:21:38,060
+picks it up rebalances right back to the clean breaking point then it goes to the next core area
+
+227
+00:21:38,060 --> 00:21:42,420
+on field equity. Remember, these are all mid-price run levels. So we're not expecting them to
+
+228
+00:21:42,420 --> 00:21:48,180
+go zoom. Okay, we're expecting weaker and weaker. Basically, price to continue pressure
+
+229
+00:21:48,180 --> 00:21:52,460
+raising them, sellers to continue pressing on them until we reach the core liquidity area.
+
+230
+00:21:54,060 --> 00:21:58,980
+Until we reach the liquidity base of the bottom of the price run, okay? But again, this is a
+
+231
+00:21:58,980 --> 00:22:06,600
+price pause. Okay, price pauses, pauses, comes into the next level, pauses is contained
+
+232
+00:22:06,600 --> 00:22:13,320
+inside the local cell side base until liquidity drops off here and then we had payrolls data
+
+233
+00:22:13,960 --> 00:22:19,560
+but already price was showing us that there's weak levels of bids weak levels of bids until uh
+
+234
+00:22:19,560 --> 00:22:24,520
+bids really withdraw and you've got that extension again you know price comes into this level
+
+235
+00:22:24,520 --> 00:22:33,510
+or nearly i think it does okay no it doesn't you know this is responding of something
+
+236
+00:22:33,510 --> 00:22:39,560
+again it draws into here response and then of course it comes to the
+
+237
+00:22:39,640 --> 00:22:46,200
+core point of release area um not a point release really like just the accumulation which
+
+238
+00:22:46,200 --> 00:22:52,280
+started the trend okay the source point and it goes on another price run filling in this skinny
+
+239
+00:22:52,280 --> 00:22:57,240
+leg yeah that's about it for this video um all we've called is a price pause when we can expect
+
+240
+00:22:57,240 --> 00:23:01,800
+the price pause to occur the kind of characteristics that we would expect when prices above a shelf
+
+241
+00:23:01,800 --> 00:23:07,880
+and it's reacting off mid price one levels in one instance we would like to go short against the midflow
+
+242
+00:23:07,880 --> 00:23:12,740
+okay this is a really great example of it price extended inefficiently the
+
+243
+00:23:12,740 --> 00:23:16,280
+core base was quite well far enough front price to put us in a manageable
+
+244
+00:23:16,280 --> 00:23:20,600
+position there was a short there coming into a mid-price wrong level counterflow
+
+245
+00:23:20,600 --> 00:23:24,980
+picking up bids and then you can go long as well counter flows early we just
+
+246
+00:23:24,980 --> 00:23:31,860
+rebalance the inefficient skinny extension but naturally we want to be we don't
+
+247
+00:23:31,860 --> 00:23:35,420
+want to trade against the strength of the market we're actually trading with the
+
+248
+00:23:35,420 --> 00:23:42,540
+strength. We want to trade to the weak side. Okay. And then of course the shelf top,
+
+249
+00:23:42,760 --> 00:23:48,420
+shelf bottom. Also earlier in the video we covered a shelf wash extension. So it's
+
+250
+00:23:48,420 --> 00:23:51,720
+important to know price could, let's say this is picking up a one hour level, right?
+
+251
+00:23:53,900 --> 00:23:58,200
+Price could come to the bottom of the shelf, run to new highs. Then we know the shelf is
+
+252
+00:23:58,200 --> 00:24:02,540
+washed. The top is picked, the bottom is picked. Not only the bottom picked is running efficiently
+
+253
+00:24:02,540 --> 00:24:06,680
+leaving this leg extension leg vulnerable, provided this comment to let's say this time at
+
+254
+00:24:06,680 --> 00:24:11,660
+daily base, bump. We look for breakdown characteristics. Just like the breakdown
+
+255
+00:24:11,660 --> 00:24:14,720
+characteristics are present here, we will look for the breakdown characteristics
+
+256
+00:24:14,720 --> 00:24:19,800
+inside there. Okay, so that's all for this particular video. Any relevant stuff we'll
+
+257
+00:24:19,800 --> 00:24:20,400
+cover in the next one.
+

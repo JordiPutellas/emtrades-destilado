@@ -1,0 +1,544 @@
+1
+00:00:00,500 --> 00:00:13,820
+Right, so this is just the breakdown, really, of the individual features of the characteristic of a price swing, individual components, okay, so one, two, three, four, equity base point, release, skinny leg.
+
+2
+00:00:14,780 --> 00:00:18,880
+And ultimately, this is the framework that price moves in, okay?
+
+3
+00:00:19,340 --> 00:00:25,780
+So, when we're looking at price, and when we're trying to find trades, okay, first of all, we're trading on the principles, right?
+
+4
+00:00:25,780 --> 00:00:32,100
+so prices seeking liquidity or it finds it liquidity is friction it has to move that
+
+5
+00:00:32,100 --> 00:00:38,080
+massive liquidity out of the way so you'll see your responses skinny legs or weak levels of
+
+6
+00:00:38,080 --> 00:00:43,840
+basically price runs that are running in a very inefficient skinny way they are getting
+
+7
+00:00:43,840 --> 00:00:48,400
+weaker and weaker and weaker and they're traveling and if they're then meeting a mass of
+
+8
+00:00:48,400 --> 00:00:52,080
+sell side on the opposite side of the market which is generally just a normal liquidity
+
+9
+00:00:52,080 --> 00:00:57,760
+waste what we have is a thick sell side base and a weak run a run that's getting
+
+10
+00:00:57,760 --> 00:01:01,680
+weaker or weaker you know that puts us in a manageable position to trade to the
+
+11
+00:01:01,680 --> 00:01:04,680
+weaker side of the market okay so that's another principal price goes to the
+
+12
+00:01:04,680 --> 00:01:10,760
+weaker side the same applies with extensions so you know this run is running
+
+13
+00:01:10,760 --> 00:01:16,840
+past highs extensions get filled so generally this leg will dry out and it
+
+14
+00:01:16,840 --> 00:01:22,080
+will draw back to the extension point okay but the important thing to realize here is
+
+15
+00:01:22,080 --> 00:01:25,200
+So when you're engaging for the first time,
+
+16
+00:01:25,200 --> 00:01:26,280
+over the first 10 time,
+
+17
+00:01:26,280 --> 00:01:29,080
+or for the first week, month, three months, quarter,
+
+18
+00:01:30,490 --> 00:01:34,010
+what you're gonna find is you're gonna be wrong, basically, right?
+
+19
+00:01:34,010 --> 00:01:36,850
+So you're going to pick a particular component
+
+20
+00:01:36,850 --> 00:01:39,610
+of a price from, which is let's say the liquidity base.
+
+21
+00:01:39,610 --> 00:01:43,170
+Okay, and what we expect at a liquidity base
+
+22
+00:01:43,170 --> 00:01:45,570
+is for price to come down, okay?
+
+23
+00:01:45,570 --> 00:01:48,610
+We want this kind of skinny leg extension into it,
+
+24
+00:01:48,610 --> 00:01:50,690
+because again, there's gonna be a massive liquidity
+
+25
+00:01:50,690 --> 00:01:52,350
+inside of the base, the core base.
+
+26
+00:01:52,370 --> 00:01:57,110
+And then the run that's coming into it, that slipping into it is a weak run.
+
+27
+00:01:57,310 --> 00:01:59,670
+It's a run that's getting weaker, weaker and weaker.
+
+28
+00:01:59,870 --> 00:02:01,210
+It's leaving thin levels of liquidity.
+
+29
+00:02:01,870 --> 00:02:05,150
+And of course, you know, they're going to yield the better responses, the more manageable responses.
+
+30
+00:02:05,270 --> 00:02:06,030
+We're looking for that.
+
+31
+00:02:06,830 --> 00:02:13,800
+But when you're first starting to exercise, okay, what you'll find is many, many times your liquidity base is wrong.
+
+32
+00:02:14,670 --> 00:02:14,970
+Okay?
+
+33
+00:02:15,370 --> 00:02:17,830
+That price just gives a small reaction and goes through it.
+
+34
+00:02:18,470 --> 00:02:18,650
+Okay.
+
+35
+00:02:18,650 --> 00:02:22,830
+And generally, the issue is, I wouldn't.
+
+36
+00:02:22,850 --> 00:02:27,230
+able to tell you why that liquidity base didn't work. It was just generally going to be higher
+
+37
+00:02:27,230 --> 00:02:33,890
+time frame context related. Okay, for example, this high just picked up a higher time frame level
+
+38
+00:02:33,890 --> 00:02:38,730
+and this is a residual level, middle of the price front, you know, you're just going to get small
+
+39
+00:02:38,730 --> 00:02:45,690
+responses. And in other words, sorry, in another example, if this was a weekly level, then
+
+40
+00:02:45,690 --> 00:02:50,610
+you're most, you're very, very, very likely to get a big response out of that weekly base.
+
+41
+00:02:50,610 --> 00:02:56,050
+so what's going to happen is when you're first exercising you're going to be wrong okay and it's
+
+42
+00:02:56,050 --> 00:03:00,530
+important to write through that continue doing it and the more you do it you're going to start building
+
+43
+00:03:00,530 --> 00:03:07,680
+parameters okay you'll then be able to identify the most preferable highly probable
+
+44
+00:03:07,680 --> 00:03:14,080
+um characteristics in how price should approach the level how price should respond
+
+45
+00:03:14,080 --> 00:03:19,840
+the parameters around how it should respond for it to maintain that favorable preferable
+
+46
+00:03:19,840 --> 00:03:25,600
+probability okay for that trade working out and this trade will simply be a
+
+47
+00:03:25,600 --> 00:03:31,090
+liquidity base retest okay or a swing retest of a liquidity base a pickup of
+
+48
+00:03:31,090 --> 00:03:37,300
+liquidity okay that's just one feature of the price run okay also it's important
+
+49
+00:03:37,300 --> 00:03:41,740
+to know that this is not definitive so there's gonna be times again when you're
+
+50
+00:03:41,740 --> 00:03:45,040
+exercising and even when you're trading live that price just goes straight
+
+51
+00:03:45,040 --> 00:03:49,600
+through the base okay it could be event driven it could be a mid-price run
+
+52
+00:03:49,600 --> 00:03:56,320
+level which is residual okay you could be trading a five-minute base against a four-hour
+
+53
+00:03:56,320 --> 00:04:01,360
+level against price so prices just picked up four-hour sell side and you were trying to use a
+
+54
+00:04:01,360 --> 00:04:07,360
+five-minute level okay it could be any of those instances and price will go straight through it
+
+55
+00:04:07,360 --> 00:04:13,840
+so this is never definitive these lines so you know if price is coming to pick up unfilled liquidity
+
+56
+00:04:13,840 --> 00:04:18,800
+the top was picked on the shelf and it goes in a round run it comes to the bottom of the shelf it
+
+57
+00:04:18,800 --> 00:04:23,490
+doesn't mean you're going to get a response okay our job is to identify the
+
+58
+00:04:23,490 --> 00:04:26,910
+most highly probable instances where we are going to get a response off the shelf
+
+59
+00:04:26,910 --> 00:04:31,290
+bottom in what instances what time frame is the shelf present you know the
+
+60
+00:04:31,290 --> 00:04:36,740
+principle is higher time frame cause more liquidity but as we go through the
+
+61
+00:04:36,740 --> 00:04:40,320
+series you're really going to be covering the individual components of a
+
+62
+00:04:40,320 --> 00:04:44,740
+price run or features of a price run so inside at this point one liquidity
+
+63
+00:04:44,740 --> 00:04:49,440
+base it's also important to know that inside of here you're
+
+64
+00:04:49,500 --> 00:04:55,740
+still going to have, on a lower time frame, more of a micro scale viewpoint when you're
+
+65
+00:04:55,740 --> 00:04:59,760
+looking at this, you're still going to have the characteristics of this whole price
+
+66
+00:04:59,760 --> 00:05:04,440
+run. For example, you're going to have price pauses inside. You're going to have shelves. You're
+
+67
+00:05:04,440 --> 00:05:07,740
+going to have the apex consolidation. We're going to have the shelf flip and you can have the
+
+68
+00:05:07,740 --> 00:05:13,160
+gap slips. You can have a core liquidity base there inside of the broader liquidity base.
+
+69
+00:05:13,940 --> 00:05:19,640
+So there's a benefit to us because if we can identify these individual components,
+
+70
+00:05:19,660 --> 00:05:49,920
+It tells us where prices in that price run, what is likely to happen, and really and truly so when you're exercising, you're not necessarily going to be exercising every component of the price room. You're going to pick one aspect, one feature, have some parameters around it, i.e. When are you going to take the trade? What needs to happen after the trade is taken? How should price extend into the level? Should it drift into the level? Should it absorb it, etc.? We're going to take one feature of the price run.
+
+71
+00:05:50,080 --> 00:05:55,200
+and build a model around that and build a sample set around that okay and that becomes your
+
+72
+00:05:55,200 --> 00:06:02,800
+trade you know in your arsenal of trades okay so this is the framework that we're applying okay
+
+73
+00:06:04,160 --> 00:06:09,520
+an example of a trade that i like for you know just for this for the purpose of recording
+
+74
+00:06:09,520 --> 00:06:16,000
+for exercising it could be when the price has extended okay has become inefficient it can
+
+75
+00:06:16,000 --> 00:06:23,360
+pause and then extend it efficiently into like a top side of a fractal so there's liquidity at the
+
+76
+00:06:23,360 --> 00:06:32,080
+bottom top and middle and top sorry and this last parabolic leg on the fractal my new scale can extend
+
+77
+00:06:32,080 --> 00:06:37,540
+to the top side of that fractal i'll go short there okay that puts me in a really manageable position
+
+78
+00:06:37,540 --> 00:06:45,460
+and then i'm expecting for this shelf that's holding the apex on that's holding price above the apex base
+
+79
+00:06:45,460 --> 00:06:54,760
+here for price to deal the remaining liquidity inside of the apex base, absorb it inside
+
+80
+00:06:54,760 --> 00:06:58,680
+where I just picked, where, you know, where I took an entry where I deemed it to be sell-side
+
+81
+00:06:58,680 --> 00:07:04,840
+and, you know, price then flip shelf and trends down. Okay. It ends up filling this leg into
+
+82
+00:07:04,840 --> 00:07:08,380
+a broader shelf and, you know, I'll probably look to take some equity down here and here.
+
+83
+00:07:08,740 --> 00:07:13,080
+But we'll cover taking equity and how we have to contend with price pauses when we're in the
+
+84
+00:07:13,080 --> 00:07:15,470
+short. What can happen? It can run.
+
+85
+00:07:15,490 --> 00:07:19,330
+pastels etc we'll cover that when we cover the price pores and the the the
+
+86
+00:07:19,330 --> 00:07:26,880
+mid flow part but point I'm making here is that is just one trade that I can
+
+87
+00:07:26,880 --> 00:07:32,420
+take and I like taking in the whole characteristic of a price run or price
+
+88
+00:07:32,420 --> 00:07:36,860
+swing or the anatomy of a price swing that's just one okay so when price is
+
+89
+00:07:36,860 --> 00:07:40,740
+putting in the high when I take that trade there's very very specific
+
+90
+00:07:40,740 --> 00:07:44,820
+you know parameters for what needs to happen prior to the entry taking the
+
+91
+00:07:44,820 --> 00:07:50,530
+entry it just becomes a unique set out to me and you're unique set up to my
+
+92
+00:07:50,530 --> 00:07:55,220
+understanding so this for example right you can have a shelf here pricing
+
+93
+00:07:55,220 --> 00:07:59,700
+validates the shelf and then it runs to new highs that'd be a perfect short from
+
+94
+00:07:59,700 --> 00:08:06,320
+okay we have had the see we have the inefficient extension okay even though
+
+95
+00:08:06,320 --> 00:08:11,240
+this is just a minute fractal extension in relation to this border price
+
+96
+00:08:11,240 --> 00:08:15,470
+wing okay and I like those really jumpy tops
+
+97
+00:08:15,490 --> 00:08:17,630
+especially after prices pause for a bit,
+
+98
+00:08:18,070 --> 00:08:21,030
+especially if it's dug really deep and invalidated to the shelf
+
+99
+00:08:21,030 --> 00:08:23,930
+and then it runs all the way higher again to fresh liquidity
+
+100
+00:08:23,930 --> 00:08:26,330
+and there's like a pool of liquidity here.
+
+101
+00:08:26,510 --> 00:08:28,690
+So the bottom side was picked and price runs the top.
+
+102
+00:08:29,670 --> 00:08:31,770
+You know, to me, they're just awesome trades.
+
+103
+00:08:33,390 --> 00:08:37,930
+But the point to note here is I still have all the individual components
+
+104
+00:08:37,930 --> 00:08:41,250
+that I like to take a trade on, i.e. the inefficient extension.
+
+105
+00:08:41,590 --> 00:08:42,410
+Shelf is weak.
+
+106
+00:08:43,010 --> 00:08:44,490
+The inventory of buyers is weakening.
+
+107
+00:08:44,490 --> 00:08:54,140
+prices at the high already anyway is already run so far okay um also like this shove the
+
+108
+00:08:54,140 --> 00:08:59,260
+broader shove the top side was picked there and the bottom and then it releases so this level is
+
+109
+00:08:59,260 --> 00:09:05,830
+you know very likely going to be washed up um once we picked up this short here or the south side
+
+110
+00:09:05,830 --> 00:09:12,330
+liquidity there really you know it it doesn't have to be a mass of sellers there it could be because
+
+111
+00:09:12,330 --> 00:09:17,950
+of how far prices run, buys are pushed and pushed and they pushed and they pushed, the weaker
+
+112
+00:09:17,950 --> 00:09:24,890
+they've got. The inventory of buy-side liquidity has now been weakened. We're now picking up. You
+
+113
+00:09:24,890 --> 00:09:29,590
+have to go really deep to find inventory. I have to go really deep to find inventory. When it was
+
+114
+00:09:29,590 --> 00:09:35,190
+here, inventory was very close, very close, very close, very close, very close, until it met some
+
+115
+00:09:35,190 --> 00:09:41,090
+sellers and then it formed a fractal head, picked up liquidity out of the broad shelf, and it went
+
+116
+00:09:41,090 --> 00:09:47,250
+another price run this is one price run inside of another price run okay so again it goes
+
+117
+00:09:47,250 --> 00:09:53,870
+back to my point saying you can have the the same features and the individual features and
+
+118
+00:09:53,870 --> 00:09:58,990
+characteristics of a price run inside the broader price run you can basically have smaller price
+
+119
+00:09:58,990 --> 00:10:08,500
+runs like that inside of a broader price run okay now that's just one example right so
+
+120
+00:10:08,500 --> 00:10:12,480
+ultimately during the series we're going to be covering shelf top
+
+121
+00:10:12,500 --> 00:10:19,350
+shelf bombs apex bases the gap slip so how price will accelerate once it breaks
+
+122
+00:10:19,350 --> 00:10:28,450
+beneath the shelf like this okay mid-flow so when prices just there's no bids
+
+123
+00:10:28,450 --> 00:10:31,930
+available there's no buyers there there's not enough buyers there they're just
+
+124
+00:10:31,930 --> 00:10:36,970
+not enough buyers there there's some buyers there but just not enough to
+
+125
+00:10:36,970 --> 00:10:42,070
+materially push price like this okay and ultimately you know what kind of
+
+126
+00:10:42,070 --> 00:10:46,570
+price behaviors and the characteristics we can expect during those times, okay, how they
+
+127
+00:10:46,570 --> 00:10:55,540
+relate to our trade management, okay, the apex, sorry, not the apex, the liquidity-based
+
+128
+00:10:55,540 --> 00:11:01,400
+retest, so the book is retest, how that would pick up its own liquidity, also the apex-based
+
+129
+00:11:01,400 --> 00:11:07,220
+retest, so price pumps, it comes back in towards the apex base, or the clean breaking
+
+130
+00:11:07,220 --> 00:11:12,400
+point where there's a pocket of liquidity there. Also it forms a shelf, you know, a bit of a
+
+131
+00:11:12,420 --> 00:11:20,600
+out there um why we will look to take those trades price doing it often real examples of
+
+132
+00:11:20,600 --> 00:11:26,790
+they're doing that um and then of course when price bleeds back into the core you know the
+
+133
+00:11:26,790 --> 00:11:30,950
+breakout accumulation there or the core liquidity base or the unfilled liquidity at the
+
+134
+00:11:30,950 --> 00:11:39,680
+bottom okay but yeah so during this kind of video during this series in a way i'll be
+
+135
+00:11:39,680 --> 00:11:44,860
+covering the individual components i'm explaining them showing real examples and really to
+
+136
+00:11:44,880 --> 00:11:48,960
+explain the individual components of the price room okay any questions that you know
+

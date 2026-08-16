@@ -1,0 +1,908 @@
+1
+00:00:02,960 --> 00:00:05,380
+Right, so this is it.
+
+2
+00:00:05,540 --> 00:00:10,120
+This is the pretty much a brief breakdown of the individual components of a price run.
+
+3
+00:00:10,860 --> 00:00:14,180
+Okay, so first of all, we're going to start with a core liquidity base.
+
+4
+00:00:14,480 --> 00:00:17,790
+Now, inside of here, you know, there's transactions going on.
+
+5
+00:00:18,450 --> 00:00:23,870
+Generally, you will have a very defined, sometimes won't be defined, sometimes it will.
+
+6
+00:00:24,330 --> 00:00:26,950
+Okay, the more you see them, the more you see how price responds to them,
+
+7
+00:00:27,150 --> 00:00:29,530
+the better you're going to get at picking them out, basically.
+
+8
+00:00:30,090 --> 00:00:33,230
+But generally, how they are is a, what they look.
+
+9
+00:00:33,250 --> 00:00:39,670
+like sorry they are points of volume okay so inside here there was transactions
+
+10
+00:00:39,670 --> 00:00:42,790
+going on people were buying they were selling there was liquidity inside here
+
+11
+00:00:42,790 --> 00:00:47,410
+this was a core base and then you can you'll have a reason to be defined top as
+
+12
+00:00:47,410 --> 00:00:52,870
+well and generally what happens so once we're in this once at the point in
+
+13
+00:00:52,870 --> 00:00:58,010
+time prices in this consolidation okay we don't know where it's gonna go
+
+14
+00:00:58,010 --> 00:01:00,970
+where it's gonna pop on the other side we're not trying to predict which side
+
+15
+00:01:00,970 --> 00:01:06,070
+gonna pop on okay unless we have some context in where this consolidation is
+
+16
+00:01:06,070 --> 00:01:09,550
+occurring but that's beside the point we'll come on to that right so that'll
+
+17
+00:01:09,550 --> 00:01:13,390
+be that the price pause part but ultimately these core liquidity bases they're
+
+18
+00:01:13,390 --> 00:01:20,770
+going to be tight contractions relatively stable price ranges okay and then
+
+19
+00:01:20,770 --> 00:01:25,750
+what happens is when you're approaching the release point there's offers on
+
+20
+00:01:25,750 --> 00:01:31,140
+top of the liquidity base and they're drying out okay so generally the
+
+21
+00:01:31,160 --> 00:01:37,160
+low will be holding the price would pick up the low and then go deeper and deeper and deeper
+
+22
+00:01:37,160 --> 00:01:44,360
+eating up okay the core base the top side of the core base the office at the top of the core base okay
+
+23
+00:01:44,360 --> 00:01:50,760
+sometimes it might spike down fail come into a fractal feeding it and then run off by the way this
+
+24
+00:01:50,760 --> 00:01:57,560
+will form the liquidity base when you have this tight contraction and then prior to extending out
+
+25
+00:01:57,560 --> 00:02:03,670
+you will generally see it becomes slightly quiet okay so that candle bodies will drop off
+
+26
+00:02:05,430 --> 00:02:09,830
+volume will drop off liquidity draws out at this point in time it could be around the data event
+
+27
+00:02:10,390 --> 00:02:15,670
+it could be just that normal trading market conditions where there's an injection of all is coming in
+
+28
+00:02:16,390 --> 00:02:22,150
+this is the point to release right so liquidity dries off volatility shrinks basically inside of the
+
+29
+00:02:22,150 --> 00:02:27,510
+candle bodies and then you clearly see it build up and build up is going deeper and deeper
+
+30
+00:02:27,510 --> 00:02:32,650
+and the releases okay once you get past these offers it generally you will have a skinny leg
+
+31
+00:02:32,650 --> 00:02:38,550
+if it's data driven yeah it will have a skinny leg you know it'll just pump out of the zone okay
+
+32
+00:02:38,550 --> 00:02:43,650
+sometimes you know it can come right back pick up the core base or pick up the point to release
+
+33
+00:02:43,650 --> 00:02:49,790
+pick up the top of the base and then continue trending okay that will be sometimes on the non event
+
+34
+00:02:49,790 --> 00:02:57,130
+driven non central bank shots non payroll shot um events so just normal trading conditions okay
+
+35
+00:02:57,130 --> 00:03:01,850
+generally price could sometimes bleed out but once you get past this core
+
+36
+00:03:01,850 --> 00:03:06,970
+liquidity base you should start to see price not maybe if it picks it up generally what
+
+37
+00:03:06,970 --> 00:03:12,010
+you'll see is price extend and not return back past the small accumulations
+
+38
+00:03:12,010 --> 00:03:16,810
+inside the neck that extended ultimately it's this core base that has the biggest
+
+39
+00:03:16,810 --> 00:03:24,010
+amount of volume that initiates these drives okay and once this shot of liquidity
+
+40
+00:03:24,010 --> 00:03:27,110
+that is pushing price up remember this the intraday model that we're looking
+
+41
+00:03:27,130 --> 00:03:33,730
+that once the shot of liquidity dries out prices extended further and far enough the
+
+42
+00:03:33,730 --> 00:03:38,890
+liquidity drives out this leg is that vulnerable buyers can't push past anymore and you
+
+43
+00:03:38,890 --> 00:03:43,490
+go on a different price run okay so the momentum shifts price gets beneath the local
+
+44
+00:03:43,490 --> 00:03:49,390
+inventory of buyers what we actually want and generally get and is very probable
+
+45
+00:03:49,390 --> 00:03:54,190
+of happening is when if and when price gets back to the core of liquidity base it
+
+46
+00:03:54,190 --> 00:03:57,110
+might be two days later it might be a day later it might be five years later
+
+47
+00:03:57,130 --> 00:04:00,530
+It doesn't matter. It all depends on the liquidity base.
+
+48
+00:04:02,630 --> 00:04:07,770
+You've got a high chance of a response at one of these points.
+
+49
+00:04:08,050 --> 00:04:10,470
+The liquidity base top, the liquidity base bottom,
+
+50
+00:04:11,310 --> 00:04:14,290
+and sorry, the liquidity base middle and the liquidity base bottom.
+
+51
+00:04:15,140 --> 00:04:18,440
+The general rule that we're applying is, you know, if the top is already picked,
+
+52
+00:04:19,450 --> 00:04:22,070
+okay, so let's just say in this instance the top was already picked
+
+53
+00:04:22,070 --> 00:04:23,810
+that has its own bit of liquidity,
+
+54
+00:04:24,470 --> 00:04:27,610
+then this response could easily respond,
+
+55
+00:04:27,710 --> 00:04:33,270
+the top side pick up and go right back down to the middle of the core liquidity base, the
+
+56
+00:04:33,270 --> 00:04:40,040
+feeding fractal, and then extend, okay, and then give a more of a profound response.
+
+57
+00:04:40,040 --> 00:04:45,620
+And what you're going to do is when you're engaging liquidity base retests, okay, or swing
+
+58
+00:04:45,620 --> 00:04:52,460
+retest of core bases, or when price comes back to the origin of a price run, you want
+
+59
+00:04:52,460 --> 00:04:57,060
+to be knowing, so identifying how you want price to extend into the level.
+
+60
+00:04:57,060 --> 00:05:00,420
+whether you like it if the top is picked
+
+61
+00:05:00,420 --> 00:05:03,060
+if the top is already picked are you going to use the top again
+
+62
+00:05:03,060 --> 00:05:06,200
+if the middle is already picked are you going to use the middle again
+
+63
+00:05:06,200 --> 00:05:09,260
+are you going to use a clean breaking point if it's untested
+
+64
+00:05:09,260 --> 00:05:11,440
+so price did not return in this instance
+
+65
+00:05:11,440 --> 00:05:13,940
+they actually just pumped straight out of it
+
+66
+00:05:13,940 --> 00:05:16,560
+and there's a small breakout accumulation right there
+
+67
+00:05:16,560 --> 00:05:17,600
+are you going to use that
+
+68
+00:05:17,600 --> 00:05:20,220
+are you going to wait for it to always come to the point of release
+
+69
+00:05:20,220 --> 00:05:23,220
+or are you always going to wait for it if the top is picked
+
+70
+00:05:23,220 --> 00:05:24,660
+just for it to come to the bottom
+
+71
+00:05:24,660 --> 00:05:27,200
+and these are going to be the parameters around
+
+72
+00:05:27,220 --> 00:05:31,600
+it also you'll start to find and have to find parameters for what time frame
+
+73
+00:05:31,600 --> 00:05:35,840
+this call equity base needs to be on what I like generally is if I have a 60
+
+74
+00:05:35,840 --> 00:05:41,140
+minute base okay let's just say it's a one-hour base when you go down to the
+
+75
+00:05:41,140 --> 00:05:45,980
+five of 50 minute you it's gonna be generally generally speaking you're gonna
+
+76
+00:05:45,980 --> 00:05:49,120
+be able to identify the point of release where the liquidity dried off and
+
+77
+00:05:49,120 --> 00:05:53,920
+it released out of it okay and what I'll do is I mark that level out in that
+
+78
+00:05:53,920 --> 00:05:57,740
+60 minute base and mark the bottom of the 60 minute
+
+79
+00:05:57,760 --> 00:06:02,200
+base out that that's not only yet I look for how price is coming into it if I'm
+
+80
+00:06:02,200 --> 00:06:10,310
+getting a 515 even a hot 60 minute price run into that level okay with the
+
+81
+00:06:10,310 --> 00:06:15,110
+60 minutes I'm a bit more careful about which refined level I'm going to use
+
+82
+00:06:15,110 --> 00:06:22,190
+I might just use the whole 60 minute base which could be 10 pips wide okay or yeah
+
+83
+00:06:22,190 --> 00:06:28,160
+so rather than make let's not put a numerical term on how wide the base
+
+84
+00:06:28,180 --> 00:06:33,400
+should be but I would use either the bottom side of it or the point of release and
+
+85
+00:06:33,400 --> 00:06:39,450
+depending on how big the base is it will depend on how on what time frame I
+
+86
+00:06:39,450 --> 00:06:42,750
+look for my entry on but generally speaking let's just say this is a 60 minute
+
+87
+00:06:42,750 --> 00:06:46,950
+base with a 10-pip range from high to low I've got two points in there and
+
+88
+00:06:46,950 --> 00:06:51,630
+then I'll take like a five minute run inefficient run into that level and I'll
+
+89
+00:06:51,630 --> 00:06:58,510
+get a look for a response there okay also if like this area
+
+90
+00:06:58,530 --> 00:07:28,800
+where the sellers injective equity to push price down if that's further away from this core base that I'm looking to go long on and price has it gap slipped and extended inefficiently through the skinny point of release that further we what do you call it it substantiates my idea to go long because there's a thin weak leg that's getting weaker and weaker as it's traveling to my core base is picking up core liquidity that puts me in a more of a manageable you know position I'm going to
+
+91
+00:07:28,820 --> 00:07:34,530
+yield it's going to yield a bigger response. So yeah, when you're looking at
+
+92
+00:07:34,530 --> 00:07:38,530
+call liquidity bases, you know, we'll have a look at some examples now anyway,
+
+93
+00:07:38,530 --> 00:07:45,330
+but let's go up a look. So this is pound USD, right? This is earlier this or
+
+94
+00:07:45,330 --> 00:07:57,750
+2019 during March, April. Let's go on now. Actually it doesn't matter what
+
+95
+00:07:57,750 --> 00:08:02,680
+time frame you look at it on, okay? It could be seven-minute chart, five-minute chart,
+
+96
+00:08:02,680 --> 00:08:05,560
+10-minute chart, three-tick chart, it just doesn't matter. The same
+
+97
+00:08:05,560 --> 00:08:08,020
+price behaviors will be present. The only reason we look at it. The only reason we
+
+98
+00:08:08,040 --> 00:08:12,400
+look at the higher time frame levels is because these are going to pull more liquidity okay so
+
+99
+00:08:12,400 --> 00:08:18,780
+your 60 minute levels h1 levels they're going to be pulling more liquidity now on a relative basis
+
+100
+00:08:18,780 --> 00:08:27,090
+okay this whole area is the accumulation okay is in this whole area where price was in a stable
+
+101
+00:08:27,090 --> 00:08:33,270
+range okay it's just not the greedy motherfucker as we are we like to look for refined points
+
+102
+00:08:33,270 --> 00:08:38,110
+inside this liquidity base because you know there's three fractals to a base we like to
+
+103
+00:08:38,130 --> 00:08:43,570
+look for a refined point where we're likely to get the best responses okay now
+
+104
+00:08:43,570 --> 00:08:49,250
+sometimes you get the cleanest of responses it comes smack bang to the point
+
+105
+00:08:49,250 --> 00:08:54,130
+of release there and you know you can catch a jet to Africa you sing kumbaya sometimes
+
+106
+00:08:54,130 --> 00:08:57,250
+it's just going to come to the clean breaking point and this is like it did in this
+
+107
+00:08:57,250 --> 00:09:00,930
+instance and there's no trade there's not much it can be about to accept
+
+108
+00:09:02,040 --> 00:09:08,630
+engage engage engage in very structured experiences and then you will know the
+
+109
+00:09:08,710 --> 00:09:16,730
+best, most probable scenarios for you to take a trade and if price isn't fitting that highly
+
+110
+00:09:16,730 --> 00:09:22,830
+probable, most preferable scenario is not good enough for you. So even if it doesn't come to
+
+111
+00:09:22,830 --> 00:09:27,390
+your point of release and it ends up rallying, you know that's not good enough for you because
+
+112
+00:09:27,390 --> 00:09:32,530
+the amount of samples and examples that you've seen, the best trades came from, it coming to the
+
+113
+00:09:32,530 --> 00:09:38,300
+point of release, for example. You know, if it doesn't get there, it's just part of the game. You
+
+114
+00:09:38,300 --> 00:09:42,740
+will just accept it because you know you have the best parameters relative to your
+
+115
+00:09:42,740 --> 00:09:46,520
+understanding and relative to your own personality relative to your own
+
+116
+00:09:46,520 --> 00:09:52,050
+internalization of how price response the core liquidity bases you know you will
+
+117
+00:09:52,050 --> 00:09:57,530
+know what is the best kind of response and best kind of pick-up in this instance
+
+118
+00:09:57,530 --> 00:10:07,560
+that you can get okay there's a core base if I was to zoom in there's
+
+119
+00:10:07,560 --> 00:10:12,030
+basically likely to be liquidity there and of
+
+120
+00:10:12,050 --> 00:10:16,370
+course at the bottom as well and then there's a few actually let's draw this a bit
+
+121
+00:10:16,370 --> 00:10:24,540
+different normally I'd be going down the low time frame but it can't be
+
+122
+00:10:24,540 --> 00:10:31,930
+asked fucking scrolling so far back okay price returns at a later date what
+
+123
+00:10:31,930 --> 00:10:39,920
+wait is that 63 73 yeah you would have had a shitty little response missing the
+
+124
+00:10:39,920 --> 00:10:44,300
+level there and then you know just slitters past the low one but it's not
+
+125
+00:10:44,300 --> 00:10:47,880
+that relevant so point I'm making here is price comes
+
+126
+00:10:47,900 --> 00:10:51,160
+back into the core base and in response,
+
+127
+00:10:51,160 --> 00:10:53,580
+the top was already picked,
+
+128
+00:10:53,580 --> 00:10:56,700
+this retest the top side pickup,
+
+129
+00:10:56,700 --> 00:10:58,770
+and then this ends up going,
+
+130
+00:10:58,770 --> 00:11:01,770
+I'd have to zoom into this to actually see,
+
+131
+00:11:01,770 --> 00:11:04,770
+to refine it, but again, this goes deeper into the base
+
+132
+00:11:04,770 --> 00:11:06,770
+and you get a big response.
+
+133
+00:11:06,770 --> 00:11:09,770
+These all then form their own liquidity bases,
+
+134
+00:11:09,770 --> 00:11:16,070
+so like this is forming its own liquidity base.
+
+135
+00:11:16,070 --> 00:11:18,070
+The way I would draw it is the bottom there,
+
+136
+00:11:18,070 --> 00:11:20,070
+and then if there's an accumulation which pushed it,
+
+137
+00:11:20,070 --> 00:11:22,960
+pushed it there, that's the point of release.
+
+138
+00:11:22,960 --> 00:11:24,340
+Then this becomes an accumulation
+
+139
+00:11:24,340 --> 00:11:25,940
+because of half our price pushed,
+
+140
+00:11:25,940 --> 00:11:27,820
+price picks that up,
+
+141
+00:11:27,820 --> 00:11:29,420
+comes deeper into this fractal,
+
+142
+00:11:29,420 --> 00:11:32,060
+the bottom side was picked, now the top.
+
+143
+00:11:32,060 --> 00:11:33,060
+And then of course, you know,
+
+144
+00:11:33,060 --> 00:11:35,740
+here it comes to the bottom side,
+
+145
+00:11:35,740 --> 00:11:37,580
+washing this fractal away.
+
+146
+00:11:37,580 --> 00:11:38,780
+And the more you exercise,
+
+147
+00:11:38,780 --> 00:11:41,680
+the more you engage with the anatomy of a price run,
+
+148
+00:11:41,680 --> 00:11:43,560
+the more you first of all gonna see definition
+
+149
+00:11:43,560 --> 00:11:45,360
+and how these price runs are recurring.
+
+150
+00:11:45,360 --> 00:11:48,700
+So if you've done it for three, four months,
+
+151
+00:11:48,700 --> 00:11:49,760
+you'll look back at this chart
+
+152
+00:11:49,760 --> 00:11:54,960
+you just see countless price run there's a base high base retest there's a base
+
+153
+00:11:54,960 --> 00:11:59,520
+invalidates the base there but then that forms a broader shell so this is just
+
+154
+00:11:59,520 --> 00:12:03,520
+now the apex base all of it apex consolidation and it runs back down to the
+
+155
+00:12:03,520 --> 00:12:08,640
+core base this whole price run is happening inside of this whole price room okay
+
+156
+00:12:08,640 --> 00:12:14,190
+and then again there's another fractal price run there and that is happening
+
+157
+00:12:14,190 --> 00:12:19,470
+inside of this fractal price run here okay you're gonna see more definition in how these
+
+158
+00:12:19,790 --> 00:12:22,910
+how they're present in the market and the more you see them you know the more
+
+159
+00:12:22,910 --> 00:12:27,710
+you're gonna basically see trades then okay because ultimately the individual
+
+160
+00:12:27,710 --> 00:12:30,350
+components and features of a price from the only reason we're
+
+161
+00:12:30,350 --> 00:12:33,630
+identifying them is because the trade opportunities for example a shelf
+
+162
+00:12:33,630 --> 00:12:37,550
+here price extends into it we know this core liquidity left in the shelf
+
+163
+00:12:37,550 --> 00:12:41,870
+provide this high end of time frame it gives you a trade rule response okay
+
+164
+00:12:41,870 --> 00:12:45,790
+and here it validates the shelf which ultimately says to you that
+
+165
+00:12:45,790 --> 00:12:49,710
+buy inventory is weak already the shelf because I couldn't push past high
+
+166
+00:12:49,790 --> 00:12:53,630
+and then you know it extends down but that's not the topic of this particular video so
+
+167
+00:12:53,630 --> 00:13:01,140
+on those of example of a core base here price released came back up picked it up okay
+
+168
+00:13:01,140 --> 00:13:08,050
+again here there's a shelf is a core base in that instance because of how far price
+
+169
+00:13:08,050 --> 00:13:15,060
+has it run what i mean is as price traveled this was the closest core base present in
+
+170
+00:13:15,060 --> 00:13:20,760
+price price camera picked it up response okay even this price run here it could
+
+171
+00:13:20,780 --> 00:13:26,540
+base comes in weak response weaker response comes in the middle comes back in
+
+172
+00:13:26,540 --> 00:13:30,380
+comes back above where the entry point would have been so invalidates
+
+173
+00:13:30,380 --> 00:13:32,960
+come backs comes back above which is already telling you there's not enough
+
+174
+00:13:32,960 --> 00:13:37,880
+bideside liquidity here okay is the anatomy inside there that we'd be looking
+
+175
+00:13:37,880 --> 00:13:41,900
+at to differentiate between whether this is a strong base or a weak base
+
+176
+00:13:41,900 --> 00:13:46,820
+okay also where it's present on the price run core base here price pumped
+
+177
+00:13:46,820 --> 00:13:50,760
+came and gave a response out of there I
+
+178
+00:13:50,780 --> 00:13:58,500
+later date you have a I guess a cool base just misses it I think we respond
+
+179
+00:13:58,500 --> 00:14:10,680
+yeah so same with this really you have a core base price response there you
+
+180
+00:14:10,680 --> 00:14:15,690
+have like a feeding fractal price responds on the bottom side okay now this is
+
+181
+00:14:15,690 --> 00:14:22,650
+more of a dirtier and less defined liquidity base but at the end of the day you
+
+182
+00:14:22,650 --> 00:14:24,730
+know as soon as like this are picking up liquidity is just
+
+183
+00:14:24,750 --> 00:14:30,210
+we won't I don't like to use them because it you know it's not really that clean but
+
+184
+00:14:30,210 --> 00:14:35,650
+the same applies on the way down as well so here's a core base press comes response
+
+185
+00:14:35,650 --> 00:14:44,980
+goes to the feeder response okay generally as well these kind of gap slips many many many
+
+186
+00:14:44,980 --> 00:14:50,100
+many times come back into the core base this is the next day and there will be a great
+
+187
+00:14:50,100 --> 00:14:55,470
+trade there for continuation okay because at that point in time fresh low flip
+
+188
+00:14:55,490 --> 00:15:00,450
+above the big shelf anyway and this the accumulation which pushed it you know we'd want it to
+
+189
+00:15:00,450 --> 00:15:09,120
+come back this far and then you can get training again um core base where this the release
+
+190
+00:15:09,120 --> 00:15:14,560
+point right comes towards a release point and again in this instance it could have come
+
+191
+00:15:14,560 --> 00:15:18,560
+and we would have liked to have come to this point and release the the base button
+
+192
+00:15:19,950 --> 00:15:26,830
+okay same replies with this is to form the core base here it's the point to release
+
+193
+00:15:27,310 --> 00:15:32,270
+price comes and picks up the point of release goes on a trend okay and even inside all of these
+
+194
+00:15:32,270 --> 00:15:36,750
+mini price run there's a core base top side is picked as subsequently comes to the bottom
+
+195
+00:15:38,020 --> 00:15:42,100
+there's liquidity on the top side the bomb was picked price responds off the top side
+
+196
+00:15:42,500 --> 00:15:47,970
+the liquidity inside this fractal price response the liquidity inside there
+
+197
+00:15:48,770 --> 00:15:53,380
+price response and just keeps doing the same thing over and over there's liquidity
+
+198
+00:15:53,380 --> 00:15:58,050
+inside the top side there bombs picked top side big response
+
+199
+00:15:58,210 --> 00:16:04,930
+same prize in the weekly and the daily okay just going to get more profound responses in
+
+200
+00:16:04,930 --> 00:16:11,730
+this instance okay there was liquidity here response see the bond was picked because
+
+201
+00:16:11,730 --> 00:16:16,130
+it was a high time frame pickup of a big base the bottom side pickup had this own
+
+202
+00:16:16,130 --> 00:16:21,670
+liquidity as well and subsequently bottom was picked there bottom was picked there
+
+203
+00:16:21,670 --> 00:16:25,730
+top was picked there price subsequently went to new liquidity this is just two
+
+204
+00:16:25,730 --> 00:16:30,170
+bases okay but inside there we'd look to start to refine we'd look
+
+205
+00:16:30,190 --> 00:16:39,340
+to starting to refining these levels if that makes sense here's a feeder okay price picks it up
+
+206
+00:16:39,340 --> 00:16:44,620
+response then invalidates it and then pushes to new highs that is already telling us this core
+
+207
+00:16:44,620 --> 00:16:53,380
+base is invalidated price comes into this level great response inefficient extension a few
+
+208
+00:16:53,380 --> 00:16:58,500
+principles that we'd apply you know they don't really have to carry on but what i'm showing you
+
+209
+00:16:58,500 --> 00:17:04,100
+you hear is price response of core bases. Now we want to identify how we want price to extend
+
+210
+00:17:04,100 --> 00:17:08,260
+them into those bases, what time frame those bases that should be present on, whether the base
+
+211
+00:17:08,260 --> 00:17:11,540
+top has been picked, whether the point of release it at the bottom side we're going to use.
+
+212
+00:17:12,430 --> 00:17:15,950
+If there's a cluster bait, if there's clusters of bases like this, which one do we use?
+
+213
+00:17:16,750 --> 00:17:23,310
+Okay, well, if that was picked, or do we just use, like, you know, the bottom of that cluster
+
+214
+00:17:24,430 --> 00:17:28,830
+or do we use? You know, you want to identify the parameters for how you're going to be
+
+215
+00:17:28,910 --> 00:17:33,350
+trading because at the end of the day I'll give you the parameters but until you
+
+216
+00:17:33,350 --> 00:17:37,970
+actually have tested them to see if they work they just do some random rules
+
+217
+00:17:37,970 --> 00:17:41,210
+you want to connect to the price right and this is the process that you're
+
+218
+00:17:41,210 --> 00:17:45,230
+going to do but first of all identifying these particular features in price
+
+219
+00:17:45,230 --> 00:17:51,740
+and then engaging them again base base now at this point we didn't get
+
+220
+00:17:51,740 --> 00:18:01,000
+responses okay core base price misses it core base
+
+221
+00:18:01,020 --> 00:18:06,900
+comes to the point and release core base responds at a later day I'm sure right
+
+222
+00:18:06,900 --> 00:18:12,320
+response okay yeah that's right so when we're identifying core liquidity
+
+223
+00:18:12,320 --> 00:18:18,480
+bases okay there's generally gonna be the bottom of price run it's gonna release out
+
+224
+00:18:18,480 --> 00:18:23,120
+there leaving liquidity behind leaving a psychological attachment to this level
+
+225
+00:18:23,120 --> 00:18:27,360
+and there's three parts to a equity base we look to trade the on through
+
+226
+00:18:27,360 --> 00:18:32,510
+part okay that's about it yeah so on the next video you know
+
+227
+00:18:32,530 --> 00:18:34,850
+we'll cover the next relevant features.
+

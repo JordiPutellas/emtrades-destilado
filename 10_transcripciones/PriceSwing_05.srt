@@ -1,0 +1,868 @@
+1
+00:00:00,880 --> 00:00:04,800
+All right, so now we're going to discuss the consolidation Apex.
+
+2
+00:00:05,760 --> 00:00:11,300
+So, generally, you know, as the run, it runs and it runs and it runs,
+
+3
+00:00:12,160 --> 00:00:15,320
+after you've had these pauses, after you've had the continuation,
+
+4
+00:00:16,400 --> 00:00:22,320
+and generally as well, prices extended past some level into a higher time frame feeding fractal.
+
+5
+00:00:22,620 --> 00:00:26,200
+So let's just say down here, this was a daily pickup, prices run,
+
+6
+00:00:26,980 --> 00:00:30,920
+there's a core daily base here, is very, very likely.
+
+7
+00:00:30,940 --> 00:00:34,540
+we're going to get responses out of these daily levels right because they're pulling thick levels of liquidity
+
+8
+00:00:34,540 --> 00:00:41,740
+okay provided the you know the core base on the cell side here um has some form of unflow liquidity
+
+9
+00:00:41,740 --> 00:00:48,100
+left at the top the middle or the bottom etc now generally what happens is you know price can
+
+10
+00:00:48,100 --> 00:00:54,260
+extend extremely inefficiently okay so we want that into the level that already peaks our interest
+
+11
+00:00:54,260 --> 00:01:01,280
+already and if we can go into a small pause price clusters and then it has a mini release again
+
+12
+00:01:01,360 --> 00:01:07,760
+okay now it's those last second last releases that we're looking at to get the entry okay
+
+13
+00:01:07,760 --> 00:01:13,040
+it is required a lot of engagement okay but generally speaking what will be happening here is
+
+14
+00:01:13,680 --> 00:01:18,560
+price will slow down it would show signs of faltering sometimes around this area
+
+15
+00:01:19,360 --> 00:01:24,800
+it might feed back in okay into the shell on the way the top of the shelf was picked
+
+16
+00:01:24,800 --> 00:01:31,040
+it might feed back in picking up whatever liquidity is in the shell and then running and that to us is a
+
+17
+00:01:31,040 --> 00:01:35,720
+shelf wash extension okay we always want my inefficient extension if price
+
+18
+00:01:35,720 --> 00:01:40,550
+clusters in towards the level we're not gonna try and catch the high that
+
+19
+00:01:40,550 --> 00:01:43,790
+doesn't mean we can't catch these retests okay that doesn't mean we can't
+
+20
+00:01:43,790 --> 00:01:48,640
+cast these retests ultimately we're not gonna try to catch the high if price
+
+21
+00:01:48,640 --> 00:01:52,720
+drifts into the level we want that inefficient leg we want that release we want
+
+22
+00:01:52,720 --> 00:01:57,160
+that parabolic phase which we're gonna look at the minute as a constituent
+
+23
+00:01:57,160 --> 00:02:00,480
+feature of a high that to increase the probabilities but generally what can
+
+24
+00:02:00,480 --> 00:02:06,120
+happen is price can go into a drift mode like this, okay, especially on the higher time frame
+
+25
+00:02:06,120 --> 00:02:14,030
+runs. And inside this drift mode, this consolidation, you're going to see individual price
+
+26
+00:02:14,030 --> 00:02:21,110
+runs. So from the base, it can run, dry out, come pick up liquidity and enter a bit of a, you
+
+27
+00:02:21,110 --> 00:02:27,790
+know, consolidation which can have all the constituent features of a price run, okay, inside of
+
+28
+00:02:27,790 --> 00:02:30,590
+that consolidation. It would just be wide arranging. You'd have to
+
+29
+00:02:30,610 --> 00:02:35,890
+zoom in to see those constituent features but price can pause okay and then you want that
+
+30
+00:02:35,890 --> 00:02:41,980
+release to look for that unfilled liquidity once we get it bump there's a short there and always
+
+31
+00:02:41,980 --> 00:02:47,880
+sometimes price won't consolidate okay sometimes price will just go straight to the level and draw
+
+32
+00:02:47,880 --> 00:02:54,200
+right back down okay how do we differentiate is just as you know you're going to have to make the
+
+33
+00:02:54,200 --> 00:02:59,980
+decision which type of setup is your favorite okay you engage you engage and you engage
+
+34
+00:02:59,980 --> 00:03:03,160
+you find the probable, the preferable kind of anatomy into the level.
+
+35
+00:03:04,020 --> 00:03:09,740
+You might find you can take both, you're confident and taking both the straight release into the unfiled level,
+
+36
+00:03:09,920 --> 00:03:15,600
+and also they pause and release, also the shelf wash extension.
+
+37
+00:03:15,760 --> 00:03:19,440
+Where the top was picked, price bleeds into the bottom, and then it extends,
+
+38
+00:03:20,040 --> 00:03:23,540
+picking up all the inventory of buyers, releasing it, leaving it vulnerable.
+
+39
+00:03:24,500 --> 00:03:27,280
+They're generally quicker breaking down trades.
+
+40
+00:03:28,350 --> 00:03:29,890
+Those kind of trades would break down quicker.
+
+41
+00:03:30,210 --> 00:03:34,010
+But ultimately, what happens here is you're going to have a base, okay?
+
+42
+00:03:34,130 --> 00:03:37,370
+There's going to be a base, apex base.
+
+43
+00:03:38,390 --> 00:03:40,970
+That price is staying on top.
+
+44
+00:03:41,590 --> 00:03:45,470
+And once you put in the high, once price has picked up the liquidity from the level,
+
+45
+00:03:45,610 --> 00:03:48,570
+once it's coming to that unfiled level, this high needs to help.
+
+46
+00:03:49,400 --> 00:03:50,520
+Okay, it just needs to help.
+
+47
+00:03:51,420 --> 00:03:56,540
+Now, what you're on the preferable ones, the preferable highs,
+
+48
+00:03:56,720 --> 00:04:00,240
+what you see is price comes and you get weaker and weaker.
+
+49
+00:04:00,620 --> 00:04:02,620
+and weaker rallies until it breaks down.
+
+50
+00:04:02,620 --> 00:04:05,620
+Okay, and then this break can be quite fast and profound
+
+51
+00:04:05,620 --> 00:04:08,620
+into someone field level of liquidity below.
+
+52
+00:04:08,620 --> 00:04:13,850
+Sometimes, if price has some liquidity left over here,
+
+53
+00:04:13,850 --> 00:04:17,200
+okay, like the top was picked there.
+
+54
+00:04:17,200 --> 00:04:20,200
+It can come to the bottom and go all the way back higher
+
+55
+00:04:20,200 --> 00:04:23,390
+to the high for a swing retest.
+
+56
+00:04:23,390 --> 00:04:26,390
+Okay, and that's the most worrisome because these moves will be quite fast.
+
+57
+00:04:26,390 --> 00:04:30,390
+That is more likely to happen if two variables are present.
+
+58
+00:04:30,390 --> 00:04:31,850
+variables are present in price.
+
+59
+00:04:32,050 --> 00:04:36,150
+There's unfilled liquidity inside the apex and the way price extended into the
+
+60
+00:04:36,150 --> 00:04:37,630
+unfilled liquidity was quite fast.
+
+61
+00:04:38,570 --> 00:04:42,290
+Okay, so what generally happened is volatility would increase price would pump
+
+62
+00:04:42,290 --> 00:04:49,870
+after this consolidation come right back down into the unfilled area and pump right back
+
+63
+00:04:49,870 --> 00:04:52,850
+up and generally, you know, that can, sorry about that.
+
+64
+00:04:52,850 --> 00:04:57,570
+So yeah, generally price can shit, shit itself right back down to the infield liquidity
+
+65
+00:04:57,570 --> 00:05:00,690
+and then shoot right back up, this exposed open.
+
+66
+00:05:00,710 --> 00:05:09,270
+leg into the core base okay and that will be a fractal apex base retest okay just in the lower time frame
+
+67
+00:05:09,270 --> 00:05:17,350
+and then you know by this point in looking for breakdowns again this could be the higher time frame
+
+68
+00:05:17,350 --> 00:05:24,230
+broader apex base which is going to be sitting on a shell um and this here would be the breakout accumulation
+
+69
+00:05:24,230 --> 00:05:30,070
+which push price back down and very often you know price can come and then depending on what liquidity
+
+70
+00:05:30,070 --> 00:05:38,600
+is left over here, price can draw back up this extension again, pick up liquidity from the
+
+71
+00:05:38,600 --> 00:05:44,620
+breakout accumulation, and continue on its merry way. So it doesn't matter what kind of liquidity
+
+72
+00:05:44,620 --> 00:05:51,150
+is left down in the middle as well. Yes, we're expecting price to ultimately trade through
+
+73
+00:05:51,150 --> 00:05:56,770
+the mid-price run levels, but who says it can't come to the mid-price run level, respond,
+
+74
+00:05:56,770 --> 00:06:01,440
+and then continue. Okay? So it's all about the nature of how price extends.
+
+75
+00:06:01,580 --> 00:06:03,780
+But right now we're focusing on the consolidation apex.
+
+76
+00:06:03,780 --> 00:06:07,700
+So let's look at an example, right?
+
+77
+00:06:07,700 --> 00:06:09,340
+There's two different examples here.
+
+78
+00:06:09,340 --> 00:06:12,420
+So there's one, this is a really, really, really good one.
+
+79
+00:06:12,420 --> 00:06:14,540
+So these are the ones I like.
+
+80
+00:06:14,540 --> 00:06:18,140
+Price comes, okay, picks up some side
+
+81
+00:06:18,140 --> 00:06:19,720
+and clearly what you see is,
+
+82
+00:06:19,720 --> 00:06:22,840
+comes into liquidity here, absorb inside the hat.
+
+83
+00:06:22,840 --> 00:06:24,620
+Comes into the next bit of liquidity,
+
+84
+00:06:24,620 --> 00:06:28,300
+absorb inside the next, the most local inventory.
+
+85
+00:06:28,300 --> 00:06:29,760
+And then past that point,
+
+86
+00:06:29,760 --> 00:06:32,560
+there's a breakdown, a shift in the state,
+
+87
+00:06:32,560 --> 00:06:34,640
+and price goes in the price room, okay,
+
+88
+00:06:34,640 --> 00:06:36,320
+to some unfilled liquidity.
+
+89
+00:06:36,320 --> 00:06:38,400
+Now in this case, okay,
+
+90
+00:06:38,400 --> 00:06:40,000
+this is actually a H4 level.
+
+91
+00:06:40,000 --> 00:06:42,120
+The top side was picked, it comes to the bottom,
+
+92
+00:06:42,120 --> 00:06:44,080
+because of the nature of the extension,
+
+93
+00:06:44,080 --> 00:06:46,240
+it gets past its inventory of the move down,
+
+94
+00:06:46,240 --> 00:06:47,520
+and it goes in a run,
+
+95
+00:06:47,520 --> 00:06:48,960
+responding off some residual levels,
+
+96
+00:06:48,960 --> 00:06:51,640
+but ultimately it goes to the right,
+
+97
+00:06:51,640 --> 00:06:54,240
+to the unfilled part at the high,
+
+98
+00:06:54,240 --> 00:06:59,040
+okay, because of the nature of the leftover liquidity here.
+
+99
+00:07:00,610 --> 00:07:02,250
+Okay, very, very often,
+
+100
+00:07:02,250 --> 00:07:03,430
+there won't be any liquidity here.
+
+101
+00:07:03,450 --> 00:07:07,800
+and price will find no problem after it flips beneath a shelf like that
+
+102
+00:07:07,800 --> 00:07:09,720
+it will find no problem in
+
+103
+00:07:09,720 --> 00:07:15,780
+you know get an absorb inside here and then continue it down very very often
+
+104
+00:07:15,780 --> 00:07:21,580
+but in this case it wasn't the case okay there was a very big area of unfil liquidity here
+
+105
+00:07:21,580 --> 00:07:26,020
+and price goes for a swing re-test at the high how do you differentiate between that
+
+106
+00:07:26,020 --> 00:07:30,060
+you can track the runs very closely when you look at the fractal nature of price
+
+107
+00:07:30,060 --> 00:07:34,520
+but you the more you exercise the more you engage okay you
+
+108
+00:07:34,540 --> 00:07:37,080
+you're gonna find these variations,
+
+109
+00:07:37,080 --> 00:07:39,540
+gonna be able to spot these variations to a better,
+
+110
+00:07:39,540 --> 00:07:43,580
+you know, a more proficient degree, okay?
+
+111
+00:07:43,580 --> 00:07:44,760
+So that's one variation.
+
+112
+00:07:44,760 --> 00:07:48,290
+Then you have, sometimes, let's look at this one,
+
+113
+00:07:48,290 --> 00:07:50,380
+and you have something like this,
+
+114
+00:07:50,380 --> 00:07:51,840
+price comes into a level,
+
+115
+00:07:51,840 --> 00:07:53,640
+on the way the fuckback came into,
+
+116
+00:07:53,640 --> 00:07:54,880
+definitely comes into a level,
+
+117
+00:07:54,880 --> 00:07:58,600
+ah, yeah, they do come into a level.
+
+118
+00:07:58,600 --> 00:08:01,500
+There's so many levels inside that week is ridiculous,
+
+119
+00:08:01,500 --> 00:08:03,540
+but it does come into a level,
+
+120
+00:08:03,540 --> 00:08:06,220
+it draws right back,
+
+121
+00:08:06,240 --> 00:08:13,980
+back down okay there is a bit of a shelf here okay picks the shelf up and it runs it
+
+122
+00:08:13,980 --> 00:08:19,800
+out to new highs extending so first of all we're just picking up the inventory of
+
+123
+00:08:19,800 --> 00:08:24,420
+liquidity picking up running it out and then we had that inefficient extension
+
+124
+00:08:24,420 --> 00:08:30,460
+into a residual level then this is the inventory see price comes failing to push
+
+125
+00:08:30,460 --> 00:08:36,220
+failing to push and then you have your shift we know this level is most likely
+
+126
+00:08:36,240 --> 00:08:42,160
+deltoff because it was run higher was picked up and run higher deltoth washed picked up some
+
+127
+00:08:42,160 --> 00:08:48,460
+sellers and the nature of how far prices extended from here to here you know it left it quite
+
+128
+00:08:48,460 --> 00:08:54,760
+wonderful in this case there's probably a pocket rocket here and it pocket rocket there
+
+129
+00:08:54,760 --> 00:09:13,420
+um so look yeah fuck yeah it's responded there this is your shelf this effectively came
+
+130
+00:09:13,440 --> 00:09:20,160
+very often what you might see is a deeper pick-up down to here but it doesn't it comes
+
+131
+00:09:20,160 --> 00:09:25,360
+near enough to a clean breaking point forms a base and then this high is contained inside here
+
+132
+00:09:25,360 --> 00:09:30,400
+by that point the shift this shifting liquidity has already occurred i.e. put in the high picked
+
+133
+00:09:30,400 --> 00:09:37,440
+up sellers we shifted the shell we're expecting this to be residual okay also the time of day
+
+134
+00:09:37,440 --> 00:09:42,880
+can influence what kind of response you're going to get at this level so here this is 7 p.m.
+
+135
+00:09:44,080 --> 00:09:48,400
+at 5 p.m. Sorry, 6 p.m. And by that point, liquidity is trying out the market.
+
+136
+00:09:48,760 --> 00:09:53,960
+Okay, we're not expecting to fire price to keep pushing. And it basically perpetuates price
+
+137
+00:09:53,960 --> 00:09:58,540
+into a bit of a range. And then you open up the next day, some accumulation here.
+
+138
+00:09:58,980 --> 00:10:03,160
+You have to get out of the way. It's absorbed. Comes picks up the last bit of liquidity.
+
+139
+00:10:03,880 --> 00:10:08,240
+And then by that point, you know, made this merry way. Again, there's a price pause.
+
+140
+00:10:09,390 --> 00:10:14,920
+And this whole area really on a broader time frame is a price pause. Okay. Now,
+
+141
+00:10:15,200 --> 00:10:24,830
+shit now that's just one or two examples of highs let's have a look at gold okay
+
+142
+00:10:24,830 --> 00:10:36,120
+because these are some pretty good examples all right it's going to daily
+
+143
+00:10:36,120 --> 00:10:43,440
+week off now we're looking at daily examples there right just to show you how
+
+144
+00:10:43,440 --> 00:10:48,640
+consistent these apex bases are but as puts in the high comes to the shelf we can't
+
+145
+00:10:48,640 --> 00:10:54,480
+RICO rallies and then generally can come back up to pick up liquidity okay high this will be
+
+146
+00:10:54,480 --> 00:10:56,620
+We have a different one, look at the nature of the extension.
+
+147
+00:10:56,620 --> 00:10:59,320
+It doesn't necessarily cluster this time round,
+
+148
+00:10:59,320 --> 00:11:00,600
+but it has a base.
+
+149
+00:11:00,600 --> 00:11:02,580
+You get beneath that base to the shift.
+
+150
+00:11:02,580 --> 00:11:05,820
+We pick up residual, draw right back up the extension leg,
+
+151
+00:11:05,820 --> 00:11:08,380
+picking up the apex, and continue.
+
+152
+00:11:08,380 --> 00:11:10,420
+And of course, when we're taking these retest trades,
+
+153
+00:11:10,420 --> 00:11:12,240
+we want to clearly identify with shell
+
+154
+00:11:12,240 --> 00:11:14,320
+and then the accumulation which pushed past the shell
+
+155
+00:11:14,320 --> 00:11:16,720
+to be able to take that trade and define our risk.
+
+156
+00:11:16,720 --> 00:11:20,480
+But yeah, so that's just how I like to trade,
+
+157
+00:11:20,480 --> 00:11:23,260
+take these shell flip apex based retest trades,
+
+158
+00:11:23,260 --> 00:11:24,420
+especially on the high timeframe.
+
+159
+00:11:24,480 --> 00:11:33,200
+The same way you're getting this retest at this daily apex, the same thing can happen at this height, the one minute, the one hour, the five minute, etc.
+
+160
+00:11:33,600 --> 00:11:46,560
+Okay, so apex price comes and picks up this fractal, okay, let's zoom into it, it already picks up this fractal.
+
+161
+00:11:46,560 --> 00:11:54,480
+Okay, here you go. So this will be a lower time for example. There would be the high price came, picked up the bottom, transfer and liquidity. Now that has an inventory.
+
+162
+00:11:56,840 --> 00:11:59,700
+This is like the daily shelf really. Price extends.
+
+163
+00:11:59,720 --> 00:12:03,960
+right into this base, not enough liquidity by that point because we would have had,
+
+164
+00:12:04,140 --> 00:12:08,680
+we already would have flipped the shelf on H4, the one hour, this already would have been picking
+
+165
+00:12:08,680 --> 00:12:13,620
+up a higher time frame level, but because the nature of this shelf, there's a big, big amount
+
+166
+00:12:13,620 --> 00:12:19,120
+of liquidity inside here. As you can see, price has to deal it off for a while, but that's
+
+167
+00:12:19,120 --> 00:12:25,370
+beside the point. Price extends pixel liquidity. The remaining liquidity here is absorbed
+
+168
+00:12:25,370 --> 00:12:30,520
+inside this, that accumulation there, which pushed price back.
+
+169
+00:12:30,620 --> 00:12:32,420
+down or pushed it down.
+
+170
+00:12:33,480 --> 00:12:37,680
+Okay, the same applies with this is coming into unfilled liquidity.
+
+171
+00:12:37,680 --> 00:12:42,080
+Okay, very, very precise runs because this level is largely picked up.
+
+172
+00:12:42,580 --> 00:12:46,880
+You get a response at these levels, but ultimately it goes back to the high and this
+
+173
+00:12:46,880 --> 00:12:50,480
+would be a swing retest of the apex base, okay?
+
+174
+00:12:50,880 --> 00:12:53,680
+This is more of a price retest of the apex base.
+
+175
+00:12:54,420 --> 00:12:59,320
+Okay, this one could consider a swing retest of the apex base.
+
+176
+00:12:59,320 --> 00:13:00,320
+You know, it could have easily extended it.
+
+177
+00:13:00,720 --> 00:13:05,850
+back up into there but you see these wicks okay what's happening is price is
+
+178
+00:13:05,850 --> 00:13:13,120
+breaking down drawing back up the apex and continue okay i'm not going to make this
+
+179
+00:13:13,120 --> 00:13:18,000
+particular video too long it's gone a five minute because in the next one we got you're going to
+
+180
+00:13:18,000 --> 00:13:23,760
+cover more deeply the apex base we test okay here you have an apex price pumps
+
+181
+00:13:24,510 --> 00:13:29,950
+or drops off filling this inefficiency into some fractal level there draws back up to the
+
+182
+00:13:29,950 --> 00:13:32,490
+accumulation which pushed it back down that's an apex base for you
+
+183
+00:13:32,510 --> 00:13:40,660
+test okay so sometimes depending on the nature of the inventory here this will
+
+184
+00:13:40,660 --> 00:13:44,920
+dictate where the price comes back deeper for its top side it will dictate
+
+185
+00:13:44,920 --> 00:13:50,080
+where the price can easily just move through it or dictate whether I saw to pick
+
+186
+00:13:50,080 --> 00:13:54,040
+the top comes it grabs the bottom and it runs washing this inventory away that
+
+187
+00:13:54,040 --> 00:13:58,660
+will further dictate how price moves back down through it okay there's very very
+
+188
+00:13:58,660 --> 00:14:01,600
+specific features and the more you engage the more you exercise you're gonna
+
+189
+00:14:01,600 --> 00:14:03,260
+come across these variations and these
+
+190
+00:14:03,280 --> 00:14:05,000
+different scenarios.
+
+191
+00:14:05,000 --> 00:14:06,760
+You're going to find niches inside them.
+
+192
+00:14:06,760 --> 00:14:08,860
+So you can be a master of picking highs,
+
+193
+00:14:08,860 --> 00:14:11,080
+having a deep connection with all the different variation,
+
+194
+00:14:11,080 --> 00:14:13,540
+the high probability patterns at the highs,
+
+195
+00:14:13,540 --> 00:14:16,900
+and being able to trade that, that, the high,
+
+196
+00:14:16,900 --> 00:14:19,180
+even that, maybe this counterflow.
+
+197
+00:14:19,180 --> 00:14:22,040
+And you know, this will become your niche effectively.
+
+198
+00:14:22,040 --> 00:14:23,860
+Forget this one.
+
+199
+00:14:23,860 --> 00:14:26,040
+You'll also know how far price can extend.
+
+200
+00:14:26,040 --> 00:14:28,060
+What instance says price is likely to extend,
+
+201
+00:14:28,060 --> 00:14:29,700
+no, the different different variations.
+
+202
+00:14:29,700 --> 00:14:31,660
+And that is where the real skill is built.
+
+203
+00:14:31,660 --> 00:14:33,180
+That is the real, you know,
+
+204
+00:14:33,280 --> 00:14:38,320
+We will cover these examples time and time again as they come across, okay, in real live
+
+205
+00:14:38,320 --> 00:14:43,260
+examples or weekly examples when discussing price on a weekly basis.
+
+206
+00:14:43,260 --> 00:14:47,240
+But the issue is that's my understanding and I can point everything out to you, but you
+
+207
+00:14:47,240 --> 00:14:49,180
+need to internalize it on your own.
+
+208
+00:14:49,180 --> 00:14:53,800
+So you have to go through the process of internalizing structured engagement, etc.
+
+209
+00:14:53,800 --> 00:15:00,540
+Now also I'm going to do is, I'm talking about this conceptually on historical examples.
+
+210
+00:15:00,540 --> 00:15:02,040
+I have some examples already.
+
+211
+00:15:02,040 --> 00:15:08,240
+I have quite a few examples already of trade examples and real constituent parts of these price swings explained in real life
+
+212
+00:15:08,240 --> 00:15:13,160
+in real live examples as price is moving and that offers much more context.
+
+213
+00:15:13,620 --> 00:15:24,800
+Okay, it actually goes into the minute details of how price is moving and naturally you're going to learn more in the life conditions to get a field for the context and price to get a field for how price moves in a different variant states
+
+214
+00:15:25,640 --> 00:15:32,180
+that is where the real learning is done, but ideally, you know, you want to be able to spot these price behaviors prior to even looking
+
+215
+00:15:32,200 --> 00:15:36,280
+to spot them on live that's where you look at historical examples and that's why we're
+
+216
+00:15:36,280 --> 00:15:40,120
+going over this series okay but yeah we'll cover the apex based retest and
+
+217
+00:15:40,120 --> 00:15:42,920
+shove top bottom retest maybe as well okay
+
