@@ -53,8 +53,8 @@ Itinerario de 3 pasos formalizado en M2020 S15: (1) aprender a ver swings, (2) a
 ## Estado de la destilación
 
 - ✅ 17/17 PDFs procesados (extractos en `30_extractos/`).
-- ✅ 26/26 vídeos transcritos (27,4 h; 693 frames). Corpus M2020 completo: 16/16 vídeos destilados (~23 h 48 min). Price Swing: 6/10 destilados.
+- ✅ 26/26 vídeos transcritos (27,4 h; 693 frames). Corpus M2020 completo: 16/16 vídeos destilados (~23 h 48 min). Price Swing: 7/10 destilados.
 - ✅ Corpus visual completo: 237/237 capturas procesadas (incluye Discord 129/129 y CLP 12/12).
-- Prioridades restantes: contrato completo de SWE; CPS-como-setup; parámetros de ejecución de Washed IV/CPL; template formal de 4 apexes; poke past the low del OP; reglas YO/WO/MO; responsive-vs-market-state-dependent; fractal pushing; HOTW; y momentum trade como setup. Siguiente lote: Price Swing 06–10, preservando la jerarquía M2020 > Price Swing.
+- Prioridades restantes: contrato completo de SWE; CPS-como-setup; parámetros de ejecución de Washed IV/CPL; template formal de 4 apexes; poke past the low del OP; reglas YO/WO/MO; responsive-vs-market-state-dependent; fractal pushing; HOTW; y momentum trade como setup. Continúa Price Swing 08–10, preservando la jerarquía M2020 > Price Swing.
 - Cierre y mapa de navegación del corpus: [cierre_m2020](../30_extractos/cierre_m2020.md).
 - Dudas vivas: [90_preguntas_abiertas](90_preguntas_abiertas.md) · Conflictos: [91_contradicciones](91_contradicciones.md) · Ideas BTC (aparcadas): [92_ideas_btc](92_ideas_btc.md).

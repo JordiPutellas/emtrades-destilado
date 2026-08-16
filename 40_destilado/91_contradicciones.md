@@ -28,3 +28,4 @@
 - **Resolución:** evolución de granularidad, no contradicción. La morfología temprana es `PRECURSOR REFINADO EN M2020`; no trasladar `last/second-last release` como trigger canónico ni fusionar fade y retest en un único expectancy.
 - **Estado:** CERRADA como evolución terminológica/operativa; reabrir solo si PS06–10 aporta contratos incompatibles explícitos.
 - **PS06:** confirma la separación: first-touch fade, shelf-flip retest y pain trade son decisiones distintas dentro del apex; romper un micro-apex tampoco implica romper el swing superior. No reabre C-003. [VID-PS: PriceSwing_06 @ 00:00:31–00:04:28] [VID-PS: PriceSwing_06 @ 00:06:43–00:07:33]
+- **PS07:** desarrolla gestión por proximidad del shelf y escala del break, pero no añade una variante formal ni fusiona fade y retest. Confirma la resolución de C-003. [VID-PS: PriceSwing_07 @ 00:03:13–00:05:24] [VID-PS: PriceSwing_07 @ 00:10:44–00:15:19]
