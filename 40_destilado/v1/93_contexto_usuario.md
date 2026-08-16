@@ -1,3 +1,8 @@
+> ❄️ SNAPSHOT CONGELADO v1 — commit 83c2493, 2026-08-16.
+> NO EDITAR salvo error factual demostrable, con entrada en
+> CHANGELOG_v1.md. La versión viva de este documento está en
+> ../93_contexto_usuario.md
+
 # Contexto de usuario — Jordi (2019-2020)
 
 > Contexto biográfico y operativo de Jordi (2019-2020), recogido en entrevista (2026-08-16). **Todo lo que contiene este fichero es [USUARIO].** NUNCA es especificación del sistema, NUNCA se atribuye a EM, NUNCA rellena un NO ESPECIFICADO EN FUENTES. Instrucción explícita de Jordi: el sistema NO se construye sobre lo que él hacía — se construye desde cero sobre lo que el corpus documenta. Este fichero sirve para **calibrar plausibilidad y generar hipótesis**, no para derivar reglas.

@@ -1,3 +1,8 @@
+> ❄️ SNAPSHOT CONGELADO v1 — commit 83c2493, 2026-08-16.
+> NO EDITAR salvo error factual demostrable, con entrada en
+> CHANGELOG_v1.md. La versión viva de este documento está en
+> ../03_setups.md
+
 # Setups (EMTrades — destilado)
 
 > Formato obligatorio por setup: QUÉ describe / CUÁNDO entra / DÓNDE invalida / CÓMO gestiona. Si el material no lo especifica: "NO ESPECIFICADO EN FUENTES".

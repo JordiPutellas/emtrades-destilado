@@ -1,3 +1,7 @@
+> 📝 DOCUMENTO VIVO. Se edita libremente.
+> La versión congelada al cierre de la destilación está en
+> v1/01_principios.md
+
 # Principios (EMTrades — destilado)
 
 > Marco causal del método. Convenciones de fuentes en CLAUDE.md.

@@ -1,3 +1,8 @@
+> ❄️ SNAPSHOT CONGELADO v1 — commit 83c2493, 2026-08-16.
+> NO EDITAR salvo error factual demostrable, con entrada en
+> CHANGELOG_v1.md. La versión viva de este documento está en
+> ../05_trade_examples.md
+
 # Trade examples (EMTrades — destilado)
 
 > Trades reales documentados en el material, reconstruidos con su razonamiento completo. Las reglas de gestión extraídas de ellos están sistematizadas en 03_setups.md ("Gestión de trades").

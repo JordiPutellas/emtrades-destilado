@@ -1,3 +1,7 @@
+> 📝 DOCUMENTO VIVO. Se edita libremente.
+> La versión congelada al cierre de la destilación está en
+> v1/05_trade_examples.md
+
 # Trade examples (EMTrades — destilado)
 
 > Trades reales documentados en el material, reconstruidos con su razonamiento completo. Las reglas de gestión extraídas de ellos están sistematizadas en 03_setups.md ("Gestión de trades").

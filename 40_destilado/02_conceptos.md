@@ -1,3 +1,7 @@
+> 📝 DOCUMENTO VIVO. Se edita libremente.
+> La versión congelada al cierre de la destilación está en
+> v1/02_conceptos.md
+
 # Conceptos / glosario vivo (EMTrades — destilado)
 
 > Todo término propio del método, con definición, fuente y estado (**confirmado** = definido en material original / **por confirmar** = usado sin definición completa o aportado por el usuario).

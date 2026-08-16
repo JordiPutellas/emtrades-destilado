@@ -1,3 +1,7 @@
+> 📝 DOCUMENTO VIVO. Se edita libremente.
+> La versión congelada al cierre de la destilación está en
+> v1/92_ideas_btc.md
+
 # Ideas de adaptación a BTC (aparcadas hasta fase de validación)
 
 > ⚠️ Reordenar este material NO autoriza a iniciar la adaptación. Sigue aparcado hasta que exista "EMTrades reconstruido v1" congelado. Este fichero solo acumula precedentes, advertencias y tensiones para la fase de validación.

@@ -1,3 +1,7 @@
+> ❄️ SNAPSHOT CONGELADO v1 — commit 83c2493, 2026-08-16.
+> NO EDITAR salvo error factual demostrable, con entrada en
+> CHANGELOG_v1.md. Documento exclusivo del snapshot (sin versión viva en ../).
+
 # v1 · Ontología de niveles y máquina de estados
 
 > Parte del snapshot congelado v1 (ver 00_README_v1.md). Tres capas: (1) ontología de niveles, (2) máquina de estados del price swing, (3) capa de microestructura (DESCRIPTIVA). Etiquetas epistémicas según CLAUDE.md. Los huecos se dejan marcados; nada se rellena por inferencia.

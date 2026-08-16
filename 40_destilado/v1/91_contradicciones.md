@@ -1,3 +1,8 @@
+> ❄️ SNAPSHOT CONGELADO v1 — commit 83c2493, 2026-08-16.
+> NO EDITAR salvo error factual demostrable, con entrada en
+> CHANGELOG_v1.md. La versión viva de este documento está en
+> ../91_contradicciones.md
+
 # Contradicciones / evolución del método
 
 ## C-001 — "Transfer of liquidity": ¿mecanismo real o metáfora de época temprana?

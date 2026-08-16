@@ -1,3 +1,7 @@
+> 📝 DOCUMENTO VIVO. Se edita libremente.
+> La versión congelada al cierre de la destilación está en
+> v1/00_indice.md
+
 # EMTrades — Mapa del método (corpus conservado completo)
 
 > Documento de orientación vivo (2026-08). Todo lo afirmado aquí tiene fuente detallada en los maestros enlazados. Los vídeos M2020, más refinados, prevalecen sobre el material anterior en caso de conflicto.

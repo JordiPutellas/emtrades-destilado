@@ -1,3 +1,7 @@
+> 📝 DOCUMENTO VIVO. Se edita libremente.
+> La versión congelada al cierre de la destilación está en
+> v1/90_preguntas_abiertas.md
+
 # Preguntas abiertas
 
 > Estados de pregunta declarados en CLAUDE.md: [RESUELTA] · [RESUELTA-PARCIAL] · [NO-LOCALIZADA] · [IRRECUPERABLE] · [VALIDACIÓN] · [PENDIENTE-USUARIO]. Una pregunta puede llevar dos estados.

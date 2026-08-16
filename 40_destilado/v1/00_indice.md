@@ -1,3 +1,8 @@
+> ❄️ SNAPSHOT CONGELADO v1 — commit 83c2493, 2026-08-16.
+> NO EDITAR salvo error factual demostrable, con entrada en
+> CHANGELOG_v1.md. La versión viva de este documento está en
+> ../00_indice.md
+
 # EMTrades — Mapa del método (corpus conservado completo)
 
 > Documento de orientación vivo (2026-08). Todo lo afirmado aquí tiene fuente detallada en los maestros enlazados. Los vídeos M2020, más refinados, prevalecen sobre el material anterior en caso de conflicto.

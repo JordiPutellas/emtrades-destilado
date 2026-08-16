@@ -1,3 +1,8 @@
+> ❄️ SNAPSHOT CONGELADO v1 — commit 83c2493, 2026-08-16.
+> NO EDITAR salvo error factual demostrable, con entrada en
+> CHANGELOG_v1.md. La versión viva de este documento está en
+> ../92_ideas_btc.md
+
 # Ideas de adaptación a BTC (aparcadas hasta fase de validación)
 
 > ⚠️ Reordenar este material NO autoriza a iniciar la adaptación. Sigue aparcado hasta que exista "EMTrades reconstruido v1" congelado. Este fichero solo acumula precedentes, advertencias y tensiones para la fase de validación.

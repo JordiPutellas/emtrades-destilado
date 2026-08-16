@@ -26,7 +26,7 @@ v1 es **inmutable salvo por error factual demostrable**. Toda corrección exige 
 
 ### Changelog de v1
 
-- (vacío)
+El registro canónico está en [`CHANGELOG_v1.md`](CHANGELOG_v1.md) (creado 2026-08-16, sesión de higiene; las cabeceras ❄️ de los ficheros apuntan a él). Sin correcciones factuales a fecha de hoy.
 
 ## Las tres capas, separadas por construcción
 

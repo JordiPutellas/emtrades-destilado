@@ -1,3 +1,7 @@
+> 📝 DOCUMENTO VIVO. Se edita libremente.
+> La versión congelada al cierre de la destilación está en
+> v1/91_contradicciones.md
+
 # Contradicciones / evolución del método
 
 ## C-001 — "Transfer of liquidity": ¿mecanismo real o metáfora de época temprana?

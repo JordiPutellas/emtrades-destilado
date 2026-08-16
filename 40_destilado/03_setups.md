@@ -1,3 +1,7 @@
+> 📝 DOCUMENTO VIVO. Se edita libremente.
+> La versión congelada al cierre de la destilación está en
+> v1/03_setups.md
+
 # Setups (EMTrades — destilado)
 
 > Formato obligatorio por setup: QUÉ describe / CUÁNDO entra / DÓNDE invalida / CÓMO gestiona. Si el material no lo especifica: "NO ESPECIFICADO EN FUENTES".

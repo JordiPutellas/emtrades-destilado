@@ -1,3 +1,8 @@
+> ❄️ SNAPSHOT CONGELADO v1 — commit 83c2493, 2026-08-16.
+> NO EDITAR salvo error factual demostrable, con entrada en
+> CHANGELOG_v1.md. La versión viva de este documento está en
+> ../90_preguntas_abiertas.md
+
 # Preguntas abiertas
 
 > Estados de pregunta declarados en CLAUDE.md: [RESUELTA] · [RESUELTA-PARCIAL] · [NO-LOCALIZADA] · [IRRECUPERABLE] · [VALIDACIÓN] · [PENDIENTE-USUARIO]. Una pregunta puede llevar dos estados.

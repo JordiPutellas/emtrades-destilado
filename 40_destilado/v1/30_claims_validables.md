@@ -1,3 +1,7 @@
+> ❄️ SNAPSHOT CONGELADO v1 — commit 83c2493, 2026-08-16.
+> NO EDITAR salvo error factual demostrable, con entrada en
+> CHANGELOG_v1.md. Documento exclusivo del snapshot (sin versión viva en ../).
+
 # v1 · Claims falsables extraídos del corpus
 
 > Parte del snapshot v1. Toda afirmación del corpus empíricamente comprobable, con cita, qué habría que medir, y si EM mismo pedía validarla ("EM pide test: sí/no"). NO se diseñan los tests aquí (fase 2). Amplía la lista embrionaria de 90_preguntas_abiertas q8. La numeración CL-xx es citable.

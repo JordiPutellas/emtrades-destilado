@@ -1,3 +1,7 @@
+> ❄️ SNAPSHOT CONGELADO v1 — commit 83c2493, 2026-08-16.
+> NO EDITAR salvo error factual demostrable, con entrada en
+> CHANGELOG_v1.md. Documento exclusivo del snapshot (sin versión viva en ../).
+
 # v1 · Inventario de comportamientos y modelos
 
 > Parte del snapshot v1. Clasifica TODO lo tradeable del corpus en tres categorías, sin promover nada. Detalle completo con fuentes: `03_setups.md` (copiado en esta carpeta). Marcas de motivo del hueco:

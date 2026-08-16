@@ -1,3 +1,7 @@
+> 📝 DOCUMENTO VIVO. Se edita libremente.
+> La versión congelada al cierre de la destilación está en
+> v1/04_proceso.md
+
 # Proceso (EMTrades — destilado)
 
 > Proceso de aprendizaje y flujo de trabajo del trader según EM.

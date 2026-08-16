@@ -1,3 +1,7 @@
+> ❄️ SNAPSHOT CONGELADO v1 — commit 83c2493, 2026-08-16.
+> NO EDITAR salvo error factual demostrable, con entrada en
+> CHANGELOG_v1.md. Documento exclusivo del snapshot (sin versión viva en ../).
+
 # v1 · Test ciego de comprensión
 
 > Diez preguntas cuya respuesta completa está contenida en los ficheros de v1 (sin acceso al corpus original). SIN RESPUESTAS por diseño: sirven para comprobar más adelante si v1 es utilizable por otro agente/lector de forma autónoma. Cobertura: ontología (1-3), máquina de estados (4-6), microestructura (7), setups (8-9), claims (10).

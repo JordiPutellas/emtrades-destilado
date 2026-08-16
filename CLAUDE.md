@@ -19,6 +19,15 @@ Convertir el material acumulado de EMTrades (vídeos, PDFs, capturas anotadas, c
 - `40_destilado/` — documentos maestros. Son el PRODUCTO. Se actualizan incrementalmente.
 - `scripts/` — herramientas de transcripción y extracción de frames.
 
+## Vivo vs congelado
+
+`40_destilado/` contiene DOS versiones de los 10 documentos maestros, y la duplicación es deliberada (la duplicación ES la release):
+
+- **`40_destilado/*.md` (00–93) son los DOCUMENTOS VIVOS** — se editan libremente; llevan cabecera 📝 apuntando a su gemelo congelado.
+- **`40_destilado/v1/` es el SNAPSHOT CONGELADO** "EMTrades reconstruido v1" (2026-08-16, commit de cierre `83c2493`) — la release citable para la fase 2; cada fichero lleva cabecera ❄️.
+
+Regla de modificación: **v1 solo se corrige por error factual demostrable**, con entrada en `40_destilado/v1/CHANGELOG_v1.md` (fecha, fichero, qué decía, qué dice, evidencia). Toda evolución doctrinal, reinterpretación o adición va a los maestros vivos y, en su día, a v2 — nunca a v1. No borrar ninguno de los dos lados.
+
 ## Reglas de destilación (OBLIGATORIAS)
 
 1. **Trazabilidad total.** Toda afirmación en `40_destilado/` lleva etiqueta de fuente:
