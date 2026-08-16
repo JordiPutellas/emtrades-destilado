@@ -8,7 +8,7 @@
 
 **Estructura del run/swing:** [Price run](#price-run) · [Price spike](#price-spike) · [Skinny leg](#skinny-leg) · [Price pause](#price-pause) · [Parabolic phase](#parabolic-phase) · [Shelf](#shelf--shelf-liquidity) · [Shelf flip](#shelf-flip) · [Washed (shelf)](#washed-shelf) · [Apex](#apex--apex-base--apex-base-retest) · [Shifting point](#shifting-point) · [Shift in state of liquidity](#shift-in-state-of-liquidity) · [Midflow](#midflow) · [Inventory](#inventory-chartista) · [Technical break](#technical-break) · [Core liquidity base](#core-liquidity-base) · [Poor high/low](#poor-high--poor-low-unfinished-auction)
 
-**Liquidez y entrega:** [Residual liquidity](#residual-liquidity--residual-levels) · [Liquidity void](#liquidity-void--vacuum) · [Chain reaction](#chain-reaction) · [Gap slip](#gap-slip--gapslip) · [Last point of liquidity](#last-point-of-liquidity) · [Rebalance](#rebalance) · [Trending extension fill](#trending-extension-fill-short-extension-fill) · [Feeder](#feeder--feeding-liquidity) · [Variable Volume Flow](#variable-volume-flow-vvf) · [Volume stability / surge](#volume-stability--relative-volume-surge) · [Balanced liquidity](#balanced-liquidity--equilibrium) · [Breakout PI](#breakout-pi--fractal-breakout-pi) · [Fractal pushing](#fractal-pushing) · [Latent liquidity / conversion rate](#latent-liquidity--conversion-rate) · [SR / SR flip](#sr--sr-flip)
+**Liquidez y entrega:** [Residual liquidity](#residual-liquidity--residual-levels) · [Liquidity void](#liquidity-void--vacuum) · [Chain reaction](#chain-reaction) · [Gap slip](#gap-slip--gapslip) · [Last point of liquidity](#last-point-of-liquidity) · [Rebalance](#rebalance) · [Absorption](#absorption) · [Trending extension fill](#trending-extension-fill-short-extension-fill) · [Feeder](#feeder--feeding-liquidity) · [Variable Volume Flow](#variable-volume-flow-vvf) · [Volume stability / surge](#volume-stability--relative-volume-surge) · [Balanced liquidity](#balanced-liquidity--equilibrium) · [Breakout PI](#breakout-pi--fractal-breakout-pi) · [Fractal pushing](#fractal-pushing) · [Latent liquidity / conversion rate](#latent-liquidity--conversion-rate) · [SR / SR flip](#sr--sr-flip)
 
 **Organización de mercado:** [OTC / bilateral](#otc--bilateral--quote-driven) · [Exchange / multilateral](#exchange--multilateral--order-driven) · [Best bid/offer y tipos de orden](#best-bid--best-offer--tipos-de-orden) · [Market-to-limit-order ratio](#market-to-limit-order-ratio) · [Skewed liquidity](#skewed-liquidity) · [Dealer / principal / internalización](#dealer--principal--internalización) · [CCP / settlement](#ccp--central-counterparty--settlement) · [MTF / ECN](#mtf--ecn) · [Sell side / buy side](#sell-side--buy-side) · [EBS / Reuters y price discovery](#ebs--reuters-matching--price-discovery) · [Prime brokerage](#prime-brokerage) · [Information leakage](#information-leakage) · [Execution algorithms](#execution-algorithms--parentchild-orders)
 
@@ -37,6 +37,7 @@
 - **Estado:** sigla encontrada en fuente (sin expandir); expansión aportada por [USUARIO].
 - Uso en fuente, como precursor de un setup de alta probabilidad: "You have a liquidity base, price runs inefficiently into it **extending past highs after a SWE — high probability**." [PDF: Trade Example p.8]
 - [USUARIO] SWE = **Shelf Wash Extension**.
+- **Genealogía PS03:** EM pronuncia el nombre y dibuja su anatomía mínima: shelf top y bottom picked/washed, seguido de extensión a fresh high. No aporta todavía entrada, invalidación ni target. [VID-PS: PriceSwing_03 @ 00:04:10–00:04:29] [VID-PS: PriceSwing_03 @ 00:20:46–00:21:05] `SOLO PRICE SWING — NO CONFIRMADO DESPUÉS` como término formal; el drain sí fue refinado en M2020.
 - Conexión con el "wash" del shelf: "Only time I will expect price to move through the shelf straight away is **if it is washed** & even then expect some stalling & absorption." [IMG: Trade Example p.5] [INFERENCIA] SWE = barrido del shelf seguido de extensión; Discord, CLP y M2020 Sessions 1-9 quedaron agotados sin definición operativa completa. S9 añade deep/repeated tests sobre inventory/base genérico, no un SWE shelf-specific. Candidatos: M2020 S10-S11; Price Swing como genealogía. [VID-M2020: Session 9 @ 01:23:01–01:38:08]
 
 ### BA — Breakout Accumulation
@@ -287,6 +288,10 @@
 - Vuelta del precio a través del tramo ineficiente/vacío hacia la liquidez/base que lo origina, al agotarse el flujo que empujaba. [PDF: The Price Run p.6–p.10; Introduction Price Inefficiencies]
 - No tiene timing automático: un execution algorithm activo y liquidez que persigue precio pueden sostener la extensión; distintos estilos de ejecución producen continuación fina, stair-step o drawback profundo antes del fill. [VID-M2020: Session 6 @ 01:20:26–01:22:55]
 
+### Absorption
+- **Estado:** confirmado como comportamiento observable, no trigger autónomo.
+- Formulación Price Swing: un core/base responde, pero precio `pauses, accumulates, accumulates and pushes through it`; la incapacidad de expulsar precio y el buildup hasta atravesar la zona constituyen absorption. [VID-PS: PriceSwing_03 @ 00:03:38–00:04:05] `CONFIRMADO/CONSERVADO EN M2020`.
+
 ### Low liquid state → ver LLS
 
 ### Variable Volume Flow (VVF)
@@ -364,6 +369,7 @@
 ### Price pause
 - **Estado:** confirmado.
 - Pausa tras la skinny leg (componente 4 del esquema CPS); una de las "constituent features of a price run" usadas como confluencia. [IMG: Tracking Unfilled Liquidity p.4] [PDF: Trade Example p.4]
+- Definición temprana operativa: después de romper el shelf/core que sostenía el lado previo, los residual levels ofrecen response/fill pero no desplazan materialmente el nuevo flujo; esa estabilización es price pause. En mid-price-run se espera fill local, no reversal; en core cambia la expectativa. [VID-PS: PriceSwing_03 @ 00:08:10–00:08:54] [VID-PS: PriceSwing_03 @ 00:11:44–00:12:31] `CONFIRMADO/CONSERVADO EN M2020`.
 
 ### Paying for the trade
 - **Estado:** confirmado.
