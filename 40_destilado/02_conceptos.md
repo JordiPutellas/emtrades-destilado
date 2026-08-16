@@ -20,7 +20,6 @@
 - **Estado:** confirmado (2026-08-16). Tres fuentes con el título literal y los mismos 13 componentes: [PDF: Tracking Unfilled Liquidity p.4], [IMG: Characteristics of Price swing.png] (versión alcista) e [IMG: Inverted Fractal.png] (versión bajista).
 - **Procedencia:** el esquema lleva marcas "Pro Traders Club" y "ChrisLori.com" → la plantilla CPS procede de **Chris Lori / Pro Traders Club**; EM la adoptó y construyó encima su vocabulario propio (shelf/washed/OP/BA/LIC...). Distinguir herencia vs desarrollo propio al validar.
 - El material lo usa como **"CPS framework"**: "the CPS framework is what we use to navigate & trade price... clearly defines components of price which we can categorise throughout the duration of a swing formation... **a representation of HOW price moves rather than why** (!!!)". [PDF: Price Swings Continued p.2]
-- [INFERENCIA fuerte] CPS = "**Characteristics of a Price Swing**": es el título literal del esquema maestro de 13 componentes [IMG: Tracking Unfilled Liquidity p.4], encaja letra a letra y con la frase "the CPS clearly defines components of price which we can categorise". (Descarta la hipótesis anterior "Core Price Swing".) Existe además la captura suelta `capturas/Characteristics of Price swing.png` — verificar que es el mismo esquema al procesar capturas.
 - **Los 13 componentes del esquema CPS** [IMG: Tracking Unfilled Liquidity p.4], con eje "Mass Psychological Shift":
   1. Liquidity Base → 2. Point of Release (PoR) → 3. Skinny Leg → 4. Price Pause (Shelf Bottom) → 5. Continuation Leg → 6. Consolidation Apex → 7. Retest H/L → 8. Apex Base (break) Retest → 9. Shelf Top/Bottom Retest → 10. Gap slip → 11. Clean Breaking Point → 12. PoR (vuelta) → 13. Liquidity Base Bottom.
 - Uso operativo: "Identify liquidity, use CPS to navigate through price & manage the trade." [PDF: Tracking Unfilled Liquidity p.4] "Use CPS features to determine selling continuation points." [PDF: Liquidity Imbalance continuum p.1]
@@ -49,6 +48,7 @@
 ### PI — Price Inefficiency
 - **Estado:** confirmado.
 - Segmento de precio con cambio extremo del estado de liquidez, entregado en un run fino por escasez de liquidez en un lado del libro. Sinónimos en el material: gap, liquidity gap. [PDF: Introduction Price Inefficiencies]
+- **Corrección doctrinal de EM (tweet 4-may-2020):** la ineficiencia es propiedad del MOVIMIENTO/ESTADO completo, no de micro skinny legs aisladas: "the whole move is inefficient, not just some 3 pip skinny leg from 143 hours ago". [IMG-MIET: InNeFFiciencY]
 
 ### HTF / LTF
 - **Estado:** confirmado (uso estándar): higher/lower timeframe. Las bases y apexes HTF acumulan más liquidez. [PDF: Liquidity Principles; Price Swings Continued p.10, p.12]
@@ -247,6 +247,7 @@
 ### Metaorder / slow vs fast liquidity
 - **Estado:** confirmado (uso).
 - **Metaorder**: orden institucional grande troceada y ejecutada en el tiempo ("'slow' but larger liquidity building out positions over a period of time, usually automated"), que acepta precios peores para encontrar contrapartida. **Fast liquidity** = HFTs, PTFs, LPs — se vuelve aversa en los surges y dispersa la liquidez más allá del área débil. [IMG-MIET: Gold Ranges 5.1, Gold Ranges 1.0]
+- **Warehousing**: los LPs pueden "compound the move" almacenando inventario (estabilizando offers mientras los bids empujan) y/o ensanchando spreads competitivamente; al soltarlo ("LPs unloading inventory") quedan **bid/offer vacuums**. Ciclo intradía: Asia LLS → LPs abren libros en London open → surge. [IMG-MIET: Vol is a F of Av Liq 1, 3]
 
 ### Breakout PI / Fractal Breakout PI
 - **Estado:** confirmado.
