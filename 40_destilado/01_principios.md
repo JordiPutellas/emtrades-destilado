@@ -44,8 +44,11 @@ M2020 Session 2 no modifica la lista: desarrolla directamente los principios 1, 
 
 Estabilidad de volumen (low liquid state) → surge relativo en un lado → run fino/ineficiente → agotamiento (top "jumpy", bids exhausted) → shift de liquidez → rebalance a través del vacío → respuesta en la core liquidity base. [PDF: The Price Run p.5–p.10] [IMG: The Price Run p.10]
 
+- **Numeración exacta M2020:** EM separa el origin/core (contexto de partida) de los **cinco eventos**: `1 volume shot → 2 price run → 3 exhaustion → 4 shift → 5 fill`. Origin no es el evento 1. [VID-M2020: Session 6 @ 00:21:43–00:22:16]
+- El skew máximo para una respuesta local aparece en exhaustion: el volumen agresivo que empujaba queda mínimo frente a liquidez opuesta más gruesa, de modo que poco volumen contrario puede iniciar el retorno. Es una asimetría condicional, no predicción de la siguiente market order. [VID-M2020: Session 6 @ 00:13:06–00:16:10] [VID-M2020: Session 6 @ 00:37:11–00:39:58]
 - En escala menor, EM nombra la secuencia `sideways/parabolic → apex → shelf flip → bearish deal flow → shift in state of liquidity`; no la presenta como template formal de las cuatro variaciones de apex. [VID-M2020: Session 5 @ 02:06:03–02:06:42]
-- Un swing HTF puede componerse de varios ciclos internos `stability → surge/pop → drying off/drawback → stability`; un micro-run, en cambio, puede resolverse en un solo disparo. [VID-M2020: Session 5 @ 02:06:46–02:11:27]
+- Un swing HTF puede componerse de varios ciclos internos `stability → surge/pop → drying off/drawback → stability`; un micro-run, en cambio, puede resolverse en un solo disparo. Por eso un leg globalmente fino puede contener pockets residuales internos sin dejar de ser ineficiente respecto al core. [VID-M2020: Session 5 @ 02:06:46–02:11:27] [VID-M2020: Session 6 @ 00:34:22–00:36:48]
+- **El estado de ejecución modula el fill:** un execution algorithm trocea una parent order y su agresividad, limit price, ventana y pool pueden generar run fino, stair-step o drawback profundo. Mientras siga activo y la liquidez persiga precio, la extensión puede no llenar todavía; ineficiencia no equivale a fill inmediato. [VID-M2020: Session 6 @ 00:52:04–01:04:44] [VID-M2020: Session 6 @ 01:16:22–01:22:55]
 
 - "Contraction leads to expansion" explicado vía liquidez: el precio entra casi siempre en áreas de volumen bajo y estable (LLS, en todos los timeframes) que quedan expuestas a un shot de volumen en un lado. [PDF: The Price Run p.5]
 

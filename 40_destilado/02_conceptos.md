@@ -10,7 +10,7 @@
 
 **Liquidez y entrega:** [Residual liquidity](#residual-liquidity--residual-levels) · [Liquidity void](#liquidity-void--vacuum) · [Chain reaction](#chain-reaction) · [Gap slip](#gap-slip--gapslip) · [Last point of liquidity](#last-point-of-liquidity) · [Rebalance](#rebalance) · [Trending extension fill](#trending-extension-fill-short-extension-fill) · [Feeder](#feeder--feeding-liquidity) · [Volume stability / surge](#volume-stability--relative-volume-surge) · [Balanced liquidity](#balanced-liquidity--equilibrium) · [Breakout PI](#breakout-pi--fractal-breakout-pi) · [Fractal pushing](#fractal-pushing) · [Latent liquidity / conversion rate](#latent-liquidity--conversion-rate) · [SR / SR flip](#sr--sr-flip)
 
-**Organización de mercado:** [OTC / bilateral](#otc--bilateral--quote-driven) · [Exchange / multilateral](#exchange--multilateral--order-driven) · [Best bid/offer y tipos de orden](#best-bid--best-offer--tipos-de-orden) · [Market-to-limit-order ratio](#market-to-limit-order-ratio) · [Skewed liquidity](#skewed-liquidity) · [Dealer / principal / internalización](#dealer--principal--internalización) · [CCP / settlement](#ccp--central-counterparty--settlement) · [MTF / ECN](#mtf--ecn) · [Sell side / buy side](#sell-side--buy-side) · [EBS / Reuters y price discovery](#ebs--reuters-matching--price-discovery) · [Prime brokerage](#prime-brokerage) · [Information leakage](#information-leakage)
+**Organización de mercado:** [OTC / bilateral](#otc--bilateral--quote-driven) · [Exchange / multilateral](#exchange--multilateral--order-driven) · [Best bid/offer y tipos de orden](#best-bid--best-offer--tipos-de-orden) · [Market-to-limit-order ratio](#market-to-limit-order-ratio) · [Skewed liquidity](#skewed-liquidity) · [Dealer / principal / internalización](#dealer--principal--internalización) · [CCP / settlement](#ccp--central-counterparty--settlement) · [MTF / ECN](#mtf--ecn) · [Sell side / buy side](#sell-side--buy-side) · [EBS / Reuters y price discovery](#ebs--reuters-matching--price-discovery) · [Prime brokerage](#prime-brokerage) · [Information leakage](#information-leakage) · [Execution algorithms](#execution-algorithms--parentchild-orders)
 
 **Trading y gestión:** [Midflow / counter flow trading](#midflow-trading--counter-flow-trading) · [Paying for the trade](#paying-for-the-trade) · [Compound](#compound) · [Dealing range](#dealing-range) · [Responsive vs market-state-dependent levels](#responsive-vs-market-state-dependent-levels) · [CPL](#cpl--consumption-response-leg) · [Washed IV](#washed-iv) · [Momentum](#momentum-definición-y-taxonomía)
 
@@ -36,7 +36,7 @@
 - **Estado:** sigla encontrada en fuente (sin expandir); expansión aportada por [USUARIO].
 - Uso en fuente, como precursor de un setup de alta probabilidad: "You have a liquidity base, price runs inefficiently into it **extending past highs after a SWE — high probability**." [PDF: Trade Example p.8]
 - [USUARIO] SWE = **Shelf Wash Extension**.
-- Conexión con el "wash" del shelf: "Only time I will expect price to move through the shelf straight away is **if it is washed** & even then expect some stalling & absorption." [IMG: Trade Example p.5] [INFERENCIA] SWE = barrido del shelf seguido de extensión; Discord, CLP y M2020 Sessions 1-2 quedaron agotados sin definición operativa completa. Candidatos: M2020 S3-S11; Price Swing como genealogía.
+- Conexión con el "wash" del shelf: "Only time I will expect price to move through the shelf straight away is **if it is washed** & even then expect some stalling & absorption." [IMG: Trade Example p.5] [INFERENCIA] SWE = barrido del shelf seguido de extensión; Discord, CLP y M2020 Sessions 1-6 quedaron agotados sin definición operativa completa. Candidatos: M2020 S7-S11; Price Swing como genealogía.
 
 ### BA — Breakout Accumulation
 - **Estado:** confirmado (definición formal en M2020).
@@ -137,11 +137,18 @@
 - **Estado:** confirmado como mecanismo según EM. Cuando un dealer cubre customer flow en el interdealer visible, tamaño/dirección se revelan por la ejecución; competidores responden, puede activarse hot potato y el precio corre contra el ticket aún incompleto, elevando slippage y volatilidad. [VID-M2020: Session 3 @ 01:15:15–01:17:13]
 - Internalizar/warehousear el riesgo evita que esa transacción concreta llegue al book y oculta cliente, tamaño y dirección a otros dealers; reduce leakage potencial, no elimina inventory risk. [VID-M2020: Session 3 @ 01:17:13–01:18:40]
 
+### Execution algorithms / parent–child orders
+
+- Una orden institucional grande se divide en **child slices** para limitar market impact e information leakage. Los parámetros que EM muestra incluyen maximum price/slippage, start/end time, liquidity pool y estilo `aggressive / neutral / passive`. [VID-M2020: Session 6 @ 00:52:04–00:57:18] [VID-M2020: Session 6 @ 01:16:22–01:21:18]
+- **Aggressive:** child limits grandes dentro/cerca del spread; la liquidez persigue y sostiene precio. **Neutral:** trabaja cerca del top of book y puede dejar stair-step. **Passive:** slices menores y más profundas, cerca del core, permitiendo drawbacks mayores para reducir coste. [VID-M2020: Session 6 @ 00:57:34–01:04:44]
+- La morfología resultante informa sobre el estado de ejecución, pero Session 6 no entrega un trigger cerrado para identificar el estilo ni el final de la parent order. Mientras la ejecución continúe, una extensión ineficiente puede seguir sin fill. [VID-M2020: Session 6 @ 01:20:26–01:22:55]
+
 ## Anatomía del price swing
 
 ### Price run
 - **Estado:** confirmado.
 - Movimiento direccional fino disparado por un surge **relativo** de volumen contra un estado de baja liquidez; sobrepasa por el mecanismo de price-chasing de los LPs y deja vacío detrás. Ciclo: estabilidad → surge relativo → run → agotamiento → rebalance a core base. [PDF: The Price Run p.1–p.10]
+- En la enumeración M2020, `origin/core` es el contexto de partida; los cinco eventos son `volume shot, price run, exhaustion, shift, fill`. [VID-M2020: Session 6 @ 00:21:43–00:22:16]
 
 ### Price spike
 - **Estado:** confirmado.
@@ -199,6 +206,7 @@
 ### Origin / fractal core
 - **Estado:** confirmado.
 - El origen del price run ("the origin of this price run is here — that'll be the fractal core aka origin"). La liquidez más fuerte de una pierna suele estar en su origen. [VID-M2020: Session 13 @ 00:04:44–00:04:52, 01:20:47–01:20:55]
+- Es el punto de partida y referencia del eventual fill, no uno de los cinco eventos numerados del swing en Session 6. [VID-M2020: Session 6 @ 00:21:43–00:22:16]
 
 ### Core liquidity base
 - **Estado:** confirmado (anatomía completa en M2020).
@@ -209,6 +217,7 @@
 ### Residual liquidity / residual levels
 - **Estado:** confirmado.
 - Liquidez débil que queda tras un movimiento ("residual liquidity from the up move, weak, bottomside unfilled, top picked"). Las respuestas desde bases residuales son débiles y se absorben en midflow. [IMG: Price Swings Continued p.3, p.5] [PDF: p.7]
+- Es relativa, no necesariamente cero: un swing fino puede contener múltiples pockets residuales por sus ciclos internos. Entre dos legs ineficientes, EM considera más ineficiente la que dejó menos/débil residual liquidity; el criterio es densidad residual, no una vela grande aislada. [VID-M2020: Session 6 @ 00:34:22–00:37:07]
 
 ### Gap slip / gapslip
 - **Estado:** confirmado (uso), definición implícita.
@@ -255,6 +264,7 @@
 ### Rebalance
 - **Estado:** confirmado.
 - Vuelta del precio a través del tramo ineficiente/vacío hacia la liquidez/base que lo origina, al agotarse el flujo que empujaba. [PDF: The Price Run p.6–p.10; Introduction Price Inefficiencies]
+- No tiene timing automático: un execution algorithm activo y liquidez que persigue precio pueden sostener la extensión; distintos estilos de ejecución producen continuación fina, stair-step o drawback profundo antes del fill. [VID-M2020: Session 6 @ 01:20:26–01:22:55]
 
 ### Low liquid state → ver LLS
 

@@ -27,3 +27,7 @@
 | HFD / HFP / H&T                           | HFT                                      |
 | EES / CME (según contexto)                | ES / CME                                 |
 | bearish-filled flow                       | bearish deal flow                        |
+| volume short                              | volume shot                              |
+| dealing wage                              | dealing range                            |
+| top of work                               | top of book                              |
+| HSPC / HBSBC                              | HSBC                                     |
