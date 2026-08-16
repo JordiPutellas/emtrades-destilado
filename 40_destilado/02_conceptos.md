@@ -198,11 +198,13 @@
 - **Formulación fundacional de S8:** es una fase del price run y un estado de `one-sided weakness`; buy bases sostienen en bullish midflow y sell bases en bearish. VVF genera corrections contra la fuerza sin cancelar por sí solo el estado. [VID-M2020: Session 8 @ 01:09:45–01:10:45] [VID-M2020: Session 8 @ 01:19:50–01:19:57]
 - Fuerte/activo en el ejemplo = todos los bases válidos sostienen; el consumo profundo/repetido y la primera ruptura del último base que creó un extremo son debilidad. Hay tempos eficientes e ineficientes y conflictos de escala; S8 no entrega clasificador cerrado de todas las variantes. [VID-M2020: Session 8 @ 01:08:18–01:08:35] [VID-M2020: Session 8 @ 01:18:02–01:18:34] [VID-M2020: Session 8 @ 01:19:28–01:20:56]
 - **Tempo operativo en S9:** midflow agresivo = liquidity persiguiendo precio, pullbacks breves y extension fills pequeños; midflow más estable/eficiente = corrections más profundas y mayor viabilidad del counterflow. La clasificación sigue siendo relativa al timeframe y no se reduce a trend/range. [VID-M2020: Session 9 @ 00:47:09–00:55:48]
+- **Fin del inventory en S10:** el consumo progresivo reduce la sell/buy liquidity que acompaña al movimiento; la primera base contraria que atraviesa el último base es primera debilidad. Puede continuar si el lado opuesto sigue aún más débil; exhaustion y reversal son fases posteriores, no sinónimos del break. [VID-M2020: Session 10 @ 00:03:31–00:05:41] [VID-M2020: Session 10 @ 01:27:25–01:28:26]
 
 ### Inventory (chartista)
 
 - `The stock, the momentum liquidity of a directional move`: el último base/dealing range que empujó el precio a un nuevo extremo dentro de un imbalance. Un rango intermedio que no crea nuevo extremo no desplaza el inventory; una zona bilateral estable no es inventory en este sentido. [VID-M2020: Session 8 @ 01:05:30–01:07:50]
 - EM enumera `shelf/inventory`, apex top/bottom, BA y shifting point como **tipos por ubicación** de liquidity base, con características y entornos propios; no los equipara todos. Inventory sostiene el movimiento, mientras residual liquidity designa pockets más débiles del recorrido. [VID-M2020: Session 8 @ 01:00:24–01:01:44] [VID-M2020: Session 8 @ 01:03:24–01:04:55]
+- **Equivalencia acotada en S10:** dentro del midflow, EM llama `inventory or shelf` al último base que empujó a un nuevo extremo y luego dice `shelf or inventory, which is the same thing`. Es sinonimia funcional para ese base chartista; no equipara universalmente apex, BA y shifting point. [VID-M2020: Session 10 @ 00:08:06–00:08:45] [VID-M2020: Session 10 @ 01:08:35–01:09:03]
 - No confundir con el inventario literal del dealer/LP, una posición adquirida que puede gestionar u ofrecer al mercado. [VID-M2020: Session 8 @ 00:07:23–00:08:21]
 
 ### Technical break
@@ -210,6 +212,7 @@
 - Ruptura del último buy/sell base que había empujado el midflow a un nuevo extremo. Es primera evidencia de debilidad del momentum y puede justificar cortar una posición a favor del midflow, pero no obliga a reversal inmediato ni constituye por sí solo un trigger de entrada. [VID-M2020: Session 8 @ 01:25:00–01:25:53]
 - Suele preceder la parabolic spike phase; la lectura depende de la escala porque un break H1 puede vivir dentro de un swing diario activo. No equiparar automáticamente con `market structure break`. [VID-M2020: Session 8 @ 01:25:53–01:27:52]
 - S9 confirma y limita el concepto: puede aparecer pronto y el precio continuar, puede no existir un break limpio y un break menor puede quedar dentro del inventory HTF. Para el fade completo de midflow, EM espera **break + parabolic phase**; el break solo cambia probabilidades, no activa ni confirma por sí mismo. [VID-M2020: Session 9 @ 01:16:49–01:20:40] [VID-M2020: Session 9 @ 01:26:41–01:45:46] [VID-M2020: Session 9 @ 02:01:12–02:02:35]
+- S10 hace explícita la variante sin ruptura: `It doesn't always have to break midflow, but it will typically be a sideways pop`. Break + parabolic sigue siendo la secuencia más informativa, pero el apex puede desarrollarse sin break limpio. [VID-M2020: Session 10 @ 00:46:46–00:47:03]
 
 ### Liquidity base (y sus 3 lados)
 - **Estado:** confirmado (definición formal en M2020).
@@ -317,6 +320,12 @@
 ### Midflow trading / counter flow trading
 - **Estado:** confirmado (nombres de estilo de trade). Ver 03_setups.md.
 - Midflow trading = entrar a favor del flujo tras rebalance a base local; counter flow trading = fade de la extensión de vuelta a base, "short holding times". [IMG: Price Swing Basics video p.6]
+
+### Fractal / self-similarity
+- **Estado:** confirmado formalmente en M2020.
+- Patrón de self-similarity: los mismos estados y características del price swing —midflow, exhaustion/apex, shelf flip y flujo contrario— aparecen en tick/minuto y en diario/semanal/mensual. El ejemplo geométrico es una hoja de helecho cuya forma se repite en cada subdivisión. [VID-M2020: Session 10 @ 00:14:08–00:25:12]
+- Un LTF es un zoom temporal de las mismas transacciones, útil para inspeccionar secuencia, bases y exhaustion internos. No implica igual cantidad/significancia de liquidity: cuanto más tiempo facilita trade una zona, más oportunidad tiene de acumularla; el swing gobernante conserva precedencia. [VID-M2020: Session 10 @ 00:25:12–00:29:20]
+- No confundir `fractal` con `fractal pushing`, término todavía no definido.
 
 ### Fractal pushing
 - **Estado:** por confirmar. Detectado en módulo Price Inefficiencies sin definición. [PDF: módulo Price Inefficiencies]

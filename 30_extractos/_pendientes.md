@@ -30,7 +30,7 @@
 
 ## Vídeos (00_fuentes/videos — 26 ficheros)
 
-- [~] **2020 Mentorship** (16 vídeos, 16/16 transcritos; 13 destilados, 3 pendientes) — etiqueta `[VID-M2020: ...]`. Fuente más refinada y autoritativa.
+- [~] **2020 Mentorship** (16 vídeos, 16/16 transcritos; 14 destilados, 2 pendientes) — etiqueta `[VID-M2020: ...]`. Fuente más refinada y autoritativa.
   - [x] Session 1 (2020-02-14) → `extracto_vid_m2020_session01.md` — OTC bilateral/quote-driven vs exchange multilateral/order-driven, internalización y CCP (2026-08-16)
   - [x] Session 2 (2020-09-10) → `extracto_vid_m2020_session02.md` — proceso dinámico, market-to-limit ratio, inventario/last look e information leakage (2026-08-16)
   - [x] Session 3 (2020-09-24) → `extracto_vid_m2020_session03.md` — price reflects state of liquidity, estructura FX, EBS/Reuters, prime brokerage y price discovery (2026-08-16)
@@ -40,6 +40,7 @@
   - [x] Session 7 (2020-10-08) → `extracto_vid_m2020_session07.md` — VVF, exhaustion y probabilidades dinámicas (2026-08-16)
   - [x] Session 8 (2020-10-14) → `extracto_vid_m2020_session08.md` — midflow, inventory y technical break (2026-08-16)
   - [x] Session 9 (2020-10-16) → `extracto_vid_m2020_session09.md` — parabolic, first touch y gestión del price swing (2026-08-16)
+  - [x] Session 10 (2020-10-18) → `extracto_vid_m2020_session10.md` — fractal, apex y lógica de first touch/retest (2026-08-16)
   - [x] Session 12-004 (2020-11-06) → `extracto_vid_m2020_session12.md` — definición formal de BA, anatomía del core (2026-08-16)
   - [x] Session 13-003 (2020-11-19) → `extracto_vid_m2020_session13.md` (2026-08-16)
   - [x] Session 14- drawing levels (2020-12-17) → `extracto_vid_m2020_session14.md` (2026-08-16)
@@ -47,11 +48,11 @@
   - **Dependencia SIN RESOLVER — template 4 variaciones de apex** (+ gestión de apex + "second level information", prometido en S13 @ 01:45:10): NO está en S1-S9, S12, S14, S15, EM Twits, MIET, Discord ni CLP. Sí aparece su precursor Twitter — hilo "variation of a low" (jun-jul 2019) con 3-4 variaciones predominantes y ejemplos en XAU/GBPUSD/WTI [IMG-TWIT: Reversal 1-2]. Restan como candidatos: M2020 sesiones 10-11, Price Swing o un archivo perdido del drive.
   - **"Process video" y "exercise video"**: CERRADO-IRRECUPERABLE (2026-08-16) — [USUARIO] no los conserva. Contenido parcialmente reconstruido vía S13/S15 + Liquidity Principles p.1 + tweet "3 tranches" (ver pregunta 6 en 90_preguntas_abiertas.md).
   - S12 @ 00:30:17 promete "next session" el detalle de cómo cambian las probabilidades cuando el precio hace poke past the low del OP — S1-S9 y S13 no lo desarrollan explícitamente: buscar en S10-S11.
-  - **Pendientes (3 archivos):** Session 10.mp4, Session 11 part 1-009.mov y Session 11 part 2.mov.
+  - **Pendientes (2 archivos):** Session 11 part 1-009.mov y Session 11 part 2.mov.
 - [~] **Price Swing series** (10 vídeos, 10/10 transcritos; pendientes de destilar) — etiqueta `[VID-PS: ...]`. Época anterior, menos refinada.
   - PriceSwing_01.mp4 … PriceSwing_10.mp4
 
-Plan: transcripción batch completada (26/26; 27,4 h; 693 frames). Destilar los 3 archivos M2020 restantes (S10 y S11 en dos partes) y después Price Swing. Siguiente lote recomendado: Session 10 + Session 11 partes 1–2.
+Plan: transcripción batch completada (26/26; 27,4 h; 693 frames). Destilar las dos partes de Session 11, cerrar transversalmente M2020 y después Price Swing.
 
 ### Caza transversal cerrada tras M2020 S4–S6
 

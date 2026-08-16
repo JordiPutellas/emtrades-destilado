@@ -95,6 +95,7 @@ Estabilidad de volumen (low liquid state) → surge relativo en un lado → run 
 - Secuencia: dealing estable → pequeña debilidad + volume shot → retirada/repricing de liquidity → expansión fina → volumen se seca dejando weakness → volumen contrario produce drawback/fill → nueva estabilidad. EM llama al comportamiento `large inefficient extension → exhaustion → extension fill`; es secuencia causal, no contrato de setup. [VID-M2020: Session 7 @ 00:38:40–00:41:12]
 - Exhaustion no exige fuerza contraria: la orden impulsora se va llenando y deja poca liquidity residual; después sigue siendo necesaria alguna market order opuesta para mover precio. [VID-M2020: Session 7 @ 00:43:06–00:45:23]
 - Se repite dentro de trends y en cualquier escala. En HTF/event-driven el flujo puede persistir meses sin ser constante; la ineficiencia sigue siendo relativa al timeframe y el origin/core permanece más grueso que el middle. [VID-M2020: Session 7 @ 00:47:41–00:48:26] [VID-M2020: Session 7 @ 01:19:28–01:22:08]
+- **Corrección terminológica de EM:** la liquidity no se “transfiere”; una orden grande se divide y la liquidity entregada por el algoritmo **follows/chases price** a lo largo de distintos precios. EM reconoce que pudo llamarlo `liquidity transfer` antes y lo corrige como misnomer sin cambiar el comportamiento observado. [VID-M2020: Session 10 @ 00:06:17–00:07:24]
 
 ### Jerarquía de timeframes (principios dictados en M2020)
 

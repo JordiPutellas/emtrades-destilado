@@ -50,4 +50,3 @@
 - **Coincidencias insuficientes:** `shelf/inventory`, `apex top/bottom` y `breakout accumulation` aparecen como tipos distintos de liquidity base; self-similarity/fractal se explica, pero no `fractal pushing`. [VID-M2020: Session 8 @ 00:54:20] [VID-M2020: Session 8 @ 01:00:50]
 - **Avance genérico, no cierre:** tests repetidos consumen un inventory/base; no hay definición SWE, criterio shelf-specific de washed ni parámetros Washed IV/CPL. [VID-M2020: Session 8 @ 00:55:30]
 - **Ausentes:** CPS como setup; cuatro variaciones de apex; gestión dentro de apex; poke past low del OP; taxonomía responsive vs market-state-dependent; YO/WO/MO; momentum trade; tradeable vs non-tradeable PI formal; timing/threshold de fill; HOTW; `transfer of liquidity`.
-
