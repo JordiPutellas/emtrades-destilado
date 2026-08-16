@@ -109,8 +109,22 @@ Estabilidad de volumen (low liquid state) → surge relativo en un lado → run 
 - Mecanismo stop-run (esquema de Tilopa guardado por EM): acumulación de stops bajo el swing low → al saltar, "**price overshoots as market makers reprice and the market has to reach for counterparties**" → llega a buy limits → "price has little trouble retracing this move on relatively low volume". [IMG-MIET: Tilopa]
 - "Without the constant change in the state of liquidity on all scales, specifically in FX, I wouldn't be able to trade the way I do... the infrastructure and behaviour of LPs **forces prices into very observable patterns**." [IMG-MIET: Liquidity Dynamics]
 
+### Evidencia externa que EM citaba como base del marco (capturas EM Twits)
+
+EM apoyaba públicamente sus principios en literatura de microestructura — el marco no es solo herencia PTC ni pura observación de charts:
+
+- **Principio 2 (price to the weaker side), soporte empírico directo**: estudio Stanford cs229 (2011) con datos EBS ("main exchange of EURUSD"): "how price goes to the weaker side of bid/ask depth — whichever side had the imbalance". Glosa de EM: "you can have **same volume hitting either side of the spread but price still goes lower or higher, depending on where there's less passive liquidity**." [IMG-TWIT: Screenshot_3]
+- **Principio 1 (volatilidad = f(liquidez)), soporte empírico**: paper de Farmer et al. sobre clustered volatility: los drivers dominantes de colas pesadas y volatilidad clusterizada "fluctuate because of **changes in the balance between liquidity taking and liquidity provision**... typically more important than the number of transactions or their size". [IMG-TWIT: Screenshot_13]
+- **Last look, fuente académica**: Roel Oomen (2016), "Execution in an aggregator" (co-head eFX spot de Deutsche Bank): reject rate por last look, winner's curse/adverse selection de LPs en agregadores. (= el mecanismo que EM enseña en M2020 S12.) [IMG-TWIT: Screenshot_8]
+- **Asimetría informativa de los dealers**: paper del Bank of Canada; glosa de EM: "**LPs know more about price than orders coming in + have capabilities to exploit that**... banks don't need to 'engineer' your stop through black magic — **they can just scalp flow**." [IMG-TWIT: Screenshot_2]
+- Formulación mínima del axioma: "**liquidity =/= volume**". [IMG-TWIT: Screenshot_7]
+- Mecanismo flash-crash en micro (cable, 31-mar-2020): "the book is light overnight and doesn't take much weight to **trigger response functions which evaporate liquidity, even restrict stabilising liquidity from reaching the market**". [IMG-TWIT: Screenshot_9]
+- Cross-asset: "Amazing price action in gold. **And it's all a function of liquidity provision vs liquidity consumption.** You can rationalise 'why' all you want." [IMG-TWIT: Screenshot_10]
+- Beneficio declarado del enfoque: "**interpreting causal reasons for price movement, market state & volatility against a set of governing principles — seeing shifts in strength/weakness in real time**"; "development of understanding isn't a function of reading a few research papers and memorising info — tho it plays a part". [IMG-TWIT: Screenshot_6]
+
 ### Qué NO es el método (delimitación explícita)
 
 - Contra order blocks/breakers (ICT): su lógica asume "trapped traders" especulativos; EM objeta que gran parte de la sell liquidity viene de entidades sin interés direccional ("they just need to transact for operational purposes — that's the FX market"). [VID-M2020: Session 14 @ 00:08:01–00:08:42]
 - El volumen retail no llega al mercado: se internaliza en el broker; el broker cubre su riesgo neto después. [VID-M2020: Session 14 @ 00:08:43–00:09:05]
 - No se predice, se observa: "observe, don't predict"; "I shouldn't go into the territory of forecasting". [VID-M2020: Session 14 @ 00:29:44, 00:33:53]
+- Contra auction market theory: "**good to understand but not applicable to OTC**. Indicative quotes, last look & option to internalise flow (stop it from reaching the market) are reasons why... multiple venues/liquidity is fragmented, price discovery is affected by unequal or inefficient informational systems." Adjunta el hilo "Phantom Liquidity in the Forex Market" (BitScalp, 2018: la misma liquidez duplicada entre ECNs). [IMG-TWIT: Screenshot_12]
