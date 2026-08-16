@@ -64,6 +64,8 @@
 
 "Extensions, ABR, Shelf flips, Midflow, Swing Retest of CLB, Residual Liquidity Base responses — everything is inside there... specify which behaviour you want to trade and form parameters to engage the specific feature — for example trading ABRs or shelf flips or swing retests of CLBs, Void Fills. Eventually will include time of day, timeframe alongside entry & execution parameters, developmental & management parameters." [IMG: Fractals _ Scaling p.8]
 
+- **Contrato legacy incompleto del Swing Retest of CLB (PS02):** QUÉ = retorno al core/origen; selección = base HTF + llegada LTF fina/gap-slip y decisión previa PoR/bottom/base completa/CBP según sample; invalidación = volver a cruzar el entry point/área en un ejemplo, sin stop universal; gestión/targets = `NO ESPECIFICADO EN FUENTES`. [VID-PS: PriceSwing_02 @ 00:04:40–00:07:28] [VID-PS: PriceSwing_02 @ 00:13:20–00:13:41] `SOLO PRICE SWING — NO CONFIRMADO DESPUÉS` como contrato; no constituye setup nuevo.
+
 ## S-08 · Fade de agotamiento en nivel bueno (plantilla de 3 componentes, TE-02)
 
 - **QUÉ describe:** fade simétrico de un bullish/bearish midflow debilitado: una extensión muy ineficiente alcanza un área good/core o fractal apex durante la fase parabólica y rebalancea desde ella. [VID-M2020: Session 13 @ 01:08:51–01:09:10, 01:14:18] [VID-M2020: Session 9 @ 02:00:00–02:00:28]

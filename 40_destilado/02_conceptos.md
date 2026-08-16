@@ -349,14 +349,17 @@
 ### Clean Breaking Point (CBP)
 - **Estado:** confirmado.
 - Punto de ruptura limpia de una liquidity base; "support turns resistance" — suele albergar una base fractal del lado contrario. Componente 11 del esquema CPS. [IMG: Fractals _ Scaling p.2] [IMG: Tracking Unfilled Liquidity p.4]
+- En la formulación Price Swing puede responder antes de que el precio alcance PoR/core; EM lo trata como candidato untested, no entrada obligatoria: si su modelo exige PoR, el CBP response es sencillamente `no trade`. [VID-PS: PriceSwing_02 @ 00:04:40–00:05:24] [VID-PS: PriceSwing_02 @ 00:08:43–00:09:37] `CONFIRMADO/CONSERVADO EN M2020` como morfología; selección sample-dependent.
 
 ### PoR — Point of Release
 - **Estado:** confirmado.
 - Punto donde el precio "se libera" de la liquidity base e inicia el run (componente 2 del esquema CPS; reaparece como componente 12 en el retorno). "Point of release of H1 fractal with parabolic phase also extending." [IMG: Tracking Unfilled Liquidity p.4] [IMG: Trade Example p.4]
+- Genealogía PS02: al acercarse al release se aquietan bodies/volumen, se seca liquidity/volatilidad, el precio construye contra el borde y sale en skinny leg; en condiciones no event-driven puede volver a recoger PoR/top antes de continuar. [VID-PS: PriceSwing_02 @ 00:01:20–00:02:57] `PRECURSOR REFINADO EN M2020`.
 
 ### Skinny leg
 - **Estado:** confirmado.
 - Pierna fina/ineficiente post-release (componente 3 del esquema CPS). "LV & Extension through previous skinny leg." [IMG: Tracking Unfilled Liquidity p.4] [IMG: Fractals _ Scaling p.2]
+- En PS02 es la salida fina una vez superadas las offers del borde; el core que inicia el drive se distingue de las pequeñas acumulaciones residuales dentro de la pierna. [VID-PS: PriceSwing_02 @ 00:02:27–00:03:16] `CONFIRMADO/CONSERVADO EN M2020`.
 
 ### Price pause
 - **Estado:** confirmado.
