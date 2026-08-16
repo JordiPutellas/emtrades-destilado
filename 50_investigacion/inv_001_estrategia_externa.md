@@ -1,3 +1,21 @@
+> MATERIAL EXTERNO — NO ES DOCTRINA, NO ES EVIDENCIA.
+> Documento generado por IA (GPT) el 16-ago-2026 sobre una foto
+> DESACTUALIZADA del repo (afirma 14/16 M2020 y Price Swing
+> pendiente; en realidad el corpus estaba cerrado). No cita
+> fuentes del corpus EMTrades y su contenido es metodología
+> genérica de investigación cuantitativa aplicable a cualquier
+> método discrecional.
+> Utilidad reconocida: dataset de eventos vs trades (§7.3),
+> trial ledger y overfitting de investigación (§7.1, §6.3),
+> elicitación por replay (§5.1-5.2), abstención como estado de
+> primera clase (§4.3).
+> ⚠️ Las fuentes de microestructura son verificables; las
+> referencias recientes de IA (VersionRAG, MME-Finance, FinMR,
+> FinMTM, TimesFM) NO están verificadas y podrían no existir tal
+> como se citan. No usar sin comprobar.
+> NO adoptar su taxonomía de etiquetas: duplicaría la ya
+> normalizada en CLAUDE.md.
+
 # Investigación estratégica para la evolución de EMTrades
 
 **Fecha de cierre de la investigación:** 16 de agosto de 2026  

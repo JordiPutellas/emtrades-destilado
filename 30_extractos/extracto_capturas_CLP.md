@@ -7,7 +7,7 @@
 | Serie | Archivos | Procedencia | Relación / duplicación |
 |---|---|---|---|
 | Esquema maestro CPL | `ED6JtkLXsAEu4X4.png`, `ED6KhxCXoAAsXVw.png` | Base confirmada como **EM/EssFX**: `ED6J...` aparece en el tweet de EM del 8-sep-2019, conservado como miniatura dentro de [IMG-TWIT: Washed iv wti]. La sobreimpresión roja de `ED6K...` es de autor indeterminado. | `ED6K...` es recorte/anotación del esquema `ED6J...`; el original completo aporta más texto y contexto. No son duplicados binarios. |
-| Aplicaciones XAUUSD intradía | `EEBYb6-WsAAp2N-.png`, `EEBZfQxXUAIWxjp.png`, `EEBaBCGXkAIIhpc.png`, `EEBaeyjXUAQIBvn.png`, `EEBe34cXoAEhKWw.png`, `EEBgtXpXUAAoEmR.png` | **EM/EssFX, atribución contextual fuerte**: serie consecutiva de ficheros Twitter, mismo vocabulario/estilo del esquema confirmado y misma secuencia CPL/IV. No hay firma visible individual. | Se complementan: 1m→5m y 30s→5s del mismo tipo de comportamiento; no son duplicados. `EEBe...` añade una posición real visible. |
+| Aplicaciones XAUUSD intradía | `EEBYb6-WsAAp2N-.png`, `EEBZfQxXUAIWxjp.png`, `EEBaBCGXkAIIhpc.png`, `EEBaeyjXUAQIBvn.png`, `EEBe34cXoAEhKWw.png`, `EEBgtXpXUAAoEmR.png` | **EM/EssFX, atribución contextual fuerte**: serie consecutiva de ficheros Twitter, mismo vocabulario/estilo del esquema confirmado y misma secuencia CPL/IV. No hay firma visible individual. | Se complementan: 1m→5m y t30→t5 (gráficos de 30 y 5 TICKS, no segundos — corregido 2026-08-16) del mismo tipo de comportamiento; no son duplicados. `EEBe...` añade una posición real visible. |
 | Ejemplos HTF/LTF adicionales | `EEBhSR1XsAAh-uH.png`, `EEBnCEJWkAMJEdf.png`, `EFyeKT-XkAAP053.png` | `EEBh...` y `EFye...`: **EM/EssFX, atribución contextual fuerte** por continuidad de la serie; `EEBn...`: procedencia indeterminada (sin vocabulario identificador). | Ejemplos distintos en GBPUSD y EURUSD; no duplican material previo. |
 | Washed IV + CPL en EURUSD | `EUR CPL.jpg` | Procedencia indeterminada: usa exactamente el vocabulario de EM, pero la captura no incluye autor/handle y el nombre de carpeta no basta. | Complementa [IMG-TWIT: Washed iv wti]: aquella acredita el nombre del setup y esta muestra con más claridad la forma visual y su enlace con CPL. |
 
@@ -80,7 +80,7 @@ No hay duplicados binarios dentro de CLP ni contra otras capturas del corpus. La
 
 ### [IMG: CLP/EEBgtXpXUAAoEmR.png]
 
-- **Procedencia:** EM/EssFX por atribución contextual fuerte. **Instrumento/TF/fecha:** XAUUSD, 5s, 9-sep-2019 (UTC+1).
+- **Procedencia:** EM/EssFX por atribución contextual fuerte. **Instrumento/TF/fecha:** XAUUSD, **t5 = gráfico de 5 TICKS** (selector "t5" en cabecera y T5 activo en la barra lateral de ticks; reverificado en alta resolución 2026-08-16 — el extracto decía "5s"), 9-sep-2019 (UTC+1).
 - **Clasificación:** material docente.
 - **Anotaciones/visual:** `IV Consumed` en una base extensa con múltiples pickups/respuestas; `CPL` en una respuesta dentro de la caja superior.
 - **Límite:** no aporta ejecución; confirma fractalidad a escala de segundos, no una frecuencia estadística.
