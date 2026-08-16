@@ -103,6 +103,12 @@ Ampliación M2020 (Session 15) — estilo "take my money" y runners:
 13. **Riesgo de cola overnight**: flash spikes en baja liquidez pueden slippear stops masivamente ("probably account gone if over-leveraged") → cuidado con posiciones/órdenes fuera de horario activo. [VID-M2020: Session 15 @ 01:02:21–01:03:28]
 14. **No perseguir niveles no tocados**: "when price misses your level, don't chase — often it will end up spiking to it later". [VID-M2020: Session 15 @ 00:55:12–00:55:30]
 
+Ampliación Twitter (2019-2020, capturas EM Twits):
+15. **Limit en el punto más fino de liquidez, ejemplo real**: "Limit orders at the thinnest point of liquidity #GBPUSD" — panel visible: limit 1.30139, **SL 5 pips, target 25 pips (5R)**, GBPUSD 5min. La ilustración práctica de "trading at the thinnest point of liquidity with limit orders is highest probability entry type". [IMG-TWIT: Thinest point of LQ]
+16. **Regla direccional de dealing ranges para holds**: "until we form a dealing range ABOVE the previous one I'd be v v cautious holding longs — by the time it happens & you get that shift in flow, another shift will be underway" (S&P500, crash COVID). [IMG-TWIT: Dealing Ranges]
+17. **Filtro para faders en volatilidad event-driven**: "differentiate between **responsive and market-state-dependent levels** — will save faders a lot of pain". [IMG-TWIT: Inneficiency]
+18. **Entradas "after high in" en baja volatilidad**: "this is what you can do in **low volatility (relative to recent weeks)** environments"; "volatility always shifting, it's dynamic — in broadly high vol environments you still have periods of vol contraction". [IMG-TWIT: Volatility]
+
 ## Comportamientos de referencia (aún sin setup formalizado)
 
 - **Gaps & rebalances**: "una de las mejores" conductas por consistencia. [PDF: módulo Price Inefficiencies]
@@ -111,3 +117,5 @@ Ampliación M2020 (Session 15) — estilo "take my money" y runners:
 - **Regla de expectancy de S12**: niveles residual+washed pueden responder pero no tienen edge ("you'd much rather wait for the 90/10 than the 60/40" — law of large numbers). [VID-M2020: Session 12 @ 00:22:20–00:27:12]
 - **CPS como setup**: [USUARIO] indica que existe un setup concreto llamado CPS, a trabajar más adelante. NO ESPECIFICADO EN FUENTES procesadas.
 - **Respuesta en core liquidity base**: la mayor respuesta contraria tras un ciclo completo de run+reversión aparece en la core base del run original. [IMG: Price Swings Continued p.3] [IMG: The Price Run p.10]
+- **Template de variaciones de low** (precursor Twitter, jun-jul 2019): "This is a **variation of a low**... there's **2 or 3 other predominant variations for lows** — this is my favourite"; "**inside the accumulation at the low there's at least 5 trades**"; y la variación donde "price **extends a little deeper past the low**" dentro del broader fractal ("look at original template thingy"). Replicado en XAUUSD 1min, GBPUSD y WTI. [IMG-TWIT: Reversal, Reversal 2] [INFERENCIA] Probable precursor del template de 4 variaciones de apex de M2020 (pregunta 4) y de la lección del poke-past-the-low (pregunta 7).
+- **"Washed IV"**: setup nombrado sin definición ("one of my favourite setups... price goes to the weaker side; weakness is a spectrum, never binary"), armado en WTI daily el 15-abr-2020 esperando "a parabolic move lower". [IMG-TWIT: Washed iv wti] Ver entrada en 02_conceptos.md.

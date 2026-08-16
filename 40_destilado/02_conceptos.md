@@ -10,7 +10,7 @@
 
 **Liquidez y entrega:** [Residual liquidity](#residual-liquidity--residual-levels) · [Liquidity void](#liquidity-void--vacuum) · [Chain reaction](#chain-reaction) · [Gap slip](#gap-slip--gapslip) · [Last point of liquidity](#last-point-of-liquidity) · [Rebalance](#rebalance) · [Trending extension fill](#trending-extension-fill-short-extension-fill) · [Feeder](#feeder--feeding-liquidity) · [Volume stability / surge](#volume-stability--relative-volume-surge) · [Breakout PI](#breakout-pi--fractal-breakout-pi) · [Fractal pushing](#fractal-pushing)
 
-**Trading y gestión:** [Midflow / counter flow trading](#midflow-trading--counter-flow-trading) · [Paying for the trade](#paying-for-the-trade) · [Compound](#compound)
+**Trading y gestión:** [Midflow / counter flow trading](#midflow-trading--counter-flow-trading) · [Paying for the trade](#paying-for-the-trade) · [Compound](#compound) · [Dealing range](#dealing-range) · [Responsive vs market-state-dependent levels](#responsive-vs-market-state-dependent-levels) · [Washed IV](#washed-iv)
 
 > El esquema maestro que ordena casi todos estos términos es el **CPS de 13 componentes** [IMG: Tracking Unfilled Liquidity p.4] — ver entrada CPS y `40_destilado/00_indice.md`.
 
@@ -246,7 +246,18 @@
 
 ### Dealing range
 - **Estado:** confirmado (uso).
-- Rango donde "liquidity has stabilised again" tras un desplazamiento; el precio forma dealing ranges sucesivos (escalera) mientras la liquidez lenta institucional construye posición. [IMG-MIET: Gold Ranges 5.1] (Existe captura "Dealing Ranges.png" en EM Twits — procesar.)
+- Rango donde "liquidity has stabilised again" tras un desplazamiento; el precio forma dealing ranges sucesivos (escalera) mientras la liquidez lenta institucional construye posición. [IMG-MIET: Gold Ranges 5.1]
+- Definición explícita + regla direccional (sobre S&P500 en el crash COVID): "These are dealing ranges **in which orders get filled / big positions built / volume builds up. Until we form a dealing range ABOVE the previous one I'd be v v cautious holding longs** — and likely by the time it happens & you get that shift in flow, another shift will be underway." En ese entorno "limits and market orders broadly come in the same direction — **these states don't change quickly, often**". [IMG-TWIT: Dealing Ranges]
+
+### Responsive vs market-state-dependent levels
+- **Estado:** por confirmar (distinción enunciada sin criterios).
+- "Tip would be to **differentiate between responsive and market-state-dependent levels. Will save faders a lot of pain** if you can do this properly" — dicho a raíz de "event driven volatility" que atrapó a "the new InEfFiCiEnCy boys". [IMG-TWIT: Inneficiency]
+- [INFERENCIA] Encaja con la excepción contextual de washed en S14 ("how price arrives") y con las 3 métricas permanentes de S13: hay niveles que responden per se y niveles cuya respuesta depende del estado del mercado (volatilidad/evento). Criterios concretos: NO ESPECIFICADO EN FUENTES.
+
+### Washed IV
+- **Estado:** por confirmar (nombrado sin definición).
+- Setup nombrado: "**Washed IV setting up on WTI — need a parabolic move lower on daily**" (WTI D1, 15-abr-2020; 5 días antes del crudo negativo). Aclaración: "Doesn't mean WTI is bullish, **price just runs through thin spots to nearest yet thickest areas**." Citando su tweet de 8-sep-2019: "**One of my favourite setups. PaTtErN is present everywhere on every timeframe... really really simple — price goes to the weaker side. Weakness (or strength) is a spectrum, it's never binary.**" [IMG-TWIT: Washed iv wti]
+- [INFERENCIA] "IV" sin expandir en fuentes: ¿numeral romano (variación 4 del template de lows — ver 90_preguntas 4/7)? ¿forma "V invertida"? Probablemente el mismo "favourite" del hilo de variaciones de low (jun-2019) [IMG-TWIT: Reversal].
 
 ### Metaorder / slow vs fast liquidity
 - **Estado:** confirmado (uso).
