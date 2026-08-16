@@ -240,6 +240,14 @@
 - **Estado:** por confirmar.
 - "All three levels of unfilled lq gave price responses, all tradeable, two formed HOTW." [PDF: Tracking Unfilled Liquidity p.3]
 
+### Dealing range
+- **Estado:** confirmado (uso).
+- Rango donde "liquidity has stabilised again" tras un desplazamiento; el precio forma dealing ranges sucesivos (escalera) mientras la liquidez lenta institucional construye posición. [IMG-MIET: Gold Ranges 5.1] (Existe captura "Dealing Ranges.png" en EM Twits — procesar.)
+
+### Metaorder / slow vs fast liquidity
+- **Estado:** confirmado (uso).
+- **Metaorder**: orden institucional grande troceada y ejecutada en el tiempo ("'slow' but larger liquidity building out positions over a period of time, usually automated"), que acepta precios peores para encontrar contrapartida. **Fast liquidity** = HFTs, PTFs, LPs — se vuelve aversa en los surges y dispersa la liquidez más allá del área débil. [IMG-MIET: Gold Ranges 5.1, Gold Ranges 1.0]
+
 ### Breakout PI / Fractal Breakout PI
 - **Estado:** confirmado.
 - "Breakout Price Inefficiency after sideways, inside of the broader price swing (**sideways pop into parabolic phase = often precedes highs**)". "Fractal Breakout PIs are components of gap fractals — a highly consistent price behaviour that turn up everywhere; allow us to anticipate a sequence of events (chain reaction) & where voids will develop." [IMG: Fractals _ Scaling p.8]
