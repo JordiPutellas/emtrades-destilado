@@ -118,6 +118,7 @@ Cuatro charts con roles fijos [VID-M2020: Session 15 @ 00:56:22–00:57:45]: **L
 - "STUDY the orderflow and price behaviour RELATIVE to the price swing stage & context & **time of day**." [IMG: Fractals _ Scaling p.11]
 - EM pide validar afirmaciones en vez de aceptarlas: "needs your own validation, go out and test this". [PDF: Price Swings Continued p.8] "One should validate these price behaviours after forming a comprehensive understanding." [PDF: Liquidity Void p.16]
 - **Ejercicio específico de midflow (S8):** construir un sample set, escoger un ejemplo donde todos los buy/sell bases sostengan y anotar state of liquidity, strength/weakness, swings internos, por qué sostiene cada base y qué cambia cuando deja de hacerlo. Priorizar profundidad explicativa sobre cantidad de charts. [VID-M2020: Session 8 @ 01:17:06–01:18:42]
+- **Diagnóstico legacy de price pauses durante el trade:** ante cada pausa, decidir si es core o mid-price-run/residual, qué timeframe gobierna, si precio absorbe o responde, cuánta liquidity trae la llegada y cuánto beneficio abierto queda vulnerable. Es una lista de observación/gestión, no un trigger autónomo. [VID-PS: PriceSwing_04 @ 00:12:44–00:13:18] `CONFIRMADO/CONSERVADO EN M2020` por probabilities shifting.
 
 ## Tolerancia psicológica al riesgo
 

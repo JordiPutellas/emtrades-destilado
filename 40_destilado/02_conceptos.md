@@ -38,7 +38,9 @@
 - Uso en fuente, como precursor de un setup de alta probabilidad: "You have a liquidity base, price runs inefficiently into it **extending past highs after a SWE — high probability**." [PDF: Trade Example p.8]
 - [USUARIO] SWE = **Shelf Wash Extension**.
 - **Genealogía PS03:** EM pronuncia el nombre y dibuja su anatomía mínima: shelf top y bottom picked/washed, seguido de extensión a fresh high. No aporta todavía entrada, invalidación ni target. [VID-PS: PriceSwing_03 @ 00:04:10–00:04:29] [VID-PS: PriceSwing_03 @ 00:20:46–00:21:05] `SOLO PRICE SWING — NO CONFIRMADO DESPUÉS` como término formal; el drain sí fue refinado en M2020.
-- Conexión con el "wash" del shelf: "Only time I will expect price to move through the shelf straight away is **if it is washed** & even then expect some stalling & absorption." [IMG: Trade Example p.5] [INFERENCIA] SWE = barrido del shelf seguido de extensión; Discord, CLP y M2020 Sessions 1-9 quedaron agotados sin definición operativa completa. S9 añade deep/repeated tests sobre inventory/base genérico, no un SWE shelf-specific. Candidatos: M2020 S10-S11; Price Swing como genealogía. [VID-M2020: Session 9 @ 01:23:01–01:38:08]
+- **Definición morfológica PS04:** price retorna al bottom/middle del shelf, después corre a fresh high/low; top y bottom quedan picked, el inventory de la región consumido y la salida se extiende ineficientemente hacia opposing liquidity. Contra una good/profound HTF opposing base, EM busca `breakdown characteristics` y un fade `right past the washed shelf into an area of unfilled liquidity`. [VID-PS: PriceSwing_04 @ 00:04:53–00:05:45] [VID-PS: PriceSwing_04 @ 00:23:42–00:24:14]
+- **Límite:** Price Swing no define esas breakdown characteristics, hard stop ni gestión intermedia. `SOLO PRICE SWING — NO CONFIRMADO DESPUÉS` como nombre/forma; `PRECURSOR REFINADO EN M2020` por drained shelf, parabolic/technical break y S-08. No equivale a toda continuation leg ni a una PI genérica.
+- Conexión con el "wash" del shelf: "Only time I will expect price to move through the shelf straight away is **if it is washed** & even then expect some stalling & absorption." [IMG: Trade Example p.5]
 
 ### BA — Breakout Accumulation
 - **Estado:** confirmado (definición formal en M2020).
@@ -370,6 +372,7 @@
 - **Estado:** confirmado.
 - Pausa tras la skinny leg (componente 4 del esquema CPS); una de las "constituent features of a price run" usadas como confluencia. [IMG: Tracking Unfilled Liquidity p.4] [PDF: Trade Example p.4]
 - Definición temprana operativa: después de romper el shelf/core que sostenía el lado previo, los residual levels ofrecen response/fill pero no desplazan materialmente el nuevo flujo; esa estabilización es price pause. En mid-price-run se espera fill local, no reversal; en core cambia la expectativa. [VID-PS: PriceSwing_03 @ 00:08:10–00:08:54] [VID-PS: PriceSwing_03 @ 00:11:44–00:12:31] `CONFIRMADO/CONSERVADO EN M2020`.
+- **Función dentro de la continuation leg:** el buildup entra cada vez más profundo en la pause, absorbe el nivel y libera otra extensión. Durante un trade debe clasificarse por core/residual, timeframe, respuesta/absorción y fuerza de llegada: puede ser obstáculo/gestión sin implicar reversal. [VID-PS: PriceSwing_04 @ 00:00:00–00:04:53] [VID-PS: PriceSwing_04 @ 00:12:44–00:13:18]
 
 ### Paying for the trade
 - **Estado:** confirmado.
@@ -388,6 +391,7 @@
 - Las áreas "drifty" están típicamente drained (picked muchas veces). [VID-M2020: Session 14 @ 00:16:09]
 - S9 aporta criterios genéricos adicionales: tests profundos/repetidos durante el movimiento drenan el base (`cluster washed`, `washout`); un midflow fuerte no debería penetrar así sus bases y el último base aún no consumido gana relevancia. La fuente habla de inventory/base en general, no define SWE ni un wash shelf-specific. [VID-M2020: Session 9 @ 01:23:01–01:24:46] [VID-M2020: Session 9 @ 01:31:34–01:32:03] [VID-M2020: Session 9 @ 01:37:40–01:38:08]
 - **Cierre cualitativo de `drained shelf/inventory` en S11.2:** repeated/deep tests + menor distancia de cada response/feed + penetración creciente o break del último base = pérdida de capacidad para sostener midflow; un retest posterior puede responder, pero lo hace desde residual weakness y no restaura el inventory. EM no usa `washed` ni lo vincula a SWE, por lo que no fija una definición formal de Shelf Wash Extension. [VID-M2020: Session 11 part 2 @ 00:30:37–00:33:50] [VID-M2020: Session 11 part 2 @ 01:12:26–01:15:38] [VID-M2020: Session 11 part 2 @ 01:23:02–01:24:50]
+- **Criterio shelf-specific temprano PS04:** un shelf está washed cuando top y bottom/middle han sido picked y, por tanto, se ha consumido el inventory de ambos lados de la región antes de la extensión. Es una anatomía binaria dibujada, no un threshold cuantitativo; M2020 conserva/refina el proceso de drain, pero no reutiliza la etiqueta SWE. [VID-PS: PriceSwing_04 @ 00:05:05–00:05:45] [VID-PS: PriceSwing_04 @ 00:23:42–00:24:14] `PRECURSOR REFINADO EN M2020`.
 
 ### OP — Original Pickup
 - **Estado:** confirmado.
