@@ -35,3 +35,5 @@
 | price seeks inequity                      | price seeks liquidity                    |
 | Inventry (contexto chartista)             | inventory                                |
 | temposal rhythms                          | tempos and rhythms                       |
+| TikTok (contexto chart)                   | tick chart                               |
+| efficiencies (`first touch of...`)        | inefficiencies                           |

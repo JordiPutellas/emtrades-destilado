@@ -36,7 +36,7 @@
 - **Estado:** sigla encontrada en fuente (sin expandir); expansión aportada por [USUARIO].
 - Uso en fuente, como precursor de un setup de alta probabilidad: "You have a liquidity base, price runs inefficiently into it **extending past highs after a SWE — high probability**." [PDF: Trade Example p.8]
 - [USUARIO] SWE = **Shelf Wash Extension**.
-- Conexión con el "wash" del shelf: "Only time I will expect price to move through the shelf straight away is **if it is washed** & even then expect some stalling & absorption." [IMG: Trade Example p.5] [INFERENCIA] SWE = barrido del shelf seguido de extensión; Discord, CLP y M2020 Sessions 1-6 quedaron agotados sin definición operativa completa. Candidatos: M2020 S7-S11; Price Swing como genealogía.
+- Conexión con el "wash" del shelf: "Only time I will expect price to move through the shelf straight away is **if it is washed** & even then expect some stalling & absorption." [IMG: Trade Example p.5] [INFERENCIA] SWE = barrido del shelf seguido de extensión; Discord, CLP y M2020 Sessions 1-9 quedaron agotados sin definición operativa completa. S9 añade deep/repeated tests sobre inventory/base genérico, no un SWE shelf-specific. Candidatos: M2020 S10-S11; Price Swing como genealogía. [VID-M2020: Session 9 @ 01:23:01–01:38:08]
 
 ### BA — Breakout Accumulation
 - **Estado:** confirmado (definición formal en M2020).
@@ -197,6 +197,7 @@
 - **Post-shift stage** se usa como sinónimo/etiqueta visual (rectángulos negros tras el shelf). [IMG: Price Swings Continued p.6]
 - **Formulación fundacional de S8:** es una fase del price run y un estado de `one-sided weakness`; buy bases sostienen en bullish midflow y sell bases en bearish. VVF genera corrections contra la fuerza sin cancelar por sí solo el estado. [VID-M2020: Session 8 @ 01:09:45–01:10:45] [VID-M2020: Session 8 @ 01:19:50–01:19:57]
 - Fuerte/activo en el ejemplo = todos los bases válidos sostienen; el consumo profundo/repetido y la primera ruptura del último base que creó un extremo son debilidad. Hay tempos eficientes e ineficientes y conflictos de escala; S8 no entrega clasificador cerrado de todas las variantes. [VID-M2020: Session 8 @ 01:08:18–01:08:35] [VID-M2020: Session 8 @ 01:18:02–01:18:34] [VID-M2020: Session 8 @ 01:19:28–01:20:56]
+- **Tempo operativo en S9:** midflow agresivo = liquidity persiguiendo precio, pullbacks breves y extension fills pequeños; midflow más estable/eficiente = corrections más profundas y mayor viabilidad del counterflow. La clasificación sigue siendo relativa al timeframe y no se reduce a trend/range. [VID-M2020: Session 9 @ 00:47:09–00:55:48]
 
 ### Inventory (chartista)
 
@@ -208,6 +209,7 @@
 
 - Ruptura del último buy/sell base que había empujado el midflow a un nuevo extremo. Es primera evidencia de debilidad del momentum y puede justificar cortar una posición a favor del midflow, pero no obliga a reversal inmediato ni constituye por sí solo un trigger de entrada. [VID-M2020: Session 8 @ 01:25:00–01:25:53]
 - Suele preceder la parabolic spike phase; la lectura depende de la escala porque un break H1 puede vivir dentro de un swing diario activo. No equiparar automáticamente con `market structure break`. [VID-M2020: Session 8 @ 01:25:53–01:27:52]
+- S9 confirma y limita el concepto: puede aparecer pronto y el precio continuar, puede no existir un break limpio y un break menor puede quedar dentro del inventory HTF. Para el fade completo de midflow, EM espera **break + parabolic phase**; el break solo cambia probabilidades, no activa ni confirma por sí mismo. [VID-M2020: Session 9 @ 01:16:49–01:20:40] [VID-M2020: Session 9 @ 01:26:41–01:45:46] [VID-M2020: Session 9 @ 02:01:12–02:02:35]
 
 ### Liquidity base (y sus 3 lados)
 - **Estado:** confirmado (definición formal en M2020).
@@ -310,6 +312,7 @@
 - "The shelf which pushed price into parabolic phase" [IMG: Trade Example p.5]; "sideways pop into parabolic phase = often precedes highs". [IMG: Fractals _ Scaling p.8]
 - Secuencia M2020: primer break de midflow → **sideways** (drena inventario) → **pop = parabólica** ("after the sideways comes the pop"); la parabólica lidera el último tramo antes del retorno al shelf. "**We typically don't see the parabolic leg be a leg of significance — we see a reversal and a shift after it.**" [VID-M2020: Session 13 @ 00:18:55–00:19:57, 01:23:47–01:24:00]
 - Definición microtemporal de Session 4: no es una forma de candlestick, sino el **tempo de impresión**. Frente a ticks espaciados/irregulares, la fase parabólica hace `flash, flash, flash` y es “crazy fast”. La vela agregada puede ocultar esta diferencia; observar tick rate/rhythm. [VID-M2020: Session 4 @ 00:00:00–00:01:31]
+- En S9 la fase parabólica es el último inventario que se consume/drena agresivamente después de la primera debilidad y localiza la mayor probabilidad de exhaustion. Es una condición del fade, no sinónimo de technical break ni garantía de reversal. [VID-M2020: Session 9 @ 01:17:48–01:20:25] [VID-M2020: Session 9 @ 02:00:00–02:02:35]
 
 ### Midflow trading / counter flow trading
 - **Estado:** confirmado (nombres de estilo de trade). Ver 03_setups.md.
@@ -361,6 +364,7 @@
 - Excepción contextual: un área washed puede responder según CÓMO llega el precio — "broke midflow, broke shelf, sideways pop into it" responde más que "strong midflow becoming inefficient into it". "They're both washed but the contextual environment is completely different." [VID-M2020: Session 14 @ 00:35:11–00:35:40]
 - **Regla relativa** (generalización en Discord): "**You can have a relatively weak level and an even weaker move into it — generating response until liquidity absorbs the response and continues.**" La respuesta es función de la fuerza del nivel RELATIVA a la debilidad del movimiento de llegada, no de la calidad absoluta del nivel. [DISCORD: Disc 6]
 - Las áreas "drifty" están típicamente drained (picked muchas veces). [VID-M2020: Session 14 @ 00:16:09]
+- S9 aporta criterios genéricos adicionales: tests profundos/repetidos durante el movimiento drenan el base (`cluster washed`, `washout`); un midflow fuerte no debería penetrar así sus bases y el último base aún no consumido gana relevancia. La fuente habla de inventory/base en general, no define SWE ni un wash shelf-specific. [VID-M2020: Session 9 @ 01:23:01–01:24:46] [VID-M2020: Session 9 @ 01:31:34–01:32:03] [VID-M2020: Session 9 @ 01:37:40–01:38:08]
 
 ### OP — Original Pickup
 - **Estado:** confirmado.
