@@ -10,7 +10,7 @@
 
 **Liquidez y entrega:** [Residual liquidity](#residual-liquidity--residual-levels) · [Liquidity void](#liquidity-void--vacuum) · [Chain reaction](#chain-reaction) · [Gap slip](#gap-slip--gapslip) · [Last point of liquidity](#last-point-of-liquidity) · [Rebalance](#rebalance) · [Trending extension fill](#trending-extension-fill-short-extension-fill) · [Feeder](#feeder--feeding-liquidity) · [Volume stability / surge](#volume-stability--relative-volume-surge) · [Balanced liquidity](#balanced-liquidity--equilibrium) · [Breakout PI](#breakout-pi--fractal-breakout-pi) · [Fractal pushing](#fractal-pushing) · [Latent liquidity / conversion rate](#latent-liquidity--conversion-rate) · [SR / SR flip](#sr--sr-flip)
 
-**Trading y gestión:** [Midflow / counter flow trading](#midflow-trading--counter-flow-trading) · [Paying for the trade](#paying-for-the-trade) · [Compound](#compound) · [Dealing range](#dealing-range) · [Responsive vs market-state-dependent levels](#responsive-vs-market-state-dependent-levels) · [Washed IV](#washed-iv) · [Momentum](#momentum-definición-y-taxonomía)
+**Trading y gestión:** [Midflow / counter flow trading](#midflow-trading--counter-flow-trading) · [Paying for the trade](#paying-for-the-trade) · [Compound](#compound) · [Dealing range](#dealing-range) · [Responsive vs market-state-dependent levels](#responsive-vs-market-state-dependent-levels) · [CPL](#cpl--consumption-response-leg) · [Washed IV](#washed-iv) · [Momentum](#momentum-definición-y-taxonomía)
 
 > El esquema maestro que ordena casi todos estos términos es el **CPS de 13 componentes** [IMG: Tracking Unfilled Liquidity p.4] — ver entrada CPS y `40_destilado/00_indice.md`.
 
@@ -263,9 +263,16 @@
 - [INFERENCIA] Encaja con la excepción contextual de washed en S14 ("how price arrives") y con las 3 métricas permanentes de S13: hay niveles que responden per se y niveles cuya respuesta depende del estado del mercado (volatilidad/evento). Criterios concretos: NO ESPECIFICADO EN FUENTES.
 
 ### Washed IV
-- **Estado:** por confirmar (nombrado sin definición).
+- **Estado:** confirmado operativamente; expansión literal de `IV` no escrita.
 - Setup nombrado: "**Washed IV setting up on WTI — need a parabolic move lower on daily**" (WTI D1, 15-abr-2020; 5 días antes del crudo negativo). Aclaración: "Doesn't mean WTI is bullish, **price just runs through thin spots to nearest yet thickest areas**." Citando su tweet de 8-sep-2019: "**One of my favourite setups. PaTtErN is present everywhere on every timeframe... really really simple — price goes to the weaker side. Weakness (or strength) is a spectrum, it's never binary.**" [IMG-TWIT: Washed iv wti]
-- [INFERENCIA] "IV" sin expandir en fuentes: ¿numeral romano (variación 4 del template de lows — ver 90_preguntas 4/7)? ¿forma "V invertida"? Probablemente el mismo "favourite" del hilo de variaciones de low (jun-2019) [IMG-TWIT: Reversal].
+- La serie etiqueta la zona como `Fractal IV`, `IV Consumed` y `Washed IV`. EM explica: "**Price consuming the inventory, weakening the area. Goes deep into it, better yet it pokes past it**". Por tanto, `IV` refiere operativamente al **inventario** (no al numeral cuatro) y `washed` a su consumo/debilitamiento por tests y penetraciones; la expansión literal de las letras no está escrita. [IMG: CLP/ED6JtkLXsAEu4X4.png] [IMG: CLP/EEBYb6-WsAAp2N-.png] [IMG: CLP/EEBe34cXoAEhKWw.png] [IMG: CLP/EUR CPL.jpg]
+- Forma/setup: tras separarse el precio de la zona consumida en una CPL, EM busca fade de esa pierna vulnerable; el recorrido esperado atraviesa el inventario débil hacia la zona restante más gruesa. Entrada exacta, invalidación y gestión intermedia: NO ESPECIFICADO EN FUENTES. [IMG: CLP/ED6JtkLXsAEu4X4.png]
+
+### CPL — Consumption response leg
+
+- **Estado:** confirmado; expansión literal escrita por EM: `CPL - consumption response leg`. [IMG: CLP/ED6JtkLXsAEu4X4.png]
+- Pierna de respuesta que consume/penetra inventario. Cuando el precio se separa de la consumption en la CPL, esa pierna suele quedar vulnerable: "**once price runs off the consumption in the CPL im looking to fade**"; cualquier liquidez que quede dentro de la response leg por debajo del punto que consumió el inventario es "**generally very weak**". [IMG: CLP/ED6JtkLXsAEu4X4.png]
+- Visualmente aparece en XAUUSD 5s/30s/1m/5m, GBPUSD 5m/D1 y EURUSD D1, a ambos lados del mercado; la fuente la presenta como fractal, no ligada a un instrumento/TF. [IMG: CLP/EEBYb6-WsAAp2N-.png] [IMG: CLP/EEBaBCGXkAIIhpc.png] [IMG: CLP/EEBgtXpXUAAoEmR.png] [IMG: CLP/EEBhSR1XsAAh-uH.png] [IMG: CLP/EFyeKT-XkAAP053.png] [IMG: CLP/EUR CPL.jpg]
 
 ### Latent liquidity / conversion rate
 - **Estado:** confirmado (definido en Discord con esquema propio).

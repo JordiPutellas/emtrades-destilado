@@ -67,6 +67,14 @@
 - **CÓMO gestiona:** mantener solo mientras el precio "continuously reflects the weakness"; si rompe midflow en contra y hace pop → cortar o descargar. Hora del día pondera: tarde = tomar beneficio (la estabilización overnight puede atravesar el nivel); mañana/mediodía = mantener e incluso añadir. [VID-M2020: Session 13 @ 01:21:42–01:22:07, 01:18:27–01:19:07]
 - Distinción crítica de expectancy: mismo patrón contra **residual** (sin nivel real) = trade distinto y peor "over a thousand samples" — el nivel golpeado ES el parámetro. [VID-M2020: Session 13 @ 01:14:56–01:15:46, 01:36:19–01:37:40]
 
+## S-09 · Fade de Washed IV / CPL
+
+- **QUÉ describe:** el precio consume repetidamente un inventario, entra profundo o hace poke past y debilita el área (`IV Consumed` / `Washed IV`). Al separarse de esa consumption mediante una **CPL (consumption response leg)**, la pierna queda vulnerable; el precio puede rip through la zona débil hasta el inventario restante más grueso. [IMG: CLP/ED6JtkLXsAEu4X4.png] [IMG: CLP/EUR CPL.jpg]
+- **CUÁNDO entra:** "**once price runs off the consumption in the CPL im looking to fade**". EM dice haber desarrollado parámetros para cuándo/dónde entrar y la naturaleza del nivel, pero no los muestra. Trigger exacto y tipo de nivel: **NO ESPECIFICADO EN FUENTES**. [IMG: CLP/ED6JtkLXsAEu4X4.png]
+- **DÓNDE invalida:** **NO ESPECIFICADO EN FUENTES**.
+- **CÓMO gestiona:** target declarado "**past the consumed inventory**" / hacia "**the nearest yet thickest area of remaining liquidity/inventory**". Parciales, BE y trailing: **NO ESPECIFICADO EN FUENTES**. La fuente ilustra además un segundo short agresivo cuando se secan los bids y el inventario vendedor devuelve el precio por el bid vacuum a la base fractal; trigger/invalidation de esa variante no se especifican. [IMG: CLP/ED6JtkLXsAEu4X4.png]
+- **Ejemplo real incompleto:** XAUUSD 30s, 9-sep-2019: `IV Consumed` → CPL alcista → short visible desde ~1514.88 con stop ~1515.46 y beneficio abierto; la captura no muestra cierre ni acredita dentro de la imagen al titular, por lo que no se generalizan cifras. [IMG: CLP/EEBe34cXoAEhKWw.png]
+
 ## Response areas de alta probabilidad (lista explícita de EM)
 
 "Look for areas where responses are highly likely with specific parameters, for example:" [PDF: Trade Example p.8]

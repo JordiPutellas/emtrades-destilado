@@ -42,7 +42,7 @@ Uso: "Identify liquidity, use CPS to navigate through price & manage the trade."
 
 ## Qué se opera (estado actual)
 
-Setups S-01…S-08 + catálogo de EM (ABRs, shelf flips, swing retests de CLBs, void fills, midflow) + response areas de alta probabilidad + reglas de gestión del trade real de 2019 (stop 10 pips, shelf como primer target, "paying for the trade", stop a invalidación, compounds): [03_setups](03_setups.md) y [05_trade_examples](05_trade_examples.md).
+Setups S-01…S-09 —incluido Washed IV/CPL— + catálogo de EM (ABRs, shelf flips, swing retests de CLBs, void fills, midflow) + response areas de alta probabilidad + reglas de gestión del trade real de 2019 (stop 10 pips, shelf como primer target, "paying for the trade", stop a invalidación, compounds): [03_setups](03_setups.md) y [05_trade_examples](05_trade_examples.md).
 
 Calibración clave: la MISMA zona es alta probabilidad con entrega ineficiente hacia ella (mejor aún tras SWE) y baja probabilidad con entrega eficiente.
 
@@ -54,6 +54,6 @@ Itinerario de 3 pasos formalizado en M2020 S15: (1) aprender a ver swings, (2) a
 
 - ✅ 17/17 PDFs procesados (extractos en `30_extractos/`).
 - ✅ 26/26 vídeos transcritos (27,4 h; 693 frames). Destilados 4/16 M2020 (S12-S15); pendientes 12 M2020 + 10 Price Swing.
-- ✅ Discord 129/129 procesado en `extracto_discord_01..09.md`. Capturas totales: 225/237 procesadas; solo queda CLP (12).
-- Prioridades restantes: CPS-como-setup; definición operativa de SWE/washed y Washed IV; template formal de 4 apexes; poke past the low del OP; reglas YO/WO/MO; responsive-vs-market-state-dependent; fractal pushing; HOTW; y momentum trade como setup.
+- ✅ Corpus visual completo: 237/237 capturas procesadas (incluye Discord 129/129 y CLP 12/12).
+- Prioridades restantes: CPS-como-setup; definición operativa de SWE y criterio shelf-specific de washed; parámetros de ejecución del modelo Washed IV/CPL; template formal de 4 apexes; poke past the low del OP; reglas YO/WO/MO; responsive-vs-market-state-dependent; fractal pushing; HOTW; y momentum trade como setup.
 - Dudas vivas: [90_preguntas_abiertas](90_preguntas_abiertas.md) · Conflictos: [91_contradicciones](91_contradicciones.md) · Ideas BTC (aparcadas): [92_ideas_btc](92_ideas_btc.md).

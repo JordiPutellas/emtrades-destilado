@@ -59,6 +59,7 @@ Estabilidad de volumen (low liquid state) → surge relativo en un lado → run 
 
 - Al golpear un liquidity void el comportamiento del precio cambia y el movimiento se agrava (compound): el run se hace más y más fino "like a chewing gum stretching out and breaking", hasta secarse o ser absorbido. [PDF: Liquidity Void p.1, p.5]
 - Tras secarse, POR la forma ineficiente en que se entregó, el precio "sangra" a través del void y rebalancea "to the nearest yet thickest area" / "last point of liquidity". Esto es una restricción de microestructura, independiente de tendencia o sentimiento. [PDF: Liquidity Void p.5, p.12]
+- **El consumo repetido debilita el inventario:** "Price consuming the inventory, weakening the area. Goes deep into it, better yet it pokes past it". Después, el precio puede atravesar esa zona débil "to the nearest yet thickest area of remaining liquidity/inventory"; la liquidez que quede dentro de la response leg que consumió el inventario es "generally very weak". [IMG: CLP/ED6JtkLXsAEu4X4.png]
 - Ocurre "all day long" a todas las escalas. [IMG: Liquidity Void p.7]
 - Event-driven: ante datos/CB speak/NFP la liquidez se aleja del precio/TOB → cualquier peso pequeño causa spike ineficiente, igualmente sujeto a rebalance. PERO una sorpresa grande vs consenso puede hacer que el precio siga repricing agresivamente un tiempo — anotar consenso y resultado. [PDF: Liquidity Void p.11]
 
