@@ -26,7 +26,7 @@ El precio es una función de la liquidez disponible: la volatilidad sube donde l
                                                                           flujo se absorben)
 ```
 
-- **LLS** (estado por defecto, ~80% del tiempo; fractal; por horario, pre-datos o macro): [01_principios](01_principios.md), concepto [LLS](02_conceptos.md).
+- **LLS** (estado por defecto; fractal; por horario, pre-datos o macro): [01_principios](01_principios.md), concepto [LLS](02_conceptos.md). ⚠️ El "~80% del tiempo" es un claim **NO VALIDADO** en el corpus — posible lore de Lori/PTC: jarredroyce lo cita como enseñanza de Lori ("80%") en [DISCORD: Inefficiency conversation]; ver [90_preguntas_abiertas q12](90_preguntas_abiertas.md).
 - **Run** y su mecanismo institucional (troceo de órdenes, price-chasing, overshoot; corroboración parcial [PAPER]): [01_principios](01_principios.md).
 - **Void / chain reaction** y dónde esperarlos (distinct levels: past shelf, H/L diario-semanal-mensual, rangos LLS): [01_principios](01_principios.md), [02_conceptos](02_conceptos.md).
 - **Apex → shelf flip → shift → midflow** (midflow es una EXPECTATIVA: si no aparece, reevaluar): [02_conceptos](02_conceptos.md).
@@ -39,6 +39,16 @@ El precio es una función de la liquidez disponible: la volatilidad sube donde l
 `1 Liquidity Base → 2 Point of Release → 3 Skinny Leg → 4 Price Pause (Shelf Bottom) → 5 Continuation Leg → 6 Consolidation Apex → 7 Retest H/L → 8 Apex Base (break) Retest → 9 Shelf Top/Bottom Retest → 10 Gap Slip → 11 Clean Breaking Point → 12 PoR (vuelta) → 13 Liquidity Base Bottom`
 
 Uso: "Identify liquidity, use CPS to navigate through price & manage the trade." Glosario completo con índice: [02_conceptos](02_conceptos.md).
+
+## Jerarquía de niveles (qué responde, qué se drena)
+
+Todos los niveles son liquidity bases, pero no equivalentes: **core** (base de origen del run; máxima respuesta al retorno; "every single apex is classed as core liquidity relative to the timeframe of the price run") frente a **residual** (pockets débiles cuyo criterio es densidad relativa; sus respuestas se absorben en midflow), más los tipos por ubicación: **OP, feeder, BA, shelf/inventory y shifting point**. El drain es funcional, no binario: repeated grabs, deep tests y feeds que empujan cada vez menos consumen el inventario hasta el break; tras él, los intentos residuales se secan rápido. Definiciones y reglas de drain: [02_conceptos](02_conceptos.md).
+
+## Capa de microestructura (por qué el mecanismo es ese)
+
+Debajo del marco hay una capa de mercado real: FX es OTC quote-driven (last look, internalización, liquidez fragmentada/phantom) frente a exchange order-driven; el único absoluto operativo es el **market-to-limit-order ratio** (el precio puede subir habiendo más vendedores que compradores); y la mayor parte de la liquidez es **latente/oculta**, con un **conversion rate** que decide si un nivel absorbe el movimiento o queda open book (M2020 S1–S3, S12 + Discord). [01_principios](01_principios.md) · [02_conceptos](02_conceptos.md).
+
+Eje transversal de ejecución no dibujado arriba: **inventory / technical break / first touch vs retest** (S8–S11) — es el eje sobre el que pivota S-08 hoy ([03_setups](03_setups.md)).
 
 ## Qué se opera (estado actual)
 
