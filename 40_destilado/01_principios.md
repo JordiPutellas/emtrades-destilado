@@ -43,6 +43,29 @@ Estabilidad de volumen (low liquid state) → surge relativo en un lado → run 
 - Los shelves son relativos a su timeframe: un shelf de 5min no afecta a un swing H1+; los shelves menores son el inventario de los swings fractales internos. [PDF: Price Swings Continued p.8]
 - Mayor escala = más liquidez acumulada: "bigger shelf flips = bigger shifts in momentum, but bigger shelfs hold more liquidity — more work, more time". [PDF: Price Swings Continued p.10]
 
+### Chain reaction (void → estiramiento → rebalance)
+
+- Al golpear un liquidity void el comportamiento del precio cambia y el movimiento se agrava (compound): el run se hace más y más fino "like a chewing gum stretching out and breaking", hasta secarse o ser absorbido. [PDF: Liquidity Void p.1, p.5]
+- Tras secarse, POR la forma ineficiente en que se entregó, el precio "sangra" a través del void y rebalancea "to the nearest yet thickest area" / "last point of liquidity". Esto es una restricción de microestructura, independiente de tendencia o sentimiento. [PDF: Liquidity Void p.5, p.12]
+- Ocurre "all day long" a todas las escalas. [IMG: Liquidity Void p.7]
+- Event-driven: ante datos/CB speak/NFP la liquidez se aleja del precio/TOB → cualquier peso pequeño causa spike ineficiente, igualmente sujeto a rebalance. PERO una sorpresa grande vs consenso puede hacer que el precio siga repricing agresivamente un tiempo — anotar consenso y resultado. [PDF: Liquidity Void p.11]
+
+### Low Liquidity State (LLS): el estado por defecto
+
+- El precio contrae en áreas de volumen bajo y estable (menor tick frequency) cuando la liquidez se retira: fin de día, Asia, pre-datos, incertidumbre; en HTF, por macro/espera de dirección. [PDF: Low Liquidity State p.1, p.9] [IMG: p.4]
+- También entra en LLS "anywhere & everywhere, generally after pickups of liquidity, apexes, during price pauses of a broader price run". [PDF: Variable Volume Flow p.4]
+- En LLS el precio es máximamente susceptible a un run hacia CUALQUIER lado, incluso contra sentimiento. El pop solo necesita volumen nuevo mayor que el transaccionado EN ESE MOMENTO. [PDF: Low Liquidity State p.2, p.5, p.9]
+- Ciclo perpetuo en todos los TF: LLS → run ineficiente → secado → rebalance a base → nuevo LLS. "Price move, sideways, price move, sideways is trending structure, on ALL timeframes." [PDF: Low Liquidity State p.3] [IMG: p.4]
+- Cuanto más dura el LLS, mayor tiende a ser el movimiento de salida. [IMG: Low Liquidity State p.4]
+- Los LLS son fractales y se forman sobre LLS previos. [PDF: p.5] [IMG: p.7]
+- "Price tends to range 80% of the time and move 20% of the time — prices generally draw back into ranges." [PDF: Low Liquidity State p.9]
+
+### Liquidity Imbalance Continuum (diagnóstico de todo movimiento)
+
+- Todo movimiento se genera entre dos condiciones extremas de un espectro: (1) **exhaustion** del lado que empujaba tras dejar void/ineficiencia — el estado natural de venta basta para rebalancear; (2) **presión genuina** con convicción (post shift bajo apex base). El precio se mueve de un extremo al otro del continuum prácticamente todo el tiempo. [PDF: Liquidity Imbalance continuum p.1]
+- Implicación de gestión: saber en qué extremo del continuum está el trade — un short de extensión agotada es un trade de fill de pierna débil, no de tendencia. [PDF: Liquidity Imbalance continuum p.2]
+- En tendencia: patrón "extension, fill, extension, fill" — cada rebalance contra tendencia encuentra liquidez a favor y empuja a nuevos extremos (trending extension fill ≠ reversal). [PDF: Liquidity Imbalance continuum p.1] [IMG: Liquidity Void p.15]
+
 ### Estados y shifts de liquidez
 
 - El swing avanza alimentándose del shelf más cercano hasta que este no puede sostener el run; superar un shelf tras consumir la liquidez opuesta produce un **shift in the state of liquidity**: el otro lado toma el control. [PDF: Price Swings Continued p.8]

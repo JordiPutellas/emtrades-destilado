@@ -27,6 +27,24 @@
 - **CUÁNDO entra:** NO ESPECIFICADO EN FUENTES (clave declarada: saber DÓNDE y CUÁNDO el run HTF probablemente se seca — HTF pocket of liquidity + anatomía del top, incl. parabolic phase). [IMG: Price Swings Continued p.14]
 - **DÓNDE invalida / CÓMO gestiona:** NO ESPECIFICADO EN FUENTES.
 
+## S-05 · Fade de void spike / extensión más allá de H-L
+
+- **QUÉ describe:** el precio se extiende ineficientemente más allá de un high/low/shelf golpeando un liquidity void (los stops pueden agravar el surge), se estira, se seca y rebalancea "back to the last point of liquidity". "We like to fade inefficiency & extensions past highs & lows." "The inefficient spike and rebalance after hitting liquidity void is a highly consistent price behaviour, one we will use to catch highs and lows and also counter trend trades." [PDF: Liquidity Void p.6, p.12] [IMG: p.8]
+- **CUÁNDO entra:** NO ESPECIFICADO EN FUENTES como trigger. Restricción explícita: "not all are tradeable, our job is to spot & trade the ones that are"; "sometimes the extension is big enough to take counter trend trade, often it's not". [PDF: Liquidity Void p.12, p.16]
+- **DÓNDE invalida:** NO ESPECIFICADO EN FUENTES como regla de stop. Criterio condicional sobre el shelf del rebalance (Gold 2min): "If price starts trading back below this red box (shelf), we are likely to see lower prices. If it can still hold this red box and continue to new highs, all depends on broader state of liquidity." [IMG: Liquidity Void p.8]
+- **CÓMO gestiona:** target implícito = last point of liquidity / pierna débil. Diagnóstico obligatorio del continuum: si el movimiento es fill de extensión en tendencia, NO esperar giro ("trending extension fill ≠ reversal"). [PDF: Liquidity Void p.15–16; Liquidity Imbalance continuum p.2]
+- **Contexto event-driven:** los spikes de datos son fadeables por la misma mecánica, SALVO sorpresa grande vs consenso (repricing agresivo sostenido) — anotar consenso y resultado. [PDF: Liquidity Void p.11]
+
+## S-06 · Operar alrededor del LLS
+
+- **QUÉ describe:** el LLS es el estado previo al price run; "LLS = opportunity not only before the break but during and after = price run & rebalances". [PDF: Low Liquidity State p.9]
+- **CUÁNDO entra:** dos plantillas [PDF: Variable Volume Flow p.4]:
+  1. Anticipación: "when price is in a low liq state forming in a desirable place ie after picking up a nice buy base with weakness on sell side — take trades there in anticipation of fill/run higher".
+  2. Fade: "fade the actual extension out of the liquidity base, as the price run dries off... extended past a high into a feeder = potential short".
+  El propio material avisa: "this isn't explaining HOW we will trade this". Triggers: NO ESPECIFICADO EN FUENTES.
+- **DÓNDE invalida:** NO ESPECIFICADO EN FUENTES.
+- **CÓMO gestiona:** NO ESPECIFICADO EN FUENTES. Regla de ubicación: "we want to do our business whilst price is in the low liquidity state, anticipating which side is weaker & thus where price is likely to break (more on this during trade examples & trade management)". [PDF: Low Liquidity State p.9]
+
 ## Comportamientos de referencia (aún sin setup formalizado)
 
 - **Gaps & rebalances**: "una de las mejores" conductas por consistencia. [PDF: módulo Price Inefficiencies]

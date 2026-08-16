@@ -22,8 +22,11 @@
 - Es un punto de shift; sus tres zonas (top/middle/bottom) generan respuestas cuando el precio vuelve.
 
 ### LLS — Low Liquidity State
-- **Estado:** confirmado (nombre); definición completa pendiente del módulo Price Delivery.
-- "Almost endlessly price goes into a low, stable volume area of trading — referred to as **low liquid state (on all timeframes)**, which is subject to a shot of liquidity/volume on one side. (More on Low Liq State in Price Delivery folder)." [PDF: The Price Run p.5]
+- **Estado:** confirmado.
+- Área de contracción del precio con volumen bajo y estable y menor tick frequency, formada cuando la liquidez se retira del mercado (fin de día, Asia, pre-datos, incertidumbre; en HTF por macro). [PDF: Low Liquidity State p.1, p.9]
+- También se forma tras pickups de liquidez, apexes y pausas de runs mayores. [PDF: Variable Volume Flow p.4]
+- En LLS el precio es máximamente susceptible a un run hacia cualquier lado (incluso contra sentimiento): basta volumen nuevo mayor que el transaccionado en ese momento → pop ("contraction leads to expansion"). Fractal: LLS dentro de LLS, y los nuevos se forman sobre los previos. [PDF: Low Liquidity State p.2, p.5] [IMG: p.4, p.7]
+- "LLS = opportunity not only before the break but during and after = price run & rebalances." [PDF: Low Liquidity State p.9]
 
 ### PI — Price Inefficiency
 - **Estado:** confirmado.
@@ -87,8 +90,34 @@
 - Etiquetado sobre el tramo en que el precio "gaps through on the way down" al atravesar el void dejado por los bids. [IMG: Price Swings Continued p.3]
 
 ### Liquidity void / vacuum
-- **Estado:** confirmado (uso); definición formal pendiente (Price Delivery: Liquidity Void.pdf).
-- Vacío que deja detrás un run fino; canal por el que el precio rebalancea al secarse el flujo. [PDF: The Price Run p.1, p.8] [IMG: p.6, p.10]
+- **Estado:** confirmado.
+- "Areas in price where there is less liquidity or a complete void." Cuando el precio golpea uno, agrava (compound) el movimiento en curso y dispara la **chain reaction**. [PDF: Liquidity Void p.6, p.1]
+- Ubicaciones probables ("**distinct levels**"): más allá de un shelf, de highs/lows (del día, semana, mes, swings — con stops que agravan el surge), shelf inventory y rangos de LLS. [PDF: Liquidity Void p.6] [IMG: p.13]
+- El que deja detrás un run fino es el canal por el que el precio rebalancea al secarse el flujo. [PDF: The Price Run p.1, p.8]
+
+### Chain reaction
+- **Estado:** confirmado.
+- Secuencia: precio golpea void → el movimiento se agrava y adelgaza ("chewing gum stretching out and breaking") → se seca o es absorbido → por la forma ineficiente de la entrega, sangra de vuelta por el void y rebalancea al área más cercana y gruesa. Restricción de microestructura independiente de tendencia/sentimiento. [PDF: Liquidity Void p.5]
+
+### Last point of liquidity
+- **Estado:** confirmado (uso).
+- Target natural del rebalance tras un void spike: "price is subject to a rebalance back to the last point of liquidity". [PDF: Liquidity Void p.12] [IMG: p.8]
+
+### Liquidity Imbalance Continuum
+- **Estado:** confirmado.
+- Espectro entre las 2 condiciones que generan cualquier movimiento: **exhaustion** (secado del lado que empujaba tras void/ineficiencia; el estado natural del flujo contrario basta para rebalancear) vs **presión genuina** (convicción post-shift). El precio transita el continuum casi todo el tiempo; hay que saber en qué extremo se toma cada trade (gestión). [PDF: Liquidity Imbalance continuum p.1–2]
+
+### Trending extension fill (short extension fill)
+- **Estado:** confirmado.
+- En tendencia, el fill de una extensión "aka short extension fill — no reversal, just rebalance to find sellers": los rebalances contra tendencia encuentran liquidez a favor y el precio sigue a nuevos extremos. No confundir fill con giro. [IMG: Liquidity Void p.15] [PDF: p.16]
+
+### Feeder
+- **Estado:** por confirmar (usado sin definición).
+- "After price has ran a fair bit, extended past a high into a feeder = potential short." [PDF: Variable Volume Flow p.4] → buscar definición en vídeos/Discord.
+
+### TOB — Top of Book
+- **Estado:** confirmado (uso estándar de microestructura).
+- "Around big data... we see liquidity draw further away from price/TOB." [PDF: Liquidity Void p.11]
 
 ### Rebalance
 - **Estado:** confirmado.

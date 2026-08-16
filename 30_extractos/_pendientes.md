@@ -12,11 +12,11 @@
   - Price Swing Basics video.pdf → `extracto_price_swing_basics_video.md`
   - Price Swings Continued.pdf → `extracto_price_swings_continued.md`
   - The Price Run.pdf → `extracto_the_price_run.md`
-- [ ] **Price Delivery** (4 PDFs)
-  - Liquidity Imbalance continuum video.pdf
-  - Liquidity Void.pdf
-  - Low Liquidity State.pdf
-  - Variable Volume Flow Video.pdf
+- [x] **Price Delivery** (4 PDFs) — procesado 2026-08-16, ver extractos individuales
+  - Liquidity Imbalance continuum video.pdf → `extracto_liquidity_imbalance_continuum.md`
+  - Liquidity Void.pdf → `extracto_liquidity_void.md`
+  - Low Liquidity State.pdf → `extracto_low_liquidity_state.md`
+  - Variable Volume Flow Video.pdf → `extracto_variable_volume_flow.md` (p.2 y p.5 duplican diapositivas de The Price Run)
 - [ ] **Fractals** (2 PDFs)
   - Fractal _ Shift Basics.pdf
   - Fractals _ Scaling.pdf

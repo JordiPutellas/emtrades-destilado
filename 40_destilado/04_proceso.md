@@ -11,6 +11,10 @@
 
 ## Lectura en tiempo real (mencionado, por desarrollar)
 
+- Diagnóstico previo a todo trade: ¿en qué extremo del liquidity imbalance continuum está el movimiento (exhaustion/rebalance vs presión con convicción)? Determina la gestión y el target. [PDF: Liquidity Imbalance continuum p.2]
+- Ubicación: hacer el negocio mientras el precio está en LLS, anticipando el lado débil y por dónde romperá. [PDF: Low Liquidity State p.9]
+- En eventos de datos: anotar consenso y resultado — sorpresa grande = repricing sostenido, no fade. [PDF: Liquidity Void p.11]
+
 - Saber DÓNDE y CUÁNDO un run HTF probablemente se seca: HTF pocket of liquidity + anatomía del top/bottom (parabolic phase, etc.). [IMG: Price Swings Continued p.14]
 - "Drawing & refining levels of unfilled liquidity will be covered later" → módulo Process (Tracking Unfilled Liquidity Presentation.pdf). [PDF: Price Swings Continued p.12]
 - El "CÓMO" se mueve el precio determina la gestión del trade y las expectativas. [IMG: GBPUSD 5min, módulo Price Inefficiencies]

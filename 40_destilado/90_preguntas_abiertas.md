@@ -17,4 +17,8 @@
 8. **"Drawing & refining levels of unfilled liquidity"** — anunciado "later" [PDF: Price Swings Continued p.12] → Tracking Unfilled Liquidity Presentation.pdf (Process).
 9. **Claim a testear en validación:** "an apex that holds inside the shelf without draining or invalidating it is less likely to hold price down" — el propio EM pide validarlo [PDF: Price Swings Continued p.8].
 10. **¿Qué es exactamente "fractal pushing"?** — usado sin definición [PDF: módulo Price Inefficiencies].
-11. **Vídeo asociado a The Price Run**: la portada dice "Video on this lesson in Price Delivery folder" — al transcribir vídeos, mapear qué vídeo corresponde a esta lección.
+11. **Mapeo lección↔vídeo**: The Price Run dice "Video on this lesson in Price Delivery folder"; "Liquidity Imbalance continuum video.pdf" y "Variable Volume Flow Video.pdf" son notas de vídeos. Al transcribir, identificar qué vídeo corresponde a cada PDF.
+12. **¿Qué es un "feeder"?** — "extended past a high into a feeder = potential short" [PDF: Variable Volume Flow p.4]. Sin definir en PDFs.
+13. **Criterio de extensión suficiente para counter-trend** — "sometimes the extension is big enough to take counter trend trade, often it's not" [PDF: Liquidity Void p.16]: ¿cómo se decide? → trade examples/vídeos.
+14. **Cómo anticipar el lado débil del LLS** — prometido en "trade examples & trade management" [PDF: Low Liquidity State p.9] → módulo Process.
+15. **"80% range / 20% move"** — ¿regla empírica de EM o cita externa? Relevante para la fase de validación estadística.
