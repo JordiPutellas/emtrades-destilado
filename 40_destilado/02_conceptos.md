@@ -264,6 +264,7 @@
 - **Estado:** confirmado (definido en Discord con esquema propio).
 - Esquema "**Visible orderbook vs Real orderbook**": el libro real esconde órdenes mucho mayores — "**traders hide orders to limit information leakage**... much more volume is traded vs available [visible] liquidity → participants hide orders and **only reveal after they've been clipped or as price approaches levels — conversion rate. Conversion of latent liquidity is a huge influence on LP behaviour or subsequent price behaviour.**" "Effect more pronounced in centrally traded products but the **information game is played in all markets**." [DISCORD: Disc 21, 21.1]
 - Los movimientos de largo plazo son función de esta liquidez lenta/latente: "long term moves are functions of slower liquidity aka **latent distribution** — the normal digesting forces that dont turn up". [DISCORD: Disc 20]
+- Vale también fuera de OTC: "[en futuros tampoco la ves] — **most liquidity is hidden. It shows up over time and has a conversion rate which varies.**" [DISCORD: answers]
 
 ### SR / SR flip
 - **Estado:** confirmado (uso).
