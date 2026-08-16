@@ -27,7 +27,8 @@
 - Uso operativo: "Identify liquidity, use CPS to navigate through price & manage the trade." [PDF: Tracking Unfilled Liquidity p.4] "Use CPS features to determine selling continuation points." [PDF: Liquidity Imbalance continuum p.1]
 - **Genealogía Price Swing:** EM lo llama `the framework that price moves in`; pide escoger un feature, construirle parámetros/sample set y convertir **ese feature** en trade. PS01 confirma que CPS es el mapa, no un setup único. [VID-PS: PriceSwing_01 @ 00:00:14–00:00:19] [VID-PS: PriceSwing_01 @ 00:05:13–00:06:03] `CONFIRMADO/CONSERVADO EN M2020`.
 - **Síntesis PS09:** el vídeo `to put together the CPS series` recorre inventory activo → fallo en crear extremo → shelf break/shift → nuevo run con pause, extensions y fills → nuevo deterioro. Después ofrece fade, apex retest o breakout como **features alternativas** a ejercitar. Confirma de nuevo framework relacional, no setup CPS. [VID-PS: PriceSwing_09 @ 00:00:00–00:00:12] [VID-PS: PriceSwing_09 @ 00:10:33–00:12:05]
-- [USUARIO] CPS es además un setup muy concreto (a trabajar más adelante) — pendiente vídeos.
+- **Cierre PS10:** principios = `why`; CPS = `how` y navegación. Solo tras escoger y repetir un feature se desarrollan sus parámetros y un trade model; EM sitúa explícitamente shelf flip, midflow y trend como modelos posteriores, no como un setup CPS único. [VID-PS: PriceSwing_10 @ 00:06:35–00:07:39] [VID-PS: PriceSwing_10 @ 00:19:53–00:21:40]
+- [USUARIO] recuerda además un setup concreto llamado CPS, pero **NO SE HA LOCALIZADO EN EL CORPUS CONSERVADO** (M2020 16/16 + Price Swing 10/10 + PDFs + capturas). La evidencia conservada usa CPS consistentemente como framework; no se invalida el recuerdo, se clasifica como posible dependencia perdida/privada.
 
 ### FTR — expansión NO ESPECIFICADA
 
