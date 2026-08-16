@@ -31,6 +31,12 @@ Sistemas paralelos NO tocados (deliberadamente, son otra cosa):
 - **Caso 2 (90_preguntas_abiertas.md:30)** — RESUELTO en el bloque 2 de la sesión 18 con el sistema de estados de pregunta ([IRRECUPERABLE] para el artefacto + nota de lo reconstruido).
 - **Caso 3 (02_conceptos.md:31)** — RESUELTO: nuevo estado `[NO-LOCALIZADO]` declarado en CLAUDE.md y aplicado. Taxonomía de afirmaciones cerrada en 7 estados.
 
+## Tanda 2 — estados de pregunta (bloque 2)
+
+Normalización de `90_preguntas_abiertas.md` a los seis estados declarados en CLAUDE.md. Reparto resultante (con estados duales contados en ambos): [RESUELTA] ×6 · [RESUELTA-PARCIAL] ×10 · [NO-LOCALIZADA] ×10 · [IRRECUPERABLE] ×2 · [VALIDACIÓN] ×6 · [PENDIENTE-USUARIO] ×4.
+
+Juicio añadido (único caso sin marcador previo): **"Mapeo lección↔vídeo"** (antigua abierta 10) no llevaba estado; se le asignó [NO-LOCALIZADA] [PENDIENTE-USUARIO] — los vídeos referenciados no están en el corpus y Jordi podría recordar la correspondencia. Revisar si se prefiere otro estado.
+
 ## Casos sin clasificar — requieren decisión humana
 
 Marcadores que no encajan limpiamente en las cinco etiquetas. NO convertidos; texto actual intacto:

@@ -101,9 +101,22 @@ siempre entre corchetes:
 - `[USUARIO]` — aportación o corrección de Jordi (ver sección siguiente).
 
 "NO ESPECIFICADO EN FUENTES" se mantiene tal cual como marcador de campo
-vacío en setups (regla 4); no es un estado epistémico. Los marcadores de
-ciclo de vida de `90_preguntas_abiertas.md` (RESUELTA, PARCIALMENTE
-RESUELTA, CERRADA-IRRECUPERABLE...) son un sistema aparte y no se tocan.
+vacío en setups (regla 4); no es un estado epistémico.
+
+## Estados de pregunta
+
+Sistema distinto del anterior: estados del ciclo de vida de las PREGUNTAS de
+`90_preguntas_abiertas.md` (no de afirmaciones). Solo existen estos seis:
+
+- `[RESUELTA]` — respuesta cerrada en fuente.
+- `[RESUELTA-PARCIAL]` — parte respondida; especificar SIEMPRE qué falta.
+- `[NO-LOCALIZADA]` — búsqueda exhaustiva negativa en el corpus conservado.
+- `[IRRECUPERABLE]` — artefacto perdido, confirmado como tal.
+- `[VALIDACIÓN]` — solo resoluble empíricamente (fase 2).
+- `[PENDIENTE-USUARIO]` — aclarable por Jordi.
+
+Una pregunta puede llevar dos estados si de verdad los tiene
+(p.ej. `[IRRECUPERABLE]` + `[VALIDACIÓN]`). No forzar uno solo.
 
 ## Etiqueta [USUARIO]
 
