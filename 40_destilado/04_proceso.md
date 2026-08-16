@@ -68,6 +68,8 @@ Cuatro charts con roles fijos [VID-M2020: Session 15 @ 00:56:22–00:57:45]: **L
 
 ## Lectura en tiempo real
 
+- **Filtro cero — qué mercado/feed se observa:** antes de interpretar liquidez, identificar venue y reglas. Exchange: order-driven, single book y actividad mostrada/registrada; FX OTC: quote-driven, bilateral/fragmentado, con flow potencialmente internalizado. Un quote OTC no equivale a una limit firme central ni una orden retail implica impacto interbancario. [VID-M2020: Session 1 @ 00:02:38–00:05:34] [VID-M2020: Session 1 @ 00:10:01–00:12:17]
+- **Límite de transparencia:** “single visible book” no significa “total liquidity visible”; distinguir órdenes mostradas de latent liquidity que solo convierte al acercarse el precio. [VID-M2020: Session 1 @ 00:10:19–00:10:58] [DISCORD: answers] [DISCORD: Disc 64–65]
 - **Enfoque anticipatorio, sin confirmación**: posicionarse antes del run leyendo anatomía, fase y parámetros relativos ("you won't get confirmation"). En mercados electrónicos el edge dura menos: "**those who wait for confirmation are trading where the markets too efficient... anticipatory approach > responsive**"; cuando llega la confirmación, la dislocación puede estar ya reparada. [PDF: Fractal _ Shift Basics p.2] [DISCORD: Disc 80]
 - Diagnóstico previo a todo trade: ¿en qué extremo del LIC está el movimiento (exhaustion/rebalance vs presión con convicción)? Determina gestión y target. [PDF: Liquidity Imbalance continuum p.2]
 - Ubicación: hacer el negocio mientras el precio está en LLS, anticipando el lado débil. Cómo se lee el lado débil en el ejemplo real: vendedores absorbidos en el nuevo pickup de liquidez compradora + higher low establecido ⇒ sell side débil. [PDF: Low Liquidity State p.9] [IMG: Trade Example p.2]

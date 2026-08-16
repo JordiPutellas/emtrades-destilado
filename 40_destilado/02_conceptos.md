@@ -10,6 +10,8 @@
 
 **Liquidez y entrega:** [Residual liquidity](#residual-liquidity--residual-levels) · [Liquidity void](#liquidity-void--vacuum) · [Chain reaction](#chain-reaction) · [Gap slip](#gap-slip--gapslip) · [Last point of liquidity](#last-point-of-liquidity) · [Rebalance](#rebalance) · [Trending extension fill](#trending-extension-fill-short-extension-fill) · [Feeder](#feeder--feeding-liquidity) · [Volume stability / surge](#volume-stability--relative-volume-surge) · [Balanced liquidity](#balanced-liquidity--equilibrium) · [Breakout PI](#breakout-pi--fractal-breakout-pi) · [Fractal pushing](#fractal-pushing) · [Latent liquidity / conversion rate](#latent-liquidity--conversion-rate) · [SR / SR flip](#sr--sr-flip)
 
+**Organización de mercado:** [OTC / bilateral](#otc--bilateral--quote-driven) · [Exchange / multilateral](#exchange--multilateral--order-driven) · [Dealer / principal / internalización](#dealer--principal--internalización) · [CCP / settlement](#ccp--central-counterparty--settlement) · [MTF / ECN](#mtf--ecn)
+
 **Trading y gestión:** [Midflow / counter flow trading](#midflow-trading--counter-flow-trading) · [Paying for the trade](#paying-for-the-trade) · [Compound](#compound) · [Dealing range](#dealing-range) · [Responsive vs market-state-dependent levels](#responsive-vs-market-state-dependent-levels) · [CPL](#cpl--consumption-response-leg) · [Washed IV](#washed-iv) · [Momentum](#momentum-definición-y-taxonomía)
 
 > El esquema maestro que ordena casi todos estos términos es el **CPS de 13 componentes** [IMG: Tracking Unfilled Liquidity p.4] — ver entrada CPS y `40_destilado/00_indice.md`.
@@ -29,7 +31,7 @@
 - **Estado:** sigla encontrada en fuente (sin expandir); expansión aportada por [USUARIO].
 - Uso en fuente, como precursor de un setup de alta probabilidad: "You have a liquidity base, price runs inefficiently into it **extending past highs after a SWE — high probability**." [PDF: Trade Example p.8]
 - [USUARIO] SWE = **Shelf Wash Extension**.
-- Conexión con el "wash" del shelf: "Only time I will expect price to move through the shelf straight away is **if it is washed** & even then expect some stalling & absorption." [IMG: Trade Example p.5] [INFERENCIA] SWE = barrido del shelf seguido de extensión; Discord quedó agotado sin definición operativa completa. Candidatos: CLP y M2020 S1-S11; Price Swing como genealogía.
+- Conexión con el "wash" del shelf: "Only time I will expect price to move through the shelf straight away is **if it is washed** & even then expect some stalling & absorption." [IMG: Trade Example p.5] [INFERENCIA] SWE = barrido del shelf seguido de extensión; Discord, CLP y M2020 Session 1 quedaron agotados sin definición operativa completa. Candidatos: M2020 S2-S11; Price Swing como genealogía.
 
 ### BA — Breakout Accumulation
 - **Estado:** confirmado (definición formal en M2020).
@@ -57,6 +59,33 @@
 
 ### HTF / LTF
 - **Estado:** confirmado (uso estándar): higher/lower timeframe. Las bases y apexes HTF acumulan más liquidez. [PDF: Liquidity Principles; Price Swings Continued p.10, p.12]
+
+## Organización de mercado
+
+### OTC — bilateral / quote-driven
+
+- **Estado:** confirmado en M2020. OTC es una transacción bilateral entre cliente y proveedor/dealer, comparable a comprar directamente a un shopkeeper. [VID-M2020: Session 1 @ 00:00:55–00:01:52]
+- En FX el dealer publica **quotes**, no una orden central garantizada: puede re-cotizar/rechazar mediante last look o cambiar el precio si la liquidez desapareció antes de llegar la orden. [VID-M2020: Session 1 @ 00:11:09–00:11:58] [VID-M2020: Session 1 @ 00:14:29–00:14:53]
+
+### Exchange — multilateral / order-driven
+
+- **Estado:** confirmado en M2020. Una orden puede casarse con una o muchas contrapartes en un single order book. Las limits mostradas son accesibles y la actividad queda registrada; EM lo denomina **order-driven pricing** y lo contrasta con OTC quote-driven. [VID-M2020: Session 1 @ 00:05:34–00:06:59] [VID-M2020: Session 1 @ 00:10:01–00:12:17]
+- “Más transparente” se refiere al libro mostrado/registro y firmeza de esas órdenes, no a que toda la liquidez latente sea visible (ver C-002). [VID-M2020: Session 1 @ 00:14:14–00:15:47] [DISCORD: answers] [DISCORD: Disc 64–65]
+
+### Dealer / principal / internalización
+
+- El dealer es contraparte/principal de la operación bilateral: proporciona liquidez y después decide mantener el riesgo, casar con otro cliente o cubrirlo fuera. El broker retail sigue siendo principal frente al cliente aunque se llame ECN/no-dealing-desk. [VID-M2020: Session 1 @ 00:01:54–00:03:19] [VID-M2020: Session 1 @ 00:04:07–00:04:35]
+- **Internalización:** el broker/dealer absorbe o casa flow dentro de su propia clientela en vez de enviarlo al mercado amplio; puede agregar tickets pequeños y cubrir solo el neto. [VID-M2020: Session 1 @ 00:04:36–00:05:34]
+
+### CCP — central counterparty / settlement
+
+- Intermediario de un exchange que facilita matching/liquidación multilateral y concentra el counterparty risk; según EM no actúa como dealer ni toma la posición direccional que casa. [VID-M2020: Session 1 @ 00:07:07–00:09:59]
+- En OTC el riesgo de contraparte queda contra el dealer/broker directo y persiste hasta settlement (EM explica T+2 en FX). [VID-M2020: Session 1 @ 00:16:34–00:18:18]
+
+### MTF / ECN
+
+- **MTF (multilateral trading facility):** modelo exchange-like dentro de FX; EM usa LMAX como ejemplo de single order book/order-driven con LMAX interpuesto como contraparte. [VID-M2020: Session 1 @ 00:22:34–00:24:22]
+- **ECN/agregador:** Hotspot, FXall y Currenex agregan quotes/liquidez de bancos conectados y facilitan routing sin asumir el riesgo principal según EM. No elimina al broker como principal de la operación retail. [VID-M2020: Session 1 @ 00:24:30–00:25:57]
 
 ## Anatomía del price swing
 
