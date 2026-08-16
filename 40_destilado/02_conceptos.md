@@ -26,6 +26,7 @@
   1. Liquidity Base → 2. Point of Release (PoR) → 3. Skinny Leg → 4. Price Pause (Shelf Bottom) → 5. Continuation Leg → 6. Consolidation Apex → 7. Retest H/L → 8. Apex Base (break) Retest → 9. Shelf Top/Bottom Retest → 10. Gap slip → 11. Clean Breaking Point → 12. PoR (vuelta) → 13. Liquidity Base Bottom.
 - Uso operativo: "Identify liquidity, use CPS to navigate through price & manage the trade." [PDF: Tracking Unfilled Liquidity p.4] "Use CPS features to determine selling continuation points." [PDF: Liquidity Imbalance continuum p.1]
 - **Genealogía Price Swing:** EM lo llama `the framework that price moves in`; pide escoger un feature, construirle parámetros/sample set y convertir **ese feature** en trade. PS01 confirma que CPS es el mapa, no un setup único. [VID-PS: PriceSwing_01 @ 00:00:14–00:00:19] [VID-PS: PriceSwing_01 @ 00:05:13–00:06:03] `CONFIRMADO/CONSERVADO EN M2020`.
+- **Síntesis PS09:** el vídeo `to put together the CPS series` recorre inventory activo → fallo en crear extremo → shelf break/shift → nuevo run con pause, extensions y fills → nuevo deterioro. Después ofrece fade, apex retest o breakout como **features alternativas** a ejercitar. Confirma de nuevo framework relacional, no setup CPS. [VID-PS: PriceSwing_09 @ 00:00:00–00:00:12] [VID-PS: PriceSwing_09 @ 00:10:33–00:12:05]
 - [USUARIO] CPS es además un setup muy concreto (a trabajar más adelante) — pendiente vídeos.
 
 ### FTR — expansión NO ESPECIFICADA
@@ -154,6 +155,7 @@
 - **Estado:** confirmado.
 - Movimiento direccional fino disparado por un surge **relativo** de volumen contra un estado de baja liquidez; sobrepasa por el mecanismo de price-chasing de los LPs y deja vacío detrás. Ciclo: estabilidad → surge relativo → run → agotamiento → rebalance a core base. [PDF: The Price Run p.1–p.10]
 - En la enumeración M2020, `origin/core` es el contexto de partida; los cinco eventos son `volume shot, price run, exhaustion, shift, fill`. [VID-M2020: Session 6 @ 00:21:43–00:22:16]
+- **Mapa relacional legacy PS09:** el último inventory crea extremos hasta fallar; el shelf break cambia qué lado empuja, price atraviesa niveles drenados y vuelve a organizar extension–fill–inventory en la nueva dirección. Price pause, apex retest, wash completo y fill exacto son features posibles, no pasos obligatorios de cada swing. [VID-PS: PriceSwing_09 @ 00:00:12–00:07:08] `CONFIRMADO/CONSERVADO EN M2020` con mayor precisión posterior.
 
 ### Price spike
 - **Estado:** confirmado.
