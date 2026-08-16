@@ -26,19 +26,18 @@
 5. **"Second level information" como lección** — misma situación que el punto 4.
 6. **"Process video" y "exercise video"** — vídeos del drive referenciados como vistos [S13 @ 01:33:47; S15 @ 00:23:52; PDF: Liquidity Principles p.1]; NO son las sesiones grabadas. **Posiblemente no están en el repo → preguntar al usuario si los conserva.**
 7. **Poke past the low del OP** — S12 @ 00:30:17 promete detallar "next session" cómo cambian las probabilidades; S13 no lo desarrolla como lección → sesiones restantes.
-6. **Claims a testear en fase de validación:**
+8. **Claims a testear en fase de validación:**
    - "An apex that holds inside the shelf without draining or invalidating it is less likely to hold price down". [PDF: Price Swings Continued p.8]
    - "When the first inventory breaks (first break of midflow), it typically won't continue for a long while after". [VID-M2020: Session 13 @ 00:06:00]
    - "Probability of a washed area responding: low". [VID-M2020: Session 14 @ 00:34:51]
    - "After any shot of high volume, volume stabilizes. All the time." [VID-M2020: Session 13 @ 00:46:21]
    - "Test how often your trade works after the original pickup was invalidated — whether there's any positive expectancy in that action". [VID-M2020: Session 14 @ 00:42:37]
-7. **¿Qué es exactamente "fractal pushing"?** — usado sin definición. [PDF: módulo Price Inefficiencies]
-8. **Mapeo lección↔vídeo**: The Price Run ("video in Price Delivery folder"), Liquidity Imbalance continuum video.pdf, Variable Volume Flow Video.pdf, Price Swing Basics video.pdf y el "exercise video" (paso 2). Identificar al transcribir.
-9. **¿Qué es un "feeder" exactamente?** — sentido perfilado (≈ feeding liquidity que absorbe la extensión) pero sin definición. [PDF: Variable Volume Flow p.4; Trade Example p.8]
-10. **Criterio de extensión suficiente para counter-trend** — "sometimes the extension is big enough, often it's not". [PDF: Liquidity Void p.16] Pista: el timeframe limita la respuesta. [IMG: Trade Example p.7]
-11. **"80% range / 20% move"** — ¿regla empírica de EM o cita externa? EM la usa como supuesto operativo. [PDF: Low Liquidity State p.9; Trade Example p.1] → fase de validación.
-12. **"Momentum trade" y "trade models"** — anunciados ("shelf flips & momentum trade later on" [PDF: Trade Example p.6]) pero no desarrollados en PDFs → vídeos M2020.
-13. **HOTW** — ¿High Of The Week? [PDF: Tracking Unfilled Liquidity p.3] → confirmar.
-14. **Criterios de "washed" shelf** — cuándo se considera barrido un shelf (enlaza con SWE) → vídeos.
-15. **Herencia Chris Lori vs desarrollo propio de EM** (nuevo, Sesión 5): el esquema CPS y el vocabulario base (fractals, pickups, absorption, dealing) proceden de Pro Traders Club / Chris Lori ([IMG: sueltas] + [IMG-MIET: Chris Question]). Mapear qué términos son capa propia de EM (shelf, washed, OP, BA, LIC, midflow...) — relevante para buscar material fuente adicional de PTC y para la validación.
-16. **YO/WO/MO** como familia de niveles (yearly/weekly/monthly open): ¿reglas de uso? Solo aparecen como etiquetas en charts → vídeos/Discord.
+9. **¿Qué es exactamente "fractal pushing"?** — usado sin definición. [PDF: módulo Price Inefficiencies]
+10. **Mapeo lección↔vídeo**: The Price Run ("video in Price Delivery folder"), Liquidity Imbalance continuum video.pdf, Variable Volume Flow Video.pdf, Price Swing Basics video.pdf y el "exercise video" (paso 2). Identificar al transcribir.
+11. **Criterio de extensión suficiente para counter-trend** — "sometimes the extension is big enough, often it's not". [PDF: Liquidity Void p.16] Pista: el timeframe limita la respuesta. [IMG: Trade Example p.7]
+12. **"80% range / 20% move"** — ¿regla empírica de EM o cita externa? EM la usa como supuesto operativo. [PDF: Low Liquidity State p.9; Trade Example p.1] → fase de validación.
+13. **"Momentum trade" y "trade models"** — anunciados ("shelf flips & momentum trade later on" [PDF: Trade Example p.6]) pero no desarrollados en PDFs → vídeos M2020.
+14. **HOTW** — ¿High Of The Week? [PDF: Tracking Unfilled Liquidity p.3] → confirmar.
+15. **Criterios de "washed" shelf** — cuándo se considera barrido un shelf (enlaza con SWE) → vídeos.
+16. **Herencia Chris Lori vs desarrollo propio de EM** (nuevo, Sesión 5): el esquema CPS y el vocabulario base (fractals, pickups, absorption, dealing) proceden de Pro Traders Club / Chris Lori ([IMG: sueltas] + [IMG-MIET: Chris Question]). Mapear qué términos son capa propia de EM (shelf, washed, OP, BA, LIC, midflow...) — relevante para buscar material fuente adicional de PTC y para la validación.
+17. **YO/WO/MO** como familia de niveles (yearly/weekly/monthly open): ¿reglas de uso? Solo aparecen como etiquetas en charts → vídeos/Discord.
