@@ -70,6 +70,7 @@ Cuatro charts con roles fijos [VID-M2020: Session 15 @ 00:56:22–00:57:45]: **L
 - Diagnóstico previo a todo trade: ¿en qué extremo del LIC está el movimiento (exhaustion/rebalance vs presión con convicción)? Determina gestión y target. [PDF: Liquidity Imbalance continuum p.2]
 - Ubicación: hacer el negocio mientras el precio está en LLS, anticipando el lado débil. Cómo se lee el lado débil en el ejemplo real: vendedores absorbidos en el nuevo pickup de liquidez compradora + higher low establecido ⇒ sell side débil. [PDF: Low Liquidity State p.9] [IMG: Trade Example p.2]
 - "A core part of the process is tracking price as it develops, tracking liquidity & categorising 'HOW' price is moving." [PDF: Trade Example p.2]
+- **Anti-narrativa**: ante una respuesta en nivel, "**no need to infer a reason why it happened — its the what conditions/combination of events led to that. its the same as all other responses.**" Y sobre el flujo: "**i dont care why theyre selling** — could simply be a huge order being filled over time." [DISCORD: Disc 5.1]
 - Características de giro vs continuación: en un low real se esperaría fallo de la presión — "failure of bounces, sellers absorbing buyers = NOT characteristics of lows". [IMG: Trade Example p.7]
 - En eventos de datos: anotar consenso y resultado — sorpresa grande = repricing sostenido, no fade. [PDF: Liquidity Void p.11]
 - Saber DÓNDE/CUÁNDO un run HTF se seca: HTF pocket of liquidity + anatomía del top (parabolic phase). [IMG: Price Swings Continued p.14]

@@ -10,7 +10,7 @@
 
 **Liquidez y entrega:** [Residual liquidity](#residual-liquidity--residual-levels) · [Liquidity void](#liquidity-void--vacuum) · [Chain reaction](#chain-reaction) · [Gap slip](#gap-slip--gapslip) · [Last point of liquidity](#last-point-of-liquidity) · [Rebalance](#rebalance) · [Trending extension fill](#trending-extension-fill-short-extension-fill) · [Feeder](#feeder--feeding-liquidity) · [Volume stability / surge](#volume-stability--relative-volume-surge) · [Breakout PI](#breakout-pi--fractal-breakout-pi) · [Fractal pushing](#fractal-pushing)
 
-**Trading y gestión:** [Midflow / counter flow trading](#midflow-trading--counter-flow-trading) · [Paying for the trade](#paying-for-the-trade) · [Compound](#compound) · [Dealing range](#dealing-range) · [Responsive vs market-state-dependent levels](#responsive-vs-market-state-dependent-levels) · [Washed IV](#washed-iv)
+**Trading y gestión:** [Midflow / counter flow trading](#midflow-trading--counter-flow-trading) · [Paying for the trade](#paying-for-the-trade) · [Compound](#compound) · [Dealing range](#dealing-range) · [Responsive vs market-state-dependent levels](#responsive-vs-market-state-dependent-levels) · [Washed IV](#washed-iv) · [Momentum](#momentum-definición-y-taxonomía)
 
 > El esquema maestro que ordena casi todos estos términos es el **CPS de 13 componentes** [IMG: Tracking Unfilled Liquidity p.4] — ver entrada CPS y `40_destilado/00_indice.md`.
 
@@ -231,6 +231,7 @@
 - Un shelf "washed" (barrido) es la única condición bajo la que EM espera que el precio lo atraviese directamente sin dealing previo — "& even then expect some stalling & absorption". [IMG: Trade Example p.5]
 - Nivel washed/drained = agarrado repetidamente ("grabbed it, grabbed it, grabbed it") → falta de liquidez: "you shouldn't really have any problems to get through". Probabilidad de respuesta de un área washed: "**low**". [VID-M2020: Session 14 @ 00:12:40, 00:27:27, 00:34:51]
 - Excepción contextual: un área washed puede responder según CÓMO llega el precio — "broke midflow, broke shelf, sideways pop into it" responde más que "strong midflow becoming inefficient into it". "They're both washed but the contextual environment is completely different." [VID-M2020: Session 14 @ 00:35:11–00:35:40]
+- **Regla relativa** (generalización en Discord): "**You can have a relatively weak level and an even weaker move into it — generating response until liquidity absorbs the response and continues.**" La respuesta es función de la fuerza del nivel RELATIVA a la debilidad del movimiento de llegada, no de la calidad absoluta del nivel. [DISCORD: Disc 6]
 - Las áreas "drifty" están típicamente drained (picked muchas veces). [VID-M2020: Session 14 @ 00:16:09]
 
 ### OP — Original Pickup
@@ -263,6 +264,13 @@
 - **Estado:** confirmado (uso).
 - **Metaorder**: orden institucional grande troceada y ejecutada en el tiempo ("'slow' but larger liquidity building out positions over a period of time, usually automated"), que acepta precios peores para encontrar contrapartida. **Fast liquidity** = HFTs, PTFs, LPs — se vuelve aversa en los surges y dispersa la liquidez más allá del área débil. [IMG-MIET: Gold Ranges 5.1, Gold Ranges 1.0]
 - **Warehousing**: los LPs pueden "compound the move" almacenando inventario (estabilizando offers mientras los bids empujan) y/o ensanchando spreads competitivamente; al soltarlo ("LPs unloading inventory") quedan **bid/offer vacuums**. Ciclo intradía: Asia LLS → LPs abren libros en London open → surge. [IMG-MIET: Vol is a F of Av Liq 1, 3]
+
+### Momentum (definición y taxonomía)
+- **Estado:** confirmado (definido en Discord, mayo-2020).
+- Definición: "**momentum inherently requires an entity with intent to push on price over time OR metaorders being chunked out over a period of time**" — "consistently yeah, **not constantly**"; en FX no es lo habitual ("participants are heterogeneous; slower liquidity from buyside really only trades broader timeframes in line with macro view"). [DISCORD: Disc 4]
+- Se lee en el precio: "momentum, strength is reflected in price movement... with basic logic (**limit orders friction, market orders move price**) you can infer what momentum looks like". [DISCORD: Disc 3.0] Antidefinición: "**thats not momentum btw, just fragmented liquidity during event**". [DISCORD: Disc 4]
+- **Taxonomía por urgencia** (ejemplos con fecha, cable): (1) **intent con urgencia** — post-headline Brexit 10-oct-2019, "initially anyway"; (2) **momentum pasivo** — sell-off jun-ago 2019, "less urgency, more passive trading" (metaorder: "could simply be a huge order being filled over time, more limits than market selling"); (3) **one-sided liquidity** — marzo 2020. [DISCORD: Disc 5.1, 8]
+- Reglas: "**price only sustains a grind if theres urgency** — market orders will always taper off"; urgencia pasiva = "how aggressively it chases price: price moves up a hundred pips, **bids populate the book up there — thats urgency**" (limits y no markets "cus you care about execution cost"). "**One sided liquidity means even if market orders are drying off, theres liquidity there holding price.**" [DISCORD: Disc 9.1, 8]
 
 ### Breakout PI / Fractal Breakout PI
 - **Estado:** confirmado.
