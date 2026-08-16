@@ -68,6 +68,17 @@ q18 se reclasificó a [VALIDACIÓN] [NO-LOCALIZADA] porque la morfología está 
 1. **Resueltas #2 (SWE)** — [RESUELTA-PARCIAL]: PS04/PS08 dan morfología y target, pero "EM remite los parámetros a samples y no fija hard stop, distancia, breakdown trigger ni reglas de reentrada". Mismo patrón: no se encontrarán leyendo; se construyen en fase 2.
 2. **Abiertas #15 (criterios de "washed")** — [RESUELTA-PARCIAL]: cualitativo resuelto, threshold cuantitativo inexistente en fuente (PS08: "sus parámetros deben desarrollarse mediante engagement"). Mismo patrón.
 
+## Tanda 3 — cierre del muestreo de integración (bloque 5)
+
+**Última pasada: S13 y S11.2** (los dos candidatos por densidad anotados en la tanda 2).
+
+- **S13** — integración excelente pese a ser la sesión más densa (midflow, jerarquía TF, 3 lados, entornos, TE-02, cadencias: todo con reflejo). **1 pérdida (c)**: el cluster de lectura del primer break ("it looks like an apex anyway" / el primer break típicamente golpea residual / el tipo de nivel que creó el extremo pondera si aguanta) → integrado en 02_conceptos § Apex. [VID-M2020: Session 13 @ 01:26:45–01:29:49]
+- **S11.2** — **2 pérdidas (c)**, ambas de gestión/comportamiento, confirmando el patrón de S15 (las pérdidas se concentran en gestión, no en principios/conceptos): (1) **shelf retest de continuación** (comportamiento de continuación contextual, distinto del fade de exhaustion) → 03_setups § Comportamientos de referencia [@ 01:25:58–01:27:55]; (2) **riesgo del cushion ausente** (sin initial response no hay countermeasures → full loss/gap-through posible; 2–5 pips es ejemplo, no mínimo) → S-08 CÓMO gestiona [@ 01:47:21–01:51:19]. Redundantes correctos: reach vs buildup/swipes, drain criteria, Bayes post-entry, small shelf, timeframe-microscopio, modelo de 5 pasos (todo ya en S-08/04_proceso con cites de S11.2).
+
+**MUESTREO DE INTEGRACIÓN: CERRADO.** Balance final: **5 extractos muestreados** (PS01, PS09, S15, S13, S11.2) de 26 vídeos; **6 pérdidas (c) integradas en total** (3 en S15, 1 en S13, 2 en S11.2), cero en los extractos Price Swing. Patrón confirmado: la integración de principios/conceptos es sólida; las pérdidas se concentraron en material de GESTIÓN y selección fina de sesiones M2020 densas — todas reparadas. La integración del corpus se da por buena para el congelado v1.
+
+**Recuento final de estados de pregunta (tras sesión 19):** [RESUELTA] ×7 · [RESUELTA-PARCIAL] ×12 · [NO-LOCALIZADA] ×7 · [VALIDACIÓN] ×7 · [IRRECUPERABLE] ×2 · [PENDIENTE-USUARIO] ×0 (duales contados en ambos; la leyenda del encabezado del fichero no cuenta). Cambios de la sesión: q1 → RESUELTA (CPS≠CPL); q14 y q17 → RESUELTA-PARCIAL; q18 → VALIDACIÓN+NO-LOCALIZADA; q10 pierde PENDIENTE-USUARIO (prioridad baja); q9 cerrada como NO-LOCALIZADA definitiva.
+
 ## Casos sin clasificar — requieren decisión humana
 
 Marcadores que no encajan limpiamente en las cinco etiquetas. NO convertidos; texto actual intacto:
