@@ -53,7 +53,7 @@ Itinerario de 3 pasos formalizado en M2020 S15: (1) aprender a ver swings, (2) a
 ## Estado de la destilación
 
 - ✅ 17/17 PDFs procesados (extractos en `30_extractos/`).
-- ✅ 26/26 vídeos transcritos (27,4 h; 693 frames). Destilados 14/16 M2020 (S1-S10, S12-S15); pendientes 2 archivos M2020 (S11 partes 1–2) + 10 Price Swing.
+- ✅ 26/26 vídeos transcritos (27,4 h; 693 frames). Destilados 15/16 M2020 (S1-S10, S11.1, S12-S15); pendiente Session 11 part 2 + 10 Price Swing.
 - ✅ Corpus visual completo: 237/237 capturas procesadas (incluye Discord 129/129 y CLP 12/12).
 - Prioridades restantes: CPS-como-setup; definición operativa de SWE y criterio shelf-specific de washed; parámetros de ejecución del modelo Washed IV/CPL; template formal de 4 apexes; poke past the low del OP; reglas YO/WO/MO; responsive-vs-market-state-dependent; fractal pushing; HOTW; y momentum trade como setup. Siguiente lote: M2020 Session 10 + Session 11 partes 1–2 para cerrar M2020.
 - Dudas vivas: [90_preguntas_abiertas](90_preguntas_abiertas.md) · Conflictos: [91_contradicciones](91_contradicciones.md) · Ideas BTC (aparcadas): [92_ideas_btc](92_ideas_btc.md).
