@@ -106,6 +106,8 @@ Estabilidad de volumen (low liquid state) → surge relativo en un lado → run 
 
 ### Entornos de precio (espectro, no trend/range)
 
+- **Eficiencia relativa a escala:** un mercado broadly stable puede contener microineficiencias que se reparan rápido; cuando el timeframe gobernante entra en imbalance, las piernas finas pueden persistir más y recorrer más. Un core puede dar respuesta local y aun así romper después: `response ≠ hold ≠ reversal`. [VID-M2020: Session 8 @ 00:09:43–00:09:53] [VID-M2020: Session 8 @ 00:56:19–00:57:19]
+- **Frecuencia, riesgo y entorno:** en estados líquidos/menos volátiles EM observa más repetición y permite riesgo más ajustado; en estados directionally driven/ilíquidos baja la frecuencia, empeora la consistencia y crecen slippage/no-fill. Es una preferencia contextual, no una ley cuantitativa. [VID-M2020: Session 8 @ 00:18:02–00:19:22] [VID-M2020: Session 8 @ 00:58:37–00:59:18]
 - "Price environments are changing relentlessly"; los cambios (aun sutiles) determinan qué niveles sirven, duración del trade, tamaño de la respuesta, frecuencia de trades y gestión. Trend/range es una taxonomía insuficiente: hay trends altamente ineficientes y trends modestamente eficientes que se operan de forma opuesta. [VID-M2020: Session 13 @ 00:23:56–00:25:47]
 - Tres métricas permanentes: **volatilidad, estado de liquidez, fase del price swing**. [VID-M2020: Session 13 @ 00:56:47–00:57:33]
 - "**After any shot of high volume, volume stabilizes. All the time.** It's an exploitable price behavior." [VID-M2020: Session 13 @ 00:46:21–00:46:39]

@@ -33,3 +33,5 @@
 | HSPC / HBSBC                              | HSBC                                     |
 | scude book                                | skewed book                              |
 | price seeks inequity                      | price seeks liquidity                    |
+| Inventry (contexto chartista)             | inventory                                |
+| temposal rhythms                          | tempos and rhythms                       |

@@ -6,7 +6,7 @@
 
 **Siglas:** [CPS](#cps--characteristics-of-a-price-swing-inferencia-fuerte) · [FTR](#ftr--expansión-no-especificada) · [SWE](#swe--shelf-wash-extension) · [BA](#ba--breakout-accumulation) · [LLS](#lls--low-liquidity-state) · [PI](#pi--price-inefficiency) · [HTF/LTF](#htf--ltf) · [AB/ABR](#ab--abr--apex-base--apex-base-retest) · [ST/SB](#st--sb--shelf-top--shelf-bottom) · [CLB](#clb--core-liquidity-base) · [CBP](#clean-breaking-point-cbp) · [PoR](#por--point-of-release) · [LIC](#liquidity-imbalance-continuum-lic) · [TOB](#tob--top-of-book) · [HOTW](#hotw--high-of-the-week-inferencia)
 
-**Estructura del run/swing:** [Price run](#price-run) · [Price spike](#price-spike) · [Skinny leg](#skinny-leg) · [Price pause](#price-pause) · [Parabolic phase](#parabolic-phase) · [Shelf](#shelf--shelf-liquidity) · [Shelf flip](#shelf-flip) · [Washed (shelf)](#washed-shelf) · [Apex](#apex--apex-base--apex-base-retest) · [Shifting point](#shifting-point) · [Shift in state of liquidity](#shift-in-state-of-liquidity) · [Midflow](#midflow) · [Core liquidity base](#core-liquidity-base) · [Poor high/low](#poor-high--poor-low-unfinished-auction)
+**Estructura del run/swing:** [Price run](#price-run) · [Price spike](#price-spike) · [Skinny leg](#skinny-leg) · [Price pause](#price-pause) · [Parabolic phase](#parabolic-phase) · [Shelf](#shelf--shelf-liquidity) · [Shelf flip](#shelf-flip) · [Washed (shelf)](#washed-shelf) · [Apex](#apex--apex-base--apex-base-retest) · [Shifting point](#shifting-point) · [Shift in state of liquidity](#shift-in-state-of-liquidity) · [Midflow](#midflow) · [Inventory](#inventory-chartista) · [Technical break](#technical-break) · [Core liquidity base](#core-liquidity-base) · [Poor high/low](#poor-high--poor-low-unfinished-auction)
 
 **Liquidez y entrega:** [Residual liquidity](#residual-liquidity--residual-levels) · [Liquidity void](#liquidity-void--vacuum) · [Chain reaction](#chain-reaction) · [Gap slip](#gap-slip--gapslip) · [Last point of liquidity](#last-point-of-liquidity) · [Rebalance](#rebalance) · [Trending extension fill](#trending-extension-fill-short-extension-fill) · [Feeder](#feeder--feeding-liquidity) · [Variable Volume Flow](#variable-volume-flow-vvf) · [Volume stability / surge](#volume-stability--relative-volume-surge) · [Balanced liquidity](#balanced-liquidity--equilibrium) · [Breakout PI](#breakout-pi--fractal-breakout-pi) · [Fractal pushing](#fractal-pushing) · [Latent liquidity / conversion rate](#latent-liquidity--conversion-rate) · [SR / SR flip](#sr--sr-flip)
 
@@ -195,6 +195,19 @@
 - "Midflow is an EXPECTATION": si el precio no entra en midflow tras el shift, es razón para reevaluar la idea de trade. [PDF: Price Swings Continued p.7]
 - Continúa hasta volverse ineficiente o absorber el inventario del momentum. [PDF: Price Swings Continued p.7]
 - **Post-shift stage** se usa como sinónimo/etiqueta visual (rectángulos negros tras el shelf). [IMG: Price Swings Continued p.6]
+- **Formulación fundacional de S8:** es una fase del price run y un estado de `one-sided weakness`; buy bases sostienen en bullish midflow y sell bases en bearish. VVF genera corrections contra la fuerza sin cancelar por sí solo el estado. [VID-M2020: Session 8 @ 01:09:45–01:10:45] [VID-M2020: Session 8 @ 01:19:50–01:19:57]
+- Fuerte/activo en el ejemplo = todos los bases válidos sostienen; el consumo profundo/repetido y la primera ruptura del último base que creó un extremo son debilidad. Hay tempos eficientes e ineficientes y conflictos de escala; S8 no entrega clasificador cerrado de todas las variantes. [VID-M2020: Session 8 @ 01:08:18–01:08:35] [VID-M2020: Session 8 @ 01:18:02–01:18:34] [VID-M2020: Session 8 @ 01:19:28–01:20:56]
+
+### Inventory (chartista)
+
+- `The stock, the momentum liquidity of a directional move`: el último base/dealing range que empujó el precio a un nuevo extremo dentro de un imbalance. Un rango intermedio que no crea nuevo extremo no desplaza el inventory; una zona bilateral estable no es inventory en este sentido. [VID-M2020: Session 8 @ 01:05:30–01:07:50]
+- EM enumera `shelf/inventory`, apex top/bottom, BA y shifting point como **tipos por ubicación** de liquidity base, con características y entornos propios; no los equipara todos. Inventory sostiene el movimiento, mientras residual liquidity designa pockets más débiles del recorrido. [VID-M2020: Session 8 @ 01:00:24–01:01:44] [VID-M2020: Session 8 @ 01:03:24–01:04:55]
+- No confundir con el inventario literal del dealer/LP, una posición adquirida que puede gestionar u ofrecer al mercado. [VID-M2020: Session 8 @ 00:07:23–00:08:21]
+
+### Technical break
+
+- Ruptura del último buy/sell base que había empujado el midflow a un nuevo extremo. Es primera evidencia de debilidad del momentum y puede justificar cortar una posición a favor del midflow, pero no obliga a reversal inmediato ni constituye por sí solo un trigger de entrada. [VID-M2020: Session 8 @ 01:25:00–01:25:53]
+- Suele preceder la parabolic spike phase; la lectura depende de la escala porque un break H1 puede vivir dentro de un swing diario activo. No equiparar automáticamente con `market structure break`. [VID-M2020: Session 8 @ 01:25:53–01:27:52]
 
 ### Liquidity base (y sus 3 lados)
 - **Estado:** confirmado (definición formal en M2020).
