@@ -17,14 +17,14 @@
   - Liquidity Void.pdf → `extracto_liquidity_void.md`
   - Low Liquidity State.pdf → `extracto_low_liquidity_state.md`
   - Variable Volume Flow Video.pdf → `extracto_variable_volume_flow.md` (p.2 y p.5 duplican diapositivas de The Price Run)
-- [ ] **Fractals** (2 PDFs)
-  - Fractal _ Shift Basics.pdf
-  - Fractals _ Scaling.pdf
-- [ ] **Process** (4 PDFs)
-  - Liquidity Principles.pdf (parcialmente usado como contexto en extracto de Price Inefficiencies)
-  - Process Over Profits.pdf
-  - Tracking Unfilled Liquidity Presentation.pdf
-  - Trade Example _ Management.pdf
+- [x] **Fractals** (2 PDFs) — procesado 2026-08-16
+  - Fractal _ Shift Basics.pdf → `extracto_fractal_shift_basics.md`
+  - Fractals _ Scaling.pdf → `extracto_fractals_scaling.md`
+- [x] **Process** (4 PDFs) — procesado 2026-08-16
+  - Liquidity Principles.pdf → `extracto_liquidity_principles.md`
+  - Process Over Profits.pdf → `extracto_process_over_profits.md`
+  - Tracking Unfilled Liquidity Presentation.pdf → `extracto_tracking_unfilled_liquidity.md` (esquema CPS de 13 componentes)
+  - Trade Example _ Management.pdf → `extracto_trade_example_management.md` (trade real con gestión completa)
 - [ ] **Papers** (1 PDF — externo, no EMTrades)
   - fx-liquidity-seeking-ls.pdf
 

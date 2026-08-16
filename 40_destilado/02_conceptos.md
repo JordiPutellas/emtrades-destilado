@@ -4,16 +4,20 @@
 
 ## Siglas
 
-### CPS — expansión desconocida (¿Core Price Swing?)
-- **Estado:** por confirmar (siglas sin expandir en fuentes procesadas).
+### CPS — Characteristics of a Price Swing ([INFERENCIA fuerte])
+- **Estado:** por confirmar la expansión literal; la anatomía sí está confirmada en fuente.
 - El material lo usa como **"CPS framework"**: "the CPS framework is what we use to navigate & trade price... clearly defines components of price which we can categorise throughout the duration of a swing formation... **a representation of HOW price moves rather than why** (!!!)". [PDF: Price Swings Continued p.2]
-- [INFERENCIA] "Core Price Swing" encajaría con "core liquidity base of price run".
-- [USUARIO] CPS es además un setup muy concreto (a trabajar más adelante); expansión exacta desconocida también para el usuario.
+- [INFERENCIA fuerte] CPS = "**Characteristics of a Price Swing**": es el título literal del esquema maestro de 13 componentes [IMG: Tracking Unfilled Liquidity p.4], encaja letra a letra y con la frase "the CPS clearly defines components of price which we can categorise". (Descarta la hipótesis anterior "Core Price Swing".) Existe además la captura suelta `capturas/Characteristics of Price swing.png` — verificar que es el mismo esquema al procesar capturas.
+- **Los 13 componentes del esquema CPS** [IMG: Tracking Unfilled Liquidity p.4], con eje "Mass Psychological Shift":
+  1. Liquidity Base → 2. Point of Release (PoR) → 3. Skinny Leg → 4. Price Pause (Shelf Bottom) → 5. Continuation Leg → 6. Consolidation Apex → 7. Retest H/L → 8. Apex Base (break) Retest → 9. Shelf Top/Bottom Retest → 10. Gap slip → 11. Clean Breaking Point → 12. PoR (vuelta) → 13. Liquidity Base Bottom.
+- Uso operativo: "Identify liquidity, use CPS to navigate through price & manage the trade." [PDF: Tracking Unfilled Liquidity p.4] "Use CPS features to determine selling continuation points." [PDF: Liquidity Imbalance continuum p.1]
+- [USUARIO] CPS es además un setup muy concreto (a trabajar más adelante) — pendiente vídeos.
 
 ### SWE — Shelf Wash Extension
-- **Estado:** por confirmar en fuentes (no aparece en los módulos Price Inefficiencies ni Price Swing Basics).
+- **Estado:** sigla encontrada en fuente (sin expandir); expansión aportada por [USUARIO].
+- Uso en fuente, como precursor de un setup de alta probabilidad: "You have a liquidity base, price runs inefficiently into it **extending past highs after a SWE — high probability**." [PDF: Trade Example p.8]
 - [USUARIO] SWE = **Shelf Wash Extension**.
-- [INFERENCIA] combinaría shelf (ver abajo) + wash + extensión: barrido/lavado de un shelf con extensión — buscar definición operativa en vídeos/Discord.
+- Conexión con el "wash" del shelf: "Only time I will expect price to move through the shelf straight away is **if it is washed** & even then expect some stalling & absorption." [IMG: Trade Example p.5] [INFERENCIA] SWE = barrido del shelf seguido de extensión; definición operativa completa pendiente de vídeos/Discord.
 
 ### BA — Breakout Accumulation
 - **Estado:** confirmado.
@@ -103,17 +107,19 @@
 - **Estado:** confirmado (uso).
 - Target natural del rebalance tras un void spike: "price is subject to a rebalance back to the last point of liquidity". [PDF: Liquidity Void p.12] [IMG: p.8]
 
-### Liquidity Imbalance Continuum
-- **Estado:** confirmado.
+### Liquidity Imbalance Continuum (LIC)
+- **Estado:** confirmado (también como sigla: "left end of the LIC spectrum" [PDF: Trade Example p.4]).
 - Espectro entre las 2 condiciones que generan cualquier movimiento: **exhaustion** (secado del lado que empujaba tras void/ineficiencia; el estado natural del flujo contrario basta para rebalancear) vs **presión genuina** (convicción post-shift). El precio transita el continuum casi todo el tiempo; hay que saber en qué extremo se toma cada trade (gestión). [PDF: Liquidity Imbalance continuum p.1–2]
 
 ### Trending extension fill (short extension fill)
 - **Estado:** confirmado.
 - En tendencia, el fill de una extensión "aka short extension fill — no reversal, just rebalance to find sellers": los rebalances contra tendencia encuentran liquidez a favor y el precio sigue a nuevos extremos. No confundir fill con giro. [IMG: Liquidity Void p.15] [PDF: p.16]
 
-### Feeder
-- **Estado:** por confirmar (usado sin definición).
-- "After price has ran a fair bit, extended past a high into a feeder = potential short." [PDF: Variable Volume Flow p.4] → buscar definición en vídeos/Discord.
+### Feeder / feeding liquidity
+- **Estado:** por confirmar (usado sin definición formal; el sentido se perfila).
+- "After price has ran a fair bit, extended past a high into a feeder = potential short." [PDF: Variable Volume Flow p.4]
+- Variante en la lista de response areas: "**extension past previous highs into feeding liquidity**". [PDF: Trade Example p.8]
+- [INFERENCIA] feeder ≈ bolsa de liquidez que "alimenta"/absorbe la extensión (el área contra la que se seca el run). Definición exacta pendiente de vídeos/Discord.
 
 ### TOB — Top of Book
 - **Estado:** confirmado (uso estándar de microestructura).
@@ -167,6 +173,22 @@
 ### Price pause
 - **Estado:** confirmado.
 - Pausa tras la skinny leg (componente 4 del esquema CPS); una de las "constituent features of a price run" usadas como confluencia. [IMG: Tracking Unfilled Liquidity p.4] [PDF: Trade Example p.4]
+
+### Paying for the trade
+- **Estado:** confirmado.
+- Asegurar equity parcial cuando el precio alcanza el primer objetivo estructural (el shelf), cubriendo el riesgo asumido: "I secured equity paying for my trade & the risk assumed... EXTREMELY important to manage my psychological profile & to be able to sustain price coming back on me." Discrecional: "sometimes I won't pay for the trade — depends on what kind of trade it is, merits of the trade & event risks." [PDF/IMG: Trade Example p.5]
+
+### Compound
+- **Estado:** confirmado (uso).
+- Añadir una segunda posición en la misma idea cuando el precio ofrece nueva evidencia (p.ej. liquidez del shelf absorbida en el high). Condiciones citadas: convicción en la idea, cuán débil quedó el shelf (¿invalidado?), naturaleza del nivel que recoge, cuán extendido está, y data risk. En HTF: "I would definitely look for compounds & midflow trades beneath the shelf." [IMG: Trade Example p.6] [PDF: p.6]
+
+### Washed (shelf)
+- **Estado:** confirmado (uso); relación directa con SWE.
+- Un shelf "washed" (barrido) es la única condición bajo la que EM espera que el precio lo atraviese directamente sin dealing previo — "& even then expect some stalling & absorption". [IMG: Trade Example p.5]
+
+### HOTW — High Of The Week ([INFERENCIA])
+- **Estado:** por confirmar.
+- "All three levels of unfilled lq gave price responses, all tradeable, two formed HOTW." [PDF: Tracking Unfilled Liquidity p.3]
 
 ### Breakout PI / Fractal Breakout PI
 - **Estado:** confirmado.

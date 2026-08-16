@@ -11,10 +11,10 @@
 
 ## S-02 · Counter flow trading (fade de extensión hacia base)
 
-- **QUÉ describe:** en midflow, una pierna se estira más allá del extremo previo hacia liquidez residual, se seca, y el precio rebalancea a la base/inventario más cercano. [IMG: Price Swing Basics video p.6]
-- **CUÁNDO entra:** "shorting the extension past previous high & to fill it back down to base — counter flow trading". [IMG: Price Swing Basics video p.6] Trigger concreto: NO ESPECIFICADO EN FUENTES.
-- **DÓNDE invalida:** NO ESPECIFICADO EN FUENTES. Pista general del método: "cannot hold fades against efficiency" [PDF: módulo Price Inefficiencies]; en midflow, todo movimiento contra el flujo desde área residual "is subject to drying off". [PDF: Price Swings Continued p.7]
-- **CÓMO gestiona:** "short holding times on trades". [IMG: Price Swing Basics video p.6] Resto: NO ESPECIFICADO EN FUENTES.
+- **QUÉ describe:** en midflow, una pierna se estira más allá del extremo previo hacia liquidez residual, se seca, y el precio rebalancea a la base/inventario más cercano. [IMG: Price Swing Basics video p.6] Ejemplo real ("first touch counter flow short"): "short taken on the premise that price will rebalance an exposed leg down to shelf & ultimately continue (higher). This is because of 'WHAT' price had recently done — price put in low, dealt off shelf, higher low, shift." [PDF: Trade Example p.3]
+- **CUÁNDO entra:** "shorting the extension past previous high & to fill it back down to base" [IMG: Price Swing Basics video p.6]; en el ejemplo real, entrada en primer toque de la pierna expuesta, diagnosticada en el extremo bid-exhaustion del LIC ("the run didn't look complete rather this leg looked exposed"). [IMG: Trade Example p.3] Trigger de vela: NO ESPECIFICADO EN FUENTES.
+- **DÓNDE invalida:** NO ESPECIFICADO EN FUENTES como stop; pistas: "cannot hold fades against efficiency" [PDF: módulo Price Inefficiencies]; plan B declarado: "if price started to show signs of breaking down further I can always take shelf flip trade". [IMG: Trade Example p.3]
+- **CÓMO gestiona — regla de expectativa/target:** "**any trade against the recent shift is often just to rebalance a weak leg into local buy inventory — I wouldn't be expecting a full blown reversal & new lows. The only instance I would expect new low is if the bounce preceding the shift picked up residual liquidity** (débil); si recogió liquidez mayor (p.ej. daily buyside), solo rebalance." [PDF: Trade Example p.3] "Short holding times on trades." [IMG: Price Swing Basics video p.6] El timeframe limita la respuesta esperable: "nature of timeframe limits how much of a response you're going to get". [IMG: Trade Example p.7]
 
 ## S-03 · Fade de PI dentro de fractal (del módulo Price Inefficiencies)
 
@@ -55,6 +55,37 @@
 ## Catálogo de comportamientos tradeables (menú declarado por EM)
 
 "Extensions, ABR, Shelf flips, Midflow, Swing Retest of CLB, Residual Liquidity Base responses — everything is inside there... specify which behaviour you want to trade and form parameters to engage the specific feature — for example trading ABRs or shelf flips or swing retests of CLBs, Void Fills. Eventually will include time of day, timeframe alongside entry & execution parameters, developmental & management parameters." [IMG: Fractals _ Scaling p.8]
+
+## Response areas de alta probabilidad (lista explícita de EM)
+
+"Look for areas where responses are highly likely with specific parameters, for example:" [PDF: Trade Example p.8]
+- "Liquidity base with an inefficient run into the level"
+- "Apex retest after shelf invalidated"
+- "Mid price run level pickup with an inefficient leg into it"
+- "Extension past previous highs into feeding liquidity"
+- "Swing retest of apex base"
+- "or any combination of highly probable features"
+
+Calibración de variantes del mismo setup [PDF: Trade Example p.8]:
+- ALTA probabilidad: "liquidity base, price runs inefficiently into it extending past highs **after a SWE**".
+- BAJA probabilidad: "price moves **efficiently** into a sell liquidity base".
+
+Filtro general para operar niveles de unfilled liquidity: "wouldn't blindly trade out of these levels, we want favourable, manageable price responses = why we look for **inefficient price delivery, extensions into these levels**; why we zoom in through the window of price (LTFs) and look at the anatomy, if the way price is developing **fits the setup type**". [PDF: Tracking Unfilled Liquidity p.3]
+
+## Gestión de trades (reglas transversales del ejemplo real GBPUSD 31/07/2019)
+
+Del único trade completamente documentado en PDFs [PDF/IMG: Trade Example p.1–p.7]:
+
+1. **Stop inicial:** 10 pips en un fade sobre 15min/H1 (entrada 1.22466). Único dato numérico en PDFs.
+2. **Primer objetivo estructural = el shelf.** "I never expect price to materially break through the shelf and go into midflow without picking up the liquidity inside there & dealing it off — only exception: shelf **washed**, & even then expect stalling & absorption."
+3. **Parcial ("paying for the trade")** al llegar al shelf: asegura equity y sostiene psicológicamente el retorno del precio. Discrecional según tipo de trade, méritos y event risk (aquí FOMC).
+4. **Stop a invalidación estructural**, no a BE mecánico: "stop moved down to invalidation = high had to hold for sell idea to remain valid. Not always will I move my stop down, but again event risk."
+5. **Invalidación dinámica por fase**: más tarde "my invalidation is price bottoming out at a mid price run level — was unlikely due to time of day (1900HRS BST)". La hora del día pondera la probabilidad de la invalidación.
+6. **Compound condicionado**: nueva entrada si hay evidencia nueva (liquidez del shelf absorbida en el high) y según convicción, debilidad del shelf, naturaleza del nivel, extensión y data risk. Para añadir en tendencia: "I usually would wait for a rally (fractal price run off residual into sell inventory to fade)".
+7. **Soltar la gestión al confirmar midflow**: "continued selling, follow through, shifting point... here I stop managing so tightly & let the trade run, expecting midflow characteristics."
+8. **Multi-timeframe**: "constantly shifting between 1-5-15 min timeframes for a broader look."
+9. **Fractal ≠ broader**: el flip de apex/shelf del fractal en el high "doesn't mean a shift of the broader price swing, rather it opened up a run down to the shelf" — dimensionar expectativas a la escala del feature.
+10. **Contexto SIEMPRE** ("CONTEXT MATTERS, ALWAYS"): catalizadores (FOMC) alteran las reglas por defecto.
 
 ## Comportamientos de referencia (aún sin setup formalizado)
 
