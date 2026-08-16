@@ -110,6 +110,12 @@
 - **MTF (multilateral trading facility):** modelo exchange-like dentro de FX; EM usa LMAX como ejemplo de single order book/order-driven con LMAX interpuesto como contraparte. [VID-M2020: Session 1 @ 00:22:34–00:24:22]
 - **ECN/agregador:** Hotspot, FXall y Currenex agregan quotes/liquidez de bancos conectados y facilitan routing sin asumir el riesgo principal según EM. No elimina al broker como principal de la operación retail. [VID-M2020: Session 1 @ 00:24:30–00:25:57]
 
+### Single-dealer / multi-dealer platform
+
+- **Single-dealer platform:** interfaz propia de un banco/dealer; el cliente opera contra ese dealer, que puede internalizar el flujo o externalizar/cubrir el riesgo. [VID-M2020: Session 5 @ 00:52:08–01:03:04]
+- **Multi-dealer platform:** reúne precios de varios dealers y permite al cliente seleccionar/rutear entre contrapartes. [VID-M2020: Session 5 @ 01:03:04–01:06:31]
+- La decisión de internalizar depende también del perfil del cliente: flujo considerado informado/tóxico puede recibir spreads peores o ser cubierto antes; EM lo presenta como lógica de riesgo del dealer, no como regla visible desde un gráfico. [VID-M2020: Session 5 @ 00:44:28–00:52:08]
+
 ### Sell side / buy side
 
 - **Estado:** confirmado como definición funcional de EM. **Sell side** vende/provee el servicio de liquidez; **buy side** lo compra/consume, incluso si la firma está vendiendo la divisa. [VID-M2020: Session 3 @ 01:00:39–01:01:52]
@@ -217,6 +223,11 @@
 ### Chain reaction
 - **Estado:** confirmado.
 - Secuencia: precio golpea void → el movimiento se agrava y adelgaza ("chewing gum stretching out and breaking") → se seca o es absorbido → por la forma ineficiente de la entrega, sangra de vuelta por el void y rebalancea al área más cercana y gruesa. Restricción de microestructura independiente de tendencia/sentimiento. [PDF: Liquidity Void p.5]
+
+### Price-chasing entre dealers
+
+- Ante una orden grande por slices, el dealer que intenta llenarla adelanta sus quotes; los demás dealers reprician para evitar quedar arbitrables y pueden absorber flujo contrario de clientes. La cadena desplaza el precio aunque parte de la liquidez exista fuera del precio inmediatamente accesible. [VID-M2020: Session 5 @ 01:42:44–01:59:38]
+- El desplazamiento cesa por fill, pausa/cancelación o suficiente liquidez opuesta. Su final no exige reversión: liquidez nueva que siga al precio puede consolidar el nuevo nivel. [VID-M2020: Session 5 @ 01:59:38–02:03:12]
 
 ### Last point of liquidity
 - **Estado:** confirmado (uso).

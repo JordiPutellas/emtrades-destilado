@@ -29,6 +29,8 @@ M2020 Session 2 no modifica la lista: desarrolla directamente los principios 1, 
 ### Mecanismo institucional del price run (por qué existe la ineficiencia)
 
 - Un LP institucional mueve sus quotes ante flujo entrante → respuesta en cadena de todos los LPs (protección anti-arbitraje: ensanchan spreads y sus pricing engines suben los precios) → los flujos "persiguen" las quotes → movimiento fino e ineficiente que **sobrepasa** (overshoot) y deja un **vacío de liquidez** detrás. [PDF: The Price Run p.1, p.8]
+- Session 5 desarrolla el mecanismo con una orden grande troceada: un banco adelanta su ask para ir llenando slices; los demás reprician para no quedar arbitrables y algunos pueden internalizar ventas de clientes contra esa demanda. Puede existir liquidez real y, aun así, no estar disponible al precio actual; por eso el precio recorre más distancia. [VID-M2020: Session 5 @ 01:42:44–01:59:38]
+- El price-chasing termina cuando la orden queda llena, se pausa o cancela, o cuando encuentra suficiente liquidez contraria. No implica drawback automático: si nueva liquidez compradora acompaña el desplazamiento, el mercado puede estabilizarse más arriba. [VID-M2020: Session 5 @ 01:59:38–02:03:12]
 - Los LPs trocean órdenes grandes para casarlas sin mover el mercado; su trabajo termina cuando el inventario se llena — después el precio queda sin soporte y rebalancea por el vacío buscando liquidez. [PDF: The Price Run p.6, p.8]
 - **Last look** (mecanismo del agotamiento, M2020): en el punto de exhaustion los dealers rechazan y re-cotizan más arriba ("they'll reject it and re-quote at a higher price — so there's absolutely no sell liquidity at the point of exhaustion"); pasado el shelf la liquidez se retira algorítmicamente para evitar adverse selection. Los dealers también retiran quotes ante flujo informado (no por visión direccional) → el precio se estira más de lo que la información justifica = **ineficiencia de mercado** → pockets of air que poco volumen atraviesa de vuelta. [VID-M2020: Session 12 @ 00:58:42–01:10:33]
 - Estructura FX: ~15 investment banks + non-bank market makers en competencia imperfecta (oligopolio) con poder asimétrico (rechazar trades, slippage, spreads). "Price reflects the state of liquidity" (uno de los principios más importantes) y "the market-to-limit-order ratio" (puede subir el precio habiendo más vendedores que compradores) completan el marco. [VID-M2020: Session 12 @ 01:04:06–01:07:12] [VID-M2020: Session 15 @ 00:11:01–00:16:30]
@@ -41,6 +43,9 @@ M2020 Session 2 no modifica la lista: desarrolla directamente los principios 1, 
 ### Ciclo canónico del price run
 
 Estabilidad de volumen (low liquid state) → surge relativo en un lado → run fino/ineficiente → agotamiento (top "jumpy", bids exhausted) → shift de liquidez → rebalance a través del vacío → respuesta en la core liquidity base. [PDF: The Price Run p.5–p.10] [IMG: The Price Run p.10]
+
+- En escala menor, EM nombra la secuencia `sideways/parabolic → apex → shelf flip → bearish deal flow → shift in state of liquidity`; no la presenta como template formal de las cuatro variaciones de apex. [VID-M2020: Session 5 @ 02:06:03–02:06:42]
+- Un swing HTF puede componerse de varios ciclos internos `stability → surge/pop → drying off/drawback → stability`; un micro-run, en cambio, puede resolverse en un solo disparo. [VID-M2020: Session 5 @ 02:06:46–02:11:27]
 
 - "Contraction leads to expansion" explicado vía liquidez: el precio entra casi siempre en áreas de volumen bajo y estable (LLS, en todos los timeframes) que quedan expuestas a un shot de volumen en un lado. [PDF: The Price Run p.5]
 

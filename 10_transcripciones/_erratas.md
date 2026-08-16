@@ -26,3 +26,4 @@
 | scrutiny (contexto order falsa)           | spoofing                                 |
 | HFD / HFP / H&T                           | HFT                                      |
 | EES / CME (según contexto)                | ES / CME                                 |
+| bearish-filled flow                       | bearish deal flow                        |
