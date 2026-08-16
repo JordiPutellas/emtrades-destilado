@@ -1,0 +1,6528 @@
+1
+00:00:00,000 --> 00:00:07,010
+discussed price goes to the less liquid side because market orders need limit orders as
+
+2
+00:00:07,010 --> 00:00:19,120
+transactory right yeah so if there's much much much thicker and i'll give you you know numerical examples again
+
+3
+00:00:19,120 --> 00:00:34,820
+if there was one thousand dollars worth of sell limit orders and ten dollars worth of buy limit orders
+
+4
+00:00:34,820 --> 00:00:43,840
+you could buy 999 dollars worth and price would move nowhere at that price level there
+
+5
+00:00:43,840 --> 00:00:51,940
+if you sold 11 which is significantly less than the amount being brought the exact same time
+
+6
+00:00:51,940 --> 00:01:08,080
+price would go down right so this is much much less liquid specifically it's only 1% of the liquidity
+
+7
+00:01:08,080 --> 00:01:09,340
+compared to the sell liquidity
+
+8
+00:01:09,340 --> 00:01:13,360
+and it requires much less selling
+
+9
+00:01:13,360 --> 00:01:14,620
+to push price in that direction.
+
+10
+00:01:15,770 --> 00:01:17,810
+So if you can identify
+
+11
+00:01:17,810 --> 00:01:20,350
+this particular
+
+12
+00:01:20,350 --> 00:01:23,290
+particularly skewed environment
+
+13
+00:01:23,290 --> 00:01:24,570
+where there's less liquidity
+
+14
+00:01:24,570 --> 00:01:26,850
+on any side of the market
+
+15
+00:01:26,850 --> 00:01:27,590
+compared to the other
+
+16
+00:01:27,590 --> 00:01:29,490
+and you trade in that direction,
+
+17
+00:01:30,030 --> 00:01:30,670
+you'll make money.
+
+18
+00:01:32,400 --> 00:01:33,800
+Price will consistently go that
+
+19
+00:01:33,800 --> 00:01:34,820
+in that direction.
+
+20
+00:01:35,620 --> 00:01:35,720
+Yeah.
+
+21
+00:01:35,980 --> 00:01:39,200
+It doesn't matter if there is a big buyer there.
+
+22
+00:01:39,200 --> 00:01:40,180
+It does not matter.
+
+23
+00:01:40,680 --> 00:01:49,660
+statistically price will go down. So this has kind of been providing an answer, well, this
+
+24
+00:01:49,660 --> 00:01:54,620
+should be providing an answer to this question of where is the edge? We're using price to predict
+
+25
+00:01:54,620 --> 00:01:59,840
+future movements. If you think about what causes price to go up or down, it's obviously more
+
+26
+00:01:59,840 --> 00:02:07,570
+market orders compared to the available limit orders. Now, in this instance, forget price
+
+27
+00:02:07,570 --> 00:02:12,660
+going to say, let's take aside for a minute. There was 10 bi-limit orders there, or $10 worth
+
+28
+00:02:12,660 --> 00:02:13,320
+combine in the orders.
+
+29
+00:02:13,920 --> 00:02:15,380
+I decide to go short.
+
+30
+00:02:17,510 --> 00:02:18,430
+So this is what happens.
+
+31
+00:02:19,140 --> 00:02:20,140
+In my mind,
+
+32
+00:02:20,520 --> 00:02:22,030
+I receive the information
+
+33
+00:02:22,030 --> 00:02:23,030
+or I come to the conclusion
+
+34
+00:02:23,030 --> 00:02:23,750
+I want to go short.
+
+35
+00:02:24,460 --> 00:02:25,580
+That's new information.
+
+36
+00:02:25,720 --> 00:02:27,080
+That isn't being reflected in the market
+
+37
+00:02:27,080 --> 00:02:28,840
+because it's still in my mind.
+
+38
+00:02:30,690 --> 00:02:31,790
+I click the button.
+
+39
+00:02:34,140 --> 00:02:36,140
+The trade goes to the trade server
+
+40
+00:02:36,140 --> 00:02:37,740
+on my platform server.
+
+41
+00:02:38,300 --> 00:02:39,560
+From the platform server,
+
+42
+00:02:39,560 --> 00:02:40,940
+it goes to my broker.
+
+43
+00:02:41,620 --> 00:02:43,520
+Then from the broker, either he fills it
+
+44
+00:02:43,520 --> 00:02:44,880
+or he hedges it out into the market.
+
+45
+00:02:45,480 --> 00:02:45,880
+He goes to,
+
+46
+00:02:45,900 --> 00:02:51,120
+to the prime broker. The prime broker then goes to the real market, fills it, and then it
+
+47
+00:02:51,120 --> 00:02:56,180
+comes all the way back. And now, as it was filling the order, price went down in this instance,
+
+48
+00:02:56,280 --> 00:03:02,740
+yeah? Price goes down. Yeah. So the trade has all, this trade information is now historical
+
+49
+00:03:02,740 --> 00:03:08,660
+information. It has nothing to do with the future. Every single piece of ticking, price movement,
+
+50
+00:03:08,660 --> 00:03:16,360
+every single piece of candlesticks, candles that you see in charts historically are all,
+
+51
+00:03:16,600 --> 00:03:22,020
+information. So how can we be using old information to predict future price movements? Again,
+
+52
+00:03:22,120 --> 00:03:26,700
+that's another reason why this idea of conventional technical analysis, basic price action,
+
+53
+00:03:27,120 --> 00:03:31,240
+people taking a very overly simplistic approach. There's not edge in what you are doing. You're trying
+
+54
+00:03:31,240 --> 00:03:37,850
+to use historical data to predict future price movements. What I say is there's conditions where
+
+55
+00:03:37,850 --> 00:03:45,700
+because of the behaviors of liquidity providers and how they deal with volume, they can create a
+
+56
+00:03:45,700 --> 00:03:50,740
+condition because of some of their behaviors when they're trying to avoid taking on short
+
+57
+00:03:50,740 --> 00:03:56,840
+positions there's too big of buyer here yeah there's large buy volume they don't want to take on
+
+58
+00:03:56,840 --> 00:04:01,460
+short positions because if they go short here price is likely to move against them and they have
+
+59
+00:04:01,460 --> 00:04:06,880
+losing cell positions so they remove their cell liquidity and that sucks price higher and higher and
+
+60
+00:04:06,880 --> 00:04:15,450
+that particular behavior is creating a condition which has a lag effect or it has a sequence of
+
+61
+00:04:15,450 --> 00:04:21,710
+events that take place after them. So volume shot comes in. That's larger than the
+
+62
+00:04:21,710 --> 00:04:27,560
+equity provider wants to take on. The liquidity provider starts to pull that volume higher
+
+63
+00:04:27,560 --> 00:04:34,330
+looking for liquidity in his own book, right? That is stretching the volume out,
+
+64
+00:04:34,430 --> 00:04:38,770
+making it trade thinly at each price level. It's trying to find liquidity. So there's
+
+65
+00:04:38,770 --> 00:04:43,650
+100 million being brought. It's split into small pieces. The liquidity provider pulls its
+
+66
+00:04:43,650 --> 00:04:46,950
+price higher that is buy volumes trying to put it to trade at.
+
+67
+00:04:47,920 --> 00:04:52,100
+The liquidity providers pulling the ass price deeper into his own book, trying to find sell
+
+68
+00:04:52,100 --> 00:04:56,860
+liquidity. Essentially, he's splitting this $100 million and filling in small pieces wherever
+
+69
+00:04:56,860 --> 00:05:02,230
+there's sell liquidity in the book. So it's trading very, very thinly. Now, whilst this is
+
+70
+00:05:02,230 --> 00:05:07,840
+happening, other liquidity providers are having to keep the prices the same, they then also
+
+71
+00:05:07,840 --> 00:05:14,150
+queue up any volume that's waiting behind. So there's $100 million. They have some other buy
+
+72
+00:05:14,150 --> 00:05:18,310
+volume come in. They have to formalize it into a queue. The same way,
+
+73
+00:05:18,330 --> 00:05:22,570
+this is being put into a queue, there's 100 million there, 10 gets filled there, there's
+
+74
+00:05:22,570 --> 00:05:28,940
+90 million left the queue, then the other 90 million has to go to the next price level
+
+75
+00:05:28,940 --> 00:05:34,430
+wherever they sell liquidity to find it. It's counterpoint. There's 80 million left in the queue,
+
+76
+00:05:35,110 --> 00:05:40,000
+right? So the queue and the volume up, trying to find liquidity for it in-house,
+
+77
+00:05:40,780 --> 00:05:44,060
+whilst the other liquidity providers, they also remove liquidity, they have to keep prices
+
+78
+00:05:44,060 --> 00:05:48,100
+the same, they can't offer the amount of liquidity that may or may not actually be in the buck
+
+79
+00:05:48,100 --> 00:05:49,240
+out to the market.
+
+80
+00:05:49,740 --> 00:05:52,000
+So at this price level, let's say
+
+81
+00:05:52,000 --> 00:05:52,700
+is price two.
+
+82
+00:05:54,090 --> 00:05:55,730
+The second dealer at price two
+
+83
+00:05:55,730 --> 00:05:58,410
+had 470 million on sell liquidity.
+
+84
+00:05:58,770 --> 00:06:00,670
+He couldn't offer it out to the market
+
+85
+00:06:00,670 --> 00:06:01,950
+because if he did,
+
+86
+00:06:02,510 --> 00:06:04,130
+dealer one moves prices against it,
+
+87
+00:06:04,430 --> 00:06:05,790
+continues to move prices higher
+
+88
+00:06:05,790 --> 00:06:07,590
+and now there's been a breakdown in prices.
+
+89
+00:06:07,750 --> 00:06:09,130
+Somebody's going to arbitrage against them.
+
+90
+00:06:10,320 --> 00:06:12,460
+Okay, so within these environments,
+
+91
+00:06:12,620 --> 00:06:13,740
+the real supply of liquidity
+
+92
+00:06:13,740 --> 00:06:16,780
+is not being passed on to the market.
+
+93
+00:06:17,280 --> 00:06:18,880
+These guys are actually controlling the supply,
+
+94
+00:06:18,880 --> 00:06:23,040
+removing sell liquidity, resulting in a super, super thinly traded price movement.
+
+95
+00:06:23,460 --> 00:06:24,980
+So price ends up traveling higher.
+
+96
+00:06:25,440 --> 00:06:26,800
+It travels further than it should.
+
+97
+00:06:27,180 --> 00:06:28,820
+There's greater volatility inside of it.
+
+98
+00:06:29,240 --> 00:06:32,160
+And with inside of it, it traded very thin.
+
+99
+00:06:32,160 --> 00:06:38,520
+There wasn't huge transactions that were matched with the buyers and sellers.
+
+100
+00:06:39,300 --> 00:06:39,380
+Yeah.
+
+101
+00:06:41,110 --> 00:06:41,350
+Okay.
+
+102
+00:06:41,550 --> 00:06:49,670
+Now, the after effect of that is inside of this whole area, there's thin by liquidity left behind.
+
+103
+00:06:49,670 --> 00:06:51,230
+there is no real buyer there.
+
+104
+00:06:51,770 --> 00:06:53,930
+The only reason price went up that fast
+
+105
+00:06:53,930 --> 00:06:55,470
+is because the sell liquidity
+
+106
+00:06:55,470 --> 00:06:56,910
+was running away from it.
+
+107
+00:06:59,120 --> 00:07:01,220
+No willing buyer is willing to accept
+
+108
+00:07:01,220 --> 00:07:02,560
+at these higher and higher prices.
+
+109
+00:07:03,280 --> 00:07:04,820
+No willing buyer comes and says,
+
+110
+00:07:04,960 --> 00:07:06,500
+okay, we're now going to position here
+
+111
+00:07:06,500 --> 00:07:08,460
+and build up a huge position here.
+
+112
+00:07:08,760 --> 00:07:11,440
+The real buy liquidity stays down there
+
+113
+00:07:11,440 --> 00:07:14,250
+at the origin of the move.
+
+114
+00:07:16,450 --> 00:07:20,130
+So when this price run eventually exhausts,
+
+115
+00:07:20,170 --> 00:07:21,730
+you have a new condition that's created
+
+116
+00:07:21,730 --> 00:07:23,830
+where there's weak bi-liquidity
+
+117
+00:07:23,830 --> 00:07:27,370
+and relatively thick-a-sell liquidity.
+
+118
+00:07:28,840 --> 00:07:30,220
+If you trade it on this condition
+
+119
+00:07:30,220 --> 00:07:31,940
+and you short it at that thin point,
+
+120
+00:07:32,870 --> 00:07:34,130
+the further the price travels higher,
+
+121
+00:07:34,230 --> 00:07:35,030
+it gets thinner and thin-not.
+
+122
+00:07:35,170 --> 00:07:36,310
+So by that what I mean is,
+
+123
+00:07:36,670 --> 00:07:37,290
+the hundred million,
+
+124
+00:07:37,590 --> 00:07:38,630
+the further it goes higher,
+
+125
+00:07:38,630 --> 00:07:40,670
+it gets filled, filled, filled, filled, filled,
+
+126
+00:07:40,670 --> 00:07:43,050
+until there's hardly anything fucking enough behind.
+
+127
+00:07:43,450 --> 00:07:45,370
+There's only one million left to get filled.
+
+128
+00:07:47,420 --> 00:07:47,980
+Are you following me?
+
+129
+00:07:48,020 --> 00:07:48,940
+Yeah, yeah, yeah.
+
+130
+00:07:50,550 --> 00:07:51,810
+So you eventually reach a stage
+
+131
+00:07:51,810 --> 00:07:52,750
+at the exhaustion point
+
+132
+00:07:52,750 --> 00:07:55,470
+where there's much, this significantly nested by liquidity,
+
+133
+00:07:55,630 --> 00:08:00,190
+it doesn't even take that much sell liquidity to absorb the remaining volume
+
+134
+00:08:00,190 --> 00:08:04,250
+and any like sell volume that comes in any market orders that come in
+
+135
+00:08:04,250 --> 00:08:10,450
+will quite easily push price down yeah so here it's not historical information
+
+136
+00:08:10,450 --> 00:08:16,210
+anymore this new price event that's taking place that is that you know the price
+
+137
+00:08:16,210 --> 00:08:21,230
+room that super super thin is drawing higher trying to find sell liquidity which is running away
+
+138
+00:08:21,230 --> 00:08:25,590
+is creating a new condition i.e. is leaving behind the weak liquidity
+
+139
+00:08:25,590 --> 00:08:28,610
+when it's left behind weak liquidity
+
+140
+00:08:28,610 --> 00:08:30,510
+and the buying finally dries off
+
+141
+00:08:30,510 --> 00:08:33,040
+there's nothing there to hold it up
+
+142
+00:08:33,040 --> 00:08:34,680
+the real buy liquidity is down here
+
+143
+00:08:34,680 --> 00:08:36,470
+yeah
+
+144
+00:08:36,470 --> 00:08:39,470
+so any light cell volume
+
+145
+00:08:39,470 --> 00:08:40,690
+is able to push price back down
+
+146
+00:08:40,690 --> 00:08:42,150
+so this condition
+
+147
+00:08:42,150 --> 00:08:44,590
+it results in a sequence of events
+
+148
+00:08:44,590 --> 00:08:46,170
+my sequence I mean one
+
+149
+00:08:46,170 --> 00:08:48,410
+two three four
+
+150
+00:08:48,410 --> 00:08:50,230
+things happen in order
+
+151
+00:08:50,230 --> 00:08:51,930
+you have the volume shot
+
+152
+00:08:51,930 --> 00:08:52,650
+the buy volume
+
+153
+00:08:52,650 --> 00:08:55,450
+that results in the liquidity provider
+
+154
+00:08:55,450 --> 00:08:56,830
+with drawing liquidity
+
+155
+00:08:56,830 --> 00:09:03,230
+so the ask price the sell liquidity runs away is removed the buy volume chases price is higher
+
+156
+00:09:03,230 --> 00:09:09,300
+resulting in a really really thinly traded move which has nothing left inside of it or hardly
+
+157
+00:09:09,300 --> 00:09:14,880
+any bi liquidity left inside of it and then at the end point the exhaustion point you have
+
+158
+00:09:14,880 --> 00:09:21,200
+weak bi liquidity thicker sell liquidity any light volume is able to push price down so after
+
+159
+00:09:21,200 --> 00:09:27,130
+four we're seeing the exhaustion fill now if I asked you based on what the information I've just
+
+160
+00:09:27,130 --> 00:09:33,320
+told you you have this thin move which is being stretched out and the buy volume dries off what does
+
+161
+00:09:33,320 --> 00:09:40,320
+that mean when i say the buy volume dries off there's no more willing buyers in the market well
+
+162
+00:09:40,320 --> 00:09:49,740
+no because willing buyers let's just say i had a hundred million order here price went up i wanted
+
+163
+00:09:49,740 --> 00:09:55,920
+this hundred million to get filled very quickly so i placed buy limit orders there there is willing
+
+164
+00:09:55,920 --> 00:10:04,340
+buyers there by liquidity could be considered as willing buyers it's hit it's hit a
+
+165
+00:10:04,360 --> 00:10:06,420
+a thicker sell liquidity then?
+
+166
+00:10:07,120 --> 00:10:08,040
+No, no.
+
+167
+00:10:08,780 --> 00:10:10,440
+By volume, I mean
+
+168
+00:10:10,440 --> 00:10:13,610
+market orders. So when
+
+169
+00:10:13,610 --> 00:10:15,770
+buy volume dries off, I'm talking
+
+170
+00:10:15,770 --> 00:10:17,610
+about the aggressive,
+
+171
+00:10:18,290 --> 00:10:19,910
+time sensitive, driving
+
+172
+00:10:19,910 --> 00:10:21,630
+market orders that cause price
+
+173
+00:10:21,630 --> 00:10:23,420
+to push out. Because
+
+174
+00:10:23,420 --> 00:10:25,020
+let's settle, you know, let's settle
+
+175
+00:10:25,020 --> 00:10:27,270
+some confusion here anyway.
+
+176
+00:10:30,130 --> 00:10:32,030
+If there's this range at this low,
+
+177
+00:10:33,380 --> 00:10:34,800
+it can sustain forever.
+
+178
+00:10:35,360 --> 00:10:36,560
+Forever and ever and ever.
+
+179
+00:10:37,160 --> 00:10:38,560
+That range does not have to go
+
+180
+00:10:38,560 --> 00:10:40,880
+anywhere if there's no market
+
+181
+00:10:40,880 --> 00:10:44,140
+orders pushing it out. So there
+
+182
+00:10:44,140 --> 00:10:45,860
+could be 100 million
+
+183
+00:10:45,860 --> 00:10:48,160
+buy liquidity there and 100 million
+
+184
+00:10:48,160 --> 00:10:49,220
+sell liquidity there.
+
+185
+00:10:50,840 --> 00:10:52,000
+What is liquidity?
+
+186
+00:10:53,900 --> 00:10:54,560
+Limits orders.
+
+187
+00:10:55,580 --> 00:10:56,580
+Limit orders. Okay.
+
+188
+00:10:57,160 --> 00:10:58,420
+Now let's just say for the next
+
+189
+00:10:58,420 --> 00:11:01,440
+three, four minutes,
+
+190
+00:11:02,340 --> 00:11:04,380
+buying happens. So they buy 10,
+
+191
+00:11:04,380 --> 00:11:06,500
+the buy 10, the buy 10, the buy 10,
+
+192
+00:11:06,500 --> 00:11:08,740
+until there's only 10 million
+
+193
+00:11:08,740 --> 00:11:11,910
+sell liquidity left. Right?
+
+194
+00:11:13,050 --> 00:11:14,390
+Yeah. The buy liquidity
+
+195
+00:11:14,410 --> 00:11:15,730
+is still relatively thick
+
+196
+00:11:15,730 --> 00:11:17,610
+nobody's sold into it
+
+197
+00:11:17,610 --> 00:11:18,490
+nobody's picked it out
+
+198
+00:11:18,490 --> 00:11:20,810
+under this condition
+
+199
+00:11:20,810 --> 00:11:21,750
+if a market order buy
+
+200
+00:11:21,750 --> 00:11:22,270
+comes through
+
+201
+00:11:22,270 --> 00:11:23,980
+that is simply
+
+202
+00:11:23,980 --> 00:11:24,400
+I don't know
+
+203
+00:11:24,400 --> 00:11:25,100
+30 million
+
+204
+00:11:25,100 --> 00:11:26,240
+it's not a huge amount
+
+205
+00:11:26,240 --> 00:11:27,820
+there's much
+
+206
+00:11:27,820 --> 00:11:28,860
+there's much greater
+
+207
+00:11:28,860 --> 00:11:29,460
+by liquidity
+
+208
+00:11:29,460 --> 00:11:31,480
+than a much greater
+
+209
+00:11:31,480 --> 00:11:32,040
+buy volume
+
+210
+00:11:32,040 --> 00:11:33,280
+market order volume
+
+211
+00:11:33,280 --> 00:11:34,160
+than the available
+
+212
+00:11:34,160 --> 00:11:34,700
+to sell liquidity
+
+213
+00:11:34,700 --> 00:11:36,440
+right
+
+214
+00:11:36,440 --> 00:11:38,300
+the liquidity
+
+215
+00:11:38,300 --> 00:11:39,700
+provider in this instance
+
+216
+00:11:39,700 --> 00:11:41,930
+will be very unlikely
+
+217
+00:11:41,930 --> 00:11:42,850
+to try to go short
+
+218
+00:11:42,850 --> 00:11:43,390
+10 million
+
+219
+00:11:43,390 --> 00:11:45,310
+sorry to try to go short
+
+220
+00:11:45,310 --> 00:11:46,410
+against this 30 million
+
+221
+00:11:46,430 --> 00:11:48,570
+here. In other words, they don't want
+
+222
+00:11:48,570 --> 00:11:50,310
+to fill it. Yeah.
+
+223
+00:11:51,200 --> 00:11:53,080
+Right? Instead,
+
+224
+00:11:53,800 --> 00:11:55,700
+they pull the ask price higher because
+
+225
+00:11:55,700 --> 00:11:57,620
+there might be, at this price, there might be
+
+226
+00:11:57,620 --> 00:12:00,000
+7 million, there might be 10 million there,
+
+227
+00:12:00,280 --> 00:12:01,360
+there might be
+
+228
+00:12:01,360 --> 00:12:03,860
+17 million here.
+
+229
+00:12:04,500 --> 00:12:06,260
+So the liquidity provider is looking on his own
+
+230
+00:12:06,260 --> 00:12:08,380
+inside of his own order book and seeing that
+
+231
+00:12:08,380 --> 00:12:10,500
+there's a thicker area of sell liquidity here,
+
+232
+00:12:12,560 --> 00:12:15,040
+he then needs to take this 30 million and pull it
+
+233
+00:12:15,040 --> 00:12:16,060
+higher and match it off.
+
+234
+00:12:17,550 --> 00:12:18,250
+You get it?
+
+235
+00:12:18,670 --> 00:12:20,570
+because he doesn't want to take on the short
+
+236
+00:12:20,570 --> 00:12:22,730
+30 million risk. If the dealer
+
+237
+00:12:22,730 --> 00:12:25,450
+goes short here, he's gone
+
+238
+00:12:25,450 --> 00:12:27,570
+short 30 million. He has a sell position.
+
+239
+00:12:28,810 --> 00:12:30,010
+There's only 10 million
+
+240
+00:12:30,010 --> 00:12:31,770
+above price that he can buy back.
+
+241
+00:12:32,470 --> 00:12:33,350
+So he gets out
+
+242
+00:12:33,350 --> 00:12:37,140
+10 million. He has 20 million left to buy back.
+
+243
+00:12:37,660 --> 00:12:39,160
+What's the next position he can buy
+
+244
+00:12:39,160 --> 00:12:41,560
+back at? Or back up there.
+
+245
+00:12:43,000 --> 00:12:43,840
+So the risk
+
+246
+00:12:43,840 --> 00:12:44,960
+of price going against him
+
+247
+00:12:44,960 --> 00:12:47,940
+is extremely high if he took on a
+
+248
+00:12:47,940 --> 00:12:49,800
+short position here. The reason
+
+249
+00:12:49,800 --> 00:12:51,600
+is extremely high is because this thin,
+
+250
+00:12:51,600 --> 00:12:52,980
+sell liquidity in the first place.
+
+251
+00:12:55,530 --> 00:12:56,010
+Yeah, there is.
+
+252
+00:12:56,090 --> 00:12:56,610
+You get it.
+
+253
+00:12:57,430 --> 00:13:03,530
+So, so, um, when you refer to, um, volume, you're on about market orders.
+
+254
+00:13:04,730 --> 00:13:05,110
+Always.
+
+255
+00:13:05,110 --> 00:13:05,310
+Always.
+
+256
+00:13:05,410 --> 00:13:06,250
+Always market orders.
+
+257
+00:13:06,350 --> 00:13:06,510
+Okay.
+
+258
+00:13:06,750 --> 00:13:07,150
+Always.
+
+259
+00:13:09,360 --> 00:13:11,480
+So this is 30 million volume.
+
+260
+00:13:12,100 --> 00:13:12,520
+Yeah.
+
+261
+00:13:13,240 --> 00:13:14,200
+It pushes higher.
+
+262
+00:13:14,320 --> 00:13:16,720
+The liquidity provider withdraws this ask price.
+
+263
+00:13:17,820 --> 00:13:22,100
+He's then trying to find this, they sell orders in the book and match this 30 million worth.
+
+264
+00:13:22,100 --> 00:13:23,220
+So the first price, 10 million.
+
+265
+00:13:23,340 --> 00:13:24,440
+He's matched 20 left there.
+
+266
+00:13:24,840 --> 00:13:25,320
+Go to the next.
+
+267
+00:13:25,340 --> 00:13:34,200
+price seven matched 30 left over 10 match there three left over 17 left there the matches three
+
+268
+00:13:34,200 --> 00:13:43,450
+14 million left over here right by volume is now dead up it's finished 30 million's been
+
+269
+00:13:43,450 --> 00:13:55,920
+matched yeah now within this specific example how much was traded here in this region so there was
+
+270
+00:13:55,920 --> 00:14:01,190
+20 then 13 and 36 no no but how much was traded here
+
+271
+00:14:01,290 --> 00:14:02,890
+oh nothing
+
+272
+00:14:02,890 --> 00:14:04,350
+absolutely nothing
+
+273
+00:14:04,350 --> 00:14:04,710
+yeah
+
+274
+00:14:04,710 --> 00:14:05,930
+so price
+
+275
+00:14:05,930 --> 00:14:06,470
+could have easily
+
+276
+00:14:06,470 --> 00:14:06,930
+moved
+
+277
+00:14:06,930 --> 00:14:09,300
+10%
+
+278
+00:14:09,300 --> 00:14:11,830
+from here to here
+
+279
+00:14:11,830 --> 00:14:13,780
+making it seem
+
+280
+00:14:13,780 --> 00:14:14,760
+like a very big move
+
+281
+00:14:14,760 --> 00:14:18,090
+but in reality
+
+282
+00:14:18,090 --> 00:14:18,690
+there was hardly
+
+283
+00:14:18,690 --> 00:14:19,590
+anything traded here
+
+284
+00:14:19,590 --> 00:14:20,940
+okay
+
+285
+00:14:20,940 --> 00:14:21,940
+yeah
+
+286
+00:14:21,940 --> 00:14:22,820
+why did price
+
+287
+00:14:22,820 --> 00:14:23,760
+then jump 10%
+
+288
+00:14:23,760 --> 00:14:27,200
+it had to match
+
+289
+00:14:27,200 --> 00:14:27,800
+the
+
+290
+00:14:27,800 --> 00:14:28,960
+the orders
+
+291
+00:14:28,960 --> 00:14:29,940
+because that that's
+
+292
+00:14:29,940 --> 00:14:30,200
+the
+
+293
+00:14:30,200 --> 00:14:32,940
+purpose of market
+
+294
+00:14:32,940 --> 00:14:32,960
+there was very
+
+295
+00:14:32,960 --> 00:14:34,660
+there was very thin
+
+296
+00:14:34,660 --> 00:14:35,320
+sell liquidity
+
+297
+00:14:35,320 --> 00:14:36,400
+that's why I was jumping
+
+298
+00:14:36,400 --> 00:14:39,590
+the sell liquidity
+
+299
+00:14:39,610 --> 00:14:41,370
+sufficient to fill the 30 million
+
+300
+00:14:41,370 --> 00:14:43,850
+was spread out over 10% worth of prices
+
+301
+00:14:43,850 --> 00:14:49,580
+there's 10 million plus 7 that's 17 plus 10 that's
+
+302
+00:14:49,580 --> 00:14:53,400
+27 the final 3 that's required is
+
+303
+00:14:53,400 --> 00:14:57,050
+is there yeah that 30 million was
+
+304
+00:14:57,050 --> 00:15:00,790
+spread out over a big distance a 10% distance
+
+305
+00:15:00,790 --> 00:15:04,010
+of prices so that's why when a volume came in
+
+306
+00:15:04,010 --> 00:15:07,430
+it wasn't a big shot of volume it was still able to push
+
+307
+00:15:07,430 --> 00:15:11,800
+price up 10% because the volume had to find liquidity
+
+308
+00:15:12,040 --> 00:15:18,440
+price went to the less liquid side the less liquid side this example is extremely extremely illiquid
+
+309
+00:15:18,440 --> 00:15:25,800
+yeah by illiquid i mean this 30 million couldn't find his counterparties without moving price 10
+
+310
+00:15:25,800 --> 00:15:33,820
+that's very illiquid all right now in this instance there's hardly anything traded here
+
+311
+00:15:33,820 --> 00:15:40,590
+the hundred million buyers remember is that volume or is that liquidity no that's liquidity that's
+
+312
+00:15:40,590 --> 00:15:42,620
+there. Okay, so prices now
+
+313
+00:15:42,620 --> 00:15:44,840
+jumped up 10%. That's
+
+314
+00:15:44,840 --> 00:15:46,220
+100 million buyers down here.
+
+315
+00:15:47,400 --> 00:15:47,900
+Realistically,
+
+316
+00:15:50,580 --> 00:15:52,580
+if these 100 million buyers was,
+
+317
+00:15:52,780 --> 00:15:54,780
+let's just say that's me, if I had a high,
+
+318
+00:15:54,860 --> 00:15:56,160
+high urgency to get filled,
+
+319
+00:15:56,620 --> 00:15:58,860
+I want to get filled as soon as possible,
+
+320
+00:15:59,360 --> 00:16:01,320
+I might take these 100 million orders
+
+321
+00:16:01,320 --> 00:16:03,670
+and stack them here.
+
+322
+00:16:05,120 --> 00:16:07,040
+So now there's 100 million holding price up.
+
+323
+00:16:09,750 --> 00:16:12,230
+So when the market order buy volume dries off,
+
+324
+00:16:13,100 --> 00:16:14,500
+it does leave behind
+
+325
+00:16:14,500 --> 00:16:16,740
+an area where there's no buy liquidity.
+
+326
+00:16:16,800 --> 00:16:18,970
+there, right?
+
+327
+00:16:22,010 --> 00:16:22,730
+Why is that?
+
+328
+00:16:25,870 --> 00:16:27,250
+So you're referring to
+
+329
+00:16:27,250 --> 00:16:29,010
+how it leaves nothing there?
+
+330
+00:16:30,500 --> 00:16:30,740
+Yeah.
+
+331
+00:16:31,570 --> 00:16:32,290
+Where is the buy liquidity?
+
+332
+00:16:33,090 --> 00:16:34,410
+It's lower than that.
+
+333
+00:16:35,200 --> 00:16:35,440
+Here.
+
+334
+00:16:35,600 --> 00:16:35,840
+Yeah.
+
+335
+00:16:36,660 --> 00:16:38,440
+So here there's no buy liquidity, yeah?
+
+336
+00:16:39,320 --> 00:16:41,180
+The market order buying is dried off,
+
+337
+00:16:41,180 --> 00:16:42,420
+so it's not driving prices
+
+338
+00:16:42,420 --> 00:16:44,020
+to find sell limit orders anymore.
+
+339
+00:16:44,980 --> 00:16:46,340
+Sell limit orders have absorbed
+
+340
+00:16:46,340 --> 00:16:48,620
+three million less, the last bit of buyers.
+
+341
+00:16:50,420 --> 00:16:50,560
+Yeah.
+
+342
+00:16:50,560 --> 00:16:53,400
+So now we have a condition
+
+343
+00:16:53,400 --> 00:16:54,520
+with this 14 million
+
+344
+00:16:54,540 --> 00:16:58,820
+sell limit orders here
+
+345
+00:16:58,820 --> 00:17:00,720
+all the way down to there
+
+346
+00:17:00,720 --> 00:17:02,540
+is zero by limit orders
+
+347
+00:17:02,540 --> 00:17:04,460
+yeah so it has to go to that
+
+348
+00:17:04,460 --> 00:17:05,880
+that price 100 million
+
+349
+00:17:05,880 --> 00:17:08,200
+well any order that comes down
+
+350
+00:17:08,200 --> 00:17:10,320
+it's going to push price right down to there
+
+351
+00:17:10,320 --> 00:17:13,370
+immediately almost instantaneously
+
+352
+00:17:13,370 --> 00:17:15,790
+it'll go smack down right down to there
+
+353
+00:17:15,790 --> 00:17:18,510
+to find equity you get it
+
+354
+00:17:18,510 --> 00:17:22,410
+so now just imagine that instance
+
+355
+00:17:22,410 --> 00:17:24,610
+where those buyers didn't turn up there
+
+356
+00:17:24,610 --> 00:17:26,010
+that 100 million buyer
+
+357
+00:17:27,150 --> 00:17:28,530
+he's not willing to accept
+
+358
+00:17:28,530 --> 00:17:30,550
+that high those higher prices there
+
+359
+00:17:30,550 --> 00:17:32,640
+price only moved out there
+
+360
+00:17:32,640 --> 00:17:33,600
+because the sell
+
+361
+00:17:33,600 --> 00:17:35,200
+the liquidity provider
+
+362
+00:17:35,200 --> 00:17:39,700
+was trying to deal inside of his own book
+
+363
+00:17:39,700 --> 00:17:41,160
+pulling prices higher
+
+364
+00:17:41,160 --> 00:17:43,740
+imagine there's a completely separate book here
+
+365
+00:17:43,740 --> 00:17:46,810
+right this is your dealer
+
+366
+00:17:46,810 --> 00:17:50,080
+that dealer within these same prices
+
+367
+00:17:50,080 --> 00:17:52,440
+had 50 million
+
+368
+00:17:52,440 --> 00:17:53,440
+selling an order there
+
+369
+00:17:53,440 --> 00:17:56,920
+then in reality this 30 million
+
+370
+00:17:56,920 --> 00:17:58,140
+should have gone to here
+
+371
+00:17:58,140 --> 00:18:00,130
+which is the same price
+
+372
+00:18:00,130 --> 00:18:02,450
+found the counterpart
+
+373
+00:18:02,470 --> 00:18:05,250
+party and then whatever happens
+
+374
+00:18:05,250 --> 00:18:07,550
+price shouldn't have broke out to a new
+
+375
+00:18:07,550 --> 00:18:11,550
+basically price shouldn't have broken out to this
+
+376
+00:18:11,550 --> 00:18:13,910
+are you following me
+
+377
+00:18:13,910 --> 00:18:17,130
+yeah yeah if that sell liquidity
+
+378
+00:18:17,130 --> 00:18:19,820
+which is on another
+
+379
+00:18:19,820 --> 00:18:23,710
+dealer's book was given to this volume
+
+380
+00:18:23,710 --> 00:18:25,230
+on the first dealer's book
+
+381
+00:18:25,230 --> 00:18:27,750
+yeah price wouldn't have a stretch so far
+
+382
+00:18:27,750 --> 00:18:29,050
+okay
+
+383
+00:18:29,050 --> 00:18:32,440
+now that's an example of the inefficiency of the market
+
+384
+00:18:32,440 --> 00:18:35,240
+where the fragmentation of it
+
+385
+00:18:35,240 --> 00:18:38,300
+i.e. there's liquidity there, there's liquidity there.
+
+386
+00:18:38,620 --> 00:18:40,120
+They spread across two different venues.
+
+387
+00:18:40,300 --> 00:18:44,740
+If it was all under one single venue, the market would not have broke out that fast.
+
+388
+00:18:45,740 --> 00:18:54,280
+Yeah. Okay. So the point I'm really making here is the real market value, the real desire to trade is really still within this range.
+
+389
+00:18:56,880 --> 00:19:07,360
+Yeah. Yeah. Even though one dealer caused price to push out this much because he wanted to keep information in-house and match it off in-house, this move out is as simple then dislover.
+
+390
+00:19:07,380 --> 00:19:12,490
+location. It's just a spike away from the true area of value.
+
+391
+00:19:12,890 --> 00:19:13,090
+Yeah.
+
+392
+00:19:13,850 --> 00:19:16,690
+And as long as this 100 million wants to continue trading down here.
+
+393
+00:19:17,450 --> 00:19:19,670
+And remember, this is just me in this example.
+
+394
+00:19:20,170 --> 00:19:28,090
+What if there was the majority of this asset traders, the bi-liquity, the majority of it maintained
+
+395
+00:19:28,090 --> 00:19:33,300
+itself down there, i.e. it remained back down at this core area.
+
+396
+00:19:34,660 --> 00:19:39,280
+Then this whole move out, it leaves behind a lack of liquidity.
+
+397
+00:19:40,000 --> 00:19:42,860
+It will never be completely illiquid, all right?
+
+398
+00:19:43,220 --> 00:19:45,680
+It will never be that is absolutely zero there,
+
+399
+00:19:46,120 --> 00:19:49,300
+but it will be significantly less buy liquidity at these areas
+
+400
+00:19:49,300 --> 00:19:52,320
+than the real core liquidity down there.
+
+401
+00:19:52,320 --> 00:19:54,820
+So any light selling is able to push price down.
+
+402
+00:19:56,930 --> 00:20:00,550
+Here, where the market order buying dried off, the driving force,
+
+403
+00:20:01,130 --> 00:20:02,590
+when that market order buying dried off,
+
+404
+00:20:02,830 --> 00:20:06,230
+you had thicker sell liquidity than the market order buyers
+
+405
+00:20:06,230 --> 00:20:11,400
+and much thinner by liquidity left behind.
+
+406
+00:20:11,680 --> 00:20:12,700
+So that's an example.
+
+407
+00:20:12,720 --> 00:20:16,290
+of there being a skewed book.
+
+408
+00:20:18,510 --> 00:20:18,850
+Okay.
+
+409
+00:20:20,940 --> 00:20:21,220
+All right?
+
+410
+00:20:21,500 --> 00:20:23,500
+So here I'm just kind of explaining
+
+411
+00:20:23,500 --> 00:20:27,090
+under which condition there's edge structurally
+
+412
+00:20:27,090 --> 00:20:29,650
+how the behaviours of other market participants
+
+413
+00:20:29,650 --> 00:20:33,770
+allow us to consistently predict future price movements
+
+414
+00:20:33,770 --> 00:20:36,090
+with not trading something random anymore.
+
+415
+00:20:36,590 --> 00:20:39,770
+It is definitely random when this move will break out.
+
+416
+00:20:40,270 --> 00:20:41,150
+Nobody can tell you that.
+
+417
+00:20:41,730 --> 00:20:43,530
+Nobody can tell you what some Japanese trader
+
+418
+00:20:43,530 --> 00:20:45,690
+decides to push a button at the right time
+
+419
+00:20:45,690 --> 00:20:50,010
+that can trigger the protective mechanism
+
+420
+00:20:50,010 --> 00:20:51,530
+that liquidity providers employ.
+
+421
+00:20:53,230 --> 00:20:56,510
+But what you can say is because of those actions
+
+422
+00:20:56,510 --> 00:20:58,310
+and because of this protective mechanism,
+
+423
+00:20:58,550 --> 00:21:00,310
+when this environment is underway,
+
+424
+00:21:00,930 --> 00:21:02,690
+it's creating a condition which in the future
+
+425
+00:21:02,690 --> 00:21:04,410
+is basically unsustainable.
+
+426
+00:21:04,530 --> 00:21:06,090
+This move cannot sustain itself.
+
+427
+00:21:06,590 --> 00:21:07,710
+It's creating too much weakness.
+
+428
+00:21:08,130 --> 00:21:09,390
+Once the volume dries off,
+
+429
+00:21:10,820 --> 00:21:12,080
+there's always going to be a weaker side.
+
+430
+00:21:12,180 --> 00:21:13,980
+There's always going to be thinned by liquidity left behind.
+
+431
+00:21:15,110 --> 00:21:16,750
+So there's absolutely,
+
+432
+00:21:16,750 --> 00:21:22,460
+some edge when you're trading this condition
+
+433
+00:21:22,460 --> 00:21:24,220
+when you're trying to trade
+
+434
+00:21:24,220 --> 00:21:27,560
+the effect of these market participants
+
+435
+00:21:27,560 --> 00:21:30,460
+which is creating market inefficiencies
+
+436
+00:21:30,460 --> 00:21:32,360
+yeah
+
+437
+00:21:32,360 --> 00:21:36,120
+all right so again it's critical you understand
+
+438
+00:21:36,120 --> 00:21:38,120
+why this edge here what we're doing here
+
+439
+00:21:38,120 --> 00:21:40,580
+why we're focusing on this particular behavior
+
+440
+00:21:40,580 --> 00:21:43,560
+and within this behavior we're going to break
+
+441
+00:21:43,560 --> 00:21:46,780
+this this structure down from the origin
+
+442
+00:21:46,780 --> 00:21:49,480
+to the move up to the exhaustion
+
+443
+00:21:49,500 --> 00:21:55,680
+point to the reversal and back down we broke those structures into categories or we categorize
+
+444
+00:21:55,680 --> 00:22:01,760
+them we break them into stages so we can identify where along this series of price events we are
+
+445
+00:22:01,760 --> 00:22:09,320
+so the first price event obviously is the volume short yeah second volume of second event is
+
+446
+00:22:09,320 --> 00:22:16,400
+price obviously runs third event is exhaustion fourth event is the shift and the fifth event is the
+
+447
+00:22:16,400 --> 00:22:26,020
+exhaust is the is the is the fill basically now each of these are different stages at any given
+
+448
+00:22:26,020 --> 00:22:31,760
+point when you open up a chart price could be alongside any of these or within any of these stages
+
+449
+00:22:31,760 --> 00:22:37,460
+so we need to be able to accurately identify where along this this stage we are or this
+
+450
+00:22:37,460 --> 00:22:42,680
+sequence we are that's why each of these one each of these numbers will have very very specific
+
+451
+00:22:42,680 --> 00:22:47,770
+characteristics that different from each other and we're going to start to look into them
+
+452
+00:22:47,770 --> 00:22:53,120
+but here what I've done is I've slightly simplified it
+
+453
+00:22:53,120 --> 00:22:54,600
+because again last session we discussed
+
+454
+00:22:54,600 --> 00:22:57,480
+one dealer can deal inside of his own book
+
+455
+00:22:57,480 --> 00:23:01,110
+and the other dealer can have
+
+456
+00:23:01,110 --> 00:23:02,600
+there's a fish hole
+
+457
+00:23:02,600 --> 00:23:04,340
+there's buying going on
+
+458
+00:23:04,340 --> 00:23:06,320
+buyers need sell market order buying going on
+
+459
+00:23:06,320 --> 00:23:08,020
+they need sell equity
+
+460
+00:23:08,020 --> 00:23:10,300
+the sell liquidity is stretched out here
+
+461
+00:23:10,300 --> 00:23:12,800
+the size of the red line
+
+462
+00:23:12,800 --> 00:23:16,180
+signifies the amount of liquidity
+
+463
+00:23:16,180 --> 00:23:18,040
+the distance between them
+
+464
+00:23:18,040 --> 00:23:20,240
+signifies how far stretched out it is
+
+465
+00:23:20,260 --> 00:23:23,550
+within this dealer too's book
+
+466
+00:23:23,550 --> 00:23:25,670
+who might have a sell limit order there
+
+467
+00:23:25,670 --> 00:23:27,290
+is it the dealer's sell limit order
+
+468
+00:23:27,290 --> 00:23:29,740
+no it's the
+
+469
+00:23:29,740 --> 00:23:32,010
+it's not the dealers
+
+470
+00:23:32,010 --> 00:23:32,990
+it's the people who actually
+
+471
+00:23:32,990 --> 00:23:34,710
+yeah it could be a client
+
+472
+00:23:34,710 --> 00:23:35,690
+it could be a corporate client
+
+473
+00:23:35,690 --> 00:23:37,650
+that wants to do business at that price
+
+474
+00:23:37,650 --> 00:23:38,390
+for whatever reason
+
+475
+00:23:38,390 --> 00:23:39,950
+who's placed a sell limit order
+
+476
+00:23:39,950 --> 00:23:41,130
+with his dealer there
+
+477
+00:23:41,130 --> 00:23:44,120
+these dealers have quite a rich network
+
+478
+00:23:44,120 --> 00:23:45,240
+of internal liquidity
+
+479
+00:23:45,240 --> 00:23:47,500
+they've built their own liquidity pools
+
+480
+00:23:47,500 --> 00:23:48,780
+over time by keeping clients
+
+481
+00:23:48,780 --> 00:23:49,640
+trade with them
+
+482
+00:23:49,640 --> 00:23:52,340
+so when a client does go long
+
+483
+00:23:52,340 --> 00:23:54,000
+market order long at the right time
+
+484
+00:23:54,000 --> 00:23:58,020
+it's reasonable for them
+
+485
+00:23:58,020 --> 00:23:59,660
+to just try to fill it in-house
+
+486
+00:23:59,660 --> 00:24:02,170
+so in this example
+
+487
+00:24:02,170 --> 00:24:03,110
+that I gave you a minute ago
+
+488
+00:24:03,110 --> 00:24:04,210
+with price moved 10%
+
+489
+00:24:04,210 --> 00:24:04,990
+it's very unlikely
+
+490
+00:24:04,990 --> 00:24:07,840
+right
+
+491
+00:24:07,840 --> 00:24:10,170
+they'd be able to fill a 10 million order
+
+492
+00:24:10,170 --> 00:24:12,210
+in-house probably within one pip
+
+493
+00:24:12,210 --> 00:24:13,250
+two pips
+
+494
+00:24:13,250 --> 00:24:15,670
+however
+
+495
+00:24:15,670 --> 00:24:18,370
+the amount of sell equity here
+
+496
+00:24:18,370 --> 00:24:19,450
+isn't always the same
+
+497
+00:24:19,450 --> 00:24:21,540
+and what can happen is
+
+498
+00:24:21,540 --> 00:24:24,160
+this original 10 million shot
+
+499
+00:24:24,160 --> 00:24:25,800
+from the client won at dealer one
+
+500
+00:24:25,800 --> 00:24:27,800
+they start moving prices higher
+
+501
+00:24:27,800 --> 00:24:29,000
+trying to fill the 10 million
+
+502
+00:24:29,000 --> 00:24:30,620
+that then results in
+
+503
+00:24:30,620 --> 00:24:32,420
+follow through buying from other dealers
+
+504
+00:24:32,420 --> 00:24:35,350
+and they all go into this protective state
+
+505
+00:24:35,350 --> 00:24:37,150
+of not wanting to provide sell liquidity
+
+506
+00:24:37,150 --> 00:24:39,030
+even if there was
+
+507
+00:24:39,030 --> 00:24:41,980
+20 billion worth of sell liquidity
+
+508
+00:24:41,980 --> 00:24:45,430
+collectively at the other two dealers
+
+509
+00:24:45,430 --> 00:24:47,030
+at the other three dealers
+
+510
+00:24:47,030 --> 00:24:48,450
+at this price
+
+511
+00:24:48,450 --> 00:24:53,160
+they are not supplying that liquidity out to the market
+
+512
+00:24:53,160 --> 00:24:55,380
+all of them go into protective state
+
+513
+00:24:55,380 --> 00:24:58,050
+well even if they've got 20 billion
+
+514
+00:24:58,070 --> 00:25:00,600
+yeah because it's split up
+
+515
+00:25:00,600 --> 00:25:02,420
+this guy's moving prices higher
+
+516
+00:25:02,420 --> 00:25:03,880
+everybody
+
+517
+00:25:03,880 --> 00:25:05,400
+then is sorry
+
+518
+00:25:05,400 --> 00:25:06,980
+this guy's moving prices higher
+
+519
+00:25:06,980 --> 00:25:08,940
+i.e. the dealer does not want to take short positions
+
+520
+00:25:08,940 --> 00:25:10,820
+they have to keep prices the same
+
+521
+00:25:10,820 --> 00:25:12,920
+so by the time
+
+522
+00:25:12,920 --> 00:25:14,080
+the dealer
+
+523
+00:25:14,080 --> 00:25:17,120
+this original dealer's gone from this price
+
+524
+00:25:17,120 --> 00:25:17,860
+to this price
+
+525
+00:25:17,860 --> 00:25:21,260
+if these guys are still down here
+
+526
+00:25:21,260 --> 00:25:23,860
+offering 20 billion worth of sell liquidity
+
+527
+00:25:23,860 --> 00:25:26,240
+you could buy here
+
+528
+00:25:26,240 --> 00:25:28,040
+sell to this guy immediately
+
+529
+00:25:28,040 --> 00:25:35,060
+yeah why
+
+530
+00:25:35,060 --> 00:25:37,510
+because then you
+
+531
+00:25:37,510 --> 00:25:40,280
+what's the word
+
+532
+00:25:40,280 --> 00:25:41,720
+you're taking advantage of
+
+533
+00:25:41,720 --> 00:25:43,580
+the market
+
+534
+00:25:43,580 --> 00:25:45,440
+you make a profit of that
+
+535
+00:25:45,440 --> 00:25:47,510
+they can't allow that
+
+536
+00:25:47,510 --> 00:25:50,430
+yeah but why can you take advantage of that
+
+537
+00:25:50,430 --> 00:25:53,070
+because of prime brokerage
+
+538
+00:25:53,070 --> 00:25:55,130
+there's going to be prime brokerage clients that can see this guy's
+
+539
+00:25:55,130 --> 00:25:56,730
+price you can see this guy's price
+
+540
+00:25:56,730 --> 00:25:58,730
+as soon as those prices break away
+
+541
+00:25:58,730 --> 00:26:02,000
+there's going to be someone there to try to exploit that
+
+542
+00:26:02,000 --> 00:26:04,600
+the algorithms
+
+543
+00:26:04,600 --> 00:26:06,420
+the really fast ones
+
+544
+00:26:06,420 --> 00:26:08,000
+it could be a HFT system
+
+545
+00:26:08,020 --> 00:26:13,700
+Yeah, typically it'll be a HFT client, but they can exploit those price breakdowns.
+
+546
+00:26:14,660 --> 00:26:17,720
+So it doesn't matter how much liquidity is at this price level.
+
+547
+00:26:18,700 --> 00:26:21,860
+If dealers are pushing their, if one dealer starts to push their prices higher,
+
+548
+00:26:21,980 --> 00:26:26,010
+it triggers a response from all the others where they have to keep prices the same.
+
+549
+00:26:27,630 --> 00:26:31,850
+So if price goes from one to two here, these guys also have to go to one to two.
+
+550
+00:26:33,480 --> 00:26:34,920
+Then it goes from two to three.
+
+551
+00:26:35,540 --> 00:26:37,300
+These guys also have to go two to three.
+
+552
+00:26:37,300 --> 00:26:45,780
+now at this price this dealer at price three has no sell liquidity there so he quickly has to go to
+
+553
+00:26:45,780 --> 00:26:53,350
+price four to fill this 10 million right okay yeah why is he why does he have to go inside of
+
+554
+00:26:53,350 --> 00:26:58,560
+why is you trying to find 10 million here or why is you trying to fill the 10 million here
+
+555
+00:26:58,560 --> 00:27:04,980
+I'm not filling the 10 million there because he's doing it in-house exactly so he's filling
+
+556
+00:27:04,980 --> 00:27:10,320
+the quotes in house and he's got liquidity at different places he's moved from 3 to 4 but
+
+557
+00:27:10,340 --> 00:27:12,040
+these guys are now triggering
+
+558
+00:27:12,040 --> 00:27:14,120
+across these three price levels
+
+559
+00:27:14,120 --> 00:27:16,080
+across these three dealers, sorry,
+
+560
+00:27:16,180 --> 00:27:18,420
+the equivalent of 20 billion worth of sell limits.
+
+561
+00:27:19,220 --> 00:27:20,920
+They have to buy them themselves.
+
+562
+00:27:22,330 --> 00:27:22,670
+Okay.
+
+563
+00:27:24,460 --> 00:27:25,400
+Because if they, if,
+
+564
+00:27:25,860 --> 00:27:27,840
+imagine 20 million of sell liquidity
+
+565
+00:27:27,840 --> 00:27:30,020
+came out on offer to all these buyers here.
+
+566
+00:27:33,660 --> 00:27:35,600
+They're now going long at this price.
+
+567
+00:27:37,790 --> 00:27:38,210
+No?
+
+568
+00:27:38,730 --> 00:27:40,310
+They all go along at price three.
+
+569
+00:27:41,880 --> 00:27:44,940
+When dealer number four
+
+570
+00:27:44,940 --> 00:27:47,060
+has already gone to price four.
+
+571
+00:27:47,220 --> 00:27:49,780
+they can immediately sell to that motherfucker.
+
+572
+00:27:50,500 --> 00:27:51,700
+Yeah, that's true.
+
+573
+00:27:52,220 --> 00:27:52,980
+Prices are broke down.
+
+574
+00:27:53,080 --> 00:27:55,900
+These guys have sold liquidity too cheap.
+
+575
+00:27:57,580 --> 00:28:00,080
+And this guy's brought volume high to it.
+
+576
+00:28:00,360 --> 00:28:01,800
+He's brought too high.
+
+577
+00:28:03,760 --> 00:28:04,700
+So now there's been a breakdown.
+
+578
+00:28:04,820 --> 00:28:08,980
+So the point of making is there can be a lot of liquidity available at this price level three.
+
+579
+00:28:09,600 --> 00:28:14,100
+But because one dealer started to price inside price liquidity in-house,
+
+580
+00:28:15,280 --> 00:28:19,240
+that can cause these other guys to not provide that $20 billion out to the market.
+
+581
+00:28:21,540 --> 00:28:24,540
+They avoid taking on short positions, number one.
+
+582
+00:28:25,220 --> 00:28:28,180
+Number two, they're controlling the supply of sell equity,
+
+583
+00:28:29,890 --> 00:28:34,160
+which is resulting in these buyers now,
+
+584
+00:28:35,320 --> 00:28:39,560
+having to accept higher and higher prices to find sell equity amongst receiving,
+
+585
+00:28:40,760 --> 00:28:47,840
+but from the receiving dealer flow and the corresponding or responding dealers.
+
+586
+00:28:47,840 --> 00:28:51,440
+So by the one, I mean, is Bank five starts moving its prices high.
+
+587
+00:28:51,520 --> 00:28:52,640
+We know that's all good.
+
+588
+00:28:52,640 --> 00:29:00,080
+bank four also then copies dealer what dealifies prices so when dealer five goes from one to two bank four goes from one to two
+
+589
+00:29:00,080 --> 00:29:09,470
+bank five goes from two to three finds no sell liquidity at three whilst bank four at three has some sell liquidity
+
+590
+00:29:09,470 --> 00:29:17,180
+let's say 40 million bank five quickly jumps from three to four bank four has to keep in line so he also
+
+591
+00:29:17,180 --> 00:29:23,070
+jumps from three to four and he himself has to go long at 40 million so bank four
+
+592
+00:29:23,090 --> 00:29:24,490
+has now gone longer 40 million.
+
+593
+00:29:25,490 --> 00:29:27,530
+Back five moves prices from four to five.
+
+594
+00:29:28,190 --> 00:29:29,910
+Bank four moves from price four to five.
+
+595
+00:29:30,470 --> 00:29:35,870
+Now, let's just say bank four hits some of the client's stop losses because they were just
+
+596
+00:29:35,870 --> 00:29:36,150
+there.
+
+597
+00:29:36,310 --> 00:29:36,970
+That's what happens.
+
+598
+00:29:37,770 --> 00:29:39,450
+That results in buy is coming through.
+
+599
+00:29:39,610 --> 00:29:43,050
+So now $20 million worth of buy market orders coming through.
+
+600
+00:29:43,830 --> 00:29:45,410
+Bank five moves from five to six.
+
+601
+00:29:45,830 --> 00:29:47,630
+Bank four also moves from five to six.
+
+602
+00:29:47,630 --> 00:29:51,290
+But now he has $40 million to sell to those stop losses.
+
+603
+00:29:51,290 --> 00:29:55,050
+yeah right so he's basically raised inventory
+
+604
+00:29:55,050 --> 00:30:00,450
+as prices traveling higher by taking the opposite side of clients
+
+605
+00:30:00,450 --> 00:30:04,070
+and then they're able to distribute that inventory
+
+606
+00:30:04,070 --> 00:30:08,930
+in pieces behind the given ask price so the ask price is moving higher and higher
+
+607
+00:30:08,930 --> 00:30:12,510
+amongst all these banks and they're able to distribute liquidity behind the ask
+
+608
+00:30:12,510 --> 00:30:17,040
+price time and time again okay all right so the control of the supply of liquidity
+
+609
+00:30:17,040 --> 00:30:22,000
+now one final point I was talking about a scenario where bank five
+
+610
+00:30:22,060 --> 00:30:27,260
+led to initial buy-in and then bank four hit stop losses bank three also led to more buying
+
+611
+00:30:27,260 --> 00:30:32,620
+more buying more buy-in now there's a whole wave of extra buying going on all these banks essentially
+
+612
+00:30:32,620 --> 00:30:38,700
+will turn into um will essentially start to pull their ass prices higher to avoid getting clipped
+
+613
+00:30:38,700 --> 00:30:44,140
+by that what i mean is they don't want these these buyers to be able to clip the ask price so now this
+
+614
+00:30:44,140 --> 00:30:50,360
+dealer turns massively short yeah right they'll control the supply and the amount of sell equity
+
+615
+00:30:50,360 --> 00:30:54,620
+they'll try to raise inventory by going long against limit orders
+
+616
+00:30:54,620 --> 00:30:57,020
+and simultaneously the key prices the same.
+
+617
+00:30:57,320 --> 00:30:59,660
+The effect is, of course, price runs further than it should.
+
+618
+00:31:00,340 --> 00:31:03,540
+One dealer can initiate the response
+
+619
+00:31:03,540 --> 00:31:05,000
+or the other dealers can respond.
+
+620
+00:31:05,180 --> 00:31:08,520
+The behaviours of the other dealers are basically avoiding providers sell liquidity,
+
+621
+00:31:09,140 --> 00:31:10,620
+even if there's real sell liquidity there,
+
+622
+00:31:10,920 --> 00:31:13,100
+that causes price to run higher and higher and higher,
+
+623
+00:31:13,580 --> 00:31:15,920
+and we have this eventual price run.
+
+624
+00:31:16,700 --> 00:31:17,280
+That's the point.
+
+625
+00:31:17,800 --> 00:31:20,320
+What I want you to do is go through obviously these,
+
+626
+00:31:20,460 --> 00:31:21,380
+like you should
+
+627
+00:31:21,380 --> 00:31:23,360
+basically know this inside out
+
+628
+00:31:23,360 --> 00:31:23,960
+yeah
+
+629
+00:31:23,960 --> 00:31:26,020
+here's an example
+
+630
+00:31:26,020 --> 00:31:28,260
+of price being relatively stable
+
+631
+00:31:28,260 --> 00:31:29,200
+shooting out
+
+632
+00:31:29,200 --> 00:31:30,780
+and drawing back in
+
+633
+00:31:30,780 --> 00:31:33,040
+on really really light selling
+
+634
+00:31:33,040 --> 00:31:34,380
+is drawing back in
+
+635
+00:31:34,380 --> 00:31:35,860
+and then it shoots out again
+
+636
+00:31:35,860 --> 00:31:37,320
+it comes really very very thin
+
+637
+00:31:37,320 --> 00:31:38,900
+let's just say
+
+638
+00:31:38,900 --> 00:31:40,140
+it was 20 million long
+
+639
+00:31:40,140 --> 00:31:41,840
+it was filled two
+
+640
+00:31:41,840 --> 00:31:43,000
+three six
+
+641
+00:31:43,000 --> 00:31:44,600
+until there's hardly anything left behind
+
+642
+00:31:44,600 --> 00:31:45,860
+or in terms of volume
+
+643
+00:31:45,860 --> 00:31:48,480
+and at that exhaustion point
+
+644
+00:31:48,480 --> 00:31:50,100
+it was traded thinly up
+
+645
+00:31:50,100 --> 00:31:56,540
+the real bi-liquity is down there and price draws back down towards the origin right yeah um
+
+646
+00:31:58,180 --> 00:32:08,150
+this origin pop out draw back to origin this origin pop out draw back to origin is essentially this
+
+647
+00:32:09,620 --> 00:32:14,900
+okay but it can happen on any time frame can't it it can happen on any time frame it could be
+
+648
+00:32:14,900 --> 00:32:21,540
+five pips it could be 60 pips it could be six thousand pips so if i look at a few examples of that on cable
+
+649
+00:32:21,540 --> 00:32:26,880
+we have one on the daily chart or we have not just one but
+
+650
+00:32:26,880 --> 00:32:37,750
+so probably probably be good to go for the higher time frame ones then might have more
+
+651
+00:32:37,750 --> 00:32:41,320
+liquidity not necessarily they're not going to happen that frequently
+
+652
+00:32:41,320 --> 00:32:44,560
+if you want to be if you want to be an active day trader
+
+653
+00:32:44,560 --> 00:32:48,790
+you had one trade there and you ride it higher for like you know
+
+654
+00:32:48,790 --> 00:32:53,150
+so we we definitely use higher time frame but no
+
+655
+00:32:53,150 --> 00:32:57,170
+we'll there's so much information that we need after one minutes
+
+656
+00:32:57,170 --> 00:32:58,270
+of the tick charts
+
+657
+00:32:58,270 --> 00:33:00,150
+for time in a trade
+
+658
+00:33:00,150 --> 00:33:01,190
+for selecting a trade
+
+659
+00:33:01,190 --> 00:33:02,270
+for avoiding a trade
+
+660
+00:33:02,270 --> 00:33:03,530
+to assess if these levels
+
+661
+00:33:03,530 --> 00:33:04,030
+are strong
+
+662
+00:33:04,030 --> 00:33:05,150
+et cetera
+
+663
+00:33:05,150 --> 00:33:07,370
+we need to use
+
+664
+00:33:07,370 --> 00:33:08,810
+timeframes as a zoom in tool
+
+665
+00:33:08,810 --> 00:33:11,510
+literally as a fucking microscope
+
+666
+00:33:11,510 --> 00:33:13,030
+you sometimes
+
+667
+00:33:13,030 --> 00:33:13,850
+these are larger view
+
+668
+00:33:13,850 --> 00:33:15,270
+sometimes you need to zoom in
+
+669
+00:33:15,270 --> 00:33:16,750
+to inspect inside of things
+
+670
+00:33:16,750 --> 00:33:18,830
+timing of trade
+
+671
+00:33:18,830 --> 00:33:19,970
+you get the tightest trades
+
+672
+00:33:19,970 --> 00:33:20,810
+based off the one minute
+
+673
+00:33:20,810 --> 00:33:21,810
+even if I'm trading
+
+674
+00:33:21,810 --> 00:33:22,930
+a higher time frame context
+
+675
+00:33:22,930 --> 00:33:27,030
+but the whole point
+
+676
+00:33:27,030 --> 00:33:28,270
+before we get into that kind of
+
+677
+00:33:28,290 --> 00:33:33,430
+of is that doesn't matter if price is going up, it exhausts, it dries off and it has to come
+
+678
+00:33:33,430 --> 00:33:39,830
+back down to find buy liquidity. The only reason, the only reason price went from here and popped
+
+679
+00:33:39,830 --> 00:33:43,990
+out this inefficiently is because when that buy volume came through, the market order buy,
+
+680
+00:33:44,510 --> 00:33:46,390
+the sell equity disappeared and drew away.
+
+681
+00:33:47,590 --> 00:33:51,710
+Causing price to chase after it and stretch out, causing the volume to chase after and stretch
+
+682
+00:33:51,710 --> 00:33:57,550
+out, leave it behind that thinly traded move. Whilst the real buy liquidity,
+
+683
+00:33:58,290 --> 00:33:59,010
+remain down there.
+
+684
+00:33:59,750 --> 00:34:00,110
+Okay.
+
+685
+00:34:01,040 --> 00:34:07,300
+So price dislocates, it breaks away from the real buy liquidity, the real desire to trade.
+
+686
+00:34:07,540 --> 00:34:12,540
+As a result of dealer's removing liquidity, creates that inefficiency, that distortion.
+
+687
+00:34:13,340 --> 00:34:18,940
+And at that stage, you have weak bids, thicker sell liquidity, it takes light selling
+
+688
+00:34:18,940 --> 00:34:21,540
+the push price down, and that's exactly what happens.
+
+689
+00:34:22,160 --> 00:34:26,960
+So even though price ends up from here to here, it doesn't go in a straight line.
+
+690
+00:34:26,960 --> 00:34:32,460
+it actually pops out, becomes really, really, really, un-sustainable, really, really inefficient,
+
+691
+00:34:32,920 --> 00:34:34,360
+dries often comes back here.
+
+692
+00:34:34,700 --> 00:34:35,360
+Does it again.
+
+693
+00:34:36,700 --> 00:34:37,480
+Does it again.
+
+694
+00:34:38,250 --> 00:34:39,890
+And again, and again.
+
+695
+00:34:41,630 --> 00:34:51,990
+Now, at the end of that, this whole move itself also is relatively thin.
+
+696
+00:34:52,050 --> 00:34:53,490
+It's not exactly that inefficient.
+
+697
+00:34:55,340 --> 00:35:01,160
+So the point in making is that whole move was composed of sideways, pops, draw back in,
+
+698
+00:35:01,160 --> 00:35:02,620
+sideways pops draw back in
+
+699
+00:35:02,620 --> 00:35:03,860
+sideways pops draw back in
+
+700
+00:35:03,860 --> 00:35:04,920
+sideways pops draw back in
+
+701
+00:35:04,920 --> 00:35:08,520
+those smaller structures
+
+702
+00:35:08,520 --> 00:35:10,700
+made the overall price swing
+
+703
+00:35:10,700 --> 00:35:12,580
+relatively thinly traded as well
+
+704
+00:35:12,580 --> 00:35:14,000
+by that way
+
+705
+00:35:14,000 --> 00:35:15,640
+if we look at what I mean
+
+706
+00:35:15,640 --> 00:35:17,660
+this area thinly traded
+
+707
+00:35:17,660 --> 00:35:19,380
+this area thinly traded but it was
+
+708
+00:35:19,380 --> 00:35:22,260
+the price kind of sorted it out
+
+709
+00:35:22,260 --> 00:35:23,940
+and came back to find by liquidity
+
+710
+00:35:23,940 --> 00:35:25,580
+this area thinly traded
+
+711
+00:35:25,580 --> 00:35:27,440
+so within this whole price move
+
+712
+00:35:27,440 --> 00:35:29,360
+we have pretty significant areas
+
+713
+00:35:29,360 --> 00:35:31,320
+inside of it that haven't really got
+
+714
+00:35:31,380 --> 00:35:33,640
+that much buy liquidity in those areas.
+
+715
+00:35:34,640 --> 00:35:36,520
+All right, it's leaving weaknesses behind.
+
+716
+00:35:37,590 --> 00:35:42,250
+So once the buying dries off, so let's just say there was 100 million, filled it,
+
+717
+00:35:42,310 --> 00:35:45,770
+filled it, filled it, reloaded again, filled some, reloaded again, filled some.
+
+718
+00:35:46,400 --> 00:35:50,340
+Now the 100 million and the subsequent buying has dried off, where's the buy liquidity
+
+719
+00:35:50,340 --> 00:35:51,320
+that's holding price up?
+
+720
+00:35:51,920 --> 00:35:54,700
+Well, you have areas and massive areas of weakness there.
+
+721
+00:35:55,360 --> 00:35:59,940
+You may have some residual buy liquidity in these pockets, but typically it won't be that
+
+722
+00:35:59,940 --> 00:36:02,530
+much until we get down to
+
+723
+00:36:02,530 --> 00:36:03,050
+the origins.
+
+724
+00:36:04,950 --> 00:36:05,190
+Okay.
+
+725
+00:36:07,020 --> 00:36:12,290
+All right, so we'll be
+
+726
+00:36:12,290 --> 00:36:15,970
+defining how and why
+
+727
+00:36:15,970 --> 00:36:18,070
+this is inefficient
+
+728
+00:36:18,070 --> 00:36:20,630
+and this is inefficient
+
+729
+00:36:20,630 --> 00:36:22,270
+but of course this is
+
+730
+00:36:22,270 --> 00:36:24,450
+this has greater
+
+731
+00:36:24,450 --> 00:36:26,510
+inefficiency. It has much, much
+
+732
+00:36:26,510 --> 00:36:28,550
+less buy liquidity left behind compared
+
+733
+00:36:28,550 --> 00:36:29,370
+to this one.
+
+734
+00:36:31,410 --> 00:36:33,310
+But both are still thinly traded.
+
+735
+00:36:34,780 --> 00:36:36,380
+There was still buying going on here
+
+736
+00:36:36,380 --> 00:36:38,360
+and not enough of their liquidity. It was still
+
+737
+00:36:38,360 --> 00:36:39,700
+creating pockets of weakness
+
+738
+00:36:39,700 --> 00:36:41,660
+and areas of thinly traded
+
+739
+00:36:41,660 --> 00:36:43,860
+prices
+
+740
+00:36:43,860 --> 00:36:45,720
+leaving behind those weaknesses
+
+741
+00:36:45,720 --> 00:36:47,200
+this just left more
+
+742
+00:36:47,200 --> 00:36:48,460
+thinly traded prices behind
+
+743
+00:36:48,460 --> 00:36:50,860
+What about to the left of that
+
+744
+00:36:50,860 --> 00:36:52,500
+there, the move down?
+
+745
+00:36:54,740 --> 00:36:55,720
+It was inefficient as well
+
+746
+00:36:55,720 --> 00:36:56,120
+Okay
+
+747
+00:36:56,120 --> 00:36:58,650
+Yep
+
+748
+00:36:58,650 --> 00:37:00,910
+This whole move down is inefficient
+
+749
+00:37:00,910 --> 00:37:02,430
+It's relatively inefficient
+
+750
+00:37:02,430 --> 00:37:05,190
+But still, this is the most inefficient
+
+751
+00:37:05,190 --> 00:37:06,430
+area of price
+
+752
+00:37:06,430 --> 00:37:07,670
+That you can see on this whole job
+
+753
+00:37:07,670 --> 00:37:09,960
+Actually, no, that would be
+
+754
+00:37:09,960 --> 00:37:11,580
+But they already filled it
+
+755
+00:37:11,580 --> 00:37:22,970
+So at each of these instances, you would have had a volume shot, push price higher,
+
+756
+00:37:23,350 --> 00:37:27,530
+the sell liquidity draw away, or in this instance, you had a market order sell,
+
+757
+00:37:27,650 --> 00:37:32,430
+the bi-liquity ran away, price chases after, or the cell volume chases after it,
+
+758
+00:37:32,510 --> 00:37:35,990
+stretches out, stretches out, stretches out until here it's at its thinnest.
+
+759
+00:37:37,970 --> 00:37:41,210
+The cell volume's dried off, it's left behind weak-cell liquidity,
+
+760
+00:37:41,590 --> 00:37:43,030
+and it's hitting some by-liquity.
+
+761
+00:37:43,570 --> 00:37:44,990
+That is the perfect condition.
+
+762
+00:37:45,010 --> 00:37:46,770
+for a market order to come in
+
+763
+00:37:46,770 --> 00:37:48,810
+and immediately push price back up.
+
+764
+00:37:50,120 --> 00:37:50,420
+Okay.
+
+765
+00:37:51,670 --> 00:37:53,790
+So it's at these exhaustion points
+
+766
+00:37:53,790 --> 00:37:56,430
+where you have the highest probability
+
+767
+00:37:56,430 --> 00:38:00,250
+of a move in one direction over a number.
+
+768
+00:38:01,480 --> 00:38:04,860
+So price can go up and go down.
+
+769
+00:38:05,480 --> 00:38:06,940
+There's two possible outcomes.
+
+770
+00:38:07,830 --> 00:38:10,270
+Here, the probability of price going up
+
+771
+00:38:10,270 --> 00:38:13,110
+is greatly, greatly skewed
+
+772
+00:38:13,110 --> 00:38:15,010
+compared to it going down.
+
+773
+00:38:18,130 --> 00:38:18,430
+Why?
+
+774
+00:38:23,300 --> 00:38:24,400
+Well, look at the move.
+
+775
+00:38:24,420 --> 00:38:25,520
+it's done
+
+776
+00:38:25,520 --> 00:38:27,860
+but why though
+
+777
+00:38:27,860 --> 00:38:30,480
+why is it likely to go up
+
+778
+00:38:30,480 --> 00:38:32,240
+compared down it's not a trick question it's easy
+
+779
+00:38:32,240 --> 00:38:35,590
+market orders are coming
+
+780
+00:38:35,590 --> 00:38:37,370
+no
+
+781
+00:38:37,370 --> 00:38:40,370
+you cannot predict why a market order
+
+782
+00:38:40,370 --> 00:38:42,290
+will come through why is it likely
+
+783
+00:38:42,290 --> 00:38:43,950
+to go up then down
+
+784
+00:38:43,950 --> 00:38:49,700
+there's weakness on one side of the market
+
+785
+00:38:49,700 --> 00:38:51,580
+exactly there's then
+
+786
+00:38:51,580 --> 00:38:54,390
+sell liquidity there right
+
+787
+00:38:54,390 --> 00:38:56,750
+now these are the behaviours that occur
+
+788
+00:38:56,750 --> 00:38:58,170
+in markets there's a matter the direction
+
+789
+00:38:58,170 --> 00:38:59,550
+there's a matter where prices are going
+
+790
+00:38:59,550 --> 00:39:02,250
+on the way to a direction the volume
+
+791
+00:39:02,250 --> 00:39:04,890
+isn't buying, buying, buying, buying, buying, buying,
+
+792
+00:39:04,890 --> 00:39:10,350
+forever, it's actually, you have, it comes in in cycles and it comes in in series.
+
+793
+00:39:10,710 --> 00:39:16,340
+So you have bidding going on. That bidding at that point dries off.
+
+794
+00:39:17,140 --> 00:39:19,520
+Price has to draw down to find more by liquidity.
+
+795
+00:39:20,460 --> 00:39:23,660
+Price stabilizes. Then the volume shot can come in again.
+
+796
+00:39:24,440 --> 00:39:28,380
+And then it dries off. Price comes down, finds by liquidity, stabilizes, there's nothing.
+
+797
+00:39:28,580 --> 00:39:32,740
+Then the volume shot comes in again. And it's a constant repetition.
+
+798
+00:39:34,360 --> 00:39:37,220
+in uptrends of buying, but never consistent.
+
+799
+00:39:37,840 --> 00:39:38,780
+Sorry, never constant.
+
+800
+00:39:40,950 --> 00:39:44,830
+It's consistently getting bid up, but not constantly getting bid up.
+
+801
+00:39:46,100 --> 00:39:48,420
+That creates, of course, again, a unique dynamic
+
+802
+00:39:48,420 --> 00:39:51,620
+where we can rely on price to draw out,
+
+803
+00:39:51,780 --> 00:39:55,140
+become super, super inefficient and come back into range,
+
+804
+00:39:55,840 --> 00:39:58,200
+rather than continue to trend out of range like that.
+
+805
+00:39:58,860 --> 00:40:02,200
+So is it not constant because volume isn't constant?
+
+806
+00:40:03,120 --> 00:40:03,480
+Exactly.
+
+807
+00:40:03,480 --> 00:40:34,860
+we're going to look at the way which large orders are filled they could quite easily have been a 50 million order long position probably more than that but it could quite easily have been like a 500 million long order being filled from here to here but that 500 million order isn't a buy market order buy that's doing buy buy buy buy buy buy it actually trades in a different way all right we'll have a look at that at the necessary stage because I think if I discuss that today it will be a bit confusing
+
+808
+00:40:34,860 --> 00:40:39,620
+it's really transacted through
+
+809
+00:40:39,620 --> 00:40:40,860
+limit orders basically
+
+810
+00:40:40,860 --> 00:40:43,900
+it's not going to be market order buyers
+
+811
+00:40:43,900 --> 00:40:46,060
+market order buys are still coming through
+
+812
+00:40:46,060 --> 00:40:47,000
+from other clients
+
+813
+00:40:47,000 --> 00:40:50,730
+but there could be a very very thick
+
+814
+00:40:50,730 --> 00:40:53,390
+and large buy order that's trying to get filled
+
+815
+00:40:53,390 --> 00:40:55,190
+that's having to hide this information
+
+816
+00:40:55,190 --> 00:40:57,510
+so they're split into small limit orders
+
+817
+00:40:57,510 --> 00:40:59,490
+and as the price run travels higher
+
+818
+00:40:59,490 --> 00:41:02,370
+it'll continue to place those orders
+
+819
+00:41:02,370 --> 00:41:04,150
+an X percentage away from the bid and ask
+
+820
+00:41:04,150 --> 00:41:06,080
+but again
+
+821
+00:41:06,080 --> 00:41:08,300
+again it's just way way
+
+822
+00:41:08,320 --> 00:41:09,780
+way too difficult for you at this stage.
+
+823
+00:41:11,770 --> 00:41:17,940
+What I'm explaining is you can have an area of stability where there's weak sell liquidity
+
+824
+00:41:17,940 --> 00:41:22,280
+here and relatively thicker by liquidity here because it's picking it up from there.
+
+825
+00:41:23,420 --> 00:41:28,060
+When a market order buy comes through, it's easy to push price out because there's less
+
+826
+00:41:28,060 --> 00:41:28,900
+sell liquidity there.
+
+827
+00:41:30,560 --> 00:41:39,720
+That original weakness coupled with a market order buy triggers one liquidity provider to start
+
+828
+00:41:39,720 --> 00:41:46,350
+fitting that trade and that then causes a response from everybody else or the other liquidity
+
+829
+00:41:46,350 --> 00:41:52,790
+providers right so sell liquidity that would have been there is not given out to the market order
+
+830
+00:41:52,790 --> 00:41:57,530
+it draws away the market order chases after it chases after it chases after it chases after it
+
+831
+00:41:57,530 --> 00:42:03,310
+until the market order buying dries off finally hits the area of sell liquidity and then whatever's
+
+832
+00:42:03,310 --> 00:42:09,140
+left behind is quite thinly traded price subsequently draws down now in this instance as you can
+
+833
+00:42:09,140 --> 00:42:16,310
+imagine some, the buy liquidity actually went here and then it supported prices. The same thing
+
+834
+00:42:16,310 --> 00:42:21,350
+happened. Price stabilized. Volume shot, price dried off, came back down. Buy liquidity excepting
+
+835
+00:42:21,350 --> 00:42:27,170
+higher prices. Stabilized, volume shot, price ran out. Came back down. This time there was no
+
+836
+00:42:27,170 --> 00:42:35,070
+by liquidity and it was able to continue selling. But the behaviors are consistently the same.
+
+837
+00:42:35,830 --> 00:42:41,390
+Price becomes super, super, super, super thin, dries off, draws back in. Price becomes super, super super
+
+838
+00:42:41,390 --> 00:42:48,210
+thin here, dries off, draws back in. Price becomes super, super, super thin here, dries off, draws back in.
+
+839
+00:42:48,510 --> 00:42:55,130
+Price becomes super, super thin, dries off, draws back in. Here it becomes very, very, very inefficient,
+
+840
+00:42:55,730 --> 00:43:01,130
+dries off, draws back in within the next minute. Here, it becomes very, very inefficient,
+
+841
+00:43:01,350 --> 00:43:07,040
+draws back in. Here, it's quite stable, pops out. As you can imagine, there's a volume shot,
+
+842
+00:43:07,160 --> 00:43:10,880
+market order buy, sell equity disappearing, it chases after it, chases after it, chases after it,
+
+843
+00:43:10,880 --> 00:43:13,240
+chases after it, market order dries off,
+
+844
+00:43:13,840 --> 00:43:16,540
+leaving behind that weakness, it comes right back into the last
+
+845
+00:43:16,540 --> 00:43:17,220
+dealing wage.
+
+846
+00:43:18,660 --> 00:43:20,500
+Pops out, draws back in.
+
+847
+00:43:21,280 --> 00:43:22,820
+Pops out, draws back in.
+
+848
+00:43:23,300 --> 00:43:24,720
+Pops out, draws back in.
+
+849
+00:43:25,280 --> 00:43:26,620
+Pops out, majorly, draws back in.
+
+850
+00:43:28,440 --> 00:43:30,600
+Pops out majorly, draws back in.
+
+851
+00:43:31,120 --> 00:43:33,060
+Pops out majorly, draws back in.
+
+852
+00:43:34,540 --> 00:43:36,740
+Pops out, draws back in.
+
+853
+00:43:39,420 --> 00:43:42,280
+Doesn't matter where we look at it, what it is.
+
+854
+00:43:42,280 --> 00:43:44,820
+In FX, you continue to see buyers,
+
+855
+00:43:44,840 --> 00:43:49,180
+turn up because they're great demand for buy liquidity. And you see sellers consistently turn up
+
+856
+00:43:49,180 --> 00:43:53,440
+because, again, I have a great demand for some liquidity. Bires and sellers demand liquidity
+
+857
+00:43:53,440 --> 00:43:58,840
+on both sides of the market because the diversity of the types of clients is, you know,
+
+858
+00:43:58,860 --> 00:44:03,020
+there's a high level of our diversity. You have corporate clients. You have real money transatlantic
+
+859
+00:44:03,020 --> 00:44:08,620
+clients. You have leveraged clients like hedge funds. You have governments, central banks.
+
+860
+00:44:09,240 --> 00:44:14,440
+It's a broad, broad array of different types of clients demanding liquidity, resulting in buyers,
+
+861
+00:44:14,840 --> 00:44:16,400
+and sell liquidity on both sides of the market
+
+862
+00:44:16,400 --> 00:44:19,940
+rather than compared to a market
+
+863
+00:44:19,940 --> 00:44:22,600
+where sellers sell, sellers sell forever and ever and ever
+
+864
+00:44:22,600 --> 00:44:25,280
+or buys buy, buyers buy forever and ever and ever.
+
+865
+00:44:26,810 --> 00:44:29,410
+In a market where buyers buy with each other,
+
+866
+00:44:30,550 --> 00:44:33,720
+like let's say Dow Jones Industrial,
+
+867
+00:44:33,720 --> 00:44:38,140
+you have a significant buy liquidity hold price up
+
+868
+00:44:38,140 --> 00:44:39,820
+that accepts higher prices,
+
+869
+00:44:40,280 --> 00:44:42,080
+but relatively thin sell liquidity.
+
+870
+00:44:42,800 --> 00:44:43,980
+What do you think that results in?
+
+871
+00:44:49,560 --> 00:44:51,320
+Thicker buy thin sell.
+
+872
+00:44:51,340 --> 00:44:56,350
+price just moving further up?
+
+873
+00:44:57,320 --> 00:44:58,420
+Yeah, very, very consistently.
+
+874
+00:44:58,620 --> 00:45:01,060
+So if you look at this on a larger scale,
+
+875
+00:45:01,240 --> 00:45:03,240
+that's all that these larger assets do.
+
+876
+00:45:03,720 --> 00:45:04,920
+Sorry, these risk assets do.
+
+877
+00:45:06,050 --> 00:45:08,630
+Or these indexes composed of risk assets.
+
+878
+00:45:08,630 --> 00:45:10,390
+So the Dow Jones industry has made upon
+
+879
+00:45:10,390 --> 00:45:12,190
+the 30 largest highly capitalized companies
+
+880
+00:45:12,190 --> 00:45:13,790
+in the whole of America,
+
+881
+00:45:14,590 --> 00:45:17,030
+companies like IBM, Coca-Cola,
+
+882
+00:45:17,610 --> 00:45:19,190
+they are the biggest companies in the world
+
+883
+00:45:19,190 --> 00:45:20,990
+in terms of marginalization.
+
+884
+00:45:20,990 --> 00:45:23,530
+This takes the prices of their
+
+885
+00:45:23,550 --> 00:45:27,350
+shares and basically adds them all up, basically.
+
+886
+00:45:27,630 --> 00:45:34,960
+There's obviously weightings to them, but the value of this index consistently trends up
+
+887
+00:45:34,960 --> 00:45:39,160
+for a very, very, very long period of time.
+
+888
+00:45:39,400 --> 00:45:44,220
+This is only till 24-E, and if you looked at the real chart from 19-pocket 70s, it's just
+
+889
+00:45:44,220 --> 00:45:46,090
+an uptrend, right?
+
+890
+00:45:46,090 --> 00:45:53,050
+Because what happens consistently is buy liquidity accepts higher and higher prices.
+
+891
+00:45:53,050 --> 00:45:55,160
+you can just imagine
+
+892
+00:45:55,160 --> 00:45:57,440
+it is absolutely impossible
+
+893
+00:45:57,440 --> 00:45:59,620
+for Price to have
+
+894
+00:45:59,620 --> 00:46:01,570
+held up here
+
+895
+00:46:01,570 --> 00:46:04,460
+if there wasn't by liquidity
+
+896
+00:46:04,460 --> 00:46:05,660
+providing support
+
+897
+00:46:05,660 --> 00:46:08,300
+it's absolutely impossible
+
+898
+00:46:08,300 --> 00:46:10,740
+it's absolutely impossible for Price
+
+899
+00:46:10,740 --> 00:46:13,200
+to continue drifting through this whole area
+
+900
+00:46:13,200 --> 00:46:14,260
+up up up up
+
+901
+00:46:14,260 --> 00:46:15,740
+if there was not
+
+902
+00:46:15,740 --> 00:46:17,830
+weak sell liquidity in the way
+
+903
+00:46:17,830 --> 00:46:20,750
+if there was sell liquidity
+
+904
+00:46:20,750 --> 00:46:22,550
+that was very very thick
+
+905
+00:46:22,550 --> 00:46:25,390
+price would not have pushed past it
+
+906
+00:46:25,390 --> 00:46:58,890
+now obviously there's times like these where events happen but they're just event driven about this is not the natural environment this is a fucking black swan type not necessarily black swan events but the events you know the kind of implication of an event is it's unforeseen you don't expect it to happen is something new is something significant that's typically what you could classify as an event in the context of markets at least yeah that move very thin down second
+
+907
+00:46:58,910 --> 00:47:00,830
+that second time, most recent time.
+
+908
+00:47:01,830 --> 00:47:03,490
+Yeah, look, this is a weekly chart.
+
+909
+00:47:03,870 --> 00:47:08,060
+So this, if you looked at this on a 30-year chart, it's nothing.
+
+910
+00:47:08,240 --> 00:47:09,560
+It's absolutely fucking nothing.
+
+911
+00:47:11,480 --> 00:47:13,380
+But the point I'm really trying to raise here is,
+
+912
+00:47:14,040 --> 00:47:15,640
+FX markets, they don't do this.
+
+913
+00:47:15,940 --> 00:47:18,500
+You have sell liquidity here, you have buy liquidity here,
+
+914
+00:47:19,220 --> 00:47:21,560
+and price will maintain a range.
+
+915
+00:47:22,760 --> 00:47:27,220
+It might trend, but it trends in a very, very large range, basically.
+
+916
+00:47:27,220 --> 00:47:30,260
+You have a big range here, then it ranges here.
+
+917
+00:47:30,280 --> 00:47:31,840
+for fucking 20 years
+
+918
+00:47:31,840 --> 00:47:34,020
+and then it ranges here for 20 years, you get it
+
+919
+00:47:34,020 --> 00:47:36,280
+because there's buy liquidity and sell liquidity
+
+920
+00:47:36,280 --> 00:47:38,380
+for different reasons, not speculative reasons
+
+921
+00:47:38,380 --> 00:47:40,300
+whereas in Dow Jones Industrial Average
+
+922
+00:47:40,300 --> 00:47:42,380
+most of the people buying this
+
+923
+00:47:42,380 --> 00:47:44,320
+are going to be their own companies buying their own shares
+
+924
+00:47:44,320 --> 00:47:46,620
+back and or global investors
+
+925
+00:47:46,620 --> 00:47:47,780
+taking on risk.
+
+926
+00:47:48,520 --> 00:47:50,340
+Okay, yeah, that's why it's moving
+
+927
+00:47:50,340 --> 00:47:51,680
+like that.
+
+928
+00:47:52,520 --> 00:47:54,280
+Yes, you have one-sided liquidity
+
+929
+00:47:54,280 --> 00:47:56,730
+basically, one-sided liquidity,
+
+930
+00:47:56,930 --> 00:47:58,310
+buy liquidity. There's definitely
+
+931
+00:47:58,310 --> 00:48:00,490
+sell liquidity in the market, but the third
+
+932
+00:48:00,510 --> 00:48:04,850
+the thicker, larger, much, much more consistent side is obviously the buy side.
+
+933
+00:48:05,310 --> 00:48:10,390
+Now, you go over to an asset like the pound over the last five years.
+
+934
+00:48:11,010 --> 00:48:14,770
+All it's done really is range, range, range within a trend.
+
+935
+00:48:14,870 --> 00:48:17,230
+It's only trended for a number of weeks.
+
+936
+00:48:18,900 --> 00:48:22,980
+Again, massive ranges, massive, massive ranges.
+
+937
+00:48:23,140 --> 00:48:24,460
+This whole area is basically a range.
+
+938
+00:48:24,760 --> 00:48:25,960
+And then it trends for a couple of weeks.
+
+939
+00:48:26,460 --> 00:48:27,700
+And then you have massive ranges again.
+
+940
+00:48:27,700 --> 00:48:29,920
+And again, sometimes it trends for a couple of weeks.
+
+941
+00:48:29,920 --> 00:48:32,150
+because like I said
+
+942
+00:48:32,150 --> 00:48:33,130
+the stability
+
+943
+00:48:33,130 --> 00:48:35,830
+sorry the characteristics of the FX market
+
+944
+00:48:35,830 --> 00:48:37,970
+and who supplies liquidity both sides of the market
+
+945
+00:48:37,970 --> 00:48:41,030
+demand liquidity for various different reasons
+
+946
+00:48:41,030 --> 00:48:43,040
+even within trends
+
+947
+00:48:43,040 --> 00:48:46,790
+there's no real
+
+948
+00:48:46,790 --> 00:48:49,430
+driven environments really is more stable
+
+949
+00:48:49,430 --> 00:48:51,910
+70% of the time the FX market stable
+
+950
+00:48:51,910 --> 00:48:55,890
+resulting in quite a high level of reliability
+
+951
+00:48:55,890 --> 00:48:59,410
+for me to expect buyers to turn up in these levels
+
+952
+00:48:59,410 --> 00:49:01,610
+and sell it to turn up in these levels quite consistently.
+
+953
+00:49:02,630 --> 00:49:05,190
+Now, what that basically means is,
+
+954
+00:49:05,870 --> 00:49:09,330
+if there is a series of buying or a period of buying going on,
+
+955
+00:49:09,790 --> 00:49:13,250
+there's still going to be cell liquidity that turns up.
+
+956
+00:49:13,730 --> 00:49:18,070
+And with the result of buy volume drying off consistently as well,
+
+957
+00:49:18,210 --> 00:49:20,460
+so there's a buyer here.
+
+958
+00:49:21,020 --> 00:49:22,120
+He wants to buy 100 million.
+
+959
+00:49:22,920 --> 00:49:24,200
+There's sell liquidity here.
+
+960
+00:49:24,660 --> 00:49:25,960
+There's only 10 million cell liquidity.
+
+961
+00:49:26,440 --> 00:49:27,540
+When the market order comes through,
+
+962
+00:49:28,410 --> 00:49:29,610
+it results and triggers that.
+
+963
+00:49:29,630 --> 00:49:37,660
+price chasing mechanism price draws out but the hundred million stays down there yeah okay when that
+
+964
+00:49:37,660 --> 00:49:44,700
+market order buying dries off eventually dries off it the move up create to that area of weakness
+
+965
+00:49:44,700 --> 00:49:52,160
+price subsequently dries off draws back down to find the buyers and then takes on its next move all right
+
+966
+00:49:52,160 --> 00:49:58,880
+so the point i'm really making here is each of these price runs they they have a level of
+
+967
+00:49:58,880 --> 00:50:00,520
+inventory pushing along with them.
+
+968
+00:50:00,760 --> 00:50:02,720
+There might be an inventory of $50 billion
+
+969
+00:50:02,720 --> 00:50:05,200
+pushing it along with this price run here.
+
+970
+00:50:06,110 --> 00:50:07,790
+So if we just look at that price run,
+
+971
+00:50:14,850 --> 00:50:17,610
+okay, so what we consistently saw here is
+
+972
+00:50:17,610 --> 00:50:21,960
+buyers dry off, market order buyers dry off.
+
+973
+00:50:23,650 --> 00:50:25,690
+Proceeding that price was really, really, really thin.
+
+974
+00:50:26,610 --> 00:50:30,530
+And then once these legs dried off,
+
+975
+00:50:30,650 --> 00:50:35,440
+price eventually subsequently fills back to like the last area,
+
+976
+00:50:36,000 --> 00:50:36,520
+you could argue.
+
+977
+00:50:37,550 --> 00:50:37,670
+Right?
+
+978
+00:50:37,670 --> 00:50:43,330
+so price dries off, sorry, it becomes super, super thin, dries off, draws back down to the last area.
+
+979
+00:50:44,010 --> 00:50:49,670
+Here, shoots out again, becomes super, super thin, draws back down to the last area.
+
+980
+00:50:50,350 --> 00:50:57,110
+Here you have an area of stability, price shoots out, becomes super, super thin, draws back down to the last area.
+
+981
+00:50:57,790 --> 00:51:05,610
+Now, the point I'm making is that there is a large, large buyer holding price up here, a very, very large buyer.
+
+982
+00:51:05,730 --> 00:51:06,770
+It could be one firm.
+
+983
+00:51:08,540 --> 00:51:26,210
+It could be a single hedge fund taking on the view that the pound is undervalued and it is a speculative position or it could be a large, large corporation who's invested heavy amounts in the UK who is now trying to get out of the UK, right?
+
+984
+00:51:26,210 --> 00:51:29,190
+He's trying to limit their exposure to the UK.
+
+985
+00:51:29,930 --> 00:51:31,090
+Sorry, that's pound going up.
+
+986
+00:51:31,210 --> 00:51:36,630
+So it might be because a large investor is taking a bet that the UK economy is supposed to do well.
+
+987
+00:51:36,830 --> 00:51:39,130
+They want to, I don't know, they want to invest in the construction sector.
+
+988
+00:51:39,130 --> 00:51:43,090
+So they need to exchange a huge amount of dollars into the pound, so they're buying the pound.
+
+989
+00:51:44,590 --> 00:51:59,440
+Now, it's quite unrealistic for them to turn around and try to buy, I don't know, $100 billion in one day without price going, but without the costs of buying that $100 billion, they come in very, very high.
+
+990
+00:52:00,620 --> 00:52:04,260
+So this is exactly what happens.
+
+991
+00:52:04,260 --> 00:52:08,430
+If you want to trade large in the market, you have liquidity issues.
+
+992
+00:52:08,430 --> 00:52:11,450
+You can't just buy $100 billion at the ask price and get filled.
+
+993
+00:52:11,570 --> 00:52:13,930
+That's the thinnest point in equity, the bidding and ask.
+
+994
+00:52:14,310 --> 00:52:15,690
+You have to hide your information.
+
+995
+00:52:15,970 --> 00:52:16,730
+Now there's two ways you can.
+
+996
+00:52:16,770 --> 00:52:18,710
+Well, there's a number of ways you can get filled, yeah?
+
+997
+00:52:19,410 --> 00:52:24,770
+You can go market order long, $100 billion and send the market into a fucking,
+
+998
+00:52:25,390 --> 00:52:29,900
+it depends on what platform you fill it with.
+
+999
+00:52:30,180 --> 00:52:32,020
+You could fill it on a multi-dealer platform.
+
+1000
+00:52:32,380 --> 00:52:35,940
+You might get a few hundred million quite quickly within about seven pips.
+
+1001
+00:52:36,400 --> 00:52:38,820
+But after that, you're going to start to get slipped.
+
+1002
+00:52:39,520 --> 00:52:40,780
+You're going to start to get re-quoted.
+
+1003
+00:52:41,060 --> 00:52:42,360
+You will not get nice fields.
+
+1004
+00:52:43,870 --> 00:52:49,020
+Realistically, no platform in the world would allow you to go $100 billion long in one order.
+
+1005
+00:52:49,220 --> 00:52:51,140
+You'd have to break into pieces yourself anyway.
+
+1006
+00:52:51,620 --> 00:52:51,900
+Okay.
+
+1007
+00:52:52,720 --> 00:52:53,040
+All right.
+
+1008
+00:52:53,940 --> 00:53:00,380
+Now, you could go to your bank directly and on the electronic trading platform, try to go $100 billion long again.
+
+1009
+00:53:01,080 --> 00:53:08,880
+Again, the platform will split your order into small pieces and it will result in the dealer internalizing all your flow.
+
+1010
+00:53:08,880 --> 00:53:11,840
+you'll get really, really shit, shit execution.
+
+1011
+00:53:12,440 --> 00:53:14,280
+It'll take the whole day to fill your trade
+
+1012
+00:53:14,280 --> 00:53:15,620
+because they're dealing in house
+
+1013
+00:53:15,620 --> 00:53:17,680
+and you'll, again, get massively slipped.
+
+1014
+00:53:18,180 --> 00:53:18,360
+Why?
+
+1015
+00:53:18,620 --> 00:53:19,760
+You try to buy $100 billion,
+
+1016
+00:53:20,160 --> 00:53:22,960
+all that information leaked in one single trade
+
+1017
+00:53:22,960 --> 00:53:25,700
+and your dealer knew to avoid taking short against you.
+
+1018
+00:53:26,480 --> 00:53:28,410
+So you have to hide it from your dealer.
+
+1019
+00:53:29,480 --> 00:53:32,320
+The other option is you go along with a limit order.
+
+1020
+00:53:36,040 --> 00:53:41,010
+So you place the limit order here at this price level.
+
+1021
+00:53:42,130 --> 00:53:44,750
+What is the likelihood of price coming into your,
+
+1022
+00:53:44,770 --> 00:53:50,200
+level and having a hundred billion worth of market order selling going on at that time.
+
+1023
+00:53:51,000 --> 00:53:51,360
+Not very.
+
+1024
+00:53:52,450 --> 00:53:54,110
+Depending on where your order is as well.
+
+1025
+00:53:54,210 --> 00:53:58,090
+Your order is likely going to be on a single-dealer platform with the dealer.
+
+1026
+00:53:58,670 --> 00:54:00,570
+It might be on a multi-dealer platform.
+
+1027
+00:54:01,580 --> 00:54:04,020
+There's a higher likelihood you'll be able to access greater liquidity.
+
+1028
+00:54:04,840 --> 00:54:16,070
+But it's very unlikely that price comes into your level fills you for a total of $100 billion before, you know, it's very unlikely that'll happen without it moving away.
+
+1029
+00:54:16,310 --> 00:54:46,120
+so you might get price might come down there might be 50 million worth of selling left over so yeah you know you get filled you have 950 billion left over you got filled your long 50 million and maybe now people are consistently seeing that every time this level gets hit there's unlimited liquidity it seems like the first time it seemed like that 50 million couldn't push price down another 50 million comes through it can't push another 50 million comes through it can't push by this point these sellers
+
+1030
+00:54:46,440 --> 00:54:52,480
+They quickly realize that there's a large, large buyer here, absorbing any selling.
+
+1031
+00:54:52,800 --> 00:54:55,080
+So you've now only been filled for 150 million.
+
+1032
+00:54:55,640 --> 00:54:58,240
+You have a very, very big amount left over, 8.50 million.
+
+1033
+00:54:59,040 --> 00:55:01,760
+And before that, everybody else clocks on, the sellers withdraw.
+
+1034
+00:55:02,160 --> 00:55:04,720
+Any light market order that comes through is pushing price up,
+
+1035
+00:55:05,360 --> 00:55:06,800
+away from where you want to transact.
+
+1036
+00:55:07,670 --> 00:55:12,470
+In other words, what I'm saying is your $100 million is too large to get filled at a single price.
+
+1037
+00:55:14,070 --> 00:55:14,470
+Okay.
+
+1038
+00:55:15,490 --> 00:55:16,690
+So you can't limit order it.
+
+1039
+00:55:16,930 --> 00:55:18,050
+You can't market order it.
+
+1040
+00:55:18,050 --> 00:55:26,940
+however for these type of large trades basically brokers what I mean by that is liquidity providers
+
+1041
+00:55:26,940 --> 00:55:33,020
+have given their clients a suite of algorithm options execution algorithms that'll fill the trade for
+
+1042
+00:55:33,020 --> 00:55:39,600
+them so it's literally like a ticket like this in the ticket you put in you want to buy a hundred
+
+1043
+00:55:39,600 --> 00:55:46,630
+billion you put in that you want it filled within 50 pips so what that means is the max slippage
+
+1044
+00:55:46,630 --> 00:55:47,890
+you're allowing is 50 pips.
+
+1045
+00:55:50,470 --> 00:55:54,110
+Also, you put in the time of day you wanted to start filling the trade.
+
+1046
+00:55:54,210 --> 00:55:57,370
+It could be in the morning, it could be at night, it could be middle of the day.
+
+1047
+00:55:58,250 --> 00:56:03,850
+You can say that you wanted to fill every day from 8 a.m. to 10 a.m. for the next week.
+
+1048
+00:56:05,040 --> 00:56:09,500
+So you can instruct, there's a time element as well. And also, you get to choose whether it's
+
+1049
+00:56:09,500 --> 00:56:16,530
+aggressive, passive, or medium risk. So aggressive would suggest that you want the order
+
+1050
+00:56:16,530 --> 00:56:17,750
+filled as quickly as possible.
+
+1051
+00:56:20,860 --> 00:56:23,220
+Medium suggests that you want the order filled
+
+1052
+00:56:23,220 --> 00:56:24,300
+but with the least
+
+1053
+00:56:24,300 --> 00:56:26,440
+volatility possible
+
+1054
+00:56:26,440 --> 00:56:28,840
+and passive means that you're okay
+
+1055
+00:56:28,840 --> 00:56:30,840
+with waiting for price to come to your level.
+
+1056
+00:56:32,440 --> 00:56:34,620
+So let's just say
+
+1057
+00:56:34,620 --> 00:56:38,140
+the bid and ask is here at that time.
+
+1058
+00:56:39,770 --> 00:56:41,570
+That's where the bid is, that's where the ask prices.
+
+1059
+00:56:42,890 --> 00:56:45,290
+If your algorithm is on aggressive,
+
+1060
+00:56:46,260 --> 00:56:48,160
+you want your order to get filled
+
+1061
+00:56:48,160 --> 00:56:49,740
+as quickly as possible.
+
+1062
+00:56:49,760 --> 00:56:52,400
+what that means is you will accept
+
+1063
+00:56:52,400 --> 00:56:54,120
+basically this algorithm on aggressive
+
+1064
+00:56:54,120 --> 00:56:57,000
+will start to place your 100 million in small pieces here
+
+1065
+00:56:57,000 --> 00:57:02,100
+at the higher prices
+
+1066
+00:57:02,100 --> 00:57:03,360
+they'll accept higher prices
+
+1067
+00:57:03,360 --> 00:57:07,020
+yeah basically where it finds the nearest liquidity
+
+1068
+00:57:07,020 --> 00:57:09,670
+wherever the bid and ask is
+
+1069
+00:57:09,670 --> 00:57:12,550
+it will start to place small limit orders
+
+1070
+00:57:12,550 --> 00:57:15,710
+not market order longs but small limit orders in pieces
+
+1071
+00:57:15,710 --> 00:57:18,910
+at wherever the bid and ask prices
+
+1072
+00:57:18,910 --> 00:57:21,410
+so if we're looking at the bid and ask here
+
+1073
+00:57:21,410 --> 00:57:23,220
+oh shit
+
+1074
+00:57:23,220 --> 00:57:25,040
+because it's weekend
+
+1075
+00:57:25,040 --> 00:57:25,720
+we can't see it
+
+1076
+00:57:25,720 --> 00:57:26,540
+but this is the bid
+
+1077
+00:57:26,540 --> 00:57:27,300
+this is the ask
+
+1078
+00:57:27,300 --> 00:57:28,940
+they're the top of book
+
+1079
+00:57:28,940 --> 00:57:29,640
+our prices
+
+1080
+00:57:29,640 --> 00:57:30,620
+obviously this spreads
+
+1081
+00:57:30,620 --> 00:57:31,000
+massive
+
+1082
+00:57:31,000 --> 00:57:31,860
+because it's weekend
+
+1083
+00:57:31,860 --> 00:57:34,210
+if you
+
+1084
+00:57:34,210 --> 00:57:35,670
+trigger this algorithm
+
+1085
+00:57:35,670 --> 00:57:36,750
+this execution algorithm
+
+1086
+00:57:36,750 --> 00:57:37,570
+to go aggressive
+
+1087
+00:57:37,570 --> 00:57:38,410
+fill 100 billion
+
+1088
+00:57:38,410 --> 00:57:39,590
+within a 50 pip range
+
+1089
+00:57:39,590 --> 00:57:41,050
+or within a 50 pip
+
+1090
+00:57:41,050 --> 00:57:42,810
+limit distance
+
+1091
+00:57:42,810 --> 00:57:44,300
+it will take
+
+1092
+00:57:44,300 --> 00:57:45,420
+this buy
+
+1093
+00:57:45,420 --> 00:57:47,280
+this 100 billion
+
+1094
+00:57:47,280 --> 00:57:49,120
+you're trying to buy
+
+1095
+00:57:49,120 --> 00:57:49,740
+they'll start
+
+1096
+00:57:49,740 --> 00:57:50,540
+to place liquidity
+
+1097
+00:57:50,540 --> 00:57:51,580
+at the price
+
+1098
+00:57:51,580 --> 00:57:52,840
+very close to the bid.
+
+1099
+00:57:53,500 --> 00:57:53,960
+Oh, okay.
+
+1100
+00:57:55,310 --> 00:57:55,490
+Right?
+
+1101
+00:57:57,040 --> 00:57:59,540
+So any selling that comes in,
+
+1102
+00:57:59,600 --> 00:58:00,880
+it quickly finds the bid,
+
+1103
+00:58:01,080 --> 00:58:01,740
+and your order,
+
+1104
+00:58:01,820 --> 00:58:02,600
+which is trying to get filled
+
+1105
+00:58:02,600 --> 00:58:03,500
+as quickly as possible,
+
+1106
+00:58:03,840 --> 00:58:04,100
+you know,
+
+1107
+00:58:04,140 --> 00:58:04,760
+it's there,
+
+1108
+00:58:04,920 --> 00:58:06,380
+it's supporting prices very quickly.
+
+1109
+00:58:07,570 --> 00:58:08,190
+Are you following me?
+
+1110
+00:58:08,630 --> 00:58:08,830
+Yeah.
+
+1111
+00:58:09,650 --> 00:58:10,210
+So again,
+
+1112
+00:58:10,290 --> 00:58:11,230
+what that results in is,
+
+1113
+00:58:12,160 --> 00:58:13,000
+price runs up,
+
+1114
+00:58:13,440 --> 00:58:14,640
+the market order dries off,
+
+1115
+00:58:15,020 --> 00:58:16,660
+your algorithm's unaggressive
+
+1116
+00:58:16,660 --> 00:58:17,580
+trying to fill 100 billion,
+
+1117
+00:58:17,920 --> 00:58:19,520
+so it quickly places orders here.
+
+1118
+00:58:21,240 --> 00:58:22,940
+And then any selling that comes through
+
+1119
+00:58:22,940 --> 00:58:24,080
+finds the buy liquidity,
+
+1120
+00:58:24,080 --> 00:58:25,600
+you're trying to buy $100 billion.
+
+1121
+00:58:26,100 --> 00:58:26,880
+It's a win-win, no?
+
+1122
+00:58:29,240 --> 00:58:31,040
+And then, you know, so buy liquidity
+
+1123
+00:58:31,040 --> 00:58:33,080
+follows price very, very closely.
+
+1124
+00:58:33,200 --> 00:58:34,640
+If it moves up, it moves up with it.
+
+1125
+00:58:34,680 --> 00:58:35,980
+If it moves up, it moves up with it.
+
+1126
+00:58:36,000 --> 00:58:37,260
+If it moves up, it moves up with it.
+
+1127
+00:58:37,820 --> 00:58:42,980
+Resulting in prices similar to this.
+
+1128
+00:58:43,980 --> 00:58:46,820
+You can see, price moved down, sell equity moved down with it.
+
+1129
+00:58:47,200 --> 00:58:49,320
+Price moved down, sell equity move down with it.
+
+1130
+00:58:49,400 --> 00:58:51,320
+Price moves down, sell equity move down with it.
+
+1131
+00:58:51,320 --> 00:58:53,360
+Price moves down, sell equity moves down with it.
+
+1132
+00:58:53,360 --> 00:58:56,940
+resulting in thin pullbacks
+
+1133
+00:58:56,940 --> 00:58:59,310
+pop
+
+1134
+00:58:59,310 --> 00:59:00,750
+sorry stop pop
+
+1135
+00:59:00,750 --> 00:59:03,600
+stop pop all right
+
+1136
+00:59:03,600 --> 00:59:05,420
+so until until the whole order
+
+1137
+00:59:05,420 --> 00:59:05,960
+gets filled
+
+1138
+00:59:05,960 --> 00:59:07,760
+until the whole order gets filled
+
+1139
+00:59:07,760 --> 00:59:09,360
+or it reaches the limit price
+
+1140
+00:59:09,360 --> 00:59:11,840
+i.e you want to get filled in 50 pips
+
+1141
+00:59:11,840 --> 00:59:14,340
+if it goes to 51 pips it cancels the rest of the order
+
+1142
+00:59:14,340 --> 00:59:18,530
+so here we see and why price is super aggressive
+
+1143
+00:59:18,530 --> 00:59:19,930
+here why is it not pulling back
+
+1144
+00:59:19,930 --> 00:59:21,910
+why the inefficiencies not getting filled
+
+1145
+00:59:21,910 --> 00:59:24,350
+is because whoever's filling in the large order
+
+1146
+00:59:24,350 --> 00:59:27,110
+is accepted lower and lower prices on
+
+1147
+00:59:27,110 --> 00:59:28,190
+automated basis through
+
+1148
+00:59:28,190 --> 00:59:29,410
+through algorithms
+
+1149
+00:59:29,410 --> 00:59:32,430
+which places the liquidity
+
+1150
+00:59:32,430 --> 00:59:35,130
+at very very close to the bid and ask
+
+1151
+00:59:35,130 --> 00:59:37,270
+now put it this way
+
+1152
+00:59:37,270 --> 00:59:40,290
+prices run down the market order
+
+1153
+00:59:40,290 --> 00:59:42,490
+selling is dried off sell liquidity turns up here
+
+1154
+00:59:42,490 --> 00:59:46,120
+quickly it's very unlikely that
+
+1155
+00:59:46,120 --> 00:59:48,960
+the move is basically that
+
+1156
+00:59:48,960 --> 00:59:52,890
+there's weak sell liquidity here
+
+1157
+00:59:52,890 --> 00:59:55,130
+because it's consistently following price
+
+1158
+00:59:55,130 --> 00:59:57,640
+until it's all filled
+
+1159
+00:59:57,640 --> 01:00:00,870
+so that's why the inefficiencies not getting filled
+
+1160
+01:00:00,870 --> 01:00:02,870
+straight away. There's still more
+
+1161
+01:00:02,870 --> 01:00:06,370
+selling to go on. In an
+
+1162
+01:00:06,370 --> 01:00:09,390
+instance where this Algo
+
+1163
+01:00:09,390 --> 01:00:14,320
+was put on passive
+
+1164
+01:00:14,320 --> 01:00:18,620
+which means that they're okay
+
+1165
+01:00:18,620 --> 01:00:20,580
+with price moving away from them
+
+1166
+01:00:20,580 --> 01:00:27,630
+for a bit. So the Algo's on passive
+
+1167
+01:00:27,630 --> 01:00:29,730
+so here's the bid and ask price
+
+1168
+01:00:29,730 --> 01:00:31,550
+where do you think
+
+1169
+01:00:31,550 --> 01:00:33,570
+this hundred billion will get placed in the book?
+
+1170
+01:00:35,320 --> 01:00:36,800
+If aggressive is trying to get it filled
+
+1171
+01:00:36,800 --> 01:00:38,940
+as quickly as possible willing to accept higher
+
+1172
+01:00:38,940 --> 01:00:40,620
+and higher prices. You'll get the
+
+1173
+01:00:40,620 --> 01:00:41,760
+the best prices.
+
+1174
+01:00:43,480 --> 01:00:45,020
+An X percentage away from the
+
+1175
+01:00:45,040 --> 01:00:53,370
+and ask. So this 100 billion might get placed a bit further away. You follow me? Yeah.
+
+1176
+01:00:54,240 --> 01:01:15,190
+So now, if you look at this price move, for example, here you had buying going on, price popped out, ran away, market order buying dries off, the algorithm's on passive. So rather than accepting buy liquidity at higher prices, it keeps it down here. Are you following me?
+
+1177
+01:01:15,190 --> 01:01:18,800
+much, much further away from the top of the book.
+
+1178
+01:01:20,410 --> 01:01:21,650
+And just to give you an example,
+
+1179
+01:01:21,890 --> 01:01:22,070
+you know,
+
+1180
+01:01:22,170 --> 01:01:22,690
+you have to remember,
+
+1181
+01:01:22,790 --> 01:01:24,750
+it's happening throughout this move as well.
+
+1182
+01:01:25,980 --> 01:01:27,340
+So the further price travels,
+
+1183
+01:01:28,120 --> 01:01:31,620
+the liquidity stays relatively further distance away from it.
+
+1184
+01:01:31,620 --> 01:01:31,960
+Okay.
+
+1185
+01:01:32,120 --> 01:01:32,840
+If it goes up,
+
+1186
+01:01:33,020 --> 01:01:34,060
+it stays this distance.
+
+1187
+01:01:34,700 --> 01:01:34,880
+Now,
+
+1188
+01:01:35,000 --> 01:01:35,680
+price comes down,
+
+1189
+01:01:35,800 --> 01:01:36,540
+finds the buy liquidity,
+
+1190
+01:01:38,060 --> 01:01:39,100
+price moves out again.
+
+1191
+01:01:39,800 --> 01:01:40,220
+Again,
+
+1192
+01:01:40,340 --> 01:01:42,280
+the liquidity isn't following prices aggressively,
+
+1193
+01:01:42,520 --> 01:01:43,560
+but it is following a bit.
+
+1194
+01:01:45,000 --> 01:01:45,720
+Price comes down,
+
+1195
+01:01:45,820 --> 01:01:46,920
+finds bid by liquidity,
+
+1196
+01:01:48,660 --> 01:01:49,620
+price moves out again,
+
+1197
+01:01:49,640 --> 01:01:54,190
+again the buy liquidity is kind of staying in this region
+
+1198
+01:01:54,190 --> 01:01:58,590
+some of it might follow price like another trader or other traders
+
+1199
+01:01:58,590 --> 01:02:02,910
+might follow price a bit more aggressively but within this whole move
+
+1200
+01:02:02,910 --> 01:02:08,070
+we're not seeing aggressive bi-liquity we're seeing very consistent bi-liquity
+
+1201
+01:02:08,070 --> 01:02:12,360
+as you can see with these green lines but it's not aggressive
+
+1202
+01:02:12,360 --> 01:02:17,280
+except in higher and higher prices it's actually remaining back down
+
+1203
+01:02:17,280 --> 01:02:22,050
+at that core areas the origin areas these moves out of
+
+1204
+01:02:22,070 --> 01:02:23,390
+moral function of what?
+
+1205
+01:02:28,570 --> 01:02:29,910
+Oh, the aggressive ones.
+
+1206
+01:02:31,520 --> 01:02:32,920
+Yeah, why they're happening?
+
+1207
+01:02:35,970 --> 01:02:37,790
+Why are the aggressive ones coming in?
+
+1208
+01:02:38,920 --> 01:02:39,180
+No.
+
+1209
+01:02:40,720 --> 01:02:41,740
+The buy liquidity is here.
+
+1210
+01:02:42,550 --> 01:02:43,490
+Oh, I see what you're saying.
+
+1211
+01:02:43,570 --> 01:02:44,170
+I see what you're saying.
+
+1212
+01:02:44,290 --> 01:02:49,070
+Okay, so if it was, no, it can't be aggressive, yeah?
+
+1213
+01:02:49,270 --> 01:02:54,390
+Because if it was aggressive, price would have continued higher, no?
+
+1214
+01:02:56,790 --> 01:03:01,630
+All of the liquidity would have accepted higher and higher and higher and higher prices, pushing price out.
+
+1215
+01:03:02,860 --> 01:03:04,320
+But what I'm saying is the market and,
+
+1216
+01:03:04,420 --> 01:03:10,400
+environment here is in a passive state, buy liquidity is not accepting high prices that aggressively.
+
+1217
+01:03:11,740 --> 01:03:19,700
+So if all the real buy liquidity is here, and it is a buying environment, yeah, then what's
+
+1218
+01:03:19,700 --> 01:03:21,640
+causing price to extend out like this?
+
+1219
+01:03:23,830 --> 01:03:26,390
+Oh, volume, market order.
+
+1220
+01:03:26,390 --> 01:03:30,530
+Market order, market order volume, weakest liquidity, because it's a thicker buy environment.
+
+1221
+01:03:31,110 --> 01:03:35,140
+And then that causes responses from market makers.
+
+1222
+01:03:35,140 --> 01:03:39,160
+They want to avoid taking on short positions in these specific environments.
+
+1223
+01:03:39,880 --> 01:03:41,120
+They avoid taking shorts.
+
+1224
+01:03:41,460 --> 01:03:44,800
+Buyers chase, chase, chase, chase, chase, chase, the volume dries off.
+
+1225
+01:03:45,000 --> 01:03:49,640
+But the real willingness to transact, the real liquidity is back down there.
+
+1226
+01:03:50,560 --> 01:03:53,640
+So there's two very, very different things I'm pointing out here.
+
+1227
+01:03:54,100 --> 01:03:59,400
+Volume isn't necessarily what the FX market is based on.
+
+1228
+01:03:59,400 --> 01:04:01,340
+It's more to do with where the liquidity is.
+
+1229
+01:04:02,620 --> 01:04:04,830
+Although volume is very significant,
+
+1230
+01:04:04,830 --> 01:04:10,360
+it's a significant way that people transact
+
+1231
+01:04:10,360 --> 01:04:11,970
+for the most part
+
+1232
+01:04:11,970 --> 01:04:15,010
+larger transactions are done on a price-sensitive basis
+
+1233
+01:04:15,010 --> 01:04:16,530
+rather than their time-sensitive basis
+
+1234
+01:04:16,530 --> 01:04:19,320
+price-sensitive meaning
+
+1235
+01:04:19,320 --> 01:04:20,980
+they want to trade at their desired prices
+
+1236
+01:04:20,980 --> 01:04:23,300
+time-sensitive meaning
+
+1237
+01:04:23,300 --> 01:04:25,680
+they don't give too fucks about where prices
+
+1238
+01:04:25,680 --> 01:04:27,660
+they don't need to get in that moment in time
+
+1239
+01:04:27,660 --> 01:04:30,070
+so you're saying there's more
+
+1240
+01:04:30,070 --> 01:04:33,860
+FX is more of a passive market yeah
+
+1241
+01:04:33,860 --> 01:04:34,560
+yeah okay
+
+1242
+01:04:34,560 --> 01:04:37,900
+especially with a large trader's behavior
+
+1243
+01:04:37,900 --> 01:04:41,640
+behave, especially the way the large trade is trade, they're more passive in nature.
+
+1244
+01:04:44,890 --> 01:04:49,830
+But of course, you have different levels of aggressiveness.
+
+1245
+01:04:50,390 --> 01:04:51,970
+It's not just aggressive 100.
+
+1246
+01:04:52,450 --> 01:04:54,330
+You can have like 50% aggression.
+
+1247
+01:04:54,530 --> 01:04:57,370
+You know, it's a stupid way of putting it, but it's the way it is.
+
+1248
+01:04:58,050 --> 01:05:01,910
+There's nuances and there's different levels of intensity in the aggression.
+
+1249
+01:05:02,550 --> 01:05:09,420
+So you can have relatively stable moves like this, which are composed of consistent buying,
+
+1250
+01:05:09,420 --> 01:05:11,020
+but not that aggressive
+
+1251
+01:05:11,020 --> 01:05:13,240
+you can have
+
+1252
+01:05:13,240 --> 01:05:14,540
+mad mad mad
+
+1253
+01:05:14,540 --> 01:05:17,560
+aggressive buying like this
+
+1254
+01:05:17,560 --> 01:05:19,960
+which is ridiculous
+
+1255
+01:05:19,960 --> 01:05:22,780
+but it doesn't ever last that long
+
+1256
+01:05:22,780 --> 01:05:24,240
+it turns stable again
+
+1257
+01:05:24,240 --> 01:05:26,280
+and you can have
+
+1258
+01:05:26,280 --> 01:05:28,580
+very very very efficient
+
+1259
+01:05:28,580 --> 01:05:31,650
+selling or buying as well
+
+1260
+01:05:31,650 --> 01:05:32,880
+do you get it
+
+1261
+01:05:32,880 --> 01:05:35,610
+very very very aggressive
+
+1262
+01:05:35,610 --> 01:05:37,780
+residual
+
+1263
+01:05:37,780 --> 01:05:41,080
+illiquity so after such a large move like that
+
+1264
+01:05:41,080 --> 01:05:47,180
+based of the coronavirus events, there is no real willingness to sell or buy any of these areas
+
+1265
+01:05:47,180 --> 01:05:53,790
+until the market can recover. So whenever you have high, high volume periods, where the volume
+
+1266
+01:05:53,790 --> 01:06:03,300
+goes crazy, after that, the volume will always contract. Here, we had high, high cell volume,
+
+1267
+01:06:03,300 --> 01:06:12,370
+no buy liquidity to match it with, hence why price dropped 2,000 pips, 1,800 pips. So there could be
+
+1268
+01:06:12,370 --> 01:06:16,210
+50 trillion that wants to trade here
+
+1269
+01:06:16,210 --> 01:06:18,190
+it's ridiculous figure but let's just call it that
+
+1270
+01:06:18,190 --> 01:06:20,670
+but it doesn't mean there's 50 trillion sold
+
+1271
+01:06:20,670 --> 01:06:22,390
+yeah sold here
+
+1272
+01:06:22,390 --> 01:06:26,760
+do you get it so there's not 50 trillion sold in that one
+
+1273
+01:06:26,760 --> 01:06:28,220
+specific place but the whole
+
+1274
+01:06:28,220 --> 01:06:31,080
+move yeah there is
+
+1275
+01:06:31,080 --> 01:06:33,860
+we had record high volumes in March
+
+1276
+01:06:33,860 --> 01:06:36,880
+the highest ever that's ever been traded on multi-level platforms
+
+1277
+01:06:36,880 --> 01:06:38,400
+happened in March
+
+1278
+01:06:38,400 --> 01:06:40,220
+equity providers were loving it
+
+1279
+01:06:40,220 --> 01:06:42,620
+it wasn't actually market
+
+1280
+01:06:42,620 --> 01:06:49,010
+order-based as well. A lot of this selling happened because algorithms were just accepting
+
+1281
+01:06:49,010 --> 01:06:53,210
+lower and lower prices. You can go on finance magnets, which is an institutional kind of news
+
+1282
+01:06:53,210 --> 01:06:58,670
+website, going back to March articles, they've discussed it, where previously in aggressive
+
+1283
+01:06:58,670 --> 01:07:02,330
+environments, there's more market order selling going on, time-sensitive selling.
+
+1284
+01:07:03,340 --> 01:07:09,100
+And within this period, it was still algorithms being tasked with executing large sell orders,
+
+1285
+01:07:09,340 --> 01:07:12,400
+but they just let the algorithms do their job.
+
+1286
+01:07:13,100 --> 01:07:17,760
+Like I said, the algorithms, they place limit orders in the book based on the level of aggression.
+
+1287
+01:07:18,300 --> 01:07:19,520
+That's being input into it.
+
+1288
+01:07:20,380 --> 01:07:23,720
+Yeah, I would have thought that was a market order, is there?
+
+1289
+01:07:24,800 --> 01:07:26,760
+There is market order selling going on.
+
+1290
+01:07:26,860 --> 01:07:32,300
+But what I'm saying is if there was everybody market order selling, you wouldn't really have had these periods of stability.
+
+1291
+01:07:33,150 --> 01:07:34,050
+Price would have done this.
+
+1292
+01:07:34,350 --> 01:07:35,110
+Yeah, fair enough.
+
+1293
+01:07:35,290 --> 01:07:35,370
+Yeah.
+
+1294
+01:07:35,610 --> 01:07:36,350
+Like it did it.
+
+1295
+01:07:37,130 --> 01:07:41,970
+But within this period, what actually happened is you had obviously market order selling because it's weak by liquidity.
+
+1296
+01:07:41,970 --> 01:07:44,530
+and there's a high level of urgency
+
+1297
+01:07:44,530 --> 01:07:46,770
+to get out of long pound positions
+
+1298
+01:07:46,770 --> 01:07:48,570
+everybody wants to go along the US dollar
+
+1299
+01:07:48,570 --> 01:07:51,810
+so the market order selling is happening
+
+1300
+01:07:51,810 --> 01:07:54,210
+but that market order selling is drying off here
+
+1301
+01:07:54,210 --> 01:07:57,010
+leaving behind that relative thinness
+
+1302
+01:07:57,010 --> 01:07:59,010
+but sell liquidity is here
+
+1303
+01:07:59,010 --> 01:08:00,370
+is holding price down
+
+1304
+01:08:00,370 --> 01:08:03,140
+then the market order selling comes
+
+1305
+01:08:03,140 --> 01:08:05,760
+because there's much, much thicker sell equity there
+
+1306
+01:08:05,760 --> 01:08:07,100
+weak by liquidity
+
+1307
+01:08:07,100 --> 01:08:09,650
+market order sell comes through
+
+1308
+01:08:09,650 --> 01:08:12,150
+price runs down the market order sell
+
+1309
+01:08:12,150 --> 01:08:13,550
+dries off it doesn't
+
+1310
+01:08:13,570 --> 01:08:22,040
+continue selling you would think in an urgent environment nobody's thinking like rationally everybody's
+
+1311
+01:08:22,040 --> 01:08:28,840
+trying to sell sell sell sell sell rapid yeah but no it wasn't the case we had definitely a lot of
+
+1312
+01:08:28,840 --> 01:08:35,160
+selling going on market orders but not in an irrational way rather what was happening is it was selling off
+
+1313
+01:08:35,160 --> 01:08:42,770
+in more of a controlled environment where the algorithms were placing limit orders in the book you get it
+
+1314
+01:08:42,770 --> 01:08:47,010
+The algorithm may have been tasked with filling a very large order.
+
+1315
+01:08:47,880 --> 01:08:52,220
+It might have been fill $100 billion on aggressive mode.
+
+1316
+01:08:53,790 --> 01:08:56,210
+So as price sells off, the sell liquidity follows.
+
+1317
+01:08:56,770 --> 01:09:00,330
+The volume dries off, cell liquidity continues being placed there.
+
+1318
+01:09:00,790 --> 01:09:03,950
+Resulting in consistently fix sell liquidity wherever price went.
+
+1319
+01:09:04,590 --> 01:09:11,700
+The buy liquidity, because of the event and the effect on the sentiment and the attitude of traders,
+
+1320
+01:09:12,560 --> 01:09:14,700
+buy liquidity and willingness to buy was nonexistent.
+
+1321
+01:09:15,080 --> 01:09:17,620
+Do you get it?
+
+1322
+01:09:18,800 --> 01:09:21,860
+So there's a lack of buyers, basically strong sellers,
+
+1323
+01:09:22,020 --> 01:09:24,740
+but the sellers are selling in limit orders, not market orders.
+
+1324
+01:09:25,020 --> 01:09:26,460
+That's kind of what happened there.
+
+1325
+01:09:28,290 --> 01:09:30,070
+Now, let me show you, before I let you go.
+
+1326
+01:09:31,650 --> 01:09:32,490
+It'll be like 10 minutes.
+
+1327
+01:09:33,750 --> 01:09:38,550
+A HSBC proprietary kind of sales pitch thing they have on their website,
+
+1328
+01:09:38,630 --> 01:09:39,810
+on the solutions part of the website,
+
+1329
+01:09:40,610 --> 01:09:42,740
+we're in the...
+
+1330
+01:09:42,740 --> 01:09:44,540
+HBSBC.
+
+1331
+01:09:45,690 --> 01:09:46,790
+Oh, shit, yeah.
+
+1332
+01:09:50,080 --> 01:09:51,300
+So what we've discussed,
+
+1333
+01:09:51,320 --> 01:09:53,490
+us today is, yeah. We already
+
+1334
+01:09:53,490 --> 01:09:55,530
+know that volume shock can cause
+
+1335
+01:09:55,530 --> 01:09:57,370
+liquidity providers to withdraw liquidity
+
+1336
+01:09:57,370 --> 01:09:59,450
+and it creates price inefficiencies where price
+
+1337
+01:09:59,450 --> 01:10:01,370
+runs out. Trade steadily, leaves weakness
+
+1338
+01:10:01,370 --> 01:10:02,890
+behind. When the volume dries off,
+
+1339
+01:10:03,510 --> 01:10:05,330
+it takes much less selling to push
+
+1340
+01:10:05,330 --> 01:10:06,930
+price down. We know this.
+
+1341
+01:10:07,530 --> 01:10:09,310
+What I'm discussing with you is what actually
+
+1342
+01:10:09,310 --> 01:10:11,350
+happens in more
+
+1343
+01:10:11,350 --> 01:10:13,010
+realistic terms in markets
+
+1344
+01:10:13,010 --> 01:10:15,510
+where within these large moves
+
+1345
+01:10:15,510 --> 01:10:17,980
+imagine it happened
+
+1346
+01:10:17,980 --> 01:10:19,900
+for like three, four, five days of
+
+1347
+01:10:19,900 --> 01:10:21,850
+buying, it's actually
+
+1348
+01:10:21,850 --> 01:10:23,690
+composed of multiple
+
+1349
+01:10:23,690 --> 01:10:24,510
+so pops,
+
+1350
+01:10:25,190 --> 01:10:25,490
+drying,
+
+1351
+01:10:25,910 --> 01:10:27,390
+pops, drying, pops, dry and pops, drying.
+
+1352
+01:10:27,450 --> 01:10:27,850
+Do you get it?
+
+1353
+01:10:28,670 --> 01:10:28,850
+Yeah.
+
+1354
+01:10:29,270 --> 01:10:30,870
+It's not just buying, buy and buying
+
+1355
+01:10:30,870 --> 01:10:32,270
+for that whole period of five days.
+
+1356
+01:10:32,470 --> 01:10:32,590
+Yeah.
+
+1357
+01:10:33,130 --> 01:10:35,230
+Now, within that period of five days,
+
+1358
+01:10:35,470 --> 01:10:36,490
+there's buy liquidity there.
+
+1359
+01:10:38,110 --> 01:10:40,270
+There's still weak sell liquidity here.
+
+1360
+01:10:44,160 --> 01:10:45,720
+There's still weakness in sellers there.
+
+1361
+01:10:46,440 --> 01:10:47,420
+Any market order buyer
+
+1362
+01:10:47,420 --> 01:10:48,880
+that comes through pushes price out.
+
+1363
+01:10:49,020 --> 01:10:50,300
+The market order buyer dries off
+
+1364
+01:10:50,300 --> 01:10:52,120
+because volume is not a constant.
+
+1365
+01:10:53,400 --> 01:10:55,820
+However, the liquidity consistently accepts
+
+1366
+01:10:55,820 --> 01:10:57,880
+higher and higher prices for that period of buying.
+
+1367
+01:10:59,230 --> 01:11:02,390
+As a result of, why is this kind of dynamic occurring?
+
+1368
+01:11:03,130 --> 01:11:05,610
+Why are we seeing in buy liquidity except higher and higher prices?
+
+1369
+01:11:06,010 --> 01:11:07,950
+Why are we in that environment in FX?
+
+1370
+01:11:08,450 --> 01:11:12,510
+It's because large transactions have to be filtered in the market in small pieces.
+
+1371
+01:11:13,450 --> 01:11:18,460
+You cannot just go market order short $10 trillion and get filled.
+
+1372
+01:11:19,370 --> 01:11:20,270
+Nobody can do that.
+
+1373
+01:11:20,350 --> 01:11:21,930
+There is not enough liquidity to do that.
+
+1374
+01:11:23,240 --> 01:11:27,400
+You have to break your pieces, your large volume down at the small.
+
+1375
+01:11:27,420 --> 01:11:34,690
+pieces like this $100 billion and this import into these algorithms which are a relatively new
+
+1376
+01:11:34,690 --> 01:11:41,610
+thing and the algorithm handles the execution for you. It filters the liquidity in the market
+
+1377
+01:11:41,610 --> 01:11:49,070
+and it filters you out of positions over time. So if you went to a firm like a large hedge fund
+
+1378
+01:11:49,070 --> 01:11:53,070
+that needs to get filled for a large transaction, you don't just sit there and fill an order
+
+1379
+01:11:53,070 --> 01:11:58,710
+in it. You will be taxed as Zane by your manager.
+
+1380
+01:11:58,730 --> 01:12:00,830
+get this fucking order filled
+
+1381
+01:12:00,830 --> 01:12:01,630
+by the end of today
+
+1382
+01:12:01,630 --> 01:12:04,520
+I want this order filled
+
+1383
+01:12:04,520 --> 01:12:05,360
+within this period
+
+1384
+01:12:05,360 --> 01:12:06,600
+I want this order filled
+
+1385
+01:12:06,600 --> 01:12:07,740
+within this price
+
+1386
+01:12:07,740 --> 01:12:09,280
+they won't say to you
+
+1387
+01:12:09,280 --> 01:12:11,380
+fill a million at the ask price
+
+1388
+01:12:11,380 --> 01:12:14,250
+it would be your job
+
+1389
+01:12:14,250 --> 01:12:15,310
+as a trader
+
+1390
+01:12:15,310 --> 01:12:18,210
+to oversee a trading decision
+
+1391
+01:12:18,210 --> 01:12:19,950
+probably made by the manager
+
+1392
+01:12:19,950 --> 01:12:21,360
+right
+
+1393
+01:12:21,360 --> 01:12:23,580
+it's just your job to import it
+
+1394
+01:12:23,580 --> 01:12:24,220
+into the market
+
+1395
+01:12:24,220 --> 01:12:25,960
+you don't prick
+
+1396
+01:12:25,960 --> 01:12:27,300
+you better make sure this is filled
+
+1397
+01:12:27,300 --> 01:12:28,160
+within this price
+
+1398
+01:12:28,160 --> 01:12:29,820
+go do it with this
+
+1399
+01:12:29,820 --> 01:12:31,520
+dealer, go do it with on this
+
+1400
+01:12:31,520 --> 01:12:33,800
+algorithm, we need to
+
+1401
+01:12:33,800 --> 01:12:34,660
+get in by this point.
+
+1402
+01:12:35,700 --> 01:12:37,600
+You get it. You don't sit there and make
+
+1403
+01:12:37,600 --> 01:12:39,860
+trading decisions like, yeah, price is going to go
+
+1404
+01:12:39,860 --> 01:12:41,780
+up, so I'm going to buy here, price. It's none
+
+1405
+01:12:41,780 --> 01:12:44,140
+of that. This is only, that
+
+1406
+01:12:44,140 --> 01:12:45,940
+type of trading only happens at
+
+1407
+01:12:45,940 --> 01:12:47,920
+proprietary trading firms, which are
+
+1408
+01:12:47,920 --> 01:12:49,980
+very, very small prop firm, basically.
+
+1409
+01:12:50,380 --> 01:12:52,080
+You sit there, you rent a desk and you
+
+1410
+01:12:52,080 --> 01:12:53,500
+try to trade and make money.
+
+1411
+01:12:55,100 --> 01:12:56,640
+Right? They
+
+1412
+01:12:56,640 --> 01:12:58,620
+are not institutional traders. You could even
+
+1413
+01:12:58,620 --> 01:13:00,060
+class them as retail, to be honest.
+
+1414
+01:13:00,620 --> 01:13:04,360
+Obviously, there's large prop firms and like Tom Dente used to work for one.
+
+1415
+01:13:04,540 --> 01:13:05,740
+Navsing used to work for one.
+
+1416
+01:13:06,180 --> 01:13:10,300
+But the world of prop trading, they never have been south side.
+
+1417
+01:13:10,780 --> 01:13:12,040
+They've brought liquidity.
+
+1418
+01:13:13,200 --> 01:13:15,680
+Hedge funds are very, very large buyers of liquidity.
+
+1419
+01:13:16,280 --> 01:13:18,620
+They have huge liquidity issues.
+
+1420
+01:13:19,380 --> 01:13:23,020
+So over the years, hedge funds, liquidity providers alike,
+
+1421
+01:13:23,020 --> 01:13:28,840
+have invested in these execution suites, in a hotel suite,
+
+1422
+01:13:28,840 --> 01:13:32,580
+into these execution suites which solve this issue.
+
+1423
+01:13:33,060 --> 01:13:37,180
+They allow them to fill large trades over time in small pieces,
+
+1424
+01:13:37,580 --> 01:13:40,960
+avoid adverse market volatility, avoid adverse selection,
+
+1425
+01:13:41,120 --> 01:13:44,620
+basically avoid information leaking and then somebody responding to them.
+
+1426
+01:13:45,300 --> 01:13:48,840
+It facilitates them hiding the information arising from the order flow
+
+1427
+01:13:48,840 --> 01:13:54,500
+and essentially filling trades with the least volatility and lowest execution costs possible,
+
+1428
+01:13:54,500 --> 01:13:58,720
+which is a very, very significant issue for large traders.
+
+1429
+01:13:58,840 --> 01:14:01,230
+this is why as retail traders
+
+1430
+01:14:01,230 --> 01:14:03,150
+we have a simple
+
+1431
+01:14:03,150 --> 01:14:05,010
+it's more simplistic
+
+1432
+01:14:05,010 --> 01:14:05,670
+in that sense
+
+1433
+01:14:05,670 --> 01:14:07,030
+if you want to go buy
+
+1434
+01:14:07,030 --> 01:14:08,290
+you buy and you get filled
+
+1435
+01:14:08,290 --> 01:14:09,470
+if you want to sell you sell you sell
+
+1436
+01:14:09,470 --> 01:14:10,010
+you get filled
+
+1437
+01:14:10,010 --> 01:14:11,690
+there is none of that major issues
+
+1438
+01:14:11,690 --> 01:14:13,150
+around having to fill
+
+1439
+01:14:13,150 --> 01:14:15,350
+a large trade over the next two days
+
+1440
+01:14:15,350 --> 01:14:17,470
+right so
+
+1441
+01:14:17,470 --> 01:14:19,820
+and you know
+
+1442
+01:14:19,820 --> 01:14:21,000
+as we discussed before
+
+1443
+01:14:21,000 --> 01:14:22,120
+me and you don't move the market
+
+1444
+01:14:22,120 --> 01:14:22,960
+so we are
+
+1445
+01:14:22,960 --> 01:14:24,620
+chump's in this market
+
+1446
+01:14:24,620 --> 01:14:26,360
+we are nobody knows
+
+1447
+01:14:26,360 --> 01:14:27,300
+we exist basically
+
+1448
+01:14:27,300 --> 01:14:29,300
+it is hedge fund
+
+1449
+01:14:29,300 --> 01:14:31,750
+a hedge fund that's trying to short the pound
+
+1450
+01:14:31,750 --> 01:14:34,150
+because they are taking money out
+
+1451
+01:14:34,150 --> 01:14:35,450
+the UK economy for example
+
+1452
+01:14:35,450 --> 01:14:42,100
+their volume can be significant
+
+1453
+01:14:42,100 --> 01:14:43,100
+enough to move price
+
+1454
+01:14:43,100 --> 01:14:44,620
+because they'll be dealing directly
+
+1455
+01:14:44,620 --> 01:14:45,680
+to a liquidity provider
+
+1456
+01:14:45,680 --> 01:14:47,720
+the liquidity provider's setting
+
+1457
+01:14:47,720 --> 01:14:48,600
+bid and ask quotes
+
+1458
+01:14:48,600 --> 01:14:50,440
+so here
+
+1459
+01:14:50,440 --> 01:14:52,670
+there's thick sell liquidity
+
+1460
+01:14:52,670 --> 01:14:54,590
+there's relative weakness in bi-liquity
+
+1461
+01:14:54,590 --> 01:14:56,480
+a hedge fund has huge
+
+1462
+01:14:56,480 --> 01:14:57,440
+sell limit orders there
+
+1463
+01:14:57,440 --> 01:14:59,940
+now the dealer
+
+1464
+01:14:59,940 --> 01:15:01,600
+can see that information right
+
+1465
+01:15:01,600 --> 01:15:09,520
+Now, let's just say another client, a corporate client, goes market order short for a quick second.
+
+1466
+01:15:10,380 --> 01:15:14,360
+The dealer responds to that market order short, sees that there's weak bids.
+
+1467
+01:15:14,460 --> 01:15:16,640
+If he goes long, he can't get out of the long position.
+
+1468
+01:15:17,140 --> 01:15:21,300
+So he withdraws his bids, causes price to chase his buy volume.
+
+1469
+01:15:21,860 --> 01:15:29,220
+They pull that sell, sorry, buy liquidity, they pull that sell volume from the corporate client lower into the book, trying to find buyers sitting in the book.
+
+1470
+01:15:29,220 --> 01:15:35,400
+meanwhile the hedge fund in this instance was super super aggressive he wanted to get filled
+
+1471
+01:15:35,400 --> 01:15:40,260
+he's like fuck it i'll chase the price lower the algorithm chases the price lower and it holds
+
+1472
+01:15:40,260 --> 01:15:45,380
+this wherever the price goes the sell liquidity goes with it resulting in quite consistently
+
+1473
+01:15:45,380 --> 01:15:52,180
+thick sell liquidity throughout this whole move which is a very very mad thing you think about it
+
+1474
+01:15:52,180 --> 01:15:57,400
+which person is willing to accept more expensive prices regardless yeah someone who's trying to get
+
+1475
+01:15:57,400 --> 01:15:58,180
+bit of it quick.
+
+1476
+01:15:59,070 --> 01:15:59,270
+Yeah.
+
+1477
+01:15:59,830 --> 01:16:00,230
+Event driven.
+
+1478
+01:16:00,330 --> 01:16:00,510
+Anyway,
+
+1479
+01:16:00,570 --> 01:16:01,030
+let me pull up
+
+1480
+01:16:01,030 --> 01:16:01,630
+this thing
+
+1481
+01:16:01,630 --> 01:16:02,690
+so you don't
+
+1482
+01:16:02,690 --> 01:16:03,210
+think I'm trying
+
+1483
+01:16:03,210 --> 01:16:03,890
+shit to you
+
+1484
+01:16:03,890 --> 01:16:04,290
+basically.
+
+1485
+01:16:04,290 --> 01:16:05,050
+How does this guy
+
+1486
+01:16:05,050 --> 01:16:06,330
+know how large
+
+1487
+01:16:06,330 --> 01:16:08,230
+how the fuck
+
+1488
+01:16:08,230 --> 01:16:08,770
+do I know
+
+1489
+01:16:08,770 --> 01:16:09,970
+how banks
+
+1490
+01:16:09,970 --> 01:16:10,810
+what kind of
+
+1491
+01:16:10,810 --> 01:16:11,390
+options they
+
+1492
+01:16:11,390 --> 01:16:12,370
+offer to their clients
+
+1493
+01:16:12,370 --> 01:16:22,820
+so HSPC
+
+1494
+01:16:22,820 --> 01:16:23,620
+liquidity algorithm
+
+1495
+01:16:23,620 --> 01:16:24,400
+it's a floating
+
+1496
+01:16:24,400 --> 01:16:25,340
+iceberg order
+
+1497
+01:16:25,340 --> 01:16:26,280
+but already
+
+1498
+01:16:26,280 --> 01:16:26,980
+what that means
+
+1499
+01:16:26,980 --> 01:16:28,000
+is iceberg is
+
+1500
+01:16:28,000 --> 01:16:29,360
+so think about it
+
+1501
+01:16:29,360 --> 01:16:30,060
+you have the sea
+
+1502
+01:16:30,060 --> 01:16:31,380
+you have the tip
+
+1503
+01:16:31,380 --> 01:16:31,880
+of the iceberg
+
+1504
+01:16:31,880 --> 01:16:33,020
+and then the iceberg
+
+1505
+01:16:33,020 --> 01:16:34,100
+underneath the sea
+
+1506
+01:16:34,100 --> 01:16:34,900
+could be like that big
+
+1507
+01:16:34,900 --> 01:16:40,300
+the tip of the iceberg you can't actually see how big the real iceberg is
+
+1508
+01:16:40,300 --> 01:16:44,380
+now if i have a hundred billion order and i use an iceberg order
+
+1509
+01:16:44,380 --> 01:16:48,420
+what they always do is you might want to transact a hundred billion
+
+1510
+01:16:48,420 --> 01:16:50,900
+but it will only show one million at a time
+
+1511
+01:16:50,900 --> 01:16:56,600
+okay so anybody who ever sees what's sitting in the order book
+
+1512
+01:16:56,600 --> 01:16:59,960
+just see the tip of the iceberg they can only see the tip of the iceberg yeah
+
+1513
+01:16:59,960 --> 01:17:02,870
+but obviously there's ways to tell that it's an iceberg order
+
+1514
+01:17:02,870 --> 01:17:06,470
+if this is the same level and one million keeps turning up without
+
+1515
+01:17:06,470 --> 01:17:11,950
+ever going away no matter how much you could buy 500 million but it just isn't going anywhere
+
+1516
+01:17:11,950 --> 01:17:19,670
+it's because there's a fucking large order there you get it anyway you can start the sort of end
+
+1517
+01:17:19,670 --> 01:17:23,850
+time you can limit price so how you know what price you want to get filled within if I want to
+
+1518
+01:17:23,850 --> 01:17:28,050
+fill a hundred million but I needed to fill with to get filled within 100 pips my hundred pips
+
+1519
+01:17:28,050 --> 01:17:36,580
+in my limit price you have the liquidity pool you can execute internally with HSBC's internal liquidity
+
+1520
+01:17:36,580 --> 01:17:43,560
+pool or you can execute externally with the actual market, probably on EBS.
+
+1521
+01:17:44,560 --> 01:17:49,980
+Now, what they say is, you can balance the trade-off between execution and information leakage.
+
+1522
+01:17:50,600 --> 01:17:56,400
+So if you trade inside of HSBC, there's less information leakage and less likelihood of price
+
+1523
+01:17:56,400 --> 01:18:01,860
+of other people basically becoming and taking advantage of basically of your information.
+
+1524
+01:18:02,280 --> 01:18:06,940
+If it becomes quite obvious that there's a large, large buyer and everybody knows that
+
+1525
+01:18:06,960 --> 01:18:13,620
+information. Everybody that buys ahead of you, causing price to move away and it becomes more expensive
+
+1526
+01:18:13,620 --> 01:18:19,740
+to fill your order. Now, if you want to hide that information from the market and you want to fill it
+
+1527
+01:18:19,740 --> 01:18:29,600
+in-house with HSPC, it might take like fucking six days to fill it. Yeah. Or HSPC, you might tell HSPC to
+
+1528
+01:18:29,600 --> 01:18:33,880
+fill you 100 billion within 100 pips. You don't want information leakage, so you want them to fill it in-house.
+
+1529
+01:18:34,560 --> 01:18:38,860
+They will not be able to fill you 100 pips within 100 pips. They might only get.
+
+1530
+01:18:38,880 --> 01:18:40,580
+done, 70 million.
+
+1531
+01:18:41,950 --> 01:18:42,410
+Do you get it?
+
+1532
+01:18:43,170 --> 01:18:45,100
+So you can balance it.
+
+1533
+01:18:45,820 --> 01:18:47,100
+Oh yeah, it shows you on the right as well.
+
+1534
+01:18:47,160 --> 01:18:48,280
+Aggressive, neutral and passive.
+
+1535
+01:18:49,220 --> 01:18:49,580
+Yeah.
+
+1536
+01:18:50,770 --> 01:18:52,570
+So aggressive means
+
+1537
+01:18:52,570 --> 01:18:54,230
+percent of total order size done
+
+1538
+01:18:54,230 --> 01:18:55,730
+between this much time,
+
+1539
+01:18:56,610 --> 01:18:58,190
+done between this much time
+
+1540
+01:18:58,190 --> 01:19:00,590
+and then the passive one done within this much time.
+
+1541
+01:19:01,920 --> 01:19:06,250
+But just because
+
+1542
+01:19:06,250 --> 01:19:08,190
+this is executing quicker for you,
+
+1543
+01:19:09,010 --> 01:19:09,890
+it tells you here
+
+1544
+01:19:09,890 --> 01:19:12,440
+the algorithm will place orders
+
+1545
+01:19:12,440 --> 01:19:14,280
+inside the spread. That's
+
+1546
+01:19:14,320 --> 01:19:20,820
+my bro. So price is here right now. Yeah. It places by limit orders here. If it's a,
+
+1547
+01:19:20,820 --> 01:19:29,410
+if it's a, that's, that's the, that's very tight. Yeah. So think about it. It results in,
+
+1548
+01:19:29,410 --> 01:19:35,300
+wherever the price goes, it results in thick by liquidity. Think about it. Thick by liquidity.
+
+1549
+01:19:35,300 --> 01:19:41,800
+Consistently is present and any market orders that come through, which way, which, you know,
+
+1550
+01:19:41,800 --> 01:19:47,380
+is likely the sell side is going to be weaker. So when price pushes up, the bid and ask is
+
+1551
+01:19:47,400 --> 01:19:51,460
+now here, the algorithm continues to place the liquidity within the spread.
+
+1552
+01:19:51,580 --> 01:19:53,300
+That's mad. That's actually mad.
+
+1553
+01:19:54,230 --> 01:19:57,130
+Neutral, the algorithm will be moderately risk-averse
+
+1554
+01:19:57,130 --> 01:20:01,670
+and place child, basically, baby orders, close to the top of work.
+
+1555
+01:20:01,970 --> 01:20:04,610
+So here's the bid and ask spread. It'll place them here.
+
+1556
+01:20:06,030 --> 01:20:09,290
+So when price has popped out and has become inefficient and dried off,
+
+1557
+01:20:09,810 --> 01:20:14,850
+if it's on neutral, the liquidity will get placed around here, close to the top of work.
+
+1558
+01:20:15,310 --> 01:20:18,030
+Leaving that weakness in the middle, market orders dry off,
+
+1559
+01:20:18,130 --> 01:20:24,510
+price draws back down, finds the liquidity, pops again, and the liquidity might accept here now.
+
+1560
+01:20:26,290 --> 01:20:32,070
+Resulting in the stair-step type, quite relatively efficient structure.
+
+1561
+01:20:33,200 --> 01:20:42,030
+The aggressive execution, whether it's placed inside the spread, will result in a much more thinner and efficient price move.
+
+1562
+01:20:43,860 --> 01:20:46,220
+Because consistently, the bi-liquity is here now.
+
+1563
+01:20:46,580 --> 01:20:47,920
+It's moved up from here, here, here, here.
+
+1564
+01:20:47,920 --> 01:20:50,360
+any market order
+
+1565
+01:20:50,360 --> 01:20:51,200
+sell that comes through
+
+1566
+01:20:51,200 --> 01:20:52,300
+finds buyers quickly
+
+1567
+01:20:52,300 --> 01:20:53,260
+the sell liquidity
+
+1568
+01:20:53,260 --> 01:20:54,440
+relatively remains weaker
+
+1569
+01:20:54,440 --> 01:20:55,980
+any market order by that comes
+
+1570
+01:20:55,980 --> 01:20:57,480
+through continues to push price up
+
+1571
+01:20:57,480 --> 01:20:59,200
+you follow him
+
+1572
+01:20:59,200 --> 01:21:01,570
+and then passive
+
+1573
+01:21:01,570 --> 01:21:02,650
+it places smaller orders
+
+1574
+01:21:02,650 --> 01:21:03,670
+deeper in the book
+
+1575
+01:21:03,670 --> 01:21:04,850
+so here's the origin
+
+1576
+01:21:04,850 --> 01:21:05,950
+price pops out
+
+1577
+01:21:05,950 --> 01:21:07,570
+remains down here
+
+1578
+01:21:07,570 --> 01:21:08,770
+price comes all the way down
+
+1579
+01:21:08,770 --> 01:21:10,070
+so as you can imagine
+
+1580
+01:21:10,070 --> 01:21:11,730
+depending on how orders are being filled
+
+1581
+01:21:11,730 --> 01:21:13,550
+it can result in very very thin
+
+1582
+01:21:13,550 --> 01:21:14,430
+inefficient moves
+
+1583
+01:21:14,430 --> 01:21:16,070
+more stable moves
+
+1584
+01:21:16,070 --> 01:21:17,630
+or it can result in really
+
+1585
+01:21:17,630 --> 01:21:18,730
+really stable environment
+
+1586
+01:21:18,750 --> 01:21:23,570
+Yeah, you backed that up pretty well
+
+1587
+01:21:23,570 --> 01:21:24,450
+I'll give you that
+
+1588
+01:21:24,450 --> 01:21:27,560
+Yeah, anyway, I'll leave it at that
+
+1589
+01:21:27,560 --> 01:21:29,320
+I'll send this algorithm if you want
+
+1590
+01:21:29,320 --> 01:21:31,760
+You can probably find the links here
+
+1591
+01:21:31,760 --> 01:21:33,780
+On that other website
+
+1592
+01:21:33,780 --> 01:21:36,980
+The point of the topic today has been
+
+1593
+01:21:36,980 --> 01:21:40,020
+How yes, market makers and liquidity providers
+
+1594
+01:21:40,020 --> 01:21:41,300
+They do create inefficiencies
+
+1595
+01:21:41,300 --> 01:21:43,120
+And they do cause price they over-extend
+
+1596
+01:21:43,120 --> 01:21:44,580
+But within the real market
+
+1597
+01:21:44,580 --> 01:21:47,480
+It's not just that granular, it's not that black and white
+
+1598
+01:21:47,480 --> 01:21:50,020
+There's extra details and information present
+
+1599
+01:21:50,020 --> 01:21:52,080
+Larger trade is the way they transact
+
+1600
+01:21:52,080 --> 01:21:56,820
+the way they fill orders causes liquidity to chase price sometimes depending on the level of
+
+1601
+01:21:56,820 --> 01:22:08,160
+aggression of the algorithm but one of the main main takeaways is that liquidity if price runs higher
+
+1602
+01:22:08,160 --> 01:22:14,320
+you're you're going to one day ask me why did it not fill back down here it's because the
+
+1603
+01:22:14,320 --> 01:22:22,540
+liquidity is accepting higher prices there okay would you see that in price yes there'd be areas
+
+1604
+01:22:22,540 --> 01:22:24,560
+there'd be areas where we expect
+
+1605
+01:22:24,560 --> 01:22:25,940
+buy liquidity to stay there
+
+1606
+01:22:25,940 --> 01:22:29,330
+and there'd be times where we expect
+
+1607
+01:22:29,330 --> 01:22:30,710
+that buy liquidity here to be weak
+
+1608
+01:22:30,710 --> 01:22:32,950
+and price it could finally reverse
+
+1609
+01:22:32,950 --> 01:22:34,970
+okay well as long as you can see it
+
+1610
+01:22:34,970 --> 01:22:38,800
+yeah but that kind of explains then
+
+1611
+01:22:38,800 --> 01:22:40,260
+why you have long term moves
+
+1612
+01:22:40,260 --> 01:22:41,340
+that result in this
+
+1613
+01:22:41,340 --> 01:22:44,360
+so you go oh that inefficiency there didn't get filled
+
+1614
+01:22:44,360 --> 01:22:46,020
+and why did well the fucker
+
+1615
+01:22:46,020 --> 01:22:47,960
+it's because there's a lot of buying going on
+
+1616
+01:22:47,960 --> 01:22:49,700
+until that buying dries off
+
+1617
+01:22:49,700 --> 01:22:50,700
+which you will be able to see
+
+1618
+01:22:50,700 --> 01:22:55,240
+you won't get that large fill yet
+
+1619
+01:22:55,260 --> 01:23:03,470
+yeah sometimes you can just fall straight past it as well yeah um so that's that the environment then
+
+1620
+01:23:03,470 --> 01:23:09,030
+can be explained based of how transactions form there's if there's buy liquidity here it's impossible
+
+1621
+01:23:09,030 --> 01:23:15,220
+that price would sell off until sellers absorb it or the buyers withdraw if there's weakness on
+
+1622
+01:23:15,220 --> 01:23:21,150
+one side of the book it's weak sell liquidity here thicker buy liquidity here market order sales will
+
+1623
+01:23:21,150 --> 01:23:25,070
+get filled any market order buy the liquidity providers will trigger the response then with
+
+1624
+01:23:25,070 --> 01:23:30,470
+the draw price will pop out the liquidity can stay back at the core when that move dries off price
+
+1625
+01:23:30,470 --> 01:23:35,960
+will have to come back down to the origin in a more realistic scenario if there's a hundred
+
+1626
+01:23:35,960 --> 01:23:41,600
+million here 10 million might follow it so 10 million liquidity accepts higher and higher prices
+
+1627
+01:23:41,600 --> 01:23:46,800
+holds price up once that 10 million's finished there's still majority of the liquidity is back down
+
+1628
+01:23:46,800 --> 01:23:55,080
+at the origin is still traded thinly on the way up price ends up filling it anyway so it's not ever
+
+1629
+01:23:55,080 --> 01:24:02,520
+just a singular cause there's buy limits chasing price higher there's market order buyers pushing
+
+1630
+01:24:02,520 --> 01:24:08,200
+the price higher the majority the buy limits can remain down there it's just completely no
+
+1631
+01:24:08,200 --> 01:24:15,340
+sell liquidity here there is sell liquidity there in realistic scenarios okay but broadly speaking much
+
+1632
+01:24:15,340 --> 01:24:20,660
+thicker much thinner price goes to the thinner side anyway i leave it at that
+

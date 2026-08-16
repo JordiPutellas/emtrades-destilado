@@ -1,0 +1,7996 @@
+1
+00:00:00,690 --> 00:00:03,830
+What did you, what did we discuss last, last session?
+
+2
+00:00:06,400 --> 00:00:30,020
+Last session was, what was it, it was going off, it was, it was like the limit orders and stuff again, how you don't necessarily need a lot of volume to skew the market in one direction.
+
+3
+00:00:33,590 --> 00:00:35,150
+What's that principle that you're referring to?
+
+4
+00:00:37,550 --> 00:00:38,950
+I don't know what the principal's called.
+
+5
+00:00:38,950 --> 00:00:40,970
+I know that it was to do with the market.
+
+6
+00:00:40,990 --> 00:00:49,210
+order limit ratio being one or greater than one right so which one has to be greater than the other
+
+7
+00:00:49,210 --> 00:00:57,900
+the market order has to be greater than the available liquidity at that price level
+
+8
+00:00:57,900 --> 00:01:07,940
+cause in that ratio no the the liquidity has to be more to do what to skew the market in in
+
+9
+00:01:07,940 --> 00:01:17,470
+one way all right so in terms of that market to limit order ratio that's the principle
+
+10
+00:01:17,470 --> 00:01:20,650
+so market to limit order ratio
+
+11
+00:01:20,650 --> 00:01:22,050
+oh that's the principle okay
+
+12
+00:01:22,050 --> 00:01:24,190
+yeah which is greater than one
+
+13
+00:01:24,190 --> 00:01:26,740
+so when the market
+
+14
+00:01:26,740 --> 00:01:29,700
+to limit so when the market
+
+15
+00:01:29,700 --> 00:01:31,780
+is greater than the limit order
+
+16
+00:01:31,780 --> 00:01:33,600
+or equal to it
+
+17
+00:01:33,600 --> 00:01:36,170
+price will move
+
+18
+00:01:36,170 --> 00:01:38,920
+do you get it
+
+19
+00:01:38,920 --> 00:01:41,140
+okay I'm just writing this one now
+
+20
+00:01:41,140 --> 00:01:50,820
+yeah
+
+21
+00:01:50,820 --> 00:01:51,580
+got it
+
+22
+00:01:51,580 --> 00:01:56,240
+so what that means is if there's a level
+
+23
+00:01:56,240 --> 00:01:57,800
+with liquidity there
+
+24
+00:01:57,800 --> 00:02:00,120
+if I wipe it with a market order
+
+25
+00:02:00,120 --> 00:02:02,110
+and I still have
+
+26
+00:02:02,110 --> 00:02:04,570
+volume left to fill behind the market order
+
+27
+00:02:04,570 --> 00:02:06,560
+I push price to the next level
+
+28
+00:02:06,560 --> 00:02:09,040
+to get the next available liquidity
+
+29
+00:02:09,040 --> 00:02:09,880
+you follow me
+
+30
+00:02:09,880 --> 00:02:12,820
+so that's what moves the market
+
+31
+00:02:12,820 --> 00:02:14,220
+market orders essentially
+
+32
+00:02:14,220 --> 00:02:15,100
+from that we can
+
+33
+00:02:15,100 --> 00:02:17,040
+you know from that we can
+
+34
+00:02:17,040 --> 00:02:19,410
+get from that
+
+35
+00:02:19,410 --> 00:02:20,650
+what I just explained to you
+
+36
+00:02:20,650 --> 00:02:23,290
+that it's only market orders that move the market
+
+37
+00:02:23,290 --> 00:02:27,060
+it's impossible for a limit order to move the market
+
+38
+00:02:27,060 --> 00:02:28,400
+can you think of one reason why
+
+39
+00:02:28,400 --> 00:02:34,100
+did you say it's because they only get filled out
+
+40
+00:02:34,100 --> 00:02:34,840
+the certain price
+
+41
+00:02:34,840 --> 00:02:35,940
+and they don't get slipped or anything?
+
+42
+00:02:37,120 --> 00:02:37,940
+Yeah, it's impossible
+
+43
+00:02:37,940 --> 00:02:40,980
+to have a limit order
+
+44
+00:02:40,980 --> 00:02:42,760
+filled out a worse price than it's setter.
+
+45
+00:02:44,950 --> 00:02:45,310
+Yeah?
+
+46
+00:02:45,570 --> 00:02:45,830
+Yeah.
+
+47
+00:02:46,640 --> 00:02:48,720
+So if I have a limit at price 10,
+
+48
+00:02:48,920 --> 00:02:50,460
+that means I want to sell at price 10.
+
+49
+00:02:50,880 --> 00:02:52,220
+I want to sell as high as possible.
+
+50
+00:02:52,600 --> 00:02:55,100
+It's impossible for me to get filled at price 9,
+
+51
+00:02:56,010 --> 00:02:57,770
+which is lower than my set price.
+
+52
+00:03:00,720 --> 00:03:02,080
+Limit orders of friction,
+
+53
+00:03:02,520 --> 00:03:03,540
+limit orders of liquidity.
+
+54
+00:03:04,680 --> 00:03:06,500
+If I place a limit order at price 10,
+
+55
+00:03:06,500 --> 00:03:08,880
+that means if and when price gets to price 10,
+
+56
+00:03:08,900 --> 00:03:12,370
+that order is available for a buyer
+
+57
+00:03:12,370 --> 00:03:14,670
+to come and take and match with
+
+58
+00:03:14,670 --> 00:03:19,100
+and providing that predictable immediacy
+
+59
+00:03:19,100 --> 00:03:22,100
+at price 10 for someone to come and take that order
+
+60
+00:03:22,100 --> 00:03:24,220
+and match volume with
+
+61
+00:03:24,220 --> 00:03:26,210
+my order becomes liquidity
+
+62
+00:03:26,210 --> 00:03:27,590
+is a price making order
+
+63
+00:03:27,590 --> 00:03:30,170
+as we discussed market orders drive
+
+64
+00:03:30,170 --> 00:03:32,630
+price okay so that's not all we discussed
+
+65
+00:03:32,630 --> 00:03:35,410
+I think that was relatively a small topic of last session
+
+66
+00:03:35,410 --> 00:03:43,070
+do you remember where else
+
+67
+00:03:43,070 --> 00:03:45,620
+there was
+
+68
+00:03:45,620 --> 00:03:47,720
+there was quite a few examples of it
+
+69
+00:03:47,720 --> 00:03:54,090
+no
+
+70
+00:03:54,090 --> 00:03:56,790
+so I was discussing
+
+71
+00:03:56,790 --> 00:04:00,210
+price going to the less liquid side
+
+72
+00:04:00,210 --> 00:04:02,510
+was definitely a big discussion
+
+73
+00:04:02,510 --> 00:04:04,190
+or part of the discussion last week
+
+74
+00:04:04,190 --> 00:04:05,250
+last session
+
+75
+00:04:05,250 --> 00:04:08,070
+what I was discussing is how
+
+76
+00:04:08,070 --> 00:04:09,190
+dealer behaviour
+
+77
+00:04:09,190 --> 00:04:12,360
+oh yeah yeah yeah I remember now
+
+78
+00:04:12,360 --> 00:04:15,090
+how dealer behaviour can cause
+
+79
+00:04:15,090 --> 00:04:16,730
+can cause sorry
+
+80
+00:04:16,730 --> 00:04:17,830
+a skewed book.
+
+81
+00:04:18,390 --> 00:04:18,790
+So with the
+
+82
+00:04:18,790 --> 00:04:20,170
+liquidity,
+
+83
+00:04:20,930 --> 00:04:22,470
+the sell liquidity and buy liquidity
+
+84
+00:04:22,470 --> 00:04:23,330
+is not balanced.
+
+85
+00:04:23,490 --> 00:04:24,710
+One side is weaker than the other.
+
+86
+00:04:25,910 --> 00:04:27,730
+So when more market orders
+
+87
+00:04:27,730 --> 00:04:28,190
+come in,
+
+88
+00:04:28,820 --> 00:04:30,800
+there's less friction on one side than the other
+
+89
+00:04:30,800 --> 00:04:32,180
+and price goes to that less
+
+90
+00:04:32,180 --> 00:04:33,460
+friction side.
+
+91
+00:04:33,920 --> 00:04:34,400
+Yeah, yeah, yeah.
+
+92
+00:04:34,400 --> 00:04:35,620
+Yeah, I remember now.
+
+93
+00:04:36,580 --> 00:04:38,400
+So just to validate or like
+
+94
+00:04:38,400 --> 00:04:41,120
+make sure you're using the term correctly,
+
+95
+00:04:41,240 --> 00:04:43,060
+when you say skewed liquidity
+
+96
+00:04:43,060 --> 00:04:44,020
+or when you say,
+
+97
+00:04:44,120 --> 00:04:45,200
+when you use the word skewed,
+
+98
+00:04:45,540 --> 00:04:47,630
+we're not referring to market orders, you know?
+
+99
+00:04:47,690 --> 00:04:49,570
+We're referring to where the orders are sitting.
+
+100
+00:04:49,690 --> 00:04:51,030
+The limit orders are sitting in the book.
+
+101
+00:04:53,400 --> 00:04:55,620
+If there's one side, the by side,
+
+102
+00:04:56,450 --> 00:04:59,470
+that's much, much, much thicker than the opposite side,
+
+103
+00:04:59,630 --> 00:05:02,110
+the cell side, which side is skewed?
+
+104
+00:05:02,510 --> 00:05:04,490
+Or, you know, which side is skewed in favour of?
+
+105
+00:05:04,550 --> 00:05:05,290
+Which side is thicker?
+
+106
+00:05:06,090 --> 00:05:06,690
+I just said it.
+
+107
+00:05:08,000 --> 00:05:10,180
+You said the buy side was more thicker, wasn't it?
+
+108
+00:05:10,820 --> 00:05:11,060
+Yeah.
+
+109
+00:05:11,520 --> 00:05:17,060
+So in which direction would I require more market orders to push price in?
+
+110
+00:05:21,720 --> 00:05:22,740
+More market orders?
+
+111
+00:05:22,740 --> 00:05:28,540
+so I'll visualize it for you
+
+112
+00:05:28,540 --> 00:05:32,330
+the buyers are only ever going to be beneath price
+
+113
+00:05:32,330 --> 00:05:32,890
+yeah yeah
+
+114
+00:05:32,890 --> 00:05:36,100
+so here's buy liquidity
+
+115
+00:05:36,100 --> 00:05:40,710
+and here's sell liquidity
+
+116
+00:05:40,710 --> 00:05:44,720
+in order to push price
+
+117
+00:05:44,720 --> 00:05:48,790
+okay so which direction requires
+
+118
+00:05:48,790 --> 00:05:50,050
+more market orders
+
+119
+00:05:50,050 --> 00:05:51,690
+than the other side
+
+120
+00:05:51,690 --> 00:05:52,790
+to push it that way
+
+121
+00:05:52,790 --> 00:05:54,490
+you sell side
+
+122
+00:05:54,490 --> 00:05:55,920
+the sell side
+
+123
+00:05:55,920 --> 00:05:59,110
+so more market sales have to come in
+
+124
+00:05:59,110 --> 00:06:02,660
+compared to the necessary market buys
+
+125
+00:06:02,660 --> 00:06:05,270
+to push price down
+
+126
+00:06:05,270 --> 00:06:07,340
+probabilistically
+
+127
+00:06:07,340 --> 00:06:08,260
+it's much more likely
+
+128
+00:06:08,260 --> 00:06:09,060
+price will go up
+
+129
+00:06:09,060 --> 00:06:15,090
+now imagine
+
+130
+00:06:15,090 --> 00:06:16,790
+you had this information available
+
+131
+00:06:16,790 --> 00:06:17,990
+so you could see that the
+
+132
+00:06:17,990 --> 00:06:19,590
+market is this way
+
+133
+00:06:19,590 --> 00:06:21,350
+the book is skewed this way
+
+134
+00:06:21,350 --> 00:06:23,720
+and I offered to you
+
+135
+00:06:23,720 --> 00:06:25,960
+I came to you to Zain and said
+
+136
+00:06:25,960 --> 00:06:27,380
+yo I want to sell you this asset
+
+137
+00:06:27,380 --> 00:06:28,860
+would you buy it or not
+
+138
+00:06:28,860 --> 00:06:30,840
+yeah I'd buy it
+
+139
+00:06:30,840 --> 00:06:32,130
+yeah
+
+140
+00:06:32,130 --> 00:06:35,000
+now
+
+141
+00:06:35,000 --> 00:06:36,700
+all right
+
+142
+00:06:36,700 --> 00:06:37,720
+good choice
+
+143
+00:06:37,720 --> 00:06:46,340
+that information provided by the liquidity book or the available liquidity
+
+144
+00:06:46,340 --> 00:06:53,380
+who has informational advantage over the rest of the market
+
+145
+00:06:53,380 --> 00:06:57,740
+who has that advantage arising from not only the order coming in
+
+146
+00:06:57,740 --> 00:07:02,080
+but also they have a better view of the available liquidity in the market as well
+
+147
+00:07:02,080 --> 00:07:08,650
+you said it was the companies wasn't it nope what company
+
+148
+00:07:08,650 --> 00:07:17,040
+oh I'm going off the last um last lessons stuff
+
+149
+00:07:17,540 --> 00:07:18,990
+It was a less lesson, yeah?
+
+150
+00:07:20,000 --> 00:07:21,080
+What do you mean by a company?
+
+151
+00:07:23,710 --> 00:07:28,160
+You said the people who have the information.
+
+152
+00:07:29,450 --> 00:07:30,470
+Who? Yeah, I'm asking you who.
+
+153
+00:07:30,770 --> 00:07:33,890
+Which type of participant has that information?
+
+154
+00:07:38,100 --> 00:07:40,220
+Is it a random trader saying at a home looking at the charts?
+
+155
+00:07:40,380 --> 00:07:40,620
+No.
+
+156
+00:07:41,240 --> 00:07:43,420
+It's a big participant, like a bank.
+
+157
+00:07:44,630 --> 00:07:45,870
+What is the bank doing?
+
+158
+00:07:46,590 --> 00:07:48,710
+They could be doing the same thing I'm doing.
+
+159
+00:07:48,710 --> 00:07:52,700
+A bank, theoretically, could be trying to buy the pound
+
+160
+00:07:52,700 --> 00:07:54,260
+because they're trying to make 10 pips.
+
+161
+00:07:54,420 --> 00:07:55,840
+with a one pipstop plus.
+
+162
+00:07:56,020 --> 00:07:57,200
+They're getting information quicker.
+
+163
+00:07:58,700 --> 00:07:58,860
+No.
+
+164
+00:07:59,460 --> 00:08:00,120
+Yeah, yeah, yeah.
+
+165
+00:08:00,220 --> 00:08:04,890
+So you said, yeah, I asked you a question.
+
+166
+00:08:05,720 --> 00:08:08,560
+You has an informational advantage over another.
+
+167
+00:08:10,390 --> 00:08:11,570
+I said, do I have it?
+
+168
+00:08:11,610 --> 00:08:12,990
+Because I'm a retail trader set at home.
+
+169
+00:08:13,650 --> 00:08:14,210
+You said no.
+
+170
+00:08:15,150 --> 00:08:16,910
+Then you said bank.
+
+171
+00:08:17,660 --> 00:08:19,780
+But the bank can be fitting any role.
+
+172
+00:08:19,900 --> 00:08:21,900
+They could be just doing what I'm doing.
+
+173
+00:08:22,200 --> 00:08:23,260
+If they're doing what I'm doing,
+
+174
+00:08:23,400 --> 00:08:24,860
+they haven't got the same information.
+
+175
+00:08:25,600 --> 00:08:26,220
+They haven't got, sorry,
+
+176
+00:08:26,220 --> 00:08:28,240
+they haven't got an informational advantage.
+
+177
+00:08:28,960 --> 00:08:30,140
+But there's a certain thing
+
+178
+00:08:30,140 --> 00:08:31,380
+that banks do in markets
+
+179
+00:08:31,380 --> 00:08:33,340
+which gives them that edge
+
+180
+00:08:33,340 --> 00:08:34,500
+and that informational advantage.
+
+181
+00:08:34,620 --> 00:08:35,040
+What is it?
+
+182
+00:08:38,310 --> 00:08:38,990
+They make them.
+
+183
+00:08:40,760 --> 00:08:41,500
+They're market makers.
+
+184
+00:08:44,410 --> 00:08:45,830
+Oh, the answer's market makers.
+
+185
+00:08:46,610 --> 00:08:46,850
+Yeah.
+
+186
+00:08:48,060 --> 00:08:50,360
+Because here's
+
+187
+00:08:50,360 --> 00:08:52,840
+me at home.
+
+188
+00:08:54,200 --> 00:08:55,900
+All I see is a bid and ask
+
+189
+00:08:55,900 --> 00:08:58,770
+and all I see is price chart.
+
+190
+00:09:03,060 --> 00:09:04,940
+Let's take a tier one institution,
+
+191
+00:09:05,240 --> 00:09:06,280
+a tier one bank,
+
+192
+00:09:06,280 --> 00:09:07,760
+the largest institutions in the world.
+
+193
+00:09:08,100 --> 00:09:12,820
+or arguably the largest, not institutions were the largest banks in the world,
+
+194
+00:09:13,280 --> 00:09:20,620
+they receive one million trades a day from different clients.
+
+195
+00:09:20,900 --> 00:09:23,980
+So one, two, three, four, five millions of times a day.
+
+196
+00:09:26,580 --> 00:09:35,210
+Who has more information about the market's direction, view, sentiment towards the market,
+
+197
+00:09:36,520 --> 00:09:38,160
+Tier 1 Bank or me at home?
+
+198
+00:09:38,660 --> 00:09:39,440
+Tier 1 Bank.
+
+199
+00:09:40,040 --> 00:09:40,320
+Why?
+
+200
+00:09:41,990 --> 00:09:46,070
+Because they have more links.
+
+201
+00:09:46,190 --> 00:09:46,690
+to say?
+
+202
+00:09:47,640 --> 00:09:48,480
+Not links necessarily.
+
+203
+00:09:48,640 --> 00:09:51,650
+Basically, this bank
+
+204
+00:09:51,650 --> 00:09:54,220
+can say, out of this one million
+
+205
+00:09:54,220 --> 00:09:55,240
+individual trades,
+
+206
+00:09:55,820 --> 00:09:57,820
+400 billion was brought
+
+207
+00:09:57,820 --> 00:09:58,800
+of pound this day.
+
+208
+00:10:01,580 --> 00:10:03,840
+For example, they could
+
+209
+00:10:03,840 --> 00:10:06,840
+say, across all
+
+210
+00:10:06,840 --> 00:10:09,200
+currency pairs, 3 trillion
+
+211
+00:10:09,200 --> 00:10:11,160
+of dollars was sold that day.
+
+212
+00:10:14,240 --> 00:10:15,100
+This hedge fund,
+
+213
+00:10:15,420 --> 00:10:17,420
+that hedge fund, this large,
+
+214
+00:10:17,420 --> 00:10:19,160
+large trader, all went short
+
+215
+00:10:19,160 --> 00:10:20,200
+the US dollar that day.
+
+216
+00:10:22,770 --> 00:10:24,490
+They could say that this guy
+
+217
+00:10:24,490 --> 00:10:29,220
+who's a mullah at your local
+
+218
+00:10:29,220 --> 00:10:30,380
+mosque who beats children up
+
+219
+00:10:30,380 --> 00:10:32,420
+decided to buy the US dollar that day
+
+220
+00:10:32,420 --> 00:10:36,840
+what do you think
+
+221
+00:10:36,840 --> 00:10:39,140
+the bank will think of this mullah
+
+222
+00:10:39,140 --> 00:10:40,360
+who beats children up
+
+223
+00:10:40,360 --> 00:10:43,160
+he's buying the US dollar when all the global
+
+224
+00:10:43,160 --> 00:10:44,880
+corporations are
+
+225
+00:10:44,880 --> 00:10:47,340
+or sorry all the large institutions are selling
+
+226
+00:10:47,340 --> 00:10:48,020
+the US dollar
+
+227
+00:10:48,020 --> 00:10:50,600
+no the person is going to lose
+
+228
+00:10:50,600 --> 00:10:53,100
+almost 100%.
+
+229
+00:10:53,100 --> 00:10:54,460
+Yeah?
+
+230
+00:10:55,460 --> 00:10:58,560
+So imagine the bank already has this information
+
+231
+00:10:58,560 --> 00:11:00,160
+then the mullah places that short trade
+
+232
+00:11:00,220 --> 00:11:03,580
+who has an informational advantage
+
+233
+00:11:03,580 --> 00:11:04,740
+the mullah or the bank
+
+234
+00:11:04,740 --> 00:11:07,580
+arising from
+
+235
+00:11:07,580 --> 00:11:11,690
+the information that
+
+236
+00:11:11,690 --> 00:11:13,390
+it knows how many
+
+237
+00:11:13,390 --> 00:11:15,510
+who's buying who's selling
+
+238
+00:11:15,510 --> 00:11:15,990
+so
+
+239
+00:11:15,990 --> 00:11:18,450
+okay so the order flow
+
+240
+00:11:18,450 --> 00:11:22,030
+the order flow is giving them information
+
+241
+00:11:22,030 --> 00:11:24,250
+now if they only received
+
+242
+00:11:24,250 --> 00:11:25,790
+one order a day
+
+243
+00:11:25,790 --> 00:11:27,810
+do you think they have that much of an edge
+
+244
+00:11:27,810 --> 00:11:28,470
+no
+
+245
+00:11:28,470 --> 00:11:32,320
+but if they receive millions and millions of orders in a day
+
+246
+00:11:32,320 --> 00:11:34,100
+now suddenly they
+
+247
+00:11:34,120 --> 00:11:35,540
+much more well equipped
+
+248
+00:11:35,540 --> 00:11:38,320
+and have a much better understanding
+
+249
+00:11:38,320 --> 00:11:41,520
+of where the market is likely to go
+
+250
+00:11:41,520 --> 00:11:43,860
+simply from the information arising
+
+251
+00:11:43,860 --> 00:11:44,480
+for Mordaflow.
+
+252
+00:11:47,030 --> 00:11:48,910
+Much, much more than me sitting at home.
+
+253
+00:11:51,400 --> 00:11:55,860
+Now, also, what's the tier one bank doing
+
+254
+00:11:55,860 --> 00:11:58,880
+when a million people are trying to trade off their prices?
+
+255
+00:11:59,000 --> 00:11:59,780
+How are they making money?
+
+256
+00:12:00,600 --> 00:12:01,400
+The good is spread.
+
+257
+00:12:02,940 --> 00:12:05,380
+Yeah? So here's a bid and here's a ask.
+
+258
+00:12:05,720 --> 00:12:07,780
+Now, let's go back to this original equation.
+
+259
+00:12:07,780 --> 00:12:12,020
+they know that 400 billion pounds worth of being brought
+
+260
+00:12:12,020 --> 00:12:14,620
+three trillion dollars have been sold
+
+261
+00:12:14,620 --> 00:12:22,580
+we're looking at gbp ust which side is likely to have a heavier liquidity
+
+262
+00:12:22,580 --> 00:12:26,520
+which side do they are they willing to provide a lot of liquidity on
+
+263
+00:12:26,520 --> 00:12:33,640
+sell side so you might have 40 million on offer there
+
+264
+00:12:33,640 --> 00:12:37,900
+and they're willing to so shit what am i talking about
+
+265
+00:12:37,900 --> 00:12:46,300
+sell side of pound so if pound's going down no i said
+
+266
+00:12:46,360 --> 00:12:49,620
+400 billion pounds have been brought that day
+
+267
+00:12:49,620 --> 00:12:53,210
+3 trillion dollars have been sold
+
+268
+00:12:53,210 --> 00:12:54,270
+Oh okay
+
+269
+00:12:54,270 --> 00:12:55,670
+Yeah then they're gonna want to buy it
+
+270
+00:12:55,670 --> 00:12:58,180
+The bid side yeah so the more likely gonna have
+
+271
+00:12:58,180 --> 00:12:59,980
+liquidity behind the bid
+
+272
+00:12:59,980 --> 00:13:01,680
+And less liquidity behind the offer
+
+273
+00:13:01,680 --> 00:13:02,120
+Yeah
+
+274
+00:13:02,120 --> 00:13:06,040
+Now I'm giving you a very generic kind of
+
+275
+00:13:06,040 --> 00:13:09,010
+Example here because in reality
+
+276
+00:13:09,010 --> 00:13:11,330
+It's not that one-sided
+
+277
+00:13:11,330 --> 00:13:13,230
+You have volume coming on on both sides
+
+278
+00:13:13,230 --> 00:13:15,010
+In a second it can change
+
+279
+00:13:15,010 --> 00:13:17,510
+Many many many times in a single day
+
+280
+00:13:17,570 --> 00:13:20,670
+the order flow at least intraday changes.
+
+281
+00:13:21,110 --> 00:13:22,870
+So you had bidding, bidding, bidding, bidding.
+
+282
+00:13:23,430 --> 00:13:29,540
+In this environment, let's just say the liquidity providers or provider or was receiving
+
+283
+00:13:29,540 --> 00:13:41,800
+40 billion bid pound and, you know, a lack of willing buying pressure for the, for the
+
+284
+00:13:41,800 --> 00:13:42,180
+USD.
+
+285
+00:13:45,790 --> 00:13:51,910
+They themselves would also adjust their bid and ask and have less liquidity on the ask price
+
+286
+00:13:51,910 --> 00:13:53,170
+and more liquidity on the bid.
+
+287
+00:13:53,170 --> 00:13:56,840
+because if someone hits their bid they buy
+
+288
+00:13:56,840 --> 00:14:00,220
+if someone lifts their ask price
+
+289
+00:14:00,220 --> 00:14:01,740
+they then sell to that someone
+
+290
+00:14:01,740 --> 00:14:04,370
+does the bank want to sell in this environment
+
+291
+00:14:04,370 --> 00:14:07,030
+when it's heavier buying on the pound
+
+292
+00:14:07,030 --> 00:14:10,380
+so their reaction to that
+
+293
+00:14:10,380 --> 00:14:12,960
+their reaction to like changing the available
+
+294
+00:14:12,960 --> 00:14:14,100
+liquidity in the ask price
+
+295
+00:14:14,100 --> 00:14:16,120
+doesn't it decrease the friction
+
+296
+00:14:16,120 --> 00:14:19,560
+present in this whole area
+
+297
+00:14:19,560 --> 00:14:25,150
+does it decrease in friction
+
+298
+00:14:25,150 --> 00:14:29,050
+yeah is there not less sell liquidity here then
+
+299
+00:14:29,090 --> 00:14:34,780
+if they if they themselves have less sell liquidity behind the offer yeah what do you think the
+
+300
+00:14:34,780 --> 00:14:40,970
+effect of that is when that buying then comes through there's less liquidity here now that buying
+
+301
+00:14:40,970 --> 00:14:50,640
+causes price to do what shift go skew in one direction no the book is already skewed so there's
+
+302
+00:14:50,640 --> 00:14:56,740
+thicker buy liquidity there's thinner sell liquidity here when buyers now come through and more
+
+303
+00:14:56,740 --> 00:15:01,500
+buy running comes through you know pop through it has to reach to find the sellers
+
+304
+00:15:01,520 --> 00:15:12,900
+exactly. So originally we had that 40 million bid, 40 billion bid. The liquidity provider
+
+305
+00:15:12,900 --> 00:15:20,560
+responds to this large volume coming in and reduces the cell liquidity, which then results in this
+
+306
+00:15:20,560 --> 00:15:27,360
+40 billion having to travel further than it really should to find cell liquidity, making this move
+
+307
+00:15:27,360 --> 00:15:35,370
+worse. So originally, big buy. Okay, price is going to go up. Liquidity provider responds to
+
+308
+00:15:35,370 --> 00:15:37,190
+a big buy and reduces sell
+
+309
+00:15:37,190 --> 00:15:39,820
+liquidity, reducing the friction
+
+310
+00:15:39,820 --> 00:15:42,380
+in the way. Price goes up even
+
+311
+00:15:42,380 --> 00:15:43,900
+more because of the behavior of the dealer.
+
+312
+00:15:45,850 --> 00:15:47,680
+Oh, okay. You follow
+
+313
+00:15:47,680 --> 00:15:50,980
+me. Yeah. So that's
+
+314
+00:15:50,980 --> 00:15:52,380
+an effect of our information
+
+315
+00:15:52,380 --> 00:15:54,940
+from arising from customer order flow can affect
+
+316
+00:15:54,940 --> 00:15:57,160
+the market in a specific way.
+
+317
+00:15:58,160 --> 00:15:59,140
+So yeah, we discussed
+
+318
+00:15:59,140 --> 00:16:01,790
+that last session. So
+
+319
+00:16:01,790 --> 00:16:04,230
+all I'd ask you is, last
+
+320
+00:16:04,230 --> 00:16:06,110
+session we would have discussed this, I would have made
+
+321
+00:16:06,110 --> 00:16:07,430
+this point, basically.
+
+322
+00:16:08,160 --> 00:16:09,940
+If it didn't make sense, if it does
+
+323
+00:16:09,940 --> 00:16:11,860
+If I talk about something, it doesn't make sense.
+
+324
+00:16:11,960 --> 00:16:13,060
+You don't understand what I'm talking about.
+
+325
+00:16:13,160 --> 00:16:14,320
+I ask, tell me.
+
+326
+00:16:16,180 --> 00:16:19,420
+And I'll try to restructure it a different way to make you understand.
+
+327
+00:16:20,280 --> 00:16:20,740
+Do you get it?
+
+328
+00:16:21,820 --> 00:16:27,360
+I'm giving you insight into how the dealer behavior here made this price move run further than it should.
+
+329
+00:16:27,660 --> 00:16:29,520
+And there's a certain effect of that.
+
+330
+00:16:29,520 --> 00:16:33,780
+So the result of that behavior makes price stretch further.
+
+331
+00:16:34,880 --> 00:16:38,140
+With price stretching further, something happens inside of this,
+
+332
+00:16:39,380 --> 00:16:41,360
+which is, you know, it basically,
+
+333
+00:16:41,380 --> 00:16:44,670
+results in a skewed book
+
+334
+00:16:44,670 --> 00:16:45,670
+basically at the end of it
+
+335
+00:16:45,670 --> 00:16:47,410
+and the effect of that skewed book is
+
+336
+00:16:47,410 --> 00:16:51,830
+thin by liquidity
+
+337
+00:16:51,830 --> 00:16:55,230
+much thicker
+
+338
+00:16:55,230 --> 00:16:57,590
+than liquidity at this very specific
+
+339
+00:16:57,590 --> 00:16:59,350
+point imagine like a snapshot
+
+340
+00:16:59,350 --> 00:17:00,070
+take a picture
+
+341
+00:17:00,070 --> 00:17:04,880
+the snapshot of the liquidity here
+
+342
+00:17:04,880 --> 00:17:06,180
+within that particular
+
+343
+00:17:06,180 --> 00:17:08,500
+microsecond would have been like this
+
+344
+00:17:08,500 --> 00:17:13,390
+it may have even been
+
+345
+00:17:13,390 --> 00:17:15,950
+where it has so thin
+
+346
+00:17:15,950 --> 00:17:16,450
+liquidity
+
+347
+00:17:17,940 --> 00:17:20,340
+even require a strong area of sellers.
+
+348
+00:17:22,360 --> 00:17:22,840
+Do you get it?
+
+349
+00:17:24,390 --> 00:17:28,090
+So take a picture of the liquidity state there.
+
+350
+00:17:29,130 --> 00:17:31,170
+You take a picture at that very precise moment,
+
+351
+00:17:31,410 --> 00:17:33,350
+the bi-liquity will be so stretched out,
+
+352
+00:17:33,750 --> 00:17:36,490
+which again will look at the infrastructure in a few moments,
+
+353
+00:17:37,350 --> 00:17:39,850
+where it doesn't even take a whole lot of sellers.
+
+354
+00:17:40,890 --> 00:17:44,670
+Actually, there doesn't even have to be a change in the available sellers.
+
+355
+00:17:46,560 --> 00:17:50,020
+Sell liquidity can remain thin at that point and still price drops.
+
+356
+00:17:51,240 --> 00:17:52,780
+Again, we'll define that in a bit.
+
+357
+00:17:52,920 --> 00:17:57,650
+So we're looking to identify these kind of skewed environments
+
+358
+00:17:57,650 --> 00:18:00,030
+because if I said to you, this is the book,
+
+359
+00:18:00,310 --> 00:18:04,470
+do you want to buy this asset when the book looks like this?
+
+360
+00:18:04,610 --> 00:18:05,130
+What do you say?
+
+361
+00:18:06,160 --> 00:18:06,500
+No.
+
+362
+00:18:07,440 --> 00:18:10,640
+If you want to sell the asset, you probably should sell it, right?
+
+363
+00:18:11,240 --> 00:18:15,010
+There's edge in trading under a condition like that.
+
+364
+00:18:16,420 --> 00:18:19,480
+Now, obviously, no way gives two folks about a four-pip move.
+
+365
+00:18:21,720 --> 00:18:21,900
+Okay.
+
+366
+00:18:21,900 --> 00:18:28,550
+but we'll be looking to like take advantage of this effect in the market
+
+367
+00:18:28,550 --> 00:18:35,280
+there's one option in how you can trade another option is when the imbalance is
+
+368
+00:18:35,280 --> 00:18:40,260
+present try to trade with it so when you know there's a large bid here or large buyers
+
+369
+00:18:40,260 --> 00:18:47,200
+here and thin liquidity here why is they thin liquidity there how can you see this
+
+370
+00:18:47,200 --> 00:18:55,850
+thin liquidity there we're reading it through price action I but
+
+371
+00:18:55,850 --> 00:19:00,480
+Oh, you'll see that with the price action bit.
+
+372
+00:19:01,300 --> 00:19:08,800
+Basically, there's a principle, another principle, that price reflects state of liquidity.
+
+373
+00:19:09,650 --> 00:19:14,770
+So when there is an imbalance, there's a certain visual structure that's present that shows us imbalance.
+
+374
+00:19:15,370 --> 00:19:15,390
+Okay.
+
+375
+00:19:15,390 --> 00:19:26,720
+When there's exhaustion, there's a certain specific type of pricing, ticking, so how much price moves, the rate of ticking, which can help.
+
+376
+00:19:26,740 --> 00:19:30,960
+is infer or interpret, that is exhaustion.
+
+377
+00:19:33,090 --> 00:19:35,910
+So, yeah, that question is a valid question.
+
+378
+00:19:36,590 --> 00:19:40,310
+We could read it on, we could read it on a order book as well.
+
+379
+00:19:41,610 --> 00:19:42,810
+It'd be present on an order book.
+
+380
+00:19:43,550 --> 00:19:47,650
+I don't know if you know what a thingy, what's this chart called, man?
+
+381
+00:19:47,950 --> 00:19:48,650
+A heat map.
+
+382
+00:19:49,390 --> 00:19:55,490
+There's something called heat map, where it shows you the liquidity in lines like I draw them.
+
+383
+00:19:55,490 --> 00:19:56,450
+Is that called book map?
+
+384
+00:19:56,450 --> 00:19:58,970
+book map is dots
+
+385
+00:19:58,970 --> 00:20:00,940
+it's very similar
+
+386
+00:20:00,940 --> 00:20:03,620
+heat map and book map
+
+387
+00:20:03,620 --> 00:20:05,040
+book map's just an extension of it
+
+388
+00:20:05,040 --> 00:20:06,940
+book map shows you where the trades were executed
+
+389
+00:20:06,940 --> 00:20:09,320
+heat map it also has a
+
+390
+00:20:09,320 --> 00:20:10,700
+heat map showing you the lines as well
+
+391
+00:20:10,700 --> 00:20:12,800
+now
+
+392
+00:20:12,800 --> 00:20:16,740
+let me pull up that fucking video
+
+393
+00:20:16,740 --> 00:20:18,240
+because it just shows you the liquidity
+
+394
+00:20:18,240 --> 00:20:19,980
+disappearing and price stretching out
+
+395
+00:20:19,980 --> 00:20:21,880
+if I can find it
+
+396
+00:20:21,880 --> 00:20:26,260
+so the point
+
+397
+00:20:26,260 --> 00:20:28,140
+I'm making here is the research
+
+398
+00:20:28,140 --> 00:20:30,260
+the necessary research about the infrastructure
+
+399
+00:20:30,260 --> 00:20:30,780
+and the trading
+
+400
+00:20:30,800 --> 00:20:33,920
+behavior and microstructure has already been done.
+
+401
+00:20:36,240 --> 00:20:39,700
+This question that you asked to be that how do I know that is an imbalance present
+
+402
+00:20:39,700 --> 00:20:42,960
+is obviously without you being able to answer that question,
+
+403
+00:20:43,060 --> 00:20:45,680
+it's almost impossible for us to take advantage of this, yeah?
+
+404
+00:20:46,720 --> 00:20:48,300
+There is a way to do it.
+
+405
+00:20:49,340 --> 00:20:53,400
+It relies on this principle that price reflects state of liquidity.
+
+406
+00:20:54,080 --> 00:20:56,000
+We're not necessarily there, yeah?
+
+407
+00:20:56,060 --> 00:20:58,480
+We're not talking about the visual structures necessarily.
+
+408
+00:20:59,040 --> 00:21:01,420
+I'm still introducing you to the dynamics behind, you know, price movement.
+
+409
+00:21:01,420 --> 00:21:08,200
+So when we get onto that, this principle and the introduction to the visual framework,
+
+410
+00:21:09,120 --> 00:21:17,880
+the different types of price action will be able to use these principles to define when there is
+
+411
+00:21:17,880 --> 00:21:24,380
+imbalance, when there's exhaustion, when there's a severe imbalance, all of these things
+
+412
+00:21:24,380 --> 00:21:25,640
+will be able to do through price.
+
+413
+00:21:27,740 --> 00:21:33,580
+Yeah, I just had to ask because obviously we're talking about it quite a bit and I'm thinking
+
+414
+00:21:33,580 --> 00:21:35,880
+How do you even know it's like that?
+
+415
+00:21:37,040 --> 00:21:37,240
+Yeah.
+
+416
+00:21:39,840 --> 00:21:40,920
+How do you know it's like that?
+
+417
+00:21:40,980 --> 00:21:43,380
+Okay, so I'll ask you a question.
+
+418
+00:21:43,780 --> 00:21:44,960
+What's going to happen in the next minute?
+
+419
+00:21:46,550 --> 00:21:47,290
+I have no clue.
+
+420
+00:21:49,000 --> 00:21:49,180
+All right?
+
+421
+00:21:49,220 --> 00:21:50,240
+What's going to happen in the next year?
+
+422
+00:21:51,160 --> 00:21:51,840
+Even more.
+
+423
+00:21:52,810 --> 00:21:53,530
+No clue, yeah?
+
+424
+00:21:53,530 --> 00:21:53,730
+Yeah.
+
+425
+00:21:54,800 --> 00:22:00,240
+So this idea of wanting to know what price is going to do is just irrelevant.
+
+426
+00:22:02,120 --> 00:22:07,300
+Oh, sorry, this idea of wanting to know the future with certainty is ridiculous, right?
+
+427
+00:22:07,300 --> 00:22:10,980
+it's inappropriate for something as random and complex
+
+428
+00:22:10,980 --> 00:22:14,780
+as at least what price is going to do next
+
+429
+00:22:14,780 --> 00:22:21,260
+so there's typically a tone that that traders that traders have
+
+430
+00:22:21,260 --> 00:22:24,360
+when they want to know the future and just because they don't
+
+431
+00:22:24,360 --> 00:22:29,420
+it's as if we're not able to trade it's it's not true that's not true
+
+432
+00:22:29,420 --> 00:22:34,240
+because over the next minute you have 60 individual seconds
+
+433
+00:22:34,240 --> 00:22:36,880
+each of those seconds we can actually
+
+434
+00:22:36,880 --> 00:22:39,160
+observe experience
+
+435
+00:22:39,160 --> 00:22:41,160
+linearly one after another
+
+436
+00:22:41,160 --> 00:22:43,380
+spread apart
+
+437
+00:22:43,380 --> 00:22:44,480
+with the exact
+
+438
+00:22:44,480 --> 00:22:47,110
+you know the exact same time
+
+439
+00:22:47,110 --> 00:22:47,810
+in between them
+
+440
+00:22:47,810 --> 00:22:49,470
+the microseconds
+
+441
+00:22:49,470 --> 00:22:51,930
+and over that time you can observe
+
+442
+00:22:51,930 --> 00:22:52,590
+changes no
+
+443
+00:22:52,590 --> 00:22:55,060
+yeah you can
+
+444
+00:22:55,060 --> 00:22:55,520
+right so
+
+445
+00:22:55,520 --> 00:22:58,460
+when this candle was forming
+
+446
+00:22:58,460 --> 00:23:01,060
+we'd observe certain changes within that candle
+
+447
+00:23:01,060 --> 00:23:03,420
+and each change provides us
+
+448
+00:23:03,420 --> 00:23:04,160
+new information
+
+449
+00:23:04,160 --> 00:23:06,140
+and if you observed
+
+450
+00:23:06,140 --> 00:23:08,280
+the way this
+
+451
+00:23:08,280 --> 00:23:10,120
+very very specific
+
+452
+00:23:10,120 --> 00:23:11,460
+thin move happens
+
+453
+00:23:11,460 --> 00:23:14,090
+the changes that occur
+
+454
+00:23:14,090 --> 00:23:16,570
+the sequence of events that happen
+
+455
+00:23:16,570 --> 00:23:18,390
+over this 60 second period
+
+456
+00:23:18,390 --> 00:23:20,390
+if you observed all of that
+
+457
+00:23:20,390 --> 00:23:22,550
+10,000 times
+
+458
+00:23:22,550 --> 00:23:24,630
+I'm telling you very
+
+459
+00:23:24,630 --> 00:23:26,470
+very early on you'll be able to at least
+
+460
+00:23:26,470 --> 00:23:27,770
+recognize what is to it
+
+461
+00:23:27,770 --> 00:23:30,360
+okay so
+
+462
+00:23:30,360 --> 00:23:32,880
+experiencing price and tracking it very closely
+
+463
+00:23:32,880 --> 00:23:34,960
+is one of the necessary things we have to do
+
+464
+00:23:34,960 --> 00:23:36,280
+to be update
+
+465
+00:23:36,280 --> 00:23:38,180
+sorry to be up to date
+
+466
+00:23:38,180 --> 00:23:40,500
+of all the incoming information
+
+467
+00:23:40,500 --> 00:23:42,260
+or the new things that are happening in the market
+
+468
+00:23:42,260 --> 00:23:43,960
+you simply have to be there to observe it
+
+469
+00:23:43,960 --> 00:23:48,560
+but anyway, that answers
+
+470
+00:23:48,560 --> 00:23:50,560
+one part of your question. The other part of your question
+
+471
+00:23:50,560 --> 00:23:52,640
+would be how do you know that there's an imbalance
+
+472
+00:23:52,640 --> 00:23:55,080
+there? Well, the market to limit order ratio
+
+473
+00:23:55,080 --> 00:23:56,960
+the definition of it
+
+474
+00:23:56,960 --> 00:23:58,520
+proves that there's an imbalance
+
+475
+00:23:58,520 --> 00:24:00,340
+after the fact we can observe them.
+
+476
+00:24:01,440 --> 00:24:02,880
+We're not necessarily there yet
+
+477
+00:24:02,880 --> 00:24:05,140
+trying to predict what's going to happen next, we're not doing that yet.
+
+478
+00:24:05,740 --> 00:24:07,020
+I'm just trying to explain to you
+
+479
+00:24:07,020 --> 00:24:08,660
+why price did that.
+
+480
+00:24:09,560 --> 00:24:10,100
+You follow it?
+
+481
+00:24:10,100 --> 00:24:15,250
+And the effect of why Price did that is one where you have a skewed book,
+
+482
+00:24:15,310 --> 00:24:17,230
+a snapshot picture there is like that.
+
+483
+00:24:19,100 --> 00:24:20,920
+So the market to limit order ratio,
+
+484
+00:24:21,320 --> 00:24:23,440
+if there's two ways that it mean you can transact,
+
+485
+00:24:23,600 --> 00:24:24,300
+a market order,
+
+486
+00:24:24,600 --> 00:24:25,400
+we can take liquidity,
+
+487
+00:24:25,900 --> 00:24:26,320
+limit order,
+
+488
+00:24:26,400 --> 00:24:27,120
+we can place liquidity.
+
+489
+00:24:28,020 --> 00:24:31,980
+There had to be by definition of a transaction,
+
+490
+00:24:31,980 --> 00:24:36,160
+which is going to be in the most basic books of market structure
+
+491
+00:24:36,160 --> 00:24:37,660
+that were first created,
+
+492
+00:24:37,920 --> 00:24:40,360
+when the first idea of markets came around,
+
+493
+00:24:40,360 --> 00:24:42,280
+I don't know how far back
+
+494
+00:24:42,280 --> 00:24:46,300
+the rules for these market and limit orders were created
+
+495
+00:24:46,300 --> 00:24:49,720
+so for price to have gone up here
+
+496
+00:24:49,720 --> 00:24:52,440
+there had to be a market order
+
+497
+00:24:52,440 --> 00:24:54,580
+that was greater than the available
+
+498
+00:24:54,580 --> 00:24:55,900
+sell limit orders here
+
+499
+00:24:55,900 --> 00:24:58,320
+if that wasn't the case
+
+500
+00:24:58,320 --> 00:25:00,420
+it's literally impossible price went up
+
+501
+00:25:00,420 --> 00:25:02,960
+you get it
+
+502
+00:25:02,960 --> 00:25:06,420
+so that explained you the part of your question
+
+503
+00:25:06,420 --> 00:25:08,420
+I don't know exactly what your question
+
+504
+00:25:08,420 --> 00:25:09,940
+was for to be honest
+
+505
+00:25:09,940 --> 00:25:12,890
+but how do I know this is it
+
+506
+00:25:12,890 --> 00:25:18,150
+imbalance because the rules of trading define, you know, the definitions of the rules and the
+
+507
+00:25:18,150 --> 00:25:27,660
+protocols behind the transactional rules for trading, you know, are the only reasons why price
+
+508
+00:25:27,660 --> 00:25:34,330
+would have shot up like this. There's no other definition. You can, you know, so we can look at
+
+509
+00:25:34,330 --> 00:25:43,610
+the structures and the rules behind why price went up, or we can sit here and say that market
+
+510
+00:25:43,610 --> 00:25:54,010
+maker number one, his dad has cancer, so he decided to raid ICT stop because he is evil
+
+511
+00:25:54,010 --> 00:26:01,160
+and because the sun rises in the west and because this happens and because that happens
+
+512
+00:26:01,160 --> 00:26:05,780
+and because the world is sad, you know, we can sit here and rationalize shit like this
+
+513
+00:26:05,780 --> 00:26:11,660
+or we can look at the specific rules under which transactions are formed and the effects
+
+514
+00:26:11,660 --> 00:26:14,640
+of those rules, the organizational framework, which
+
+515
+00:26:14,640 --> 00:26:19,080
+has to be met for price to rise
+
+516
+00:26:19,080 --> 00:26:20,080
+the same way
+
+517
+00:26:20,080 --> 00:26:24,090
+for you to be alive right now
+
+518
+00:26:24,090 --> 00:26:26,150
+your heart has to be beating
+
+519
+00:26:26,150 --> 00:26:27,950
+for your heart to be beaten
+
+520
+00:26:27,950 --> 00:26:29,190
+there has to be blood
+
+521
+00:26:29,190 --> 00:26:30,930
+you get what I mean
+
+522
+00:26:30,930 --> 00:26:34,070
+we're looking at the actual reasons
+
+523
+00:26:34,070 --> 00:26:36,230
+for why price goes up or down
+
+524
+00:26:36,230 --> 00:26:38,200
+and then of course
+
+525
+00:26:38,200 --> 00:26:39,520
+we're going to go into the branch of
+
+526
+00:26:39,520 --> 00:26:42,010
+exploring the effects
+
+527
+00:26:42,010 --> 00:26:46,910
+of price going up in such a way
+
+528
+00:26:46,910 --> 00:26:50,140
+I'm also discussing with you
+
+529
+00:26:50,140 --> 00:26:52,860
+why there was weak sell liquidity here
+
+530
+00:26:52,860 --> 00:26:54,730
+well
+
+531
+00:26:54,730 --> 00:26:57,760
+it's not like everybody's liquid
+
+532
+00:26:57,760 --> 00:27:00,900
+for me to obtain quotes
+
+533
+00:27:00,900 --> 00:27:02,940
+as a large institution basically
+
+534
+00:27:02,940 --> 00:27:04,920
+you don't go to your next door neighbor
+
+535
+00:27:04,920 --> 00:27:05,940
+and obtain quotes from them
+
+536
+00:27:05,940 --> 00:27:06,960
+you go to a market maker
+
+537
+00:27:06,960 --> 00:27:08,700
+whose job it is to give you quotes
+
+538
+00:27:08,700 --> 00:27:10,380
+they make the market for you
+
+539
+00:27:10,380 --> 00:27:12,260
+that market maker
+
+540
+00:27:12,260 --> 00:27:13,700
+sets quotes
+
+541
+00:27:13,700 --> 00:27:17,980
+and they also set the amount of liquidity
+
+542
+00:27:17,980 --> 00:27:19,120
+behind the bid and ask
+
+543
+00:27:19,120 --> 00:27:21,430
+and you follow me
+
+544
+00:27:21,450 --> 00:27:32,980
+So when the market maker responds adversely to certain risk, though they see a big, big, big bidder, $40 billion, for example, the market maker is not willing to go short.
+
+545
+00:27:33,400 --> 00:27:36,800
+They respond to that by adjusting the liquidity behind the ask price.
+
+546
+00:27:37,360 --> 00:27:42,140
+That then has another effect, a follow-on effect, creating less friction in the way.
+
+547
+00:27:42,140 --> 00:27:49,890
+So this original $40 billion happens to travel further or it ends up traveling further because of the behavior of the market maker.
+
+548
+00:27:49,890 --> 00:27:58,640
+The behaviour of the market maker is well, well documented in research papers that I can pass on to you.
+
+549
+00:27:59,420 --> 00:28:07,330
+Just the same way I passed on to you this, what confirmed what market to limit order ratio greater than one causes.
+
+550
+00:28:07,490 --> 00:28:08,650
+Price goes a less liquid side.
+
+551
+00:28:09,090 --> 00:28:22,620
+How there's an edge in that, how a certain Stanford educated guy researched, there's actually countless research papers out there that discuss,
+
+552
+00:28:22,900 --> 00:28:25,000
+dynamics of how market makers behave.
+
+553
+00:28:25,780 --> 00:28:26,980
+There's the head of FX.
+
+554
+00:28:27,400 --> 00:28:28,860
+His name's Raul Oman
+
+555
+00:28:28,860 --> 00:28:29,920
+in Docia Bank.
+
+556
+00:28:31,860 --> 00:28:32,680
+That's how you spell his name.
+
+557
+00:28:34,420 --> 00:28:35,500
+He in 2017,
+
+558
+00:28:35,860 --> 00:28:37,000
+2018 and
+
+559
+00:28:37,000 --> 00:28:39,120
+2019 published some very, very
+
+560
+00:28:39,120 --> 00:28:41,120
+recent papers regarding
+
+561
+00:28:41,120 --> 00:28:43,200
+how dealers, liquidity providers
+
+562
+00:28:43,200 --> 00:28:44,120
+deal with risk.
+
+563
+00:28:45,430 --> 00:28:47,250
+And in that, he even talks about
+
+564
+00:28:47,250 --> 00:28:49,030
+some of these things, about position skewing.
+
+565
+00:28:49,930 --> 00:28:51,750
+How this, basically
+
+566
+00:28:51,750 --> 00:28:52,710
+is well, well documented.
+
+567
+00:28:54,290 --> 00:28:56,440
+So, if you require,
+
+568
+00:28:56,580 --> 00:28:58,500
+obviously we can pass on the research to you.
+
+569
+00:28:59,420 --> 00:29:02,180
+But yeah, going back to what I was discussing,
+
+570
+00:29:02,940 --> 00:29:07,360
+there's a, there's a information effect arising from water flow.
+
+571
+00:29:08,240 --> 00:29:15,260
+There's a trader or market participant behavioral effect on the available liquidity.
+
+572
+00:29:15,880 --> 00:29:21,500
+We know that traders and liquidity takers need liquidity providers.
+
+573
+00:29:22,360 --> 00:29:26,600
+When the liquidity providers respond and liquidity, the friction of the way the liquidity
+
+574
+00:29:26,600 --> 00:29:30,480
+dissipates
+
+575
+00:29:30,480 --> 00:29:31,380
+it spreads out
+
+576
+00:29:31,380 --> 00:29:33,100
+the effect of the market
+
+577
+00:29:33,100 --> 00:29:34,080
+order is enhanced
+
+578
+00:29:34,080 --> 00:29:34,980
+it has to travel
+
+579
+00:29:34,980 --> 00:29:35,680
+further to find
+
+580
+00:29:35,680 --> 00:29:36,420
+counterpoys
+
+581
+00:29:36,420 --> 00:29:37,900
+right
+
+582
+00:29:37,900 --> 00:29:39,360
+and then of course
+
+583
+00:29:39,360 --> 00:29:40,040
+the effect of that
+
+584
+00:29:40,040 --> 00:29:40,740
+is what we're discussing
+
+585
+00:29:40,740 --> 00:29:41,400
+here anyway
+
+586
+00:29:41,400 --> 00:29:42,800
+so yeah
+
+587
+00:29:42,800 --> 00:29:45,660
+hopefully that
+
+588
+00:29:45,660 --> 00:29:46,280
+provides
+
+589
+00:29:46,280 --> 00:29:48,020
+somewhat of a
+
+590
+00:29:48,020 --> 00:29:49,250
+satisfactory
+
+591
+00:29:49,250 --> 00:29:50,610
+fucking answer
+
+592
+00:29:50,610 --> 00:29:51,270
+to that question
+
+593
+00:29:51,270 --> 00:29:52,430
+how do we know
+
+594
+00:29:52,430 --> 00:29:55,320
+you know
+
+595
+00:29:55,320 --> 00:29:57,720
+how do we know
+
+596
+00:29:57,720 --> 00:29:58,520
+this is an imbalance
+
+597
+00:29:58,520 --> 00:29:59,740
+well it has to be
+
+598
+00:29:59,740 --> 00:30:01,140
+there has to have been
+
+599
+00:30:01,140 --> 00:30:01,540
+more market
+
+600
+00:30:01,540 --> 00:30:06,220
+orders and limit orders and how can we recognize this for now i just hope you can just
+
+601
+00:30:06,220 --> 00:30:15,970
+bear with me um will later be defining through principles that are validatable yeah anyway
+
+602
+00:30:15,970 --> 00:30:23,410
+it is it's very important you understand at least the theory you know the reason why i'm
+
+603
+00:30:23,410 --> 00:30:30,850
+discussing again this way is critical it validates what we're doing but um if i said to you
+
+604
+00:30:30,850 --> 00:30:39,230
+there was a very, very, at this very second,
+
+605
+00:30:40,110 --> 00:30:41,850
+unrealistic amount of liquidity here,
+
+606
+00:30:42,470 --> 00:30:45,890
+there was unlimited liquidity here.
+
+607
+00:30:46,630 --> 00:30:46,790
+Yeah.
+
+608
+00:30:46,930 --> 00:30:47,930
+So there was infinite.
+
+609
+00:30:49,800 --> 00:30:51,220
+Would this price move of be impossible?
+
+610
+00:30:53,380 --> 00:30:53,640
+No.
+
+611
+00:30:54,730 --> 00:30:56,820
+Impossible, right?
+
+612
+00:30:57,940 --> 00:30:59,700
+There had to be more market orders
+
+613
+00:30:59,700 --> 00:31:01,000
+than the available sell liquidity.
+
+614
+00:31:01,380 --> 00:31:02,740
+Yeah, for it to move up, yeah.
+
+615
+00:31:03,140 --> 00:31:03,740
+For it to move up.
+
+616
+00:31:04,000 --> 00:31:05,500
+Maybe that sell liquidity disappeared.
+
+617
+00:31:05,500 --> 00:31:06,680
+Maybe there was enough,
+
+618
+00:31:06,920 --> 00:31:08,180
+maybe there was unlimited.
+
+619
+00:31:08,240 --> 00:31:09,500
+that liquidity that minute
+
+620
+00:31:09,500 --> 00:31:10,820
+or that second
+
+621
+00:31:10,820 --> 00:31:13,280
+and then suddenly pulled away
+
+622
+00:31:13,280 --> 00:31:17,450
+that second.
+
+623
+00:31:17,550 --> 00:31:18,210
+It just disappeared.
+
+624
+00:31:18,930 --> 00:31:20,170
+And then after price pushed through,
+
+625
+00:31:20,910 --> 00:31:22,450
+maybe it turned into bi-liquity either.
+
+626
+00:31:23,570 --> 00:31:25,970
+So we can have a look at stuff like that
+
+627
+00:31:25,970 --> 00:31:27,930
+and the reasons behind why that happens
+
+628
+00:31:27,930 --> 00:31:31,000
+now, basically, when you go on to it.
+
+629
+00:31:31,740 --> 00:31:33,000
+So I'm going to start discussing with you
+
+630
+00:31:33,000 --> 00:31:36,410
+the structure of FX at least.
+
+631
+00:31:37,830 --> 00:31:38,910
+So let me just pull up.
+
+632
+00:31:41,680 --> 00:31:42,440
+Which one is it?
+
+633
+00:31:48,780 --> 00:31:49,260
+All right, cool.
+
+634
+00:31:54,620 --> 00:31:55,600
+So hopefully by this point,
+
+635
+00:31:55,600 --> 00:31:58,160
+You know, the difference between a market maker, a dealer and whatnot, yeah?
+
+636
+00:31:58,320 --> 00:31:58,920
+Yeah, yeah.
+
+637
+00:31:59,660 --> 00:32:00,600
+One minute please, bro.
+
+638
+00:32:10,300 --> 00:32:12,720
+Son of a bitch, I missed the trade, bro.
+
+639
+00:32:14,790 --> 00:32:16,310
+Would you have traded it at this time, though?
+
+640
+00:32:16,370 --> 00:32:17,310
+You said you have times?
+
+641
+00:32:18,760 --> 00:32:23,740
+It depends, like, right now, so when you first were discussing with me,
+
+642
+00:32:24,660 --> 00:32:28,780
+we were discussing how the market was in like a skewed, we were discussing,
+
+643
+00:32:29,580 --> 00:32:32,380
+yeah, basically the market volume dries off, yeah?
+
+644
+00:32:32,440 --> 00:32:35,820
+There's an effect of volume drying off, and sometimes it's tradable.
+
+645
+00:32:35,840 --> 00:32:37,840
+I typically like
+
+646
+00:32:37,840 --> 00:32:39,700
+I won't necessarily be trading
+
+647
+00:32:39,700 --> 00:32:41,660
+aggressively that actual day
+
+648
+00:32:41,660 --> 00:32:42,820
+I remember where it was
+
+649
+00:32:42,820 --> 00:32:45,100
+price had sold off very aggressively that day
+
+650
+00:32:45,100 --> 00:32:46,800
+and I said to you the market
+
+651
+00:32:46,800 --> 00:32:48,480
+the volume should dry off now
+
+652
+00:32:48,480 --> 00:32:50,480
+increasing the chance of price
+
+653
+00:32:50,480 --> 00:32:51,380
+drawing back into range
+
+654
+00:32:51,380 --> 00:32:52,820
+yeah yeah I remember you saying that
+
+655
+00:32:52,820 --> 00:32:52,980
+yeah
+
+656
+00:32:52,980 --> 00:32:55,280
+what price did is taking over leg lower
+
+657
+00:32:55,280 --> 00:32:56,620
+and it drew back into range
+
+658
+00:32:56,620 --> 00:32:57,400
+for the rest of the night
+
+659
+00:32:57,400 --> 00:32:59,700
+and because I was down
+
+660
+00:32:59,700 --> 00:33:02,280
+like a two tenths of a percent that day
+
+661
+00:33:02,280 --> 00:33:04,260
+I was willing to trade at night
+
+662
+00:33:04,260 --> 00:33:06,140
+today is a bit more
+
+663
+00:33:06,160 --> 00:33:10,340
+of a different environment. It's not a heavy direction all day. Rather, it's a quite a stable
+
+664
+00:33:10,340 --> 00:33:15,640
+environment. Imagine if I said to you, there was nice sell liquidity and enough sell liquidity
+
+665
+00:33:15,640 --> 00:33:22,180
+there, there was decent buy liquidity beneath price. When the market order buyers reached
+
+666
+00:33:22,180 --> 00:33:29,410
+the sell limit orders, they were drying off. When the market order sellers reached the limit
+
+667
+00:33:29,410 --> 00:33:36,190
+buyers, the sellers were drying off. So all day, between this relatively 50-pip, 60-pip range,
+
+668
+00:33:36,190 --> 00:33:39,650
+there was relative stability in the market
+
+669
+00:33:39,650 --> 00:33:41,630
+to limit order ratios on both sides
+
+670
+00:33:41,630 --> 00:33:44,820
+there was sufficient limit orders
+
+671
+00:33:44,820 --> 00:33:48,040
+to absorb the market orders on both sides of the market
+
+672
+00:33:48,040 --> 00:33:49,280
+all day
+
+673
+00:33:49,280 --> 00:33:52,600
+within this environment you have
+
+674
+00:33:52,600 --> 00:33:54,240
+it's the best environment
+
+675
+00:33:54,240 --> 00:33:57,320
+like I said if price never changed from this
+
+676
+00:33:57,320 --> 00:33:59,880
+I'm telling you I'd be a fucking multi-billionaire
+
+677
+00:33:59,880 --> 00:34:02,760
+I'd be betting cracker's lives
+
+678
+00:34:02,760 --> 00:34:04,080
+people's mom's mortgages
+
+679
+00:34:04,080 --> 00:34:05,280
+everything
+
+680
+00:34:05,280 --> 00:34:08,310
+but everything would be better on this
+
+681
+00:34:08,310 --> 00:34:10,050
+but it's not the case
+
+682
+00:34:10,050 --> 00:34:11,730
+so yeah when
+
+683
+00:34:11,730 --> 00:34:13,830
+the market environment is like this I typically
+
+684
+00:34:13,830 --> 00:34:16,010
+I milk it if you've ever seen
+
+685
+00:34:16,010 --> 00:34:17,690
+RM post nice orders
+
+686
+00:34:17,690 --> 00:34:20,230
+and nice like consistent trades
+
+687
+00:34:20,230 --> 00:34:22,290
+time minute after minute hour after hour
+
+688
+00:34:22,290 --> 00:34:23,950
+that's a range first
+
+689
+00:34:23,950 --> 00:34:27,870
+so not even look
+
+690
+00:34:27,870 --> 00:34:29,570
+this whole move down
+
+691
+00:34:29,570 --> 00:34:33,400
+it's composed of obviously there's ranges
+
+692
+00:34:33,400 --> 00:34:35,460
+so range move
+
+693
+00:34:35,460 --> 00:34:37,530
+move for a very very short
+
+694
+00:34:37,530 --> 00:34:39,010
+period of time, start ranging again.
+
+695
+00:34:39,570 --> 00:34:41,510
+Move for a very, very short period of time,
+
+696
+00:34:41,630 --> 00:34:43,310
+start ranging again. So it's not
+
+697
+00:34:43,310 --> 00:34:44,970
+necessarily a range
+
+698
+00:34:44,970 --> 00:34:47,310
+per se. It's, you know,
+
+699
+00:34:47,470 --> 00:34:49,430
+on one scale, you could define this as
+
+700
+00:34:49,430 --> 00:34:51,390
+a range. On another scale, you could define this
+
+701
+00:34:51,390 --> 00:34:53,430
+as a bearish trend. Are you trying to show something?
+
+702
+00:34:54,660 --> 00:34:55,500
+Oh, mad.
+
+703
+00:34:56,620 --> 00:34:58,080
+Oh, I thought you was just talking and
+
+704
+00:34:58,080 --> 00:34:59,860
+just, oh, okay.
+
+705
+00:35:00,900 --> 00:35:04,140
+Yeah. So
+
+706
+00:35:04,140 --> 00:35:09,560
+the point I originally
+
+707
+00:35:09,560 --> 00:35:11,320
+said to you, imagine there was sell liquidity
+
+708
+00:35:11,320 --> 00:35:13,120
+above price, there was bi-liquity above price.
+
+709
+00:35:13,120 --> 00:35:17,560
+every time price reached down here the market order sellers couldn't be the market order
+
+710
+00:35:17,560 --> 00:35:25,150
+the market order sellers were not outnumbering the limit order buyers and when price reached
+
+711
+00:35:25,150 --> 00:35:30,710
+up there up there the market order buyers were not outnumbering the limit order sellers yeah
+
+712
+00:35:30,710 --> 00:35:36,000
+so within this 65th range there was relative stability the market orders
+
+713
+00:35:36,000 --> 00:35:43,490
+were hardly ever basically within this range there was sufficient liquidity limit orders
+
+714
+00:35:43,490 --> 00:35:46,210
+to absorb all the market orders, buying and selling.
+
+715
+00:35:46,770 --> 00:35:47,870
+You follow me.
+
+716
+00:35:49,270 --> 00:35:54,300
+So within this environment, there's very unique behaviors we see.
+
+717
+00:35:55,300 --> 00:36:00,760
+Then you said, you rightly said, RM takes advantage of ranges
+
+718
+00:36:00,760 --> 00:36:02,640
+and he trades very actively in ranges.
+
+719
+00:36:03,580 --> 00:36:08,910
+To me, simply calling it a range is a bit too like...
+
+720
+00:36:08,910 --> 00:36:09,270
+Simple.
+
+721
+00:36:10,500 --> 00:36:12,820
+Not simple, the definition of range is too tight.
+
+722
+00:36:13,300 --> 00:36:13,660
+Okay.
+
+723
+00:36:13,880 --> 00:36:14,880
+Because the point I'm making,
+
+724
+00:36:14,900 --> 00:36:16,720
+is on one hand, yeah, it's a range.
+
+725
+00:36:16,840 --> 00:36:19,300
+On the other hand, one could say it's a bearish trend.
+
+726
+00:36:20,250 --> 00:36:20,570
+Yeah?
+
+727
+00:36:21,210 --> 00:36:25,420
+What I'm looking at is the tempo, the rhythm,
+
+728
+00:36:28,620 --> 00:36:29,960
+rhythm, I think that's how you spell it,
+
+729
+00:36:30,440 --> 00:36:32,480
+the tempo and rhythm of this trend.
+
+730
+00:36:32,780 --> 00:36:34,800
+It's not smack, smack, smack, smack aggressive.
+
+731
+00:36:35,770 --> 00:36:36,530
+I can show you that.
+
+732
+00:36:36,730 --> 00:36:37,830
+I'll show you that right now.
+
+733
+00:36:38,450 --> 00:36:38,770
+There you go.
+
+734
+00:36:38,910 --> 00:36:40,510
+There's a bit of a smack there.
+
+735
+00:36:40,990 --> 00:36:42,470
+This is what you call a decent,
+
+736
+00:36:43,310 --> 00:36:44,970
+quite an aggressive sell-off.
+
+737
+00:36:45,850 --> 00:36:49,000
+And then here's what you call a more stable,
+
+738
+00:36:49,020 --> 00:36:51,670
+more stable tempo
+
+739
+00:36:51,670 --> 00:36:53,340
+you get it
+
+740
+00:36:53,340 --> 00:36:56,410
+so simply calling something
+
+741
+00:36:56,410 --> 00:36:57,770
+a trend there's a down move
+
+742
+00:36:57,770 --> 00:36:59,370
+simply calling something a range
+
+743
+00:36:59,370 --> 00:37:02,700
+it's too
+
+744
+00:37:02,700 --> 00:37:04,060
+it's overly specific
+
+745
+00:37:04,060 --> 00:37:05,440
+it's not appropriate for the market
+
+746
+00:37:05,440 --> 00:37:08,320
+which you know a trend could be like this
+
+747
+00:37:08,320 --> 00:37:10,780
+a trend could be like this
+
+748
+00:37:10,780 --> 00:37:15,620
+a trend could be like this
+
+749
+00:37:15,620 --> 00:37:19,620
+right every single
+
+750
+00:37:19,620 --> 00:37:20,680
+one of those examples
+
+751
+00:37:20,680 --> 00:37:23,410
+have different implications
+
+752
+00:37:23,410 --> 00:37:24,630
+on how you can trade it
+
+753
+00:37:24,630 --> 00:37:26,720
+even though
+
+754
+00:37:26,740 --> 00:37:27,860
+All of these are the same thing, no?
+
+755
+00:37:28,640 --> 00:37:31,240
+That's a bearish trend, that's a bearish trend, that's a bearish trend.
+
+756
+00:37:31,900 --> 00:37:34,860
+So when you look at it with this singular,
+
+757
+00:37:35,990 --> 00:37:37,710
+through this quite a tight prism,
+
+758
+00:37:38,580 --> 00:37:40,780
+you kind of ignore the necessary details.
+
+759
+00:37:42,060 --> 00:37:43,240
+And yeah, you can just make you,
+
+760
+00:37:45,500 --> 00:37:47,040
+you basically ignore critical information.
+
+761
+00:37:47,280 --> 00:37:48,380
+That information is valuable.
+
+762
+00:37:50,480 --> 00:37:50,680
+Yeah.
+
+763
+00:37:50,920 --> 00:37:54,410
+So at this time of day, because of this current environment,
+
+764
+00:37:55,030 --> 00:37:56,490
+I'm willing to be quite active.
+
+765
+00:37:58,280 --> 00:37:58,680
+Do you get it?
+
+766
+00:37:58,680 --> 00:38:06,210
+I've sat here from, I think I work about 4.30, they went to sleep.
+
+767
+00:38:06,450 --> 00:38:08,750
+Basically, I've got to charts about 5.30, 6.
+
+768
+00:38:09,790 --> 00:38:12,590
+I've sat here from then, caught this low.
+
+769
+00:38:13,830 --> 00:38:15,210
+I didn't catch this high.
+
+770
+00:38:15,870 --> 00:38:17,490
+I didn't catch that high there.
+
+771
+00:38:17,910 --> 00:38:18,990
+I caught the retest.
+
+772
+00:38:20,310 --> 00:38:21,890
+I caught this low here.
+
+773
+00:38:23,060 --> 00:38:24,780
+And then basically I just got tired.
+
+774
+00:38:26,700 --> 00:38:27,580
+I just got tired.
+
+775
+00:38:27,740 --> 00:38:29,980
+It seems like it was a successful day.
+
+776
+00:38:31,170 --> 00:38:31,810
+A good day, yeah.
+
+777
+00:38:32,070 --> 00:38:39,390
+like I said to you I don't really risk more than 0.2% on the trade I don't really get that excited
+
+778
+00:38:39,390 --> 00:38:46,570
+trading anymore it's just like I recognize this environment and I take advantage of it because
+
+779
+00:38:46,570 --> 00:38:53,200
+preceding this environment we had this super aggressive sell-off which isn't that favourable to trade
+
+780
+00:38:53,200 --> 00:39:02,800
+yeah you told me that um it's not likely well there's more days where um prices is like today
+
+781
+00:39:02,800 --> 00:39:05,020
+than it is breaking out
+
+782
+00:39:05,020 --> 00:39:06,700
+how you explained how
+
+783
+00:39:06,700 --> 00:39:08,780
+the breakout traders
+
+784
+00:39:08,780 --> 00:39:10,280
+they love it for a couple of days
+
+785
+00:39:10,280 --> 00:39:11,940
+and after that they're getting smacked
+
+786
+00:39:11,940 --> 00:39:14,200
+their edge has been eradicated
+
+787
+00:39:14,200 --> 00:39:16,560
+or eroded because of like
+
+788
+00:39:16,560 --> 00:39:18,280
+changes in the market structure
+
+789
+00:39:18,280 --> 00:39:20,720
+that's at an effect on how much the market breaks out
+
+790
+00:39:20,720 --> 00:39:22,760
+so yeah like I'm not necessarily
+
+791
+00:39:22,760 --> 00:39:24,680
+a breakout trader this times
+
+792
+00:39:24,680 --> 00:39:26,120
+or I'll be short from the top
+
+793
+00:39:26,120 --> 00:39:28,920
+I'll close the majority of my trade and I'll write it down
+
+794
+00:39:28,920 --> 00:39:30,800
+so I have no pressure
+
+795
+00:39:30,800 --> 00:39:31,840
+and having to be active
+
+796
+00:39:31,840 --> 00:39:34,820
+but if you've got no exposure in the market
+
+797
+00:39:34,820 --> 00:39:36,660
+you're sitting there for days on end
+
+798
+00:39:36,660 --> 00:39:37,900
+with your balls in your hand
+
+799
+00:39:37,900 --> 00:39:39,920
+sometimes you want to be active in it
+
+800
+00:39:39,920 --> 00:39:41,960
+so typically in this environment
+
+801
+00:39:41,960 --> 00:39:44,160
+I'll be trading early early early
+
+802
+00:39:44,160 --> 00:39:46,180
+early in the morning or late in the day
+
+803
+00:39:46,180 --> 00:39:47,500
+I won't be trading in the middle
+
+804
+00:39:47,500 --> 00:39:49,940
+yeah okay early in the morning
+
+805
+00:39:49,940 --> 00:39:50,820
+late in the day
+
+806
+00:39:50,820 --> 00:39:54,260
+here I'll be morning
+
+807
+00:39:54,260 --> 00:39:56,300
+middle fucking end of day
+
+808
+00:39:56,300 --> 00:39:57,660
+it doesn't really matter
+
+809
+00:39:57,660 --> 00:40:00,180
+okay so that's why
+
+810
+00:40:00,180 --> 00:40:01,140
+answers my question
+
+811
+00:40:01,140 --> 00:40:03,500
+yeah
+
+812
+00:40:03,500 --> 00:40:12,560
+a lending institution, and then you have the customer segment, so the bank customer segment.
+
+813
+00:40:15,420 --> 00:40:22,270
+Now, the way it kind of works is that, all right, so any market that exists is based upon
+
+814
+00:40:22,270 --> 00:40:26,930
+tradition, the rules behind it, the custom behind it, it's all just tradition.
+
+815
+00:40:27,710 --> 00:40:34,080
+Imagine, you know, me and you or a large business, Apple, had to transact one million today.
+
+816
+00:40:34,560 --> 00:40:36,980
+How unrealistic is it?
+
+817
+00:40:37,340 --> 00:40:38,300
+to sell $1 million
+
+818
+00:40:38,300 --> 00:40:41,650
+and buy $1 million worth
+
+819
+00:40:41,650 --> 00:40:43,730
+of Japanese yen, which is going to be hundreds
+
+820
+00:40:43,730 --> 00:40:45,410
+of millions of yen. Yeah?
+
+821
+00:40:47,040 --> 00:40:48,380
+How unrealistic is it
+
+822
+00:40:48,380 --> 00:40:50,300
+to have that money exchanged within minutes
+
+823
+00:40:50,300 --> 00:40:51,940
+or seconds?
+
+824
+00:40:52,760 --> 00:40:54,600
+Yeah, one million. It's quite unrealistic.
+
+825
+00:40:55,500 --> 00:40:56,880
+Yeah? So what happens
+
+826
+00:40:56,880 --> 00:40:58,860
+in FX at least is an idea
+
+827
+00:40:58,860 --> 00:41:00,280
+of where the tradition is
+
+828
+00:41:00,280 --> 00:41:02,100
+the trade is entered,
+
+829
+00:41:02,600 --> 00:41:05,280
+is opened, but the trade
+
+830
+00:41:05,280 --> 00:41:07,380
+is settled T2.
+
+831
+00:41:08,390 --> 00:41:09,230
+Two days.
+
+832
+00:41:09,330 --> 00:41:13,740
+All effects transactions, real money transactions,
+
+833
+00:41:14,340 --> 00:41:15,800
+they're settled in two days.
+
+834
+00:41:16,710 --> 00:41:17,370
+That's a tradition.
+
+835
+00:41:18,660 --> 00:41:21,640
+So the bank will actually exchange money with Apple two days later.
+
+836
+00:41:22,240 --> 00:41:26,460
+The initial transaction is done based upon Apple's relationship with the bank.
+
+837
+00:41:26,620 --> 00:41:27,460
+The bank knows Apple.
+
+838
+00:41:27,760 --> 00:41:29,760
+The bank knows Apple's quite liquid.
+
+839
+00:41:30,360 --> 00:41:32,880
+The bank knows Apple has a lot of fucking dollar with them.
+
+840
+00:41:33,940 --> 00:41:36,760
+So they're willing to give them two days worth of,
+
+841
+00:41:38,360 --> 00:41:40,800
+they're willing to not exchange money with them for two days.
+
+842
+00:41:40,920 --> 00:41:41,340
+Do you get it?
+
+843
+00:41:41,340 --> 00:41:50,580
+and still open the trade for them so that's an example another example is why would apple go to a
+
+844
+00:41:50,580 --> 00:41:57,180
+bank to exchange a million and not to the local fucking supermarket or to their local billionaire
+
+845
+00:41:58,520 --> 00:42:05,000
+because a bank has certain regulations they abide by to keep them safe to keep client money safe
+
+846
+00:42:05,000 --> 00:42:09,500
+why do you house your money with a bank and not with the local committee yeah because it's safe
+
+847
+00:42:09,500 --> 00:42:09,980
+Get it?
+
+848
+00:42:10,020 --> 00:42:10,280
+Yeah.
+
+849
+00:42:10,560 --> 00:42:12,040
+It's fucking safe here, isn't it?
+
+850
+00:42:12,680 --> 00:42:16,080
+The governing body is a central bank, all right?
+
+851
+00:42:17,000 --> 00:42:20,280
+A central bank kind of has two governing bodies.
+
+852
+00:42:21,820 --> 00:42:23,900
+Something called a bank of international settlements.
+
+853
+00:42:24,140 --> 00:42:26,840
+It's not really a governing body, but they do kind of work together closely.
+
+854
+00:42:26,960 --> 00:42:32,220
+And obviously, the government, the government can set and take rule away from central bank.
+
+855
+00:42:32,300 --> 00:42:39,040
+But anyway, I don't want to go into too much of the banking system because it is a fucking whole different topic.
+
+856
+00:42:42,660 --> 00:42:43,480
+What is a bank?
+
+857
+00:42:43,480 --> 00:42:46,760
+you place 10 pound with them or I place 10 pound with them
+
+858
+00:42:46,760 --> 00:42:49,280
+they owe me 10 pound no
+
+859
+00:42:49,280 --> 00:42:52,540
+yeah but they took 10 pound of my cash
+
+860
+00:42:52,540 --> 00:42:56,360
+it goes into into an account that says 10 pound owed
+
+861
+00:42:56,360 --> 00:43:01,050
+so basically they have they have the actual
+
+862
+00:43:01,050 --> 00:43:04,610
+asset there which is the actual 10 pound cash
+
+863
+00:43:04,610 --> 00:43:09,220
+but they also have a liability minus 10 pound o to s
+
+864
+00:43:09,220 --> 00:43:14,040
+what they can theoretically do is take that cash
+
+865
+00:43:14,040 --> 00:43:15,200
+and lend it out to Zane.
+
+866
+00:43:17,180 --> 00:43:18,560
+So they only had originally
+
+867
+00:43:18,560 --> 00:43:21,900
+10 pound, but they owe me
+
+868
+00:43:21,900 --> 00:43:23,780
+10 pound, and because they borrowed
+
+869
+00:43:23,780 --> 00:43:25,800
+you 10 pound, basically they owe you 10 pound
+
+870
+00:43:25,800 --> 00:43:28,150
+as well. How can they only be
+
+871
+00:43:28,150 --> 00:43:29,660
+10 quid,
+
+872
+00:43:30,120 --> 00:43:31,800
+but they owe 20 pound.
+
+873
+00:43:34,960 --> 00:43:35,600
+Yeah, I don't know.
+
+874
+00:43:37,090 --> 00:43:38,650
+Basically, it only works if
+
+875
+00:43:38,650 --> 00:43:40,670
+Zane actually ends up, so this is how
+
+876
+00:43:40,670 --> 00:43:42,960
+it has to work. Zane comes and takes
+
+877
+00:43:42,960 --> 00:43:44,940
+that 10 quid out, is gone. The cash
+
+878
+00:43:44,940 --> 00:43:46,920
+is gone, the 10 pound debt's
+
+879
+00:43:46,920 --> 00:43:49,970
+gone. As long as I
+
+880
+00:43:49,990 --> 00:43:57,220
+you don't come out back and try to get that 10 pound off them it works no okay imagine yeah yeah
+
+881
+00:43:57,220 --> 00:44:07,670
+if zane pays the money back in two months time that debt's gone oh shit oh shit they have an asset
+
+882
+00:44:07,670 --> 00:44:15,000
+called a debt by the way so the cash is gone but the asset that that zane owes as a debt is still class as
+
+883
+00:44:15,000 --> 00:44:21,060
+asset so zane comes back pays the debt that that debt's gone the cash comes back they
+
+884
+00:44:21,080 --> 00:44:25,660
+probably charged you one two percent whatever you got that one two percent from
+
+885
+00:44:25,660 --> 00:44:32,480
+probably investing in farming equipment or or you know extracting milk from
+
+886
+00:44:32,480 --> 00:44:35,900
+buffaloes in a more efficient way is you came up with a new tool that made
+
+887
+00:44:35,900 --> 00:44:40,400
+you some money you made a few percent on it you paid a few percent for that
+
+888
+00:44:40,400 --> 00:44:45,020
+ten pound loan you gave the original ten pound back now the banks made some
+
+889
+00:44:45,020 --> 00:44:51,020
+money and the original ten pounds back and they could pay me if I want my
+
+890
+00:44:51,020 --> 00:44:51,520
+money back.
+
+891
+00:44:52,680 --> 00:44:53,020
+Yeah?
+
+892
+00:44:54,140 --> 00:44:56,640
+What happens if Zane still has the money?
+
+893
+00:44:56,780 --> 00:44:58,180
+Zane hasn't paid the debt back yet.
+
+894
+00:44:58,900 --> 00:45:00,220
+And I come and I want my money.
+
+895
+00:45:00,560 --> 00:45:02,260
+They haven't got the cash on hand to get that.
+
+896
+00:45:03,700 --> 00:45:03,860
+Yeah.
+
+897
+00:45:04,040 --> 00:45:04,520
+What do they do?
+
+898
+00:45:04,520 --> 00:45:04,880
+You get it?
+
+899
+00:45:05,320 --> 00:45:05,480
+Yeah.
+
+900
+00:45:06,140 --> 00:45:08,080
+Now imagine if that happened, I came.
+
+901
+00:45:08,240 --> 00:45:09,300
+I couldn't get my cash from them.
+
+902
+00:45:09,360 --> 00:45:11,320
+They said, wait, you have to wait six months.
+
+903
+00:45:11,700 --> 00:45:13,460
+Nobody would want to keep money in banks anymore.
+
+904
+00:45:14,820 --> 00:45:16,300
+And everybody would get their money out.
+
+905
+00:45:16,300 --> 00:45:17,260
+It's called a bank run.
+
+906
+00:45:18,000 --> 00:45:20,520
+It happened, I think, nearly in 2008.
+
+907
+00:45:20,520 --> 00:45:24,900
+So banks to maintain their business
+
+908
+00:45:24,900 --> 00:45:26,180
+They have to borrow off each other
+
+909
+00:45:26,180 --> 00:45:28,410
+You get it
+
+910
+00:45:28,410 --> 00:45:30,070
+Zayn has the cash now
+
+911
+00:45:30,070 --> 00:45:31,030
+You have the 10 pound
+
+912
+00:45:31,030 --> 00:45:35,300
+They owe me 10 pound
+
+913
+00:45:35,300 --> 00:45:36,500
+They have no cash on board
+
+914
+00:45:36,500 --> 00:45:38,460
+They only have this debt piece of paper
+
+915
+00:45:38,460 --> 00:45:40,120
+On our hand
+
+916
+00:45:40,120 --> 00:45:42,250
+So I come
+
+917
+00:45:42,250 --> 00:45:43,410
+I want my 10 pound back
+
+918
+00:45:43,410 --> 00:45:45,520
+This bank hasn't got it
+
+919
+00:45:45,520 --> 00:45:47,320
+They go to their bumchum friend
+
+920
+00:45:47,320 --> 00:45:47,980
+Bank 2
+
+921
+00:45:47,980 --> 00:45:50,540
+Bank 2's got 60 quits sitting there
+
+922
+00:45:50,540 --> 00:45:51,120
+Doing nothing
+
+923
+00:45:51,120 --> 00:45:52,900
+Then borrow this bank 10 pound
+
+924
+00:45:52,900 --> 00:45:56,650
+The bank gives me the 10 pound back
+
+925
+00:45:56,650 --> 00:45:57,570
+you follow me
+
+926
+00:45:57,570 --> 00:46:01,040
+so these banks borrow off each other
+
+927
+00:46:01,040 --> 00:46:03,160
+the fact that the bank is lending out
+
+928
+00:46:03,160 --> 00:46:05,340
+10 pound and making 20 pounds
+
+929
+00:46:05,340 --> 00:46:06,180
+worth a debt from it
+
+930
+00:46:06,180 --> 00:46:09,600
+that debt Zane owes the bank 10 pound
+
+931
+00:46:09,600 --> 00:46:11,620
+is classed as money as well
+
+932
+00:46:11,620 --> 00:46:13,460
+they're creating new money
+
+933
+00:46:13,460 --> 00:46:15,440
+that's why they call it banks can print money
+
+934
+00:46:15,440 --> 00:46:16,680
+right
+
+935
+00:46:16,680 --> 00:46:19,050
+they're essentially creating money
+
+936
+00:46:19,050 --> 00:46:20,130
+by creating debt
+
+937
+00:46:20,130 --> 00:46:22,330
+it's called fractional reserve lending
+
+938
+00:46:22,330 --> 00:46:24,190
+for fractional reserve lending to work
+
+939
+00:46:24,190 --> 00:46:25,410
+banks need to borrow each other
+
+940
+00:46:25,410 --> 00:46:29,530
+you know, this bank was illiquid.
+
+941
+00:46:29,750 --> 00:46:31,510
+It couldn't pay me to 10 quid it owned me.
+
+942
+00:46:31,930 --> 00:46:33,730
+So it had to get that liquidity from the other bank
+
+943
+00:46:33,730 --> 00:46:34,930
+by borrowing it overnight.
+
+944
+00:46:37,270 --> 00:46:39,410
+All of this, basically, I'm going down the line of saying
+
+945
+00:46:39,410 --> 00:46:40,890
+your domestic banks do that.
+
+946
+00:46:41,960 --> 00:46:43,980
+And also, you have something called
+
+947
+00:46:43,980 --> 00:46:46,940
+Tier 1 Capital Banks.
+
+948
+00:46:47,420 --> 00:46:49,280
+These are global international banks,
+
+949
+00:46:49,820 --> 00:46:52,860
+much, much bigger than Lloyds and your domestic banks.
+
+950
+00:46:53,440 --> 00:46:54,840
+Banks like Deutsche Bank,
+
+951
+00:46:55,960 --> 00:46:58,370
+J.P. Morgan, I guess.
+
+952
+00:46:58,390 --> 00:47:00,070
+H-S-P-C
+
+953
+00:47:00,070 --> 00:47:01,800
+what else
+
+954
+00:47:01,800 --> 00:47:03,040
+you can probably imagine
+
+955
+00:47:03,040 --> 00:47:03,280
+yeah
+
+956
+00:47:03,280 --> 00:47:04,990
+Goldman Sachs
+
+957
+00:47:04,990 --> 00:47:05,890
+all of these
+
+958
+00:47:05,890 --> 00:47:07,030
+are Tier 1 Capital
+
+959
+00:47:07,030 --> 00:47:07,590
+banks
+
+960
+00:47:07,590 --> 00:47:09,400
+which have multiple
+
+961
+00:47:09,400 --> 00:47:09,980
+services
+
+962
+00:47:09,980 --> 00:47:12,390
+but one of them at least
+
+963
+00:47:12,390 --> 00:47:13,770
+is issuing credit
+
+964
+00:47:13,770 --> 00:47:15,720
+right
+
+965
+00:47:15,720 --> 00:47:17,140
+now tier one capital
+
+966
+00:47:17,140 --> 00:47:17,640
+means
+
+967
+00:47:17,640 --> 00:47:18,840
+it's the highest
+
+968
+00:47:18,840 --> 00:47:20,140
+form of credit rating
+
+969
+00:47:20,140 --> 00:47:20,620
+you can get
+
+970
+00:47:20,620 --> 00:47:21,360
+the best form
+
+971
+00:47:21,360 --> 00:47:22,080
+as a bank
+
+972
+00:47:22,080 --> 00:47:24,630
+they abide by
+
+973
+00:47:24,630 --> 00:47:25,830
+very very strict
+
+974
+00:47:25,830 --> 00:47:27,840
+you could say
+
+975
+00:47:27,840 --> 00:47:29,120
+to the only this is not
+
+976
+00:47:29,120 --> 00:47:29,320
+but
+
+977
+00:47:29,320 --> 00:47:30,620
+they abide by very
+
+978
+00:47:30,620 --> 00:47:34,980
+very, very strict regulations about how much cash to have to keep on board, you can't just lend
+
+979
+00:47:34,980 --> 00:47:42,120
+out all the cash deposited to you, right? If I came and deposited five, five pound with you,
+
+980
+00:47:42,220 --> 00:47:45,680
+you can't lend that whole five pound out, because if tomorrow I want one pound back,
+
+981
+00:47:45,740 --> 00:47:50,540
+you need some money there. Maybe you can only lend out three of that five pound, because it's
+
+982
+00:47:50,540 --> 00:47:56,010
+unrealistic that I'll come and ask for the whole fibre. Probability-wise, I might only come and ask for
+
+983
+00:47:56,010 --> 00:48:00,990
+two pound at a time. So the other three-pound you're sitting there, you lend out, you try and make money
+
+984
+00:48:00,990 --> 00:48:05,390
+office. Do you get it? So that's what you call
+
+985
+00:48:05,390 --> 00:48:09,110
+reserve ratio. You have to have a certain amount of money on board. The regulations
+
+986
+00:48:09,110 --> 00:48:13,490
+are set by very, very, basically by something called the Bank of International
+
+987
+00:48:13,490 --> 00:48:16,630
+settlements. And all of these banks who abide by it,
+
+988
+00:48:17,090 --> 00:48:20,990
+who are highly, highly capitalized in the trillions, they're worth
+
+989
+00:48:20,990 --> 00:48:25,660
+at least, the whole investments worth trillions, they're called
+
+990
+00:48:25,660 --> 00:48:30,300
+Tijuana banks. It's these Tijuana banks that are the primary
+
+991
+00:48:30,300 --> 00:48:31,720
+liquidity providers in the world.
+
+992
+00:48:32,760 --> 00:48:34,820
+So if we looked at the operations of a single
+
+993
+00:48:34,820 --> 00:48:35,600
+Tier 1 bank,
+
+994
+00:48:36,860 --> 00:48:39,100
+they would have a segment for wealth
+
+995
+00:48:39,100 --> 00:48:41,000
+management. Oh, you know what? Make it a circle
+
+996
+00:48:41,000 --> 00:48:42,120
+because it's more accurate.
+
+997
+00:48:42,900 --> 00:48:44,140
+They'd have a segment
+
+998
+00:48:44,140 --> 00:48:45,880
+for wealth management.
+
+999
+00:48:47,680 --> 00:48:49,800
+They'd have a segment for investment
+
+1000
+00:48:49,800 --> 00:48:52,160
+banking. They'd have a segment
+
+1001
+00:48:52,160 --> 00:48:54,540
+for something else.
+
+1002
+00:48:55,080 --> 00:48:56,220
+And they'd have a segment for
+
+1003
+00:48:56,220 --> 00:48:58,400
+domestic lending or conventional
+
+1004
+00:48:58,400 --> 00:49:00,260
+banking or domestic lending or
+
+1005
+00:49:00,260 --> 00:49:01,720
+whatever. Do you get it?
+
+1006
+00:49:02,380 --> 00:49:06,220
+we're primarily focused on the investment banking side
+
+1007
+00:49:06,220 --> 00:49:09,380
+wealth management is basically they'll take on some
+
+1008
+00:49:09,380 --> 00:49:11,740
+Chinese bastard money and they'll manage the money for them
+
+1009
+00:49:11,740 --> 00:49:15,400
+they'll take on some rich motherfuckers money they'll manage the money for
+
+1010
+00:49:15,400 --> 00:49:20,050
+corporate treasury a large corporation
+
+1011
+00:49:20,050 --> 00:49:24,170
+Apple has business in the UK it has business in the US
+
+1012
+00:49:24,170 --> 00:49:27,210
+they need two bank accounts in each country Apple
+
+1013
+00:49:27,210 --> 00:49:29,050
+doesn't really want to wait three days
+
+1014
+00:49:29,050 --> 00:49:32,470
+to have money sent from the UK to the US or US to the UK
+
+1015
+00:49:32,470 --> 00:49:36,950
+So if they apply for treasury services from a bank,
+
+1016
+00:49:37,450 --> 00:49:39,670
+the bank will have the accounts for them
+
+1017
+00:49:39,670 --> 00:49:42,590
+and send over money almost instantaneously for them
+
+1018
+00:49:42,590 --> 00:49:43,830
+should they need it.
+
+1019
+00:49:44,390 --> 00:49:44,870
+Do you get it?
+
+1020
+00:49:45,630 --> 00:49:48,630
+So they handle Apple's money for them in different countries.
+
+1021
+00:49:49,410 --> 00:49:51,450
+And then like lending as well,
+
+1022
+00:49:51,570 --> 00:49:54,850
+they'll be lending money to large corporations.
+
+1023
+00:49:55,150 --> 00:49:56,090
+They lend money to Apple.
+
+1024
+00:49:56,550 --> 00:50:00,350
+If you look at the lending rates in global economy,
+
+1025
+00:50:00,350 --> 00:50:14,640
+If you're classed as like the largest corporations, Tesla, Apple, da-da-da-da-da-da-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-D-A-A-D-A-A-W-E-E-Q in basically an unequal way.
+
+1026
+00:50:15,020 --> 00:50:16,660
+You basically get free money.
+
+1027
+00:50:16,780 --> 00:50:18,480
+You can borrow a free, essentially.
+
+1028
+00:50:19,140 --> 00:50:20,660
+It's very, very cheap you borrow it for.
+
+1029
+00:50:21,520 --> 00:50:28,760
+But then if you're like a small, what do you call it, SME, a small mid-sized firm, I think is what they call it,
+
+1030
+00:50:29,950 --> 00:50:32,030
+your interest rate suddenly shoot up.
+
+1031
+00:50:32,030 --> 00:50:33,050
+So you're a local, you're a small, you're a small, you're a small,
+
+1032
+00:50:33,070 --> 00:50:35,030
+business, a local takeaway or
+
+1033
+00:50:35,030 --> 00:50:38,180
+I don't know, you do some local shit
+
+1034
+00:50:38,180 --> 00:50:40,440
+you're a small firm, your interest
+
+1035
+00:50:40,440 --> 00:50:42,460
+rates that you can borrow the money from the bank off
+
+1036
+00:50:42,460 --> 00:50:43,860
+are fucking ridiculous
+
+1037
+00:50:43,860 --> 00:50:45,480
+and that alone
+
+1038
+00:50:45,480 --> 00:50:48,440
+skews the chances of you surviving
+
+1039
+00:50:48,440 --> 00:50:49,700
+compared to the Apple
+
+1040
+00:50:49,700 --> 00:50:52,290
+just because they're bigger.
+
+1041
+00:50:53,090 --> 00:50:55,310
+The same way, if I earned
+
+1042
+00:50:55,310 --> 00:50:58,350
+a million, I only earn
+
+1043
+00:50:58,350 --> 00:51:01,040
+$25,000, you would actually get
+
+1044
+00:51:01,040 --> 00:51:03,120
+access to cheaper money even though it doesn't
+
+1045
+00:51:03,120 --> 00:51:05,820
+make sense. Yeah, okay.
+
+1046
+00:51:05,880 --> 00:51:12,460
+right so anyway we're focused on the investment banking side now in investment banking basically
+
+1047
+00:51:12,460 --> 00:51:19,660
+the the idea i'm laying out here is these banks don't need to trade effects all right anyway
+
+1048
+00:51:19,660 --> 00:51:27,560
+we'll look at that so in investment banking inside of it well you have apple 50 how many years
+
+1049
+00:51:27,560 --> 00:51:34,720
+ago they had some shareholders private shareholders they wanted to raise money they didn't need to do
+
+1050
+00:51:34,720 --> 00:51:39,350
+an IPO initial public offering how do apple fucking know the
+
+1051
+00:51:39,370 --> 00:51:41,550
+private shareholders know that the public wants to buy Apple.
+
+1052
+00:51:42,240 --> 00:51:47,540
+Well, maybe they hire the services of an investment bank to go do the market research
+
+1053
+00:51:47,540 --> 00:51:49,960
+for them, to even market Apple for them.
+
+1054
+00:51:50,820 --> 00:51:54,980
+So when it comes time to start selling a certain percentage of Apple shares to the public
+
+1055
+00:51:54,980 --> 00:52:01,070
+market, the investment bank already has the buyers there ready, they have the infrastructure
+
+1056
+00:52:01,070 --> 00:52:05,110
+ready, they have the hype around Apple already, you follow me.
+
+1057
+00:52:06,370 --> 00:52:10,770
+So the investment bank inside will do IPOs for large corporations.
+
+1058
+00:52:11,130 --> 00:52:13,400
+They'll do mergers and acquisitions.
+
+1059
+00:52:13,400 --> 00:52:21,700
+So when Apple, let's say, wants to buy their competitor, let's just say, in a very, very weird world, are they going to buy Google?
+
+1060
+00:52:23,460 --> 00:52:25,300
+The investment bank would facilitate that transaction.
+
+1061
+00:52:27,860 --> 00:52:31,460
+And then you have liquidity providing services.
+
+1062
+00:52:32,180 --> 00:52:41,140
+What about when a client of Apple, a client of this bank, this Tier 1 bank, wants to access liquidity in large amounts.
+
+1063
+00:52:41,140 --> 00:52:44,580
+so when Apple wants to
+
+1064
+00:52:44,580 --> 00:52:47,080
+you know
+
+1065
+00:52:47,080 --> 00:52:48,810
+shift off
+
+1066
+00:52:48,810 --> 00:52:51,780
+$3 billion worth of
+
+1067
+00:52:51,780 --> 00:52:52,800
+of currency risk
+
+1068
+00:52:52,800 --> 00:52:56,700
+well the bank will do it for them
+
+1069
+00:52:56,700 --> 00:53:00,610
+by that what I mean is if Apple's holding
+
+1070
+00:53:00,610 --> 00:53:01,690
+$3 billion in risk
+
+1071
+00:53:01,690 --> 00:53:03,050
+whose risk is it
+
+1072
+00:53:03,050 --> 00:53:05,060
+what is the risk actually
+
+1073
+00:53:05,060 --> 00:53:09,810
+3 billion isn't it
+
+1074
+00:53:09,810 --> 00:53:14,100
+have you had 3 billion in your account
+
+1075
+00:53:14,100 --> 00:53:14,660
+what's the risk
+
+1076
+00:53:14,660 --> 00:53:19,410
+3 billion pounds in your account
+
+1077
+00:53:19,410 --> 00:53:20,050
+what's the risk
+
+1078
+00:53:20,050 --> 00:53:23,040
+well depends how much
+
+1079
+00:53:23,040 --> 00:53:26,500
+no the simple risk is
+
+1080
+00:53:26,500 --> 00:53:29,090
+it starts devaluing, no?
+
+1081
+00:53:29,940 --> 00:53:31,860
+If you had four properties worth
+
+1082
+00:53:31,860 --> 00:53:33,720
+20 million each, if the property
+
+1083
+00:53:33,720 --> 00:53:35,440
+prices went down, what's the risk?
+
+1084
+00:53:36,180 --> 00:53:37,020
+But you're now losing money.
+
+1085
+00:53:38,020 --> 00:53:39,560
+Obviously, it doesn't really matter to us
+
+1086
+00:53:39,560 --> 00:53:41,720
+when it's 1,000, $10,000,
+
+1087
+00:53:41,720 --> 00:53:43,680
+20,000, even $80,000, it doesn't really matter,
+
+1088
+00:53:43,780 --> 00:53:45,680
+but as soon as you start hitting big numbers and you're holding big
+
+1089
+00:53:45,680 --> 00:53:49,280
+cash, there's currency risk involved.
+
+1090
+00:53:50,950 --> 00:53:52,490
+Especially, especially if
+
+1091
+00:53:52,490 --> 00:53:54,930
+Apple operates in Japan and they have
+
+1092
+00:53:54,930 --> 00:53:58,350
+500 million's worth of Japanese yen,
+
+1093
+00:53:58,450 --> 00:54:01,470
+they're not going to fucking book their profits in Japanese yen
+
+1094
+00:54:01,470 --> 00:54:02,810
+they have to book it in the US dollar
+
+1095
+00:54:02,810 --> 00:54:06,500
+yeah so what if Japanese yen
+
+1096
+00:54:06,500 --> 00:54:09,380
+starts to increase in value against the US dollar
+
+1097
+00:54:09,380 --> 00:54:11,980
+that's good for them
+
+1098
+00:54:11,980 --> 00:54:15,100
+because that 500 million buys more US dollars
+
+1099
+00:54:15,100 --> 00:54:18,000
+and then they're earning more US dollars no
+
+1100
+00:54:18,000 --> 00:54:22,360
+yeah that's a good thing for them
+
+1101
+00:54:22,360 --> 00:54:24,260
+but equally the risk is the US dollar source
+
+1102
+00:54:24,260 --> 00:54:26,160
+appreciate and aggressively against Japanese yen
+
+1103
+00:54:26,160 --> 00:54:27,680
+they're holding a shit asset
+
+1104
+00:54:27,680 --> 00:54:30,000
+who's going to take that risk off them
+
+1105
+00:54:30,000 --> 00:54:31,080
+Well, the bank does.
+
+1106
+00:54:33,180 --> 00:54:35,260
+That's a large, large FX transaction
+
+1107
+00:54:35,260 --> 00:54:37,500
+that had no speculative intent behind it.
+
+1108
+00:54:39,020 --> 00:54:41,760
+Anyway, so in simple terms,
+
+1109
+00:54:41,880 --> 00:54:45,360
+these banks, they have very, very tight credit relationships
+
+1110
+00:54:45,360 --> 00:54:48,720
+with each other that require no deposits,
+
+1111
+00:54:49,320 --> 00:54:51,960
+that require no collateral,
+
+1112
+00:54:53,760 --> 00:54:55,400
+and they'll borrow to each other overnight
+
+1113
+00:54:55,400 --> 00:54:57,560
+for no collateral at all.
+
+1114
+00:54:58,820 --> 00:55:01,280
+Why? Because if this bank needs money
+
+1115
+00:55:01,280 --> 00:55:03,590
+to pay out a certain client
+
+1116
+00:55:03,590 --> 00:55:05,070
+to do this
+
+1117
+00:55:05,070 --> 00:55:07,110
+to meet their financial obligations
+
+1118
+00:55:07,110 --> 00:55:07,750
+their liabilities
+
+1119
+00:55:07,750 --> 00:55:09,270
+if they don't meet the liabilities
+
+1120
+00:55:09,270 --> 00:55:10,550
+confidence erodes
+
+1121
+00:55:10,550 --> 00:55:12,630
+so they might need to borrow from bank too
+
+1122
+00:55:12,630 --> 00:55:13,930
+are you following me
+
+1123
+00:55:13,930 --> 00:55:17,910
+so there's that
+
+1124
+00:55:17,910 --> 00:55:21,020
+they have tight tight credit
+
+1125
+00:55:21,020 --> 00:55:22,320
+relationships with each other
+
+1126
+00:55:22,320 --> 00:55:23,920
+very very important
+
+1127
+00:55:23,920 --> 00:55:26,620
+in the banking side
+
+1128
+00:55:26,620 --> 00:55:28,160
+in the investment banking
+
+1129
+00:55:28,160 --> 00:55:30,410
+FX
+
+1130
+00:55:30,410 --> 00:55:32,310
+liquidity provision side
+
+1131
+00:55:32,310 --> 00:55:34,070
+it's literally as simple as this
+
+1132
+00:55:34,070 --> 00:56:06,950
+these motherfuckers have whole or they have sales teams they actually have sales teams that know less than markets and price action and candlesticks than you do selling fx products to clients so when apple rings guess who's on the opposite end of that call the account manager when a new small medium size firm rings not medium size i say it's relatively big yeah let's say it's fucking fedex or dpd
+
+1133
+00:56:07,050 --> 00:56:07,970
+They're relatively big.
+
+1134
+00:56:09,430 --> 00:56:12,850
+When they ring and they're looking for quotes, they ring the sales team.
+
+1135
+00:56:13,880 --> 00:56:19,640
+The sales team, they have a basic knowledge about the products that the bank offers.
+
+1136
+00:56:20,140 --> 00:56:26,160
+Because FX, again, just to give you an idea of what the structure is, it's not just spot transactions.
+
+1137
+00:56:26,160 --> 00:56:35,420
+If it was spot transactions, out of the $6 trillion a day that's traded, I think spot is like $2 trillion.
+
+1138
+00:56:36,260 --> 00:56:37,860
+It's not the main part.
+
+1139
+00:56:37,860 --> 00:56:49,490
+you have fx swaps and fx forwards forward the basically currency futures traded off of exchange privately
+
+1140
+00:56:49,490 --> 00:56:57,580
+and swaps are basically a derivative financial product that decreases risk for certain
+
+1141
+00:56:57,580 --> 00:57:03,840
+basically for like companies who want to hedge risk yeah and then spot fx is where me and you trade
+
+1142
+00:57:03,840 --> 00:57:08,480
+is where large companies might want to exchange company cash straight away that day right then
+
+1143
+00:57:08,480 --> 00:57:13,000
+where hedge funds might trade pound for certain reasons, et cetera.
+
+1144
+00:57:14,290 --> 00:57:19,130
+So each of these, you might have one bank that specializes in forwards.
+
+1145
+00:57:19,310 --> 00:57:22,050
+You might have one bank that specializes for corporate transactions.
+
+1146
+00:57:22,430 --> 00:57:27,050
+You might have one bank that specializes in e-trade electronic trading platforms
+
+1147
+00:57:27,050 --> 00:57:28,850
+for spot-fx transactions.
+
+1148
+00:57:29,490 --> 00:57:29,910
+Do you get it?
+
+1149
+00:57:32,680 --> 00:57:35,580
+And that's kind of the direction more recently at least.
+
+1150
+00:57:36,000 --> 00:57:38,160
+Certain banks are specializing in certain things over each other.
+
+1151
+00:57:38,160 --> 00:57:42,690
+but the point I'm raising here is the sales team
+
+1152
+00:57:42,690 --> 00:57:44,940
+they have knowledge of these products
+
+1153
+00:57:44,940 --> 00:57:46,780
+they sell them just like you
+
+1154
+00:57:46,780 --> 00:57:48,980
+you know I don't know
+
+1155
+00:57:48,980 --> 00:57:51,460
+insurance companies sell insurance policies
+
+1156
+00:57:51,460 --> 00:57:56,030
+the the point I'm making to you is
+
+1157
+00:57:56,030 --> 00:57:57,570
+these banks are raising money
+
+1158
+00:57:57,570 --> 00:58:00,950
+not by trading markets and pushing them against you
+
+1159
+00:58:00,950 --> 00:58:03,450
+and be like yeah Zane has a stop plus
+
+1160
+00:58:03,450 --> 00:58:07,610
+of one lot at 0.0045 pipsom of price
+
+1161
+00:58:07,610 --> 00:58:08,650
+let's take him out bro
+
+1162
+00:58:08,650 --> 00:58:18,090
+These banks are raising their money on transactional-based revenue, on service-based revenue,
+
+1163
+00:58:18,810 --> 00:58:22,690
+and they're doing it with the largest of the businesses in this whole world,
+
+1164
+00:58:23,230 --> 00:58:24,210
+and they do it very consistent.
+
+1165
+00:58:25,470 --> 00:58:28,330
+They have relationships with these large businesses.
+
+1166
+00:58:28,330 --> 00:58:31,670
+So when Apple's servicing quotes from one bank, two bank, three banks,
+
+1167
+00:58:33,100 --> 00:58:36,380
+bank one consistently wants Apple's flow.
+
+1168
+00:58:38,830 --> 00:58:41,600
+So Bank one has to maintain a very, very, very,
+
+1169
+00:58:41,620 --> 00:58:43,680
+tight, trustworthy relationship
+
+1170
+00:58:43,680 --> 00:58:45,940
+with Apple themselves.
+
+1171
+00:58:46,800 --> 00:58:47,920
+Apple actually has the
+
+1172
+00:58:47,920 --> 00:58:50,600
+kind of, you know,
+
+1173
+00:58:50,640 --> 00:58:52,640
+the leeway to say, oh, fuck you law,
+
+1174
+00:58:52,680 --> 00:58:54,600
+I want to trade with this bank. What can you do
+
+1175
+00:58:54,600 --> 00:58:55,420
+for them? Do you get it?
+
+1176
+00:58:56,340 --> 00:58:59,040
+These guys are, in a sense,
+
+1177
+00:59:00,480 --> 00:59:01,220
+service providers.
+
+1178
+00:59:01,320 --> 00:59:02,600
+That's all they do. So,
+
+1179
+00:59:03,850 --> 00:59:05,990
+credit relationships, sales teams,
+
+1180
+00:59:06,350 --> 00:59:07,090
+sales floors,
+
+1181
+00:59:07,830 --> 00:59:10,300
+and more and more
+
+1182
+00:59:10,300 --> 00:59:12,440
+in recent years, automated
+
+1183
+00:59:12,440 --> 00:59:14,320
+execution, so automated
+
+1184
+00:59:14,340 --> 00:59:16,320
+it's like pricing engine and trading system.
+
+1185
+00:59:16,580 --> 00:59:21,320
+So explaining the history
+
+1186
+00:59:21,320 --> 00:59:23,500
+behind it. FX
+
+1187
+00:59:23,500 --> 00:59:25,490
+is this
+
+1188
+00:59:25,490 --> 00:59:27,780
+body of water.
+
+1189
+00:59:28,890 --> 00:59:30,550
+Yeah? It's like a sea.
+
+1190
+00:59:32,180 --> 00:59:34,140
+And then you have one country here.
+
+1191
+00:59:34,200 --> 00:59:35,140
+You have one country here.
+
+1192
+00:59:35,660 --> 00:59:37,980
+How does a company in the middle access this country
+
+1193
+00:59:37,980 --> 00:59:39,520
+and move from that country to that country?
+
+1194
+00:59:40,180 --> 00:59:42,040
+They have to go through the fucking river, yeah?
+
+1195
+00:59:42,100 --> 00:59:43,970
+Or the sea. The sea
+
+1196
+00:59:43,970 --> 00:59:44,630
+is FX.
+
+1197
+00:59:45,940 --> 00:59:48,440
+The point, again, the implication of what I'm saying
+
+1198
+00:59:48,440 --> 00:59:48,960
+here is, FX is
+
+1199
+00:59:48,960 --> 00:59:51,220
+FX is not like a risk asset
+
+1200
+00:59:51,220 --> 00:59:53,140
+where me and you buy it and make money off it
+
+1201
+00:59:53,140 --> 00:59:55,100
+and me and you sell to whatever
+
+1202
+00:59:55,100 --> 00:59:57,060
+it's not real estate where we invest
+
+1203
+00:59:57,060 --> 00:59:59,220
+to make huge huge sums of money over the next 20 years
+
+1204
+00:59:59,220 --> 01:00:02,200
+FX as a primary function
+
+1205
+01:00:02,200 --> 01:00:03,600
+is a conduit
+
+1206
+01:00:03,600 --> 01:00:05,340
+market
+
+1207
+01:00:05,340 --> 01:00:07,840
+something that lets you access something
+
+1208
+01:00:07,840 --> 01:00:11,920
+where global trade
+
+1209
+01:00:11,920 --> 01:00:13,520
+the global economy
+
+1210
+01:00:13,520 --> 01:00:16,680
+everyday functions of the economic
+
+1211
+01:00:16,680 --> 01:00:18,220
+system that we live in
+
+1212
+01:00:18,220 --> 01:00:20,140
+relies upon. It's essentially
+
+1213
+01:00:20,140 --> 01:00:21,900
+you could argue some of the plumbing
+
+1214
+01:00:21,900 --> 01:00:24,800
+of the financial system.
+
+1215
+01:00:26,990 --> 01:00:30,250
+And it's composed of the providers
+
+1216
+01:00:30,250 --> 01:00:30,990
+of the boats.
+
+1217
+01:00:31,750 --> 01:00:33,010
+Those who provide the boats,
+
+1218
+01:00:34,230 --> 01:00:36,090
+they take on the risk of maintaining
+
+1219
+01:00:36,090 --> 01:00:39,350
+those boats, I guess.
+
+1220
+01:00:39,490 --> 01:00:40,910
+They probably have the teams on the boats
+
+1221
+01:00:40,910 --> 01:00:42,390
+and they're the service provided,
+
+1222
+01:00:42,550 --> 01:00:45,010
+the banks. They're called
+
+1223
+01:00:45,010 --> 01:00:47,430
+sell side. Why? Because they sell
+
+1224
+01:00:47,430 --> 01:00:52,370
+liquidity. So they're sell side firms.
+
+1225
+01:00:52,710 --> 01:00:54,230
+And then you have those who buy liquidity.
+
+1226
+01:00:54,650 --> 01:01:02,100
+which could be a government, a hedge fund, a pension fund, the corporation, me, you, my dad, anybody.
+
+1227
+01:01:02,880 --> 01:01:05,360
+Sorry, not me and you, because we're retail traders, yeah?
+
+1228
+01:01:05,520 --> 01:01:05,740
+Sorry.
+
+1229
+01:01:06,460 --> 01:01:16,990
+But if you owned a very large business that had direct relationships with the bank, then you become a buy-side firm.
+
+1230
+01:01:17,630 --> 01:01:23,610
+If you one day set up a proprietary trading firm, you're a small buy-side firm.
+
+1231
+01:01:24,640 --> 01:01:25,060
+Do you get it?
+
+1232
+01:01:25,060 --> 01:01:32,980
+even if a buy side firm sells the pound they're still buying liquidity even though they're
+
+1233
+01:01:32,980 --> 01:01:39,390
+short in that position to sell something you need liquidity the bank provides the liquidity
+
+1234
+01:01:39,390 --> 01:01:45,480
+the bank is the service provider so I'm going to be using these terms sometimes so it's
+
+1235
+01:01:45,480 --> 01:01:52,400
+important that you recognize them buy side buys of liquidity sell side sellers of liquidity so yeah
+
+1236
+01:01:52,400 --> 01:01:57,000
+these are sell these are buy liquidity these are sell liquidity yeah cool uh basically I would know
+
+1237
+01:01:57,000 --> 01:02:00,950
+What I was saying is the FX market is a conduit, right?
+
+1238
+01:02:01,110 --> 01:02:05,830
+It's historically been this market that people use to access other assets in different countries
+
+1239
+01:02:05,830 --> 01:02:12,980
+rather than it be in this type of asset class where me and loads of other speculators come together
+
+1240
+01:02:12,980 --> 01:02:18,600
+to trade the activity as if it's like this asset that yields a lot of money.
+
+1241
+01:02:18,780 --> 01:02:19,060
+It's not.
+
+1242
+01:02:19,520 --> 01:02:20,040
+It hasn't been.
+
+1243
+01:02:21,120 --> 01:02:23,680
+A very, very small percentage of FX is actually speculative.
+
+1244
+01:02:24,320 --> 01:02:28,160
+Even hedge funds trading FX or if there's a hedge fund that has,
+
+1245
+01:02:28,340 --> 01:02:31,880
+$50 billion worth of risk in U.S. equities.
+
+1246
+01:02:32,060 --> 01:02:35,840
+In other words, they're long $50 billion worth in U.S. equities.
+
+1247
+01:02:36,400 --> 01:02:39,600
+That means they're also 50 billion long U.S. dollar.
+
+1248
+01:02:40,520 --> 01:02:42,660
+If the U.S. dollar starts dropping in value,
+
+1249
+01:02:43,640 --> 01:02:50,340
+they're now essentially losing money on their, basically money they've got inside the U.S. stock market.
+
+1250
+01:02:50,720 --> 01:02:53,800
+So they need to hedge that $50 billion risk.
+
+1251
+01:02:53,800 --> 01:02:58,300
+They need to sell some dollars to make sure if the dollar start dropping,
+
+1252
+01:02:58,660 --> 01:03:00,020
+they make some of that money back.
+
+1253
+01:03:00,260 --> 01:03:03,840
+They fix their costs.
+
+1254
+01:03:04,440 --> 01:03:04,840
+You get it?
+
+1255
+01:03:06,120 --> 01:03:14,390
+So hedge funds trading FX, they can be largely just hedging trades,
+
+1256
+01:03:14,830 --> 01:03:16,910
+not even speculating where the pound is going to go.
+
+1257
+01:03:18,500 --> 01:03:21,220
+Corporations, again, they just do it for logistical purposes.
+
+1258
+01:03:21,520 --> 01:03:23,020
+Every single day they need to transact.
+
+1259
+01:03:24,020 --> 01:03:27,840
+Pension funds, again, it's going to be more hedging risks that they've got.
+
+1260
+01:03:28,340 --> 01:03:31,520
+They might own, again, a good multistical.
+
+1261
+01:03:31,540 --> 01:03:37,240
+million dollars worth of or pounds worth of government bonds, they need to hedge some of that
+
+1262
+01:03:37,240 --> 01:03:39,020
+currency risks, so they use the FX market.
+
+1263
+01:03:41,800 --> 01:03:47,370
+Governments as well, they need to maintain certain levels of reserves of other currencies,
+
+1264
+01:03:47,630 --> 01:03:48,770
+especially US dollar.
+
+1265
+01:03:51,180 --> 01:03:59,180
+They might even need to do direct transactions with US government or US central bank to keep
+
+1266
+01:03:59,180 --> 01:04:02,580
+a certain level of FX reserves, so they need to transact in the FX market.
+
+1267
+01:04:03,820 --> 01:04:04,460
+Sometimes.
+
+1268
+01:04:05,990 --> 01:04:11,620
+Anyway, and then you have prime brokerage clients, which is any of these.
+
+1269
+01:04:13,450 --> 01:04:13,630
+Okay.
+
+1270
+01:04:14,540 --> 01:04:20,580
+But anyway, I want to keep going down some of the history of effects because it is quite important that we discuss it.
+
+1271
+01:04:21,060 --> 01:04:27,090
+Historically in 1980s, obviously it was the same thing where you'd have a client.
+
+1272
+01:04:28,750 --> 01:04:30,610
+He'd trade with the bank.
+
+1273
+01:04:31,160 --> 01:04:32,460
+Why would he trade with the bank?
+
+1274
+01:04:32,560 --> 01:04:33,540
+He needs immediate liquidity.
+
+1275
+01:04:34,000 --> 01:04:35,840
+So bank, he buys off bank.
+
+1276
+01:04:35,840 --> 01:04:45,340
+bank sells to client you get it yeah that's in the second tier of the market the tier two like I said
+
+1277
+01:04:45,340 --> 01:04:53,800
+but the bank obviously is part of the interbank the bank has a short position yeah they have some
+
+1278
+01:04:53,800 --> 01:05:00,420
+inventory they don't want to just hold a short position forever and ever and ever in 1980s again
+
+1279
+01:05:00,420 --> 01:05:04,200
+you can just imagine the amount of liquidity the amount of frequency and transactions the amount
+
+1280
+01:05:04,200 --> 01:05:09,600
+of volume traded per day would almost be nothing compared to what it is today they might even be
+
+1281
+01:05:09,600 --> 01:05:11,900
+holding onto this risk for two, three days.
+
+1282
+01:05:13,710 --> 01:05:15,030
+They need to get rid of that risk.
+
+1283
+01:05:16,140 --> 01:05:23,960
+So they would typically offload it with a bank between themselves within the interbank market.
+
+1284
+01:05:24,160 --> 01:05:25,280
+That's what it's called interbank.
+
+1285
+01:05:26,340 --> 01:05:27,840
+Banks trading between themselves.
+
+1286
+01:05:29,960 --> 01:05:38,180
+Now the problem with this was the structure through which they did it, isn't like they clicked on a computer, they found a quote from bank to and they just traded with them.
+
+1287
+01:05:38,280 --> 01:05:39,160
+There was phone broker.
+
+1288
+01:05:39,260 --> 01:05:40,100
+It was voice broken.
+
+1289
+01:05:41,140 --> 01:05:43,800
+When the client traded with the bank, it was through a voice broken.
+
+1290
+01:05:43,920 --> 01:05:47,570
+system where the bank tries to
+
+1291
+01:05:47,570 --> 01:05:49,150
+offload some currency with bank too
+
+1292
+01:05:49,150 --> 01:05:50,910
+there was also voice brokered
+
+1293
+01:05:50,910 --> 01:05:53,650
+now the problem with fx trading
+
+1294
+01:05:53,650 --> 01:05:54,850
+or any type of trading
+
+1295
+01:05:54,850 --> 01:05:57,720
+is you need credit relationships with each other
+
+1296
+01:05:57,720 --> 01:06:01,280
+you can't come to me and tell me that you want to
+
+1297
+01:06:01,280 --> 01:06:02,940
+sell me a million pound and that you'll
+
+1298
+01:06:02,940 --> 01:06:04,940
+give me the million in two days time
+
+1299
+01:06:04,940 --> 01:06:09,540
+if I don't have a credit relationship with you
+
+1300
+01:06:09,540 --> 01:06:10,780
+you just can't tell me that
+
+1301
+01:06:10,780 --> 01:06:14,100
+I have to trust you you have to have proper formalized
+
+1302
+01:06:14,100 --> 01:06:16,100
+relationships for me to even
+
+1303
+01:06:16,100 --> 01:06:18,320
+consider you know
+
+1304
+01:06:18,320 --> 01:06:20,640
+so when a bank
+
+1305
+01:06:20,640 --> 01:06:21,640
+wants to trade with a bank
+
+1306
+01:06:21,640 --> 01:06:25,160
+they're not trading straight away the exchange of the cash
+
+1307
+01:06:25,160 --> 01:06:26,360
+especially in 1980s
+
+1308
+01:06:26,360 --> 01:06:29,450
+they had to have the necessary
+
+1309
+01:06:29,450 --> 01:06:31,830
+credit relationship with each other they had to have
+
+1310
+01:06:31,830 --> 01:06:33,820
+that connection with each other where
+
+1311
+01:06:33,820 --> 01:06:35,860
+if bank wanted to want to sell this guy
+
+1312
+01:06:35,860 --> 01:06:37,840
+money or sell this guy's
+
+1313
+01:06:37,840 --> 01:06:39,580
+currency he'd be able to do it
+
+1314
+01:06:39,580 --> 01:06:42,160
+but they obviously had to confirm that
+
+1315
+01:06:42,160 --> 01:06:43,280
+credit relationship exists
+
+1316
+01:06:43,280 --> 01:06:46,000
+maybe in 1980s it was a
+
+1317
+01:06:46,000 --> 01:06:47,860
+fucking file somebody had to check
+
+1318
+01:06:47,860 --> 01:06:49,060
+sitting in an office
+
+1319
+01:06:49,060 --> 01:06:50,400
+so imagine
+
+1320
+01:06:50,400 --> 01:06:52,400
+here's a potential trade
+
+1321
+01:06:52,400 --> 01:06:53,000
+bank one
+
+1322
+01:06:53,000 --> 01:06:54,060
+rang bank two
+
+1323
+01:06:54,060 --> 01:06:55,810
+got the trade
+
+1324
+01:06:55,810 --> 01:06:56,410
+confirmed
+
+1325
+01:06:56,410 --> 01:06:58,750
+and they obviously
+
+1326
+01:06:58,750 --> 01:06:59,810
+they were short
+
+1327
+01:06:59,810 --> 01:07:00,590
+so they brought that
+
+1328
+01:07:00,590 --> 01:07:02,010
+they brought that currency back
+
+1329
+01:07:02,010 --> 01:07:02,510
+balancing
+
+1330
+01:07:02,510 --> 01:07:04,440
+balancing their position
+
+1331
+01:07:04,440 --> 01:07:05,380
+you get it
+
+1332
+01:07:05,380 --> 01:07:08,470
+now before that trade
+
+1333
+01:07:08,470 --> 01:07:09,450
+is actually transacted
+
+1334
+01:07:09,450 --> 01:07:10,190
+in two days time
+
+1335
+01:07:10,190 --> 01:07:12,050
+some little fat woman
+
+1336
+01:07:12,050 --> 01:07:13,350
+that's sitting on a desk
+
+1337
+01:07:13,350 --> 01:07:15,240
+has to make sure
+
+1338
+01:07:15,240 --> 01:07:16,380
+that these banks are connected
+
+1339
+01:07:16,380 --> 01:07:18,260
+internally at both banks
+
+1340
+01:07:18,260 --> 01:07:19,160
+so there's one fat woman
+
+1341
+01:07:19,180 --> 01:07:25,810
+here there's another fat woman she wears sandals at the second bank it comes across their desk
+
+1342
+01:07:25,810 --> 01:07:30,010
+they probably have to pull out of a filing drawer to check both of these are actually have those
+
+1343
+01:07:30,010 --> 01:07:38,920
+fucking relationships yeah inefficient it takes too long this guy has short currency risk it takes
+
+1344
+01:07:38,920 --> 01:07:44,180
+fucking this long to make sure that this transaction is going to happen it might take to the end
+
+1345
+01:07:44,180 --> 01:07:50,660
+of the day and by the end of the day the currency might have moved quite a bit you get me so this
+
+1346
+01:07:50,660 --> 01:07:53,040
+voice brokered, lack of credit
+
+1347
+01:07:53,040 --> 01:07:54,940
+intermediation, lack of credit
+
+1348
+01:07:54,940 --> 01:07:58,490
+checks, was quite an inefficient way of trading.
+
+1349
+01:07:58,910 --> 01:08:00,910
+There was a gap in the market to make this more efficient.
+
+1350
+01:08:01,860 --> 01:08:01,980
+No?
+
+1351
+01:08:02,400 --> 01:08:02,620
+Yeah.
+
+1352
+01:08:03,560 --> 01:08:07,120
+In 1992, a company called EBS,
+
+1353
+01:08:08,120 --> 01:08:09,940
+electronic brokering services,
+
+1354
+01:08:10,860 --> 01:08:14,440
+and Reuters trade matching, I think it was called.
+
+1355
+01:08:15,640 --> 01:08:29,520
+Let me have a look. No, FX spot matching.
+
+1356
+01:08:30,320 --> 01:08:30,420
+Yeah?
+
+1357
+01:08:30,620 --> 01:08:31,820
+By, owned by Reuters.
+
+1358
+01:08:32,080 --> 01:08:36,650
+these guys set up, as you can just imagine,
+
+1359
+01:08:36,990 --> 01:08:42,450
+an electronic platform just for the interbank banks, interdealer banks,
+
+1360
+01:08:43,540 --> 01:08:48,240
+that would connect all these banks together through this central platform
+
+1361
+01:08:48,240 --> 01:08:50,980
+where they didn't need to ring each other directly anymore.
+
+1362
+01:08:52,020 --> 01:08:57,160
+They could just go trade through this electronic system.
+
+1363
+01:08:59,460 --> 01:09:00,600
+Guess what this system was?
+
+1364
+01:09:00,600 --> 01:09:04,930
+It was a single order book similar to an exchange
+
+1365
+01:09:04,930 --> 01:09:10,790
+where you post real orders on here, real liquidity,
+
+1366
+01:09:11,890 --> 01:09:16,970
+and it operated like an exchange, basically, right?
+
+1367
+01:09:18,400 --> 01:09:22,080
+Where when Bank One wanted to trade with Bank Two,
+
+1368
+01:09:22,600 --> 01:09:25,980
+no fat woman had to check they had the credit relationship with each other.
+
+1369
+01:09:26,560 --> 01:09:30,920
+The EBS system would already do it for them pre-trade, not post-trade.
+
+1370
+01:09:30,920 --> 01:09:35,540
+Because the trade happened here already, and then the fat ladies had to check.
+
+1371
+01:09:35,540 --> 01:09:38,180
+EBS will do it pre-trade.
+
+1372
+01:09:39,810 --> 01:09:40,830
+It made it much faster
+
+1373
+01:09:40,830 --> 01:09:43,030
+and much more efficient for banks to mitigate risk
+
+1374
+01:09:43,030 --> 01:09:45,610
+and offset risk in 1990s.
+
+1375
+01:09:45,870 --> 01:09:49,730
+991, 992 or 19992 or 993.
+
+1376
+01:09:50,350 --> 01:09:52,610
+These two electronic systems were set up.
+
+1377
+01:09:53,110 --> 01:09:54,110
+The problem here is
+
+1378
+01:09:54,110 --> 01:09:57,090
+you now have these third-party companies
+
+1379
+01:09:57,090 --> 01:09:59,310
+coming in, pushing their way
+
+1380
+01:09:59,310 --> 01:10:00,490
+into the dealer market,
+
+1381
+01:10:00,790 --> 01:10:01,650
+into the inter-dealer market,
+
+1382
+01:10:02,370 --> 01:10:05,770
+and kind of becoming integral to the infrastructure.
+
+1383
+01:10:05,770 --> 01:10:08,390
+is that me coming into your house
+
+1384
+01:10:08,390 --> 01:10:12,600
+and I'm like, yeah, you have to install
+
+1385
+01:10:12,600 --> 01:10:13,740
+this certain type of plumbing.
+
+1386
+01:10:15,870 --> 01:10:17,050
+And it's my fucking plumbing.
+
+1387
+01:10:17,430 --> 01:10:17,810
+You get it?
+
+1388
+01:10:18,510 --> 01:10:20,850
+They took some market share away from banks, obviously.
+
+1389
+01:10:22,350 --> 01:10:27,490
+Now, it's very important
+
+1390
+01:10:27,490 --> 01:10:29,650
+to realize the credit intermediation that EBS did
+
+1391
+01:10:29,650 --> 01:10:32,270
+solved a huge amount of problems for banks.
+
+1392
+01:10:32,270 --> 01:10:35,270
+They effectively were able to offload currency risk
+
+1393
+01:10:35,270 --> 01:10:37,110
+or offload inventory risk,
+
+1394
+01:10:37,430 --> 01:10:39,410
+much quicker, much faster, results again
+
+1395
+01:10:39,410 --> 01:10:40,170
+less money lost.
+
+1396
+01:10:41,500 --> 01:10:43,360
+Actually, maybe even capturing more money.
+
+1397
+01:10:44,000 --> 01:10:44,680
+of the transactions.
+
+1398
+01:10:45,760 --> 01:10:48,820
+In exchange, obviously, EBS took some market share away from them.
+
+1399
+01:10:49,320 --> 01:10:55,230
+Now, what eventually ended up happening is, over the next five, ten years,
+
+1400
+01:10:55,490 --> 01:11:02,440
+is that most of the volume traded was already in between banks anyway,
+
+1401
+01:11:02,440 --> 01:11:12,460
+and it was all being done for your USD on EBS and for GDPUSD on FX spot match.
+
+1402
+01:11:12,460 --> 01:11:21,530
+So these became the primary price and liquidity exchanges
+
+1403
+01:11:21,530 --> 01:11:26,930
+for the two most traded, for like all the main traded currency pairs.
+
+1404
+01:11:28,160 --> 01:11:30,240
+U.S.D. JPI, U.S.T. Swiss franc.
+
+1405
+01:11:30,240 --> 01:11:31,860
+It would have been on one or the other here.
+
+1406
+01:11:32,840 --> 01:11:36,800
+Each bank specialized in one or the other currency.
+
+1407
+01:11:37,420 --> 01:11:41,860
+So maybe one bank operated heavily on your U.S.D on EBS.
+
+1408
+01:11:41,860 --> 01:11:47,140
+they obviously had some exposure on the other Reuters spot match
+
+1409
+01:11:47,140 --> 01:11:51,360
+but the point I'm making here is we saw a slow migration and change
+
+1410
+01:11:51,360 --> 01:11:56,640
+in how prices are made from banks just quoting quotes to the customers
+
+1411
+01:11:56,640 --> 01:12:01,840
+willy-nilly in 1980s you ring the bank
+
+1412
+01:12:01,840 --> 01:12:07,020
+the salesperson on the bank decides okay this guy's a retard let's quote him
+
+1413
+01:12:07,020 --> 01:12:13,860
+a hundred pips spread this guy's less retarded let's quote him a 20 pips spread
+
+1414
+01:12:13,860 --> 01:12:15,140
+you follow me
+
+1415
+01:12:15,140 --> 01:12:21,870
+to prices being made originally
+
+1416
+01:12:21,870 --> 01:12:24,710
+on the interdealer platforms
+
+1417
+01:12:24,710 --> 01:12:28,420
+in a exchange-style way
+
+1418
+01:12:28,420 --> 01:12:30,140
+so you have a single order book
+
+1419
+01:12:30,140 --> 01:12:31,560
+this is EBS
+
+1420
+01:12:31,560 --> 01:12:36,230
+all the banks trading amongst each other
+
+1421
+01:12:36,230 --> 01:12:38,930
+are trading through EPS
+
+1422
+01:12:38,930 --> 01:12:41,030
+so you have a limit order sell
+
+1423
+01:12:41,030 --> 01:12:43,690
+a limit order buy that makes the best bid best offer
+
+1424
+01:12:43,690 --> 01:12:47,410
+you have a single order book
+
+1425
+01:12:47,410 --> 01:12:49,630
+where all the liquidity is posted here
+
+1426
+01:12:49,650 --> 01:12:51,090
+all the liquidity is posted here.
+
+1427
+01:12:52,470 --> 01:12:54,450
+So if I want to access as a bank,
+
+1428
+01:12:54,910 --> 01:12:55,590
+an interbank,
+
+1429
+01:12:56,490 --> 01:12:57,090
+a tier one bank,
+
+1430
+01:12:57,650 --> 01:12:58,290
+$20 million,
+
+1431
+01:12:58,790 --> 01:13:00,630
+I'll be able to see if it's all here,
+
+1432
+01:13:00,850 --> 01:13:02,510
+rather than have to segment it from
+
+1433
+01:13:02,510 --> 01:13:03,850
+for the banks individually
+
+1434
+01:13:03,850 --> 01:13:05,770
+and have to get the credit checks done.
+
+1435
+01:13:05,890 --> 01:13:07,490
+Can you just imagine how much more efficient it became?
+
+1436
+01:13:07,590 --> 01:13:09,050
+It was really, really good, basically.
+
+1437
+01:13:10,190 --> 01:13:11,670
+EBS matched the trades automatically.
+
+1438
+01:13:12,470 --> 01:13:13,930
+It operated like an exchange.
+
+1439
+01:13:14,650 --> 01:13:15,290
+In other words,
+
+1440
+01:13:15,530 --> 01:13:17,110
+if all the liquidity is here,
+
+1441
+01:13:17,110 --> 01:13:20,410
+or let's say 90% or 70% of the liquidity,
+
+1442
+01:13:20,450 --> 01:13:22,490
+and volume is being traded on EBS,
+
+1443
+01:13:23,390 --> 01:13:25,290
+where are the prices being set and made?
+
+1444
+01:13:29,710 --> 01:13:32,730
+You know, where is the Euro-USD price changing and being made
+
+1445
+01:13:32,730 --> 01:13:35,250
+if most of the trading is happening here?
+
+1446
+01:13:36,500 --> 01:13:37,200
+Inside there?
+
+1447
+01:13:37,880 --> 01:13:38,740
+Yeah, on EBS.
+
+1448
+01:13:40,360 --> 01:13:45,420
+So the Euro-USD prices that you see on your charts
+
+1449
+01:13:45,420 --> 01:13:48,420
+would have been being made on EBS.
+
+1450
+01:13:49,080 --> 01:13:49,320
+Yeah.
+
+1451
+01:13:51,400 --> 01:13:51,680
+All right?
+
+1452
+01:13:51,880 --> 01:13:52,600
+Now, the way it worked.
+
+1453
+01:13:53,400 --> 01:13:56,260
+You had Bank 1, Bank 2, Bank 3, Bank 4.
+
+1454
+01:13:56,260 --> 01:13:58,020
+I'll just do it separately here.
+
+1455
+01:13:59,680 --> 01:14:09,180
+They're all connected to EBS, but they also, that's the interbank, and then they also have clients, client, client, client, client.
+
+1456
+01:14:12,820 --> 01:14:19,340
+They would look at the best bid, best offer changes on EBS.
+
+1457
+01:14:19,900 --> 01:14:34,720
+So if price went up by one pip, price went down by one pip, price went down by four pips, whatever, the information that was occurring on EBS would result in them change.
+
+1458
+01:14:34,740 --> 01:14:38,700
+in their prices that they update to their customers.
+
+1459
+01:14:39,770 --> 01:14:40,590
+Think about it previously.
+
+1460
+01:14:40,730 --> 01:14:43,730
+These banks were connected individually directly to each other.
+
+1461
+01:14:44,410 --> 01:14:48,800
+So they were just quoting whatever quotes they could get access to
+
+1462
+01:14:48,800 --> 01:14:50,540
+and obviously based on the customer.
+
+1463
+01:14:51,090 --> 01:14:54,790
+But now because of EBS, there's a single quote
+
+1464
+01:14:54,790 --> 01:14:59,700
+that all these other guys are looking at the same quotes being set amongst each other
+
+1465
+01:14:59,700 --> 01:15:04,380
+and it resulted in a better, you know, what do you call it,
+
+1466
+01:15:04,380 --> 01:15:05,980
+better distribution of prices
+
+1467
+01:15:05,980 --> 01:15:07,520
+to the second tier of the market
+
+1468
+01:15:07,520 --> 01:15:10,040
+a more fairer distribution of prices
+
+1469
+01:15:10,040 --> 01:15:13,870
+to the customer segment of the market
+
+1470
+01:15:13,870 --> 01:15:16,410
+now there is a reason why I'm talking about this
+
+1471
+01:15:16,410 --> 01:15:21,130
+when a dealer
+
+1472
+01:15:21,130 --> 01:15:23,890
+offloads certain currency risk
+
+1473
+01:15:23,890 --> 01:15:26,830
+or toxic infantry to dealer too
+
+1474
+01:15:26,830 --> 01:15:27,930
+we know what happens yeah
+
+1475
+01:15:27,930 --> 01:15:30,780
+it results in that hot potato trading
+
+1476
+01:15:30,780 --> 01:15:34,130
+now what about then
+
+1477
+01:15:34,130 --> 01:15:37,130
+if a client came to bank here
+
+1478
+01:15:37,130 --> 01:15:39,210
+this client is a worthy client.
+
+1479
+01:15:39,790 --> 01:15:40,750
+They're a valued client.
+
+1480
+01:15:41,940 --> 01:15:43,880
+The client wants to fill 60 million.
+
+1481
+01:15:45,400 --> 01:15:46,040
+Big transaction.
+
+1482
+01:15:47,500 --> 01:15:49,360
+Client instructs the bank to fill 60 million.
+
+1483
+01:15:49,980 --> 01:15:50,980
+Banks like, fuck that.
+
+1484
+01:15:51,060 --> 01:15:53,500
+We can't take 60 million risk on like that.
+
+1485
+01:15:53,800 --> 01:15:54,460
+We need to hedge it.
+
+1486
+01:15:55,630 --> 01:15:59,530
+So Bank One goes into EBS and lifts 60 million.
+
+1487
+01:15:59,610 --> 01:16:01,350
+They're pushing 60 million.
+
+1488
+01:16:01,670 --> 01:16:03,970
+When one million is filled here, they fill one million.
+
+1489
+01:16:04,090 --> 01:16:06,130
+When 60 million is done, they fill 60 million.
+
+1490
+01:16:06,250 --> 01:16:06,730
+Did you get it?
+
+1491
+01:16:07,570 --> 01:16:10,940
+In that process,
+
+1492
+01:16:10,940 --> 01:16:13,340
+imagine hot potato trading kicked off
+
+1493
+01:16:13,340 --> 01:16:15,420
+so this guy brought 60 million
+
+1494
+01:16:15,420 --> 01:16:16,920
+he brought it off this guy
+
+1495
+01:16:16,920 --> 01:16:19,100
+this guy sold he's now short
+
+1496
+01:16:19,100 --> 01:16:20,920
+he needs to get out short position
+
+1497
+01:16:20,920 --> 01:16:22,240
+because price is moving against him
+
+1498
+01:16:22,240 --> 01:16:24,940
+and he doesn't want to be short
+
+1499
+01:16:24,940 --> 01:16:26,640
+if one of his competitors is long
+
+1500
+01:16:26,640 --> 01:16:28,810
+so he longs it
+
+1501
+01:16:28,810 --> 01:16:30,850
+this guy's short he longs it this guy's short
+
+1502
+01:16:30,850 --> 01:16:31,970
+everybody's longing now yeah
+
+1503
+01:16:31,970 --> 01:16:34,070
+price is moving up now
+
+1504
+01:16:34,070 --> 01:16:38,400
+where the prices are set
+
+1505
+01:16:38,400 --> 01:16:39,580
+prices are made here
+
+1506
+01:16:39,580 --> 01:16:40,680
+prices are moving up
+
+1507
+01:16:40,680 --> 01:16:42,170
+the original client
+
+1508
+01:16:42,190 --> 01:16:44,070
+getting worse and worse and worse prices.
+
+1509
+01:16:44,470 --> 01:16:48,390
+The volatility, basically, was greater back then
+
+1510
+01:16:48,390 --> 01:16:50,770
+because of this information that's leaking.
+
+1511
+01:16:51,530 --> 01:16:56,290
+The client's order flow information was leaking onto this platform
+
+1512
+01:16:56,290 --> 01:17:00,530
+where all these other liquidity providers would then respond
+
+1513
+01:17:00,530 --> 01:17:05,330
+and cause greater and higher execution costs for the original client
+
+1514
+01:17:05,330 --> 01:17:07,290
+as a result of information leakage.
+
+1515
+01:17:08,480 --> 01:17:10,620
+So that was one of the problems EBS posed.
+
+1516
+01:17:13,020 --> 01:17:13,660
+Do you get it?
+
+1517
+01:17:15,460 --> 01:17:27,160
+Imagine that when this client goes long in a second scenario, he goes along 60 million with a bank.
+
+1518
+01:17:27,710 --> 01:17:36,920
+The bank decides to fill him 60 million, and none of that 60 million ever, ever reaches the EBS market.
+
+1519
+01:17:37,780 --> 01:17:39,940
+The bank just deals with that risk in a different way.
+
+1520
+01:17:41,650 --> 01:17:43,210
+None of these other banks are wiser.
+
+1521
+01:17:43,710 --> 01:17:51,090
+They never, ever know about that transaction that just occurred, who it occurred from, what size that volume was.
+
+1522
+01:17:51,410 --> 01:17:52,950
+never ever find out about it.
+
+1523
+01:17:53,970 --> 01:17:55,590
+There's less information that leaked.
+
+1524
+01:17:56,470 --> 01:18:00,330
+Meaning lower information leakage,
+
+1525
+01:18:00,890 --> 01:18:02,470
+price moves less against,
+
+1526
+01:18:02,770 --> 01:18:04,390
+adversity against this guy's,
+
+1527
+01:18:04,690 --> 01:18:05,010
+you know,
+
+1528
+01:18:05,050 --> 01:18:05,810
+he's trying to buy.
+
+1529
+01:18:06,110 --> 01:18:08,290
+He wants price to not move up as much as possible.
+
+1530
+01:18:08,750 --> 01:18:10,570
+He wants to buy it at the price he's trying to buy up,
+
+1531
+01:18:11,670 --> 01:18:11,910
+right?
+
+1532
+01:18:13,470 --> 01:18:14,630
+He doesn't want slippage, basically.
+
+1533
+01:18:14,870 --> 01:18:16,530
+And because information isn't leaking,
+
+1534
+01:18:17,130 --> 01:18:19,200
+it causes less slippage
+
+1535
+01:18:19,200 --> 01:18:21,320
+and this guy gets a better execution.
+
+1536
+01:18:22,920 --> 01:18:23,700
+But as of right now,
+
+1537
+01:18:23,820 --> 01:18:25,420
+this 1990s part of,
+
+1538
+01:18:25,440 --> 01:18:32,340
+of FX, information was leaking quite frequently through EBS, resulting in hot potato trading,
+
+1539
+01:18:33,380 --> 01:18:40,580
+very, very important part and implication of trading through EBS, where all the volume kind of,
+
+1540
+01:18:40,980 --> 01:18:50,190
+a good majority of it was trading through EBS. Another point to make here is this client's 60 million
+
+1541
+01:18:50,190 --> 01:18:57,550
+ended up eventually on EBS and the price has started to move there and then the rest of these guys
+
+1542
+01:18:57,550 --> 01:19:01,710
+would have responded. And there's obviously this guy would have responded as well in his
+
+1543
+01:19:01,710 --> 01:19:12,420
+prices. So what I'm saying is volume, price change on EBS. So information is embedded, put into EBS,
+
+1544
+01:19:12,620 --> 01:19:20,880
+EBS forms the price, and then that price is reflected back out to the market. In other words,
+
+1545
+01:19:21,320 --> 01:19:28,180
+those who were sitting on EBS had an informational advantage over the end receivers of the price,
+
+1546
+01:19:28,180 --> 01:19:36,720
+because information came to EBS first, imagine a bus route, first stop, and then second
+
+1547
+01:19:36,720 --> 01:19:42,640
+stop back out to market. The first stop gets picked up quicker. The information reaches the
+
+1548
+01:19:42,640 --> 01:19:47,640
+first stop. The bus reaches the first stop quicker. The information reaches EBS quicker first.
+
+1549
+01:19:47,640 --> 01:19:54,380
+Price changes there first and then goes back out to the market. Imagine that difference
+
+1550
+01:19:54,380 --> 01:20:00,850
+was one second. Imagine within that second you could trade a million times, a thousand
+
+1551
+01:20:00,870 --> 01:20:03,970
+times a hundred times man you're
+
+1552
+01:20:03,970 --> 01:20:05,250
+fucking years ahead of the market
+
+1553
+01:20:05,250 --> 01:20:07,710
+you get it but
+
+1554
+01:20:07,710 --> 01:20:09,890
+I wasn't necessarily the case back then banks
+
+1555
+01:20:09,890 --> 01:20:12,010
+back in 1990s they didn't
+
+1556
+01:20:12,010 --> 01:20:13,490
+have hence why
+
+1557
+01:20:13,490 --> 01:20:15,430
+you know EBS had to come through
+
+1558
+01:20:15,430 --> 01:20:17,830
+but in 1990s they didn't have the
+
+1559
+01:20:17,830 --> 01:20:20,010
+necessary infrastructure to kind of take advantage
+
+1560
+01:20:20,010 --> 01:20:22,150
+of that information in one second
+
+1561
+01:20:22,150 --> 01:20:23,990
+they definitely had information on the advantages
+
+1562
+01:20:23,990 --> 01:20:25,650
+over their clients definitely
+
+1563
+01:20:25,650 --> 01:20:27,690
+they knew more about currency
+
+1564
+01:20:27,690 --> 01:20:29,350
+they knew more about who would decide stronger
+
+1565
+01:20:29,350 --> 01:20:32,160
+weaker but they didn't
+
+1566
+01:20:32,180 --> 01:20:34,000
+necessarily have the technological
+
+1567
+01:20:34,000 --> 01:20:36,160
+capabilities to exploit the
+
+1568
+01:20:36,160 --> 01:20:38,080
+one, two second differences as they do
+
+1569
+01:20:38,080 --> 01:20:40,900
+today. All right?
+
+1570
+01:20:42,060 --> 01:20:44,500
+But one of the important points
+
+1571
+01:20:44,500 --> 01:20:46,540
+I'm also raising here is
+
+1572
+01:20:46,540 --> 01:20:48,160
+that you have interbank
+
+1573
+01:20:48,160 --> 01:20:50,340
+connected to EBS
+
+1574
+01:20:50,340 --> 01:20:55,910
+and that is only for the
+
+1575
+01:20:55,910 --> 01:20:57,990
+interbank banks. And then
+
+1576
+01:20:57,990 --> 01:20:59,810
+you had the tier two of the market where those
+
+1577
+01:20:59,810 --> 01:21:01,670
+prices are pushed out to here.
+
+1578
+01:21:03,370 --> 01:21:04,910
+All right, let me introduce you to
+
+1579
+01:21:04,910 --> 01:21:06,850
+another fucking issue that clients
+
+1580
+01:21:06,850 --> 01:21:10,350
+had. Each bank is a market.
+
+1581
+01:21:10,370 --> 01:21:13,950
+maker, a liquidity provider, they have a bid and ask, yeah?
+
+1582
+01:21:24,610 --> 01:21:25,890
+What's the best bid, best offer?
+
+1583
+01:21:27,980 --> 01:21:28,720
+You don't know?
+
+1584
+01:21:29,160 --> 01:21:29,900
+You don't know.
+
+1585
+01:21:29,980 --> 01:21:30,720
+As a client, yeah?
+
+1586
+01:21:30,760 --> 01:21:35,420
+Because as a client who's here, you can't fucking see what's on EBS, not part of it.
+
+1587
+01:21:37,670 --> 01:21:40,950
+However, you have one bank, two bank, three bank, four banks giving you all different
+
+1588
+01:21:40,950 --> 01:21:41,350
+prices.
+
+1589
+01:21:41,970 --> 01:21:46,640
+The problem is, this guy's sell price might be cheaper.
+
+1590
+01:21:46,940 --> 01:21:49,280
+This guy's sell price might be the most competitive.
+
+1591
+01:21:49,580 --> 01:21:50,340
+They're two different banks.
+
+1592
+01:21:51,180 --> 01:21:53,820
+Theoretically, you'd think if you just go buy there or whatever, right?
+
+1593
+01:21:53,840 --> 01:22:26,710
+Yeah. The problem is to trade with a bank, you need a relationship with it. To trade with a bank, you settle in two days, which means you need credit relationship. In other words, if I am a client of the bank, it's not just a piece of paper, hey, you're my client. No, you deposit margin with them. Just like you have margin with your broker. You deposit margin with bank one. So this client has 500, a small amount. That's a very, very small amount of margin, very small, but 500K.
+
+1594
+01:22:26,790 --> 01:22:34,200
+And then one day it turns out that Bank 4 has consistently cheaper prices on the ASC
+
+1595
+01:22:34,200 --> 01:22:36,780
+and Bank 1 has consistently cheaper prices on the bid.
+
+1596
+01:22:37,600 --> 01:22:42,040
+Well, if client fucking 4 wants to trade here, he needs to deposit another 500K with him.
+
+1597
+01:22:42,910 --> 01:22:47,670
+And then if he wants to trade another bank, he needs to deposit another 500K with him.
+
+1598
+01:22:48,110 --> 01:22:55,450
+Now this guy's got 1.5 million exposure just in margin across three risk-taking institutions
+
+1599
+01:22:55,450 --> 01:22:56,910
+who might go bust at any time.
+
+1600
+01:22:56,910 --> 01:22:59,310
+he has three different counterparty
+
+1601
+01:22:59,310 --> 01:23:00,890
+and default risks
+
+1602
+01:23:00,890 --> 01:23:03,750
+yeah that's a lot of risk
+
+1603
+01:23:03,750 --> 01:23:04,950
+yeah basically
+
+1604
+01:23:04,950 --> 01:23:06,430
+risk is high
+
+1605
+01:23:06,430 --> 01:23:09,630
+so there's now another
+
+1606
+01:23:09,630 --> 01:23:10,710
+gap in the market
+
+1607
+01:23:10,710 --> 01:23:13,570
+what if this client
+
+1608
+01:23:13,570 --> 01:23:16,190
+could access all the bank's quotes
+
+1609
+01:23:16,190 --> 01:23:18,610
+but just through one bank
+
+1610
+01:23:18,610 --> 01:23:19,790
+because like I said
+
+1611
+01:23:19,790 --> 01:23:22,580
+these banks have credit relationships
+
+1612
+01:23:22,580 --> 01:23:23,220
+with each other
+
+1613
+01:23:23,220 --> 01:23:24,060
+yeah
+
+1614
+01:23:24,060 --> 01:23:27,770
+right so maybe this client
+
+1615
+01:23:27,770 --> 01:23:29,830
+can just be a client of bank one
+
+1616
+01:23:29,830 --> 01:23:34,550
+and if he wants to trade at bank four's quote
+
+1617
+01:23:34,550 --> 01:23:38,470
+bank one will do it for him through him
+
+1618
+01:23:38,470 --> 01:23:41,150
+he will trade at bank four's quote through bank one
+
+1619
+01:23:41,150 --> 01:23:43,670
+on bank one's name on bank one's relationship
+
+1620
+01:23:43,670 --> 01:23:46,190
+so if you came to notting them
+
+1621
+01:23:46,190 --> 01:23:50,240
+and you didn't know someone
+
+1622
+01:23:50,240 --> 01:23:53,580
+all right you didn't know anyone
+
+1623
+01:23:53,580 --> 01:23:58,390
+and I don't know how to take
+
+1624
+01:23:58,390 --> 01:24:00,290
+that's not a great analogy imagine
+
+1625
+01:24:00,290 --> 01:24:03,930
+you have a shop on the high street yeah
+
+1626
+01:24:03,930 --> 01:24:07,880
+and you need to get some
+
+1627
+01:24:07,880 --> 01:24:12,500
+okay not a great fucking analogy
+
+1628
+01:24:12,500 --> 01:24:13,620
+but anyway the point of making is
+
+1629
+01:24:13,620 --> 01:24:15,700
+you might have relationships with someone
+
+1630
+01:24:15,700 --> 01:24:18,960
+that sells weed
+
+1631
+01:24:18,960 --> 01:24:20,040
+you sell weed as well
+
+1632
+01:24:20,040 --> 01:24:22,530
+I need to access some weed
+
+1633
+01:24:22,530 --> 01:24:23,450
+but you haven't got it
+
+1634
+01:24:23,450 --> 01:24:25,410
+maybe I can go through you
+
+1635
+01:24:25,410 --> 01:24:28,140
+to your boy and get weed from him
+
+1636
+01:24:28,140 --> 01:24:29,570
+right
+
+1637
+01:24:29,570 --> 01:24:31,790
+so I rode on your name
+
+1638
+01:24:31,790 --> 01:24:33,130
+and your relationship
+
+1639
+01:24:33,130 --> 01:24:34,830
+maybe your boy never knew
+
+1640
+01:24:34,830 --> 01:24:35,810
+it was me behind it
+
+1641
+01:24:35,810 --> 01:24:37,070
+maybe me and your boy had beef
+
+1642
+01:24:37,070 --> 01:24:39,210
+but at the end of the day
+
+1643
+01:24:39,210 --> 01:24:40,510
+I went through you
+
+1644
+01:24:40,510 --> 01:24:41,870
+you went to pick up the PIF
+
+1645
+01:24:41,870 --> 01:24:43,470
+you did all the money transactions
+
+1646
+01:24:43,470 --> 01:24:45,210
+and whatnot and then you eventually come back to me
+
+1647
+01:24:45,210 --> 01:24:46,890
+and you might take a few grams
+
+1648
+01:24:46,890 --> 01:24:47,830
+right
+
+1649
+01:24:47,830 --> 01:24:50,390
+that's you're essentially
+
+1650
+01:24:50,390 --> 01:24:52,580
+brokering that situation
+
+1651
+01:24:52,580 --> 01:24:53,680
+yeah
+
+1652
+01:24:53,680 --> 01:24:56,020
+it's called prime brokerage
+
+1653
+01:24:56,020 --> 01:24:57,660
+but doesn't that like
+
+1654
+01:24:57,660 --> 01:24:59,880
+so for example in that bank one
+
+1655
+01:24:59,880 --> 01:25:02,860
+doesn't he get anything out of
+
+1656
+01:25:02,860 --> 01:25:04,980
+yeah
+
+1657
+01:25:04,980 --> 01:25:06,200
+oh he does okay
+
+1658
+01:25:06,200 --> 01:25:07,160
+so look
+
+1659
+01:25:07,160 --> 01:25:09,940
+The point I'm making here is there was a gap in the market.
+
+1660
+01:25:10,220 --> 01:25:14,780
+EBS originally fixed that gap in the market for credit intermediation and connecting banks together.
+
+1661
+01:25:14,940 --> 01:25:16,360
+They took some market share away from them.
+
+1662
+01:25:17,020 --> 01:25:20,360
+Each transaction that happens on EPS, EPS probably takes a small, small commission.
+
+1663
+01:25:21,500 --> 01:25:26,520
+If you trade a million, which is 10 lots, it's probably going to be about $60, $60 you pay.
+
+1664
+01:25:28,840 --> 01:25:31,720
+$30 in, $30 out, $60 you pay.
+
+1665
+01:25:32,080 --> 01:25:35,680
+If you trade $1 million on EBS, it's probably like $1 or $2 at the bank's pay.
+
+1666
+01:25:36,040 --> 01:25:36,400
+For call.
+
+1667
+01:25:37,180 --> 01:25:37,620
+Okay.
+
+1668
+01:25:37,620 --> 01:25:43,780
+So even though EBS makes a lot of transactions or facilitates a lot of transactions,
+
+1669
+01:25:44,780 --> 01:25:47,500
+they're still capturing some market shares.
+
+1670
+01:25:47,660 --> 01:25:49,280
+They're still capturing some money from it.
+
+1671
+01:25:50,250 --> 01:25:51,950
+Bank, they have services.
+
+1672
+01:25:52,350 --> 01:25:55,150
+They have a market-making service, liquidity providing service, the same thing.
+
+1673
+01:25:55,530 --> 01:25:57,250
+But now there's this gap in the market.
+
+1674
+01:25:57,550 --> 01:26:02,070
+They can connect this client to all the other banks as a potential another revenue stream.
+
+1675
+01:26:03,630 --> 01:26:05,210
+It's another part of their business they can offer.
+
+1676
+01:26:06,930 --> 01:26:09,610
+So yeah, they do make money from it.
+
+1677
+01:26:09,670 --> 01:26:18,080
+It's a revenue stream and they'll capture commissions, at least commissions, from the volume traded.
+
+1678
+01:26:20,450 --> 01:26:28,380
+Also, the client who's a prime, basically that service is called prime brokerage, right?
+
+1679
+01:26:30,880 --> 01:26:36,720
+What we're going to say?
+
+1680
+01:26:37,520 --> 01:26:39,540
+Yeah, you have to post margins still.
+
+1681
+01:26:41,580 --> 01:26:42,680
+You have to post margin.
+
+1682
+01:26:43,080 --> 01:26:49,680
+Now, the problem is back then, or at least, so what happened in 2000s is internet kind of blew up
+
+1683
+01:26:49,680 --> 01:26:52,360
+from 2000, 2000, and 3, et cetera,
+
+1684
+01:26:52,480 --> 01:26:53,740
+the internet blew up.
+
+1685
+01:26:55,010 --> 01:26:57,710
+And retail outfits,
+
+1686
+01:26:57,970 --> 01:27:00,530
+so small brokers, start to offer an internet,
+
+1687
+01:27:00,670 --> 01:27:02,910
+yeah, so retail outfits started to offer effects
+
+1688
+01:27:02,910 --> 01:27:05,880
+and trading services, really,
+
+1689
+01:27:06,040 --> 01:27:07,160
+to retail clients.
+
+1690
+01:27:07,320 --> 01:27:09,840
+That's where really the retail market started to blow up.
+
+1691
+01:27:10,490 --> 01:27:10,950
+Do you get it?
+
+1692
+01:27:12,770 --> 01:27:14,690
+Now, obviously, if I'm a broker,
+
+1693
+01:27:14,970 --> 01:27:16,410
+so imagine I set up a brokerage,
+
+1694
+01:27:18,460 --> 01:27:20,260
+where do I get my quotes from?
+
+1695
+01:27:20,260 --> 01:27:22,940
+Well, theoretically, you know, I can go to a bank.
+
+1696
+01:27:23,120 --> 01:27:24,420
+The bank sells quotes.
+
+1697
+01:27:24,540 --> 01:27:25,080
+They sell liquidity.
+
+1698
+01:27:25,860 --> 01:27:26,980
+I'm buying liquidity.
+
+1699
+01:27:27,940 --> 01:27:31,910
+I'm reselling it to the client, to my retail client.
+
+1700
+01:27:32,710 --> 01:27:35,890
+But originally I'm buying liquidity and later selling it on.
+
+1701
+01:27:38,690 --> 01:27:42,050
+But sometimes brokers, they want to get the best prices from all the banks.
+
+1702
+01:27:42,570 --> 01:27:46,700
+So they would also apply for the prime brokerage, part of the bank.
+
+1703
+01:27:46,940 --> 01:27:52,060
+And they would be able to access all of these quotes from all the other banks, take the best bid, best offer,
+
+1704
+01:27:52,060 --> 01:27:58,170
+resell it onto their client by adding on a spread, right?
+
+1705
+01:27:59,370 --> 01:28:06,910
+So Bank One has a bid and ask with a spread of 0.9 pips.
+
+1706
+01:28:07,660 --> 01:28:15,520
+Bank two has a spread of four pips, bid and ask, and six pips spread, seven pips spread, whatever.
+
+1707
+01:28:16,800 --> 01:28:18,960
+The tighter spreads happen to be with bank one.
+
+1708
+01:28:21,300 --> 01:28:26,710
+The broker can take that spread for himself and really,
+
+1709
+01:28:26,730 --> 01:28:32,710
+sell that liquidity to you with a five hip spread. So in other words, here's a bid, here's
+
+1710
+01:28:32,710 --> 01:28:38,740
+a ask. If you want to buy as a retail client at my brokerage firm, you buy on the ask
+
+1711
+01:28:38,740 --> 01:28:50,200
+price, which is here. However, the broker can immediately hedge your trade at a much,
+
+1712
+01:28:50,200 --> 01:28:59,240
+much, much, much cheaper price. So when you buy, I sell to you. I sell to you at a price where
+
+1713
+01:28:59,240 --> 01:29:00,280
+I've added the spread on.
+
+1714
+01:29:00,460 --> 01:29:02,020
+Basically, I've increased the price.
+
+1715
+01:29:03,880 --> 01:29:07,260
+However, I can, so, you know, I need actual numbers for this.
+
+1716
+01:29:13,050 --> 01:29:15,970
+So we're going to look at fucking something simple.
+
+1717
+01:29:19,140 --> 01:29:20,160
+GbPUST.
+
+1718
+01:29:20,340 --> 01:29:21,080
+It's quite simple.
+
+1719
+01:29:21,240 --> 01:29:25,860
+So let's just say GbPUST was 1.3164.
+
+1720
+01:29:26,260 --> 01:29:27,240
+That's the bid.
+
+1721
+01:29:27,640 --> 01:29:30,120
+1.3165.
+
+1722
+01:29:30,200 --> 01:29:31,100
+That's a one-p spread.
+
+1723
+01:29:32,490 --> 01:29:37,220
+This bank was 644, all the way to,
+
+1724
+01:29:37,240 --> 01:29:39,620
+6.8.
+
+1725
+01:29:40,100 --> 01:29:40,680
+That's a
+
+1726
+01:29:40,680 --> 01:29:42,560
+3.6 pip spread.
+
+1727
+01:29:43,320 --> 01:29:43,440
+Yeah?
+
+1728
+01:29:44,720 --> 01:29:45,520
+Et cetera, et cetera.
+
+1729
+01:29:47,900 --> 01:29:49,280
+What is the best
+
+1730
+01:29:49,280 --> 01:29:50,440
+prices for the bid
+
+1731
+01:29:50,440 --> 01:29:51,540
+and one of the best prices
+
+1732
+01:29:51,540 --> 01:29:52,700
+for the ask in this market?
+
+1733
+01:29:54,230 --> 01:29:55,010
+In the first one?
+
+1734
+01:29:56,270 --> 01:29:56,490
+Yeah.
+
+1735
+01:29:56,850 --> 01:29:57,790
+So, no, no, no, it's not.
+
+1736
+01:29:57,890 --> 01:29:58,190
+It's not.
+
+1737
+01:30:02,660 --> 01:30:04,300
+What's the best, what's the best
+
+1738
+01:30:04,300 --> 01:30:04,960
+bid, best offer?
+
+1739
+01:30:06,290 --> 01:30:08,290
+Not the spread, the best fit, best offer.
+
+1740
+01:30:10,910 --> 01:30:11,270
+Oh.
+
+1741
+01:30:13,580 --> 01:30:14,380
+Yeah, second.
+
+1742
+01:30:14,660 --> 01:30:14,800
+Yeah.
+
+1743
+01:30:15,520 --> 01:30:16,640
+The spread's better in the first
+
+1744
+01:30:16,640 --> 01:30:18,940
+but the offers bear in the second
+
+1745
+01:30:18,940 --> 01:30:20,140
+no
+
+1746
+01:30:20,140 --> 01:30:23,890
+the bid from the second
+
+1747
+01:30:23,890 --> 01:30:25,030
+the offer from the first
+
+1748
+01:30:25,030 --> 01:30:27,030
+wait hold on
+
+1749
+01:30:27,030 --> 01:30:31,120
+so this guy is buying at the most expensive price
+
+1750
+01:30:31,120 --> 01:30:33,200
+and this guy's selling at the cheapest price
+
+1751
+01:30:33,200 --> 01:30:37,480
+3164
+
+1752
+01:30:37,480 --> 01:30:40,290
+oh okay I couldn't see the
+
+1753
+01:30:40,290 --> 01:30:41,470
+the figures of the
+
+1754
+01:30:41,470 --> 01:30:42,810
+yeah I couldn't see that
+
+1755
+01:30:42,810 --> 01:30:44,710
+yeah so that's that's
+
+1756
+01:30:44,710 --> 01:30:46,790
+bank one that's a bid
+
+1757
+01:30:46,790 --> 01:30:48,110
+that's a bid one from bank one
+
+1758
+01:30:48,110 --> 01:30:50,720
+and then the bank two has
+
+1759
+01:30:50,720 --> 01:30:53,240
+31644 which is
+
+1760
+01:30:53,260 --> 01:31:07,080
+higher that's bank two and then on the offer side bank one has 3165 and this guy has 3168 so that's bank
+
+1761
+01:31:07,080 --> 01:31:15,700
+two that's bank one bank two has the most expensive bid bank one has the cheapest offer that's the
+
+1762
+01:31:15,700 --> 01:31:26,190
+best bid best offer you get it yeah the real spread is 0.6 pips you follow me
+
+1763
+01:31:26,190 --> 01:31:30,440
+that's what this broker can access through prime brokerage.
+
+1764
+01:31:31,980 --> 01:31:33,920
+So he takes this best bid, best offer.
+
+1765
+01:31:35,770 --> 01:31:40,940
+31644, 3165.
+
+1766
+01:31:41,860 --> 01:31:42,920
+What's in between that?
+
+1767
+01:31:43,180 --> 01:31:44,700
+That's 0.6 in between.
+
+1768
+01:31:46,150 --> 01:31:49,830
+The middle price then becomes 35, 36, 37.
+
+1769
+01:31:49,910 --> 01:31:52,840
+Let's just call it 3167.
+
+1770
+01:31:53,840 --> 01:31:54,380
+You follow me?
+
+1771
+01:31:54,680 --> 01:31:56,140
+That's the mid price.
+
+1772
+01:31:56,140 --> 01:31:58,880
+He adds 2.5 pips there.
+
+1773
+01:31:58,880 --> 01:32:01,140
+He minuses 2.5 pips there.
+
+1774
+01:32:01,300 --> 01:32:01,660
+What's that?
+
+1775
+01:32:02,900 --> 01:32:04,860
+3167, 31695.
+
+1776
+01:32:08,240 --> 01:32:09,120
+That's the offer.
+
+1777
+01:32:10,970 --> 01:32:14,010
+31645.
+
+1778
+01:32:15,020 --> 01:32:16,740
+That's the bid, I think.
+
+1779
+01:32:18,460 --> 01:32:19,220
+Yeah, that's the bid.
+
+1780
+01:32:19,930 --> 01:32:21,450
+These are the prices you're getting.
+
+1781
+01:32:21,570 --> 01:32:22,810
+These are the prices I'm giving to you.
+
+1782
+01:32:24,000 --> 01:32:25,920
+Can you see how there's a 5 pip spread between that?
+
+1783
+01:32:29,670 --> 01:32:33,110
+Really, the broker can access a 0.6 pip spread.
+
+1784
+01:32:33,110 --> 01:32:35,320
+me, I can access
+
+1785
+01:32:35,320 --> 01:32:36,400
+0.6 pips spread
+
+1786
+01:32:36,400 --> 01:32:38,040
+but because you're buying
+
+1787
+01:32:38,040 --> 01:32:39,540
+off me and I'm buying off the bank
+
+1788
+01:32:39,540 --> 01:32:41,160
+I'm going to sell it to you for more expensive
+
+1789
+01:32:41,160 --> 01:32:44,400
+I sell it to you with a 5 pip spread
+
+1790
+01:32:44,400 --> 01:32:46,950
+you follow me
+
+1791
+01:32:46,950 --> 01:32:49,410
+so when you buy
+
+1792
+01:32:49,410 --> 01:32:50,950
+you buy at 3169
+
+1793
+01:32:50,950 --> 01:32:53,410
+I short at 3169
+
+1794
+01:32:53,410 --> 01:32:55,550
+I immediately go to the bank
+
+1795
+01:32:55,550 --> 01:32:59,650
+and I buy at 3165
+
+1796
+01:32:59,650 --> 01:33:01,310
+I capture 4.5 pips
+
+1797
+01:33:01,310 --> 01:33:02,210
+like that
+
+1798
+01:33:02,210 --> 01:33:06,340
+you got filled at that
+
+1799
+01:33:06,340 --> 01:33:08,360
+you got filled at the
+
+1800
+01:33:08,360 --> 01:33:15,280
+spread that you accepted as a retail client. I had direct access to the to the bank. I got a better
+
+1801
+01:33:15,280 --> 01:33:20,540
+price and I hedged the risk straight away. If I wanted to, if I, you know, did you get it?
+
+1802
+01:33:21,600 --> 01:33:27,320
+Yeah. Basically, I'm saying brokers add on a spread to the, to the prices that they get from
+
+1803
+01:33:27,320 --> 01:33:36,420
+the market. The market is the interbank. Anyway, what happened is banks got too complacent with
+
+1804
+01:33:36,420 --> 01:33:38,660
+handing out these prime brokerage relationships
+
+1805
+01:33:38,660 --> 01:33:40,500
+to anybody, you have to remember
+
+1806
+01:33:40,500 --> 01:33:44,570
+with a prime brokerage relationship,
+
+1807
+01:33:45,780 --> 01:33:47,660
+they're giving you access to all these other banks.
+
+1808
+01:33:48,540 --> 01:33:51,850
+They're also giving you access to credit.
+
+1809
+01:33:52,750 --> 01:33:55,610
+So here's a prime brokerage.
+
+1810
+01:33:55,930 --> 01:33:56,870
+I'm a broker.
+
+1811
+01:33:57,350 --> 01:33:58,690
+The prime brokerage says,
+
+1812
+01:34:00,980 --> 01:34:02,760
+give us 100 million.
+
+1813
+01:34:05,420 --> 01:34:06,720
+And in exchange,
+
+1814
+01:34:07,000 --> 01:34:09,060
+you can open up up to
+
+1815
+01:34:09,060 --> 01:34:12,640
+$5 billion worth of exposure
+
+1816
+01:34:12,640 --> 01:34:13,500
+at any given time.
+
+1817
+01:34:15,600 --> 01:34:16,280
+You know what that is?
+
+1818
+01:34:17,600 --> 01:34:19,100
+That works out to be
+
+1819
+01:34:19,100 --> 01:34:41,680
+50 times leverage,
+
+1820
+01:34:41,800 --> 01:34:42,720
+50 to one leverage.
+
+1821
+01:34:43,700 --> 01:34:44,300
+That's what it is.
+
+1822
+01:34:44,580 --> 01:34:45,680
+The prime brokerage is saying,
+
+1823
+01:34:46,300 --> 01:34:47,240
+give us 100 million.
+
+1824
+01:34:48,230 --> 01:34:49,270
+That's 100,000.
+
+1825
+01:34:49,370 --> 01:34:49,750
+What I'm saying?
+
+1826
+01:34:49,870 --> 01:34:50,630
+100,000, yeah?
+
+1827
+01:34:51,430 --> 01:34:52,330
+Whatever it is.
+
+1828
+01:34:52,530 --> 01:34:54,570
+100 million is what it's meant to be.
+
+1829
+01:34:56,230 --> 01:34:59,830
+And if you post 100 million with us in cash,
+
+1830
+01:35:00,470 --> 01:35:01,550
+we will, in exchange,
+
+1831
+01:35:01,610 --> 01:35:04,530
+you give you $5 billion worth of exposure.
+
+1832
+01:35:04,930 --> 01:35:07,070
+So you can open up a transaction.
+
+1833
+01:35:07,090 --> 01:35:11,700
+transaction with $5 billion, and your margin is $100 million.
+
+1834
+01:35:11,820 --> 01:35:12,200
+Do you get it?
+
+1835
+01:35:12,460 --> 01:35:12,640
+Yeah.
+
+1836
+01:35:13,320 --> 01:35:14,500
+It's 50 to one leverage.
+
+1837
+01:35:15,180 --> 01:35:15,980
+That's just an example.
+
+1838
+01:35:17,180 --> 01:35:23,700
+So in exchange, this broker can actually access billions in leverage on the prime brokerage
+
+1839
+01:35:23,700 --> 01:35:24,960
+relationship, just the same way.
+
+1840
+01:35:24,960 --> 01:35:35,180
+If you have 500 to one leverage on IC markets, you can post 200, 200 pound-ish, or $200,
+
+1841
+01:35:35,760 --> 01:35:38,480
+and open up one lot, which is 100K.
+
+1842
+01:35:38,500 --> 01:36:13,600
+yeah all right so they're just given them access to leverage the posting of real margin for that obviously you have to maintain the correct margin levels and they're able to access equity from the other banks and I'll leave you at that right and we'll leave you at that next session we're going to discuss how doing this allowed some information to be hidden at least the client's identity is hidden we're also going to discuss our prime brokerage blew up
+
+1843
+01:36:13,620 --> 01:36:15,620
+Some banks took on too much risk.
+
+1844
+01:36:16,400 --> 01:36:22,620
+In 2015, some brokers owed banks up to $300 million.
+
+1845
+01:36:25,590 --> 01:36:28,930
+FXM owed their prime broker $300 million.
+
+1846
+01:36:29,170 --> 01:36:31,070
+They had to take a loan now for $300 million.
+
+1847
+01:36:31,910 --> 01:36:34,660
+A new investor came, brought the company,
+
+1848
+01:36:35,440 --> 01:36:37,860
+got them out of $300 million, how we'll give it a loan, basically.
+
+1849
+01:36:38,720 --> 01:36:41,000
+And that's how FXCM still survived today.
+
+1850
+01:36:41,000 --> 01:36:45,080
+In 2015, they got fucked by a flash crash in the Swiss franc.
+
+1851
+01:36:45,320 --> 01:37:15,680
+So the main takeaway is, hopefully you remember this, the structure of the market, trading through EBS, helped it a bit, allowed the banks to offload risk quicker and, you know, the efficiency of price distribution was increased. However, information leakage became more prominent. The information game became more competitive. Banks increased the informational advantage over the rest of the market because prices were made here and then redistribute it.
+
+1852
+01:37:15,700 --> 01:37:16,740
+back out to the market.
+
+1853
+01:37:17,240 --> 01:37:18,880
+This is where prices were formed.
+
+1854
+01:37:19,260 --> 01:37:20,700
+You call that price discovery.
+
+1855
+01:37:21,060 --> 01:37:24,000
+Prices were discovered, formed, made on EBS.
+
+1856
+01:37:24,520 --> 01:37:27,820
+Banks were seeing that first, like the first stop on the bus route.
+
+1857
+01:37:28,360 --> 01:37:32,600
+And then the second, you know, the price was going to the second stop.
+
+1858
+01:37:34,800 --> 01:37:35,020
+All right.
+
+1859
+01:37:36,650 --> 01:37:43,010
+And then prime brokerage allowed bank clients, this client, to access liquidity from all
+
+1860
+01:37:43,010 --> 01:37:43,610
+the other banks.
+
+1861
+01:37:43,950 --> 01:37:47,420
+And we're going to discuss a very, very, yeah.
+
+1862
+01:37:47,520 --> 01:37:49,060
+We're going to discuss the effects of that.
+
+1863
+01:37:50,120 --> 01:37:53,800
+Eventually turned out that clients could now trade on EBS.
+
+1864
+01:37:55,020 --> 01:37:55,800
+Now, think about it.
+
+1865
+01:37:58,560 --> 01:38:06,960
+If clients in the secondary market can see prices being made here first,
+
+1866
+01:38:08,680 --> 01:38:10,540
+imagine they had the technological capacity.
+
+1867
+01:38:13,260 --> 01:38:15,050
+I hope you understand.
+
+1868
+01:38:15,230 --> 01:38:16,850
+So EBS is where prices are made.
+
+1869
+01:38:18,580 --> 01:38:19,940
+Here's the customer segment.
+
+1870
+01:38:20,560 --> 01:38:22,340
+Imagine the customer, this one customer,
+
+1871
+01:38:22,340 --> 01:38:23,900
+could see where the prices are being made.
+
+1872
+01:38:23,920 --> 01:38:27,460
+It obviously takes time for EBS prices to get made
+
+1873
+01:38:27,460 --> 01:38:29,560
+and then the bank to adjust their prices
+
+1874
+01:38:29,560 --> 01:38:30,700
+and resell it back out.
+
+1875
+01:38:32,020 --> 01:38:32,940
+This takes time.
+
+1876
+01:38:35,190 --> 01:38:37,330
+Imagine this client who could see it first here.
+
+1877
+01:38:38,170 --> 01:38:39,750
+By the time it sent out to the market
+
+1878
+01:38:39,750 --> 01:38:42,110
+could take advantage of that information.
+
+1879
+01:38:45,520 --> 01:38:46,920
+Yeah, we'll be a very rich person.
+
+1880
+01:38:48,570 --> 01:38:50,030
+All right, so that's what you call
+
+1881
+01:38:50,030 --> 01:38:52,650
+what HF, basically high-frequency trading systems
+
+1882
+01:38:52,650 --> 01:38:54,340
+can do that.
+
+1883
+01:38:55,070 --> 01:38:58,760
+There was one HFT firm up to 2008
+
+1884
+01:38:58,760 --> 01:39:02,590
+in how many trading years?
+
+1885
+01:39:02,790 --> 01:39:05,790
+I think they had one trading loss
+
+1886
+01:39:05,790 --> 01:39:08,310
+or one trading day that lost
+
+1887
+01:39:08,310 --> 01:39:09,690
+in a whole year.
+
+1888
+01:39:11,000 --> 01:39:11,860
+In a whole year.
+
+1889
+01:39:13,890 --> 01:39:15,590
+HFT loses one day
+
+1890
+01:39:15,590 --> 01:39:19,960
+is a very, very big firm.
+
+1891
+01:39:23,490 --> 01:39:26,310
+Virtue HFD had only one losing date,
+
+1892
+01:39:26,510 --> 01:39:27,270
+Business Insider.
+
+1893
+01:39:28,450 --> 01:39:32,250
+In 1,238 days,
+
+1894
+01:39:32,250 --> 01:39:33,510
+that's 300,
+
+1895
+01:39:33,530 --> 01:39:35,870
+that's four fucking years bro
+
+1896
+01:39:35,870 --> 01:39:38,090
+one lost in four years
+
+1897
+01:39:38,090 --> 01:39:39,990
+one losing day
+
+1898
+01:39:39,990 --> 01:39:41,170
+in four years
+
+1899
+01:39:41,170 --> 01:39:45,380
+that's the type of edge
+
+1900
+01:39:45,380 --> 01:39:46,780
+we're talking about
+
+1901
+01:39:46,780 --> 01:39:48,960
+when you operate on a
+
+1902
+01:39:48,960 --> 01:39:50,180
+sub-second scale
+
+1903
+01:39:50,180 --> 01:39:52,400
+yeah
+
+1904
+01:39:52,400 --> 01:39:54,920
+do you get it
+
+1905
+01:39:54,920 --> 01:39:58,090
+also next session
+
+1906
+01:39:58,090 --> 01:39:59,950
+I'll discuss with you
+
+1907
+01:39:59,950 --> 01:40:01,290
+how co-location
+
+1908
+01:40:01,290 --> 01:40:04,180
+so how high-frequency traders
+
+1909
+01:40:04,180 --> 01:40:06,000
+or systems at least
+
+1910
+01:40:06,000 --> 01:40:07,890
+position themselves
+
+1911
+01:40:07,890 --> 01:40:08,630
+closer
+
+1912
+01:40:08,650 --> 01:40:09,570
+to the exchange
+
+1913
+01:40:09,570 --> 01:40:13,980
+and they would receive updates
+
+1914
+01:40:13,980 --> 01:40:15,820
+about price changes first
+
+1915
+01:40:15,820 --> 01:40:17,880
+before this client and these guys
+
+1916
+01:40:17,880 --> 01:40:20,200
+could front run and take advantage of prices
+
+1917
+01:40:20,200 --> 01:40:22,420
+that's basically the reason that virtue
+
+1918
+01:40:22,420 --> 01:40:25,010
+firm would have only
+
+1919
+01:40:25,010 --> 01:40:26,770
+had one losing day. It's ridiculous.
+
+1920
+01:40:31,480 --> 01:40:33,580
+So think about all this shit
+
+1921
+01:40:33,580 --> 01:40:35,740
+for a minute and then think about the guy that sits
+
+1922
+01:40:35,740 --> 01:40:37,680
+at home, draws a trend line, tries to buy this
+
+1923
+01:40:37,680 --> 01:40:39,840
+like this and then
+
+1924
+01:40:39,840 --> 01:40:41,600
+when the market does that
+
+1925
+01:40:41,600 --> 01:40:43,860
+he tries to
+
+1926
+01:40:43,860 --> 01:40:51,000
+I don't know, whatever the fuck he does, yeah, but the effect that the reason price accelerates like this
+
+1927
+01:40:51,000 --> 01:40:58,300
+is because of some of the behaviors that these guys, you know, the behaviors of these guys
+
+1928
+01:40:58,300 --> 01:41:00,040
+and the systems through which they trade.
+
+1929
+01:41:00,910 --> 01:41:04,050
+It was through EBS where prices were formed, then it changes a bit.
+
+1930
+01:41:04,880 --> 01:41:11,620
+The technological capacity of these guys increased over time as they tried to keep market share.
+
+1931
+01:41:12,900 --> 01:41:15,020
+That has an effect on how liquidity is provided.
+
+1932
+01:41:15,020 --> 01:41:17,840
+All of these things are the reason you see.
+
+1933
+01:41:17,900 --> 01:41:20,260
+these prices that you see here.
+
+1934
+01:41:21,300 --> 01:41:25,780
+These prices that you see in here are profoundly different
+
+1935
+01:41:25,780 --> 01:41:28,180
+with the prices that you'd see,
+
+1936
+01:41:31,080 --> 01:41:35,670
+at least the volatility is different,
+
+1937
+01:41:36,070 --> 01:41:36,970
+that you would have seen here.
+
+1938
+01:41:38,070 --> 01:41:39,110
+Let me try to pull up something,
+
+1939
+01:41:39,230 --> 01:41:47,010
+I'll let you go, average tree range,
+
+1940
+01:41:47,070 --> 01:41:48,190
+you'll do it 14-day period.
+
+1941
+01:41:49,370 --> 01:41:53,640
+So prices, you know, on average are moving.
+
+1942
+01:41:53,640 --> 01:41:57,020
+The lowest here that's moving is 59 pips a day.
+
+1943
+01:41:59,260 --> 01:42:01,280
+166 pips a day is moving there.
+
+1944
+01:42:01,820 --> 01:42:08,680
+In between about 140 pips here, 140 pips a day, average in around this region.
+
+1945
+01:42:10,040 --> 01:42:14,700
+We go back, obviously in financial crisis, it peaked at 400 pips a day.
+
+1946
+01:42:17,310 --> 01:42:24,110
+Pre-financial crisis, we're talking median probably about 150 pips a day, quite a nice median.
+
+1947
+01:42:24,230 --> 01:42:26,570
+The lowest, obviously, hit 90 pips a day.
+
+1948
+01:42:27,400 --> 01:42:32,190
+Fast forward to the last like five years.
+
+1949
+01:42:32,190 --> 01:42:42,030
+the highest is hitting, 300 pips a day, probably average and median 111 pips a day, 120 pips a day.
+
+1950
+01:42:42,090 --> 01:42:45,950
+This is GPP UST, one of the most volatile peers of the last five years.
+
+1951
+01:42:45,950 --> 01:42:49,310
+If I showed you your USD, it was down at 50 pips a day, bro.
+
+1952
+01:42:50,420 --> 01:42:57,680
+The reason GBP is volatile, like I said, risk asset at this point in time, because of Brexit and the way it's behaving.
+
+1953
+01:42:58,830 --> 01:43:01,930
+But really, fuck it.
+
+1954
+01:43:02,010 --> 01:43:03,410
+Just show you your USD quickly.
+
+1955
+01:43:03,410 --> 01:43:22,580
+fucking platform
+
+1956
+01:43:22,580 --> 01:43:24,040
+I thought the screen froze then
+
+1957
+01:43:24,040 --> 01:43:25,690
+no no no
+
+1958
+01:43:25,690 --> 01:43:26,990
+alright here we go
+
+1959
+01:43:26,990 --> 01:43:31,020
+alright so we were down
+
+1960
+01:43:31,020 --> 01:43:32,240
+to like 50 pips a day
+
+1961
+01:43:32,240 --> 01:43:33,700
+here for a whole year
+
+1962
+01:43:33,700 --> 01:43:36,290
+for a whole
+
+1963
+01:43:36,290 --> 01:43:37,310
+motherfucking year bro
+
+1964
+01:43:37,310 --> 01:43:38,190
+50 pips a day
+
+1965
+01:43:38,190 --> 01:43:40,780
+let draw a median line
+
+1966
+01:43:40,780 --> 01:43:41,360
+fuck it
+
+1967
+01:43:41,360 --> 01:43:42,620
+well really so
+
+1968
+01:43:42,620 --> 01:43:44,040
+maybe that
+
+1969
+01:43:44,040 --> 01:43:44,800
+you know
+
+1970
+01:43:44,800 --> 01:43:46,280
+100 pips a day
+
+1971
+01:43:46,280 --> 01:43:48,440
+go back to
+
+1972
+01:43:48,440 --> 01:43:49,240
+2008
+
+1973
+01:43:49,240 --> 01:43:50,940
+pre-2008
+
+1974
+01:43:50,940 --> 01:43:52,640
+oh shit it's quite low there you know
+
+1975
+01:43:52,640 --> 01:43:53,860
+but still
+
+1976
+01:43:53,860 --> 01:43:56,860
+price as you can see
+
+1977
+01:43:56,860 --> 01:43:58,940
+the median around this period at least
+
+1978
+01:43:58,940 --> 01:44:00,990
+was probably that
+
+1979
+01:44:00,990 --> 01:44:01,990
+no
+
+1980
+01:44:01,990 --> 01:44:04,120
+probably somewhere like there
+
+1981
+01:44:04,120 --> 01:44:05,180
+which is obviously
+
+1982
+01:44:05,180 --> 01:44:07,640
+a significant amount
+
+1983
+01:44:07,640 --> 01:44:15,070
+oh shit
+
+1984
+01:44:15,070 --> 01:44:16,210
+109 pips
+
+1985
+01:44:16,210 --> 01:44:17,330
+110 pips
+
+1986
+01:44:17,330 --> 01:44:19,110
+still quite low
+
+1987
+01:44:19,110 --> 01:44:20,870
+back in 2004
+
+1988
+01:44:20,870 --> 01:44:23,010
+but compare that
+
+1989
+01:44:23,010 --> 01:44:23,650
+basically
+
+1990
+01:44:23,650 --> 01:44:26,110
+to this
+
+1991
+01:44:26,110 --> 01:44:28,680
+where it's much much lower
+
+1992
+01:44:28,680 --> 01:44:29,660
+the average
+
+1993
+01:44:29,660 --> 01:44:31,310
+do you get it
+
+1994
+01:44:31,310 --> 01:44:34,430
+Yeah, much lower than compared to before.
+
+1995
+01:44:35,450 --> 01:44:40,150
+And you have these periods where there's absolutely no volatility for sustained periods, I guess.
+
+1996
+01:44:41,450 --> 01:44:45,450
+There's more a function of market, of market changes, evolution of the market.
+
+1997
+01:44:45,670 --> 01:44:46,650
+But again, we'll discuss that.
+
+1998
+01:44:46,970 --> 01:44:47,910
+Anyway, I'll leave it at that.
+
+1999
+01:44:47,910 --> 01:44:49,050
+If you have any questions, let me know.
+
