@@ -60,6 +60,10 @@ Calibración clave: la MISMA zona es alta probabilidad con entrega ineficiente h
 
 Itinerario de 3 pasos formalizado en M2020 S15: (1) aprender a ver swings, (2) aplicar el marco a precio vivo —trackear/explicar, añadir contexto y buscar respuestas— y (3) derivar cómo operar cada entorno/setup. Process building por componente (sample sets de 10/día) y tracking de unfilled liquidity a doble vía: [04_proceso](04_proceso.md).
 
+## Snapshot congelado: EMTrades reconstruido v1
+
+**El corpus está congelado como [v1/](v1/00_README_v1.md)** (2026-08-16): ontología de niveles y máquina de estados ([10_ontologia](v1/10_ontologia.md)), inventario A/B/C de comportamientos y modelos ([20_inventario](v1/20_inventario.md)), 38 claims falsables ([30_claims_validables](v1/30_claims_validables.md)) y test ciego de comprensión ([40_test_comprension](v1/40_test_comprension.md)), junto a la copia congelada de todos los maestros. **Relación:** los ficheros de este directorio (00-93) siguen siendo los documentos VIVOS y pueden evolucionar; `v1/` es inmutable salvo error factual demostrable (con changelog en su README) y es la referencia citable para la fase 2. Toda evolución doctrinal irá a los maestros vivos y, en su día, a v2.
+
 ## Estado de la destilación
 
 - ✅ 17/17 PDFs procesados (extractos en `30_extractos/`).

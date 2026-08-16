@@ -79,6 +79,21 @@ q18 se reclasificó a [VALIDACIÓN] [NO-LOCALIZADA] porque la morfología está 
 
 **Recuento final de estados de pregunta (tras sesión 19):** [RESUELTA] ×7 · [RESUELTA-PARCIAL] ×12 · [NO-LOCALIZADA] ×7 · [VALIDACIÓN] ×7 · [IRRECUPERABLE] ×2 · [PENDIENTE-USUARIO] ×0 (duales contados en ambos; la leyenda del encabezado del fichero no cuenta). Cambios de la sesión: q1 → RESUELTA (CPS≠CPL); q14 y q17 → RESUELTA-PARCIAL; q18 → VALIDACIÓN+NO-LOCALIZADA; q10 pierde PENDIENTE-USUARIO (prioridad baja); q9 cerrada como NO-LOCALIZADA definitiva.
 
+## Sesión 20 — CONGELADO v1 EJECUTADO
+
+**Qué contiene v1** (`40_destilado/v1/`): README con inventario del corpus, regla de inmutabilidad y las tres capas; `10_ontologia.md` (ontología de niveles con fichas trazado/drain/respuesta, máquina de estados con transiciones dispara/confirma/invalida, capa de microestructura descriptiva); `20_inventario.md` (12 comportamientos A, 8 modelos B, 1 modelo C; 3 campos RETENIDO + 21 NUNCA-FORMULADO); `30_claims_validables.md` (38 claims con cita y qué medir); `40_test_comprension.md` (10 preguntas sin respuesta); copia congelada de los 10 maestros.
+
+**Qué quedó FUERA de v1 y por qué:**
+- Los extractos (`30_extractos/`), transcripciones y frames — son material de trabajo, no producto; v1 los referencia vía etiquetas de fuente.
+- `50_investigacion/inv_001` — material externo aislado, no doctrina ni evidencia (encabezado de aislamiento añadido en esta sesión).
+- Toda modernización/adaptación BTC — 92_ideas_btc.md entra en v1 solo como copia (aparcado); la tensión CLOB queda registrada, no resuelta.
+- Los tests de los claims — v1 aísla y cita; el diseño de tests es fase 2.
+- Cualquier completado de campos NO ESPECIFICADO EN FUENTES — permanecen vacíos por regla.
+
+**Higiene de sesión 20:** Zone.Identifier ignorado en .gitignore; inv_001 aislado; [IMG: CLP/EEBgtXpXUAAoEmR.png] reverificado = **t5 (5 ticks)**, corregido en extracto y 02_conceptos.
+
+**Casos de decisión humana — estado final:** los tres de la tanda 1 quedaron resueltos en la tanda 2; el muestreo se cerró en sesión 19; EEBgtXp resuelto hoy. **Queda UNO abierto:** la propuesta de la tanda 3 de añadir [VALIDACIÓN] como segundo estado a Resueltas#2 (SWE) y Abiertas#15 (criterios de washed) — mismo patrón que q18. Sin aplicar; espera decisión de Jordi.
+
 ## Casos sin clasificar — requieren decisión humana
 
 Marcadores que no encajan limpiamente en las cinco etiquetas. NO convertidos; texto actual intacto:
