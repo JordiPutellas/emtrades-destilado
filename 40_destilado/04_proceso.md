@@ -31,6 +31,7 @@ Cuatro charts con roles fijos [VID-M2020: Session 15 @ 00:56:22–00:57:45]: **L
 
 1. Track price very closely. 2. Consider multiple outcomes. 3. Probabilistic approach (qué es MÁS probable, nunca expectativas rígidas). [VID-M2020: Session 15 @ 00:17:40–00:23:28]
 - **Los niveles como sensor de régimen**: cuando van a funcionar, responden; cuando dejan de responder, eso ES la información de que el estado cambió ("when it's the time that it runs out, none of these levels are going to work and you'll see them get rolled over"). [VID-M2020: Session 15 @ 01:17:59–01:18:44]
+- **Gestión de fatiga — plan 5/12** (de Lance Beggs, guardado por EM): (1) menos de 5h de sueño en las últimas 24h → NO TRADING; (2) menos de 12h en 48h → NO TRADING; (3) llevar despierto más horas de las dormidas en 48h → NO TRADING. Mide solo fatiga aguda; la crónica "will typically require longer periods of time away from the markets". "**Look after yourself. There is a whole career ahead of you. There's no need to burn out now.**" [IMG-TWIT: ESu8Xh9U8AAbhOT] (tercero endosado por EM)
 
 ## Process building model (5 etapas) [PDF: Process Over Profits p.4]
 
