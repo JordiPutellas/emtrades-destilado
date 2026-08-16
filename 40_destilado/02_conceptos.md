@@ -16,8 +16,9 @@
 
 ## Siglas
 
-### CPS — Characteristics of a Price Swing ([INFERENCIA fuerte])
-- **Estado:** por confirmar la expansión literal; la anatomía sí está confirmada en fuente.
+### CPS — Characteristics of a Price Swing (CONFIRMADO)
+- **Estado:** confirmado (2026-08-16). Tres fuentes con el título literal y los mismos 13 componentes: [PDF: Tracking Unfilled Liquidity p.4], [IMG: Characteristics of Price swing.png] (versión alcista) e [IMG: Inverted Fractal.png] (versión bajista).
+- **Procedencia:** el esquema lleva marcas "Pro Traders Club" y "ChrisLori.com" → la plantilla CPS procede de **Chris Lori / Pro Traders Club**; EM la adoptó y construyó encima su vocabulario propio (shelf/washed/OP/BA/LIC...). Distinguir herencia vs desarrollo propio al validar.
 - El material lo usa como **"CPS framework"**: "the CPS framework is what we use to navigate & trade price... clearly defines components of price which we can categorise throughout the duration of a swing formation... **a representation of HOW price moves rather than why** (!!!)". [PDF: Price Swings Continued p.2]
 - [INFERENCIA fuerte] CPS = "**Characteristics of a Price Swing**": es el título literal del esquema maestro de 13 componentes [IMG: Tracking Unfilled Liquidity p.4], encaja letra a letra y con la frase "the CPS clearly defines components of price which we can categorise". (Descarta la hipótesis anterior "Core Price Swing".) Existe además la captura suelta `capturas/Characteristics of Price swing.png` — verificar que es el mismo esquema al procesar capturas.
 - **Los 13 componentes del esquema CPS** [IMG: Tracking Unfilled Liquidity p.4], con eje "Mass Psychological Shift":

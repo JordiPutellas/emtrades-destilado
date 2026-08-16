@@ -52,7 +52,7 @@ Plan: transcribir todos en batch primero, destilar después por orden temático.
 - [ ] **EM Twits** (50 imgs)
 - [ ] **Most Important EM Trades** (44 imgs)
 - [ ] **discord-conversation-screenshots** (129 imgs)
-- [ ] Sueltas: `Characteristics of Price swing.png`, `Inverted Fractal.png`
+- [x] Sueltas (2026-08-16) → `extracto_capturas_sueltas.md`: ambas son el esquema CPS (alcista+bajista) con marca Chris Lori/Pro Traders Club → CPS confirmado + procedencia externa
 - [x] Price Inefficiencies (10 imgs usadas en el extracto de muestra)
 
 Procesar por lotes de 20-30.
