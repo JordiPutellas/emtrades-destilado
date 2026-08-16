@@ -22,8 +22,10 @@
 1. **CPS como setup concreto** — [USUARIO]. En S13-S14 CPS se usa solo como framework. Candidato más cercano: la plantilla de 3 componentes de TE-02 (S-08). → sesiones restantes.
 2. **Criterio tradeable vs non-tradeable PI** — muy avanzado (S-08: el nivel golpeado es el parámetro decisivo; filtro eficiente/ineficiente de Session 14) pero sin regla cerrada única → más vídeos/capturas.
 3. **Traslado FX→BTC perps** — validar empíricamente, no asumir.
-4. **Template de las 4 variaciones de apex + gestión de trades en apex** — anunciado en Session 13 @ 01:45:10 para "next session", pero Session 14 fue drawing levels → buscar en Session 15 / material restante.
-5. **"Second level information" como lección** — anunciada también para sesión siguiente [VID-M2020: Session 13 @ 01:45:03] → Session 15?
+4. **Template de las 4 variaciones de apex + gestión de trades en apex** — anunciado en S13 @ 01:45:10; **verificado que NO está en S14 ni S15** (salto dic-2020→mar-2021 entre ambas: probablemente se entregó como archivo del drive). Candidatos: capturas sueltas y carpetas EM Twits / Most Important EM Trades; si no, sesiones 1-11.
+5. **"Second level information" como lección** — misma situación que el punto 4.
+6. **"Process video" y "exercise video"** — vídeos del drive referenciados como vistos [S13 @ 01:33:47; S15 @ 00:23:52; PDF: Liquidity Principles p.1]; NO son las sesiones grabadas. **Posiblemente no están en el repo → preguntar al usuario si los conserva.**
+7. **Poke past the low del OP** — S12 @ 00:30:17 promete detallar "next session" cómo cambian las probabilidades; S13 no lo desarrolla como lección → sesiones restantes.
 6. **Claims a testear en fase de validación:**
    - "An apex that holds inside the shelf without draining or invalidating it is less likely to hold price down". [PDF: Price Swings Continued p.8]
    - "When the first inventory breaks (first break of midflow), it typically won't continue for a long while after". [VID-M2020: Session 13 @ 00:06:00]

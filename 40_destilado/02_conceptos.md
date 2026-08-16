@@ -32,10 +32,11 @@
 - Conexión con el "wash" del shelf: "Only time I will expect price to move through the shelf straight away is **if it is washed** & even then expect some stalling & absorption." [IMG: Trade Example p.5] [INFERENCIA] SWE = barrido del shelf seguido de extensión; definición operativa completa pendiente de vídeos/Discord.
 
 ### BA — Breakout Accumulation
-- **Estado:** confirmado.
-- Anotación en gráfico: "**Breakout accumulation, shifting point. Top, middle & bottom generated responses** (orange circles)". [IMG: Price Swings Continued p.3]
-- [USUARIO] confirma BA = Breakout Accumulation.
-- Es un punto de shift; sus tres zonas (top/middle/bottom) generan respuestas cuando el precio vuelve.
+- **Estado:** confirmado (definición formal en M2020).
+- **Definición:** "**The inventory, the liquidity base that pushed through the shelf is the breakout accumulation. That's the definition of it**" — la base que empuja el precio a través del shelf hacia midflow (si un intento rompe pero no logra midflow y otro posterior sí, la BA es la de este último). [VID-M2020: Session 12 @ 00:02:14–00:02:27, 00:54:27–00:54:49]
+- Familia de retests [VID-M2020: Session 12 @ 00:02:27–00:03:04]: retorno a la BA = **shelf retest** (aunque no haya nivel BA ahí); segundo retest = "**child shelf retest** (the child of the first one)"; si el precio vuelve hasta el low sin romperlo y desde ahí continúa, esa zona "turns into the BA".
+- Las BAs pueden estar washed/drenadas — mismo nombre, contexto distinto. [VID-M2020: Session 12 @ 00:54:58] [VID-M2020: Session 14 @ 00:13:55]
+- Anotación temprana: "Breakout accumulation, shifting point. Top, middle & bottom generated responses". [IMG: Price Swings Continued p.3] [USUARIO] confirma la expansión.
 
 ### LLS — Low Liquidity State
 - **Estado:** confirmado.
@@ -71,6 +72,8 @@
 ### Shelf flip
 - **Estado:** confirmado (uso), definición implícita.
 - Superación del shelf tras consumir su liquidez → el lado contrario toma control (shift). "Bigger shelf flips = bigger shifts in momentum" pero requieren más trabajo/tiempo. [PDF: Price Swings Continued p.8, p.10]
+- **La debilidad del shelf se confirma en la RESPUESTA, no en la ruptura**: "the weakness isn't necessarily confirmed once price has pushed through — it's confirmed in how price responds off it". Mejor señal: primera pierna atraviesa el shelf de una vez (vs aguantar dentro). [VID-M2020: Session 12 @ 00:12:22–00:13:04]
+- **Sin edge aislado**: "just waiting for price to break shelf and then buying it has no edge alone... introduce variables (core pickup, weakness previa, break de midflow + sideways pop hechos) — then there's a higher probability". [VID-M2020: Session 12 @ 01:24:28–01:25:44]
 
 ### Apex / apex base / apex base retest
 - **Estado:** confirmado.
@@ -113,8 +116,10 @@
 - El origen del price run ("the origin of this price run is here — that'll be the fractal core aka origin"). La liquidez más fuerte de una pierna suele estar en su origen. [VID-M2020: Session 13 @ 00:04:44–00:04:52, 01:20:47–01:20:55]
 
 ### Core liquidity base
-- **Estado:** confirmado (uso), definición implícita.
-- Base de origen de un price run ("core liquidity base of price run A–B"); genera la mayor respuesta cuando el precio retorna a ella tras el ciclo completo. [IMG: Price Swings Continued p.3] También "core area of liquidity" en fades de PI [IMG: GBPUSD 1min, módulo Price Inefficiencies] y "back down to core base" [IMG: The Price Run p.10].
+- **Estado:** confirmado (anatomía completa en M2020).
+- Base de origen de un price run ("core liquidity base of price run A–B"); genera la mayor respuesta cuando el precio retorna a ella tras el ciclo completo. [IMG: Price Swings Continued p.3] [IMG: The Price Run p.10]
+- **Anatomía interna (3 niveles):** "within core areas of liquidity you have **the pickup** (first pickup), **the fractal apex retest**, and **the BA** — three levels inside, which are quite significant". Se refinan por separado para apretar el riesgo (stops de 2-3 pips pegados al nivel, pre-planificados). [VID-M2020: Session 12 @ 00:03:04–00:05:35]
+- "**Every single apex is classed as core liquidity relative to the timeframe of the price run.**" [VID-M2020: Session 12 @ 00:03:58]
 
 ### Residual liquidity / residual levels
 - **Estado:** confirmado.
@@ -225,8 +230,10 @@
 
 ### OP — Original Pickup
 - **Estado:** confirmado.
-- El pickup original de un nivel/área; referencia prioritaria frente a pickups posteriores (ver Feeder). Usado como sigla: "OP present, original pickup", "the OP". [VID-M2020: Session 14 @ 00:18:42, 00:32:13]
-- Invalidación práctica de un trade sobre pickup: "price failed to continue pushing & ended up **taking out the original pickup — that's where our invalidation would be**". [VID-M2020: Session 14 @ 00:06:36]
+- El pickup original de un nivel/área; referencia prioritaria frente a pickups posteriores (ver Feeder). Usado como sigla: "OP present, original pickup", "the OP". [VID-M2020: Session 14 @ 00:18:42, 00:32:13] Definición explícita: "we actually call the pickup of a base the OP, the original pickup". [VID-M2020: Session 13 @ 01:04:15]
+- **Regla de validación:** "the original pickup is only validated **once price has grabbed the level and it's gone to the shelf** — if price has just gone into the level and hasn't done anything, it's not classed as a pickup". [VID-M2020: Session 12 @ 00:30:31–00:30:43]
+- Invalidación práctica de un trade sobre pickup: "price failed to continue pushing & ended up **taking out the original pickup — that's where our invalidation would be**". [VID-M2020: Session 14 @ 00:06:36] Un poke sutil más allá del low del OP "shifts the probabilities significantly". [VID-M2020: Session 12 @ 00:30:17–00:32:26]
+- "In every successful apex, the original pickup will hold. The low held. That's it." [VID-M2020: Session 12 @ 00:10:02]
 
 ### HOTW — High Of The Week ([INFERENCIA])
 - **Estado:** por confirmar.

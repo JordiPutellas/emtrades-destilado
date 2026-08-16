@@ -106,6 +106,8 @@ Ampliación M2020 (Session 15) — estilo "take my money" y runners:
 ## Comportamientos de referencia (aún sin setup formalizado)
 
 - **Gaps & rebalances**: "una de las mejores" conductas por consistencia. [PDF: módulo Price Inefficiencies]
-- **BA (Breakout Accumulation)** como shifting point: sus zonas top/middle/bottom generan respuestas al retorno del precio — candidato a nivel de entrada/reacción. [IMG: Price Swings Continued p.3] Setup concreto: NO ESPECIFICADO EN FUENTES (pendiente vídeos).
+- **BA (Breakout Accumulation)** como nivel de reacción: definida formalmente en M2020 (la base que empuja a través del shelf; sus retests = shelf retest / child shelf retest). "BA is quite responsive" — pero comprobar si está washed. [VID-M2020: Session 12 @ 00:02:14–00:03:04, 00:08:56] Reglas de entrada específicas: NO ESPECIFICADO EN FUENTES aún.
+- **Estilo de entrada según calidad del nivel** [INFERENCIA de S12+S13]: limit resting pre-colocada solo en niveles top (fractal apex/core — TE-02); en niveles menores, entrada activa vigilando la llegada ("I can view incoming price action to determine if it's likely to continue or fail"). Stops de 2-3 pips pegados al nivel refinado, pre-planificados. [VID-M2020: Session 12 @ 00:00:41–00:01:09, 00:04:19–00:05:35]
+- **Regla de expectancy de S12**: niveles residual+washed pueden responder pero no tienen edge ("you'd much rather wait for the 90/10 than the 60/40" — law of large numbers). [VID-M2020: Session 12 @ 00:22:20–00:27:12]
 - **CPS como setup**: [USUARIO] indica que existe un setup concreto llamado CPS, a trabajar más adelante. NO ESPECIFICADO EN FUENTES procesadas.
 - **Respuesta en core liquidity base**: la mayor respuesta contraria tras un ciclo completo de run+reversión aparece en la core base del run original. [IMG: Price Swings Continued p.3] [IMG: The Price Run p.10]
