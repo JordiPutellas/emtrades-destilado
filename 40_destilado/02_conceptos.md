@@ -176,6 +176,7 @@
 - Características del apex favorable (M2020): el extremo aguanta, el apex retest aguanta, el shelf falla en empujar a nuevos extremos, se rompe el shelf y el precio **se estabiliza encima** antes del shift. En los más fuertes, el shelf cae al primer intento y el retest ni siquiera llega al fondo del pickup. [VID-M2020: Session 13 @ 00:58:02–00:58:36]
 - **Consolidation apex**: debilidad del movimiento a favor + fuerza core del lado contrario; el shelf ya no tiene "punching power". [VID-M2020: Session 13 @ 01:01:08–01:06:13]
 - Existen **4 variaciones principales de apex** (template anunciado por EM, pendiente de localizar en las sesiones). [VID-M2020: Session 13 @ 01:45:10–01:45:27]
+- **Dos morfologías comparadas en S11.2, no el template de cuatro:** EM prefiere el apex/parabolic que `reaches` al nivel con delivery pronunciadamente débil y menos dependencia de opposing strength. La variante con buildup, varios swipes y deeper tests puede seguir siendo favorable, pero el inventory aún alimenta parcialmente y exige gestión más estrecha. Menciona otras formas sin numerarlas, nombrarlas ni dar contrato por variante. [VID-M2020: Session 11 part 2 @ 00:25:44–00:29:33] [VID-M2020: Session 11 part 2 @ 01:12:26–01:15:38] [VID-M2020: Session 11 part 2 @ 01:33:00–01:35:10]
 
 ### Shifting point
 - **Estado:** confirmado.
@@ -205,6 +206,7 @@
 - `The stock, the momentum liquidity of a directional move`: el último base/dealing range que empujó el precio a un nuevo extremo dentro de un imbalance. Un rango intermedio que no crea nuevo extremo no desplaza el inventory; una zona bilateral estable no es inventory en este sentido. [VID-M2020: Session 8 @ 01:05:30–01:07:50]
 - EM enumera `shelf/inventory`, apex top/bottom, BA y shifting point como **tipos por ubicación** de liquidity base, con características y entornos propios; no los equipara todos. Inventory sostiene el movimiento, mientras residual liquidity designa pockets más débiles del recorrido. [VID-M2020: Session 8 @ 01:00:24–01:01:44] [VID-M2020: Session 8 @ 01:03:24–01:04:55]
 - **Equivalencia acotada en S10:** dentro del midflow, EM llama `inventory or shelf` al último base que empujó a un nuevo extremo y luego dice `shelf or inventory, which is the same thing`. Es sinonimia funcional para ese base chartista; no equipara universalmente apex, BA y shifting point. [VID-M2020: Session 10 @ 00:08:06–00:08:45] [VID-M2020: Session 10 @ 01:08:35–01:09:03]
+- **Criterio funcional de drain en S11.2:** en inventory fuerte el pickup alimenta con claridad el siguiente extremo y el precio apenas profundiza. Repeated grabs, top pickup, deep tests y aproximación al bottom consumen inventario; el diagnóstico se confirma cuando cada feed empuja menos, falla en alcanzar el core del fractal o requiere penetraciones crecientes. Tras el break, los intentos residuales se secan con rapidez. [VID-M2020: Session 11 part 2 @ 00:30:37–00:33:50] [VID-M2020: Session 11 part 2 @ 00:45:22–00:48:49] [VID-M2020: Session 11 part 2 @ 01:12:26–01:13:55]
 - No confundir con el inventario literal del dealer/LP, una posición adquirida que puede gestionar u ofrecer al mercado. [VID-M2020: Session 8 @ 00:07:23–00:08:21]
 
 ### Technical break
@@ -374,6 +376,7 @@
 - **Regla relativa** (generalización en Discord): "**You can have a relatively weak level and an even weaker move into it — generating response until liquidity absorbs the response and continues.**" La respuesta es función de la fuerza del nivel RELATIVA a la debilidad del movimiento de llegada, no de la calidad absoluta del nivel. [DISCORD: Disc 6]
 - Las áreas "drifty" están típicamente drained (picked muchas veces). [VID-M2020: Session 14 @ 00:16:09]
 - S9 aporta criterios genéricos adicionales: tests profundos/repetidos durante el movimiento drenan el base (`cluster washed`, `washout`); un midflow fuerte no debería penetrar así sus bases y el último base aún no consumido gana relevancia. La fuente habla de inventory/base en general, no define SWE ni un wash shelf-specific. [VID-M2020: Session 9 @ 01:23:01–01:24:46] [VID-M2020: Session 9 @ 01:31:34–01:32:03] [VID-M2020: Session 9 @ 01:37:40–01:38:08]
+- **Cierre cualitativo de `drained shelf/inventory` en S11.2:** repeated/deep tests + menor distancia de cada response/feed + penetración creciente o break del último base = pérdida de capacidad para sostener midflow; un retest posterior puede responder, pero lo hace desde residual weakness y no restaura el inventory. EM no usa `washed` ni lo vincula a SWE, por lo que no fija una definición formal de Shelf Wash Extension. [VID-M2020: Session 11 part 2 @ 00:30:37–00:33:50] [VID-M2020: Session 11 part 2 @ 01:12:26–01:15:38] [VID-M2020: Session 11 part 2 @ 01:23:02–01:24:50]
 
 ### OP — Original Pickup
 - **Estado:** confirmado.
