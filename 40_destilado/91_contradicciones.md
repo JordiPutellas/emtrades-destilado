@@ -27,3 +27,4 @@
 - **M2020:** separa fade de first-touch/parabolic exhaustion (S-08), technical break como evidencia no obligatoria, shelf flip y retests/BA; añade nivel good/core, OP/invalidation y probabilities shifting.
 - **Resolución:** evolución de granularidad, no contradicción. La morfología temprana es `PRECURSOR REFINADO EN M2020`; no trasladar `last/second-last release` como trigger canónico ni fusionar fade y retest en un único expectancy.
 - **Estado:** CERRADA como evolución terminológica/operativa; reabrir solo si PS06–10 aporta contratos incompatibles explícitos.
+- **PS06:** confirma la separación: first-touch fade, shelf-flip retest y pain trade son decisiones distintas dentro del apex; romper un micro-apex tampoco implica romper el swing superior. No reabre C-003. [VID-PS: PriceSwing_06 @ 00:00:31–00:04:28] [VID-PS: PriceSwing_06 @ 00:06:43–00:07:33]
