@@ -79,3 +79,10 @@ Estabilidad de volumen (low liquid state) → surge relativo en un lado → run 
 - Apex + shelf flip típicamente preceden shift y midflow. [PDF: Price Swings Continued p.8]
 - Los **shifting points** son "decision points or momentum shifting, chain reaction effecting points — highly responsive areas". [IMG: Price Swings Continued p.4]
 - Tras el shift, el precio corre por liquidez residual débil cuyas respuestas se absorben → midflow (continuación). [IMG: Price Swings Continued p.6]
+- **"Midflow means imbalance."** En un HTF midflow la dinámica se invierte respecto a lo normal: la liquidez a favor acepta precios cada vez peores y "turns up at residual levels — at fractal runs which SHOULD be weak", señal de imbalance HTF; las rupturas de shelf fractal dan fills pequeños. Entorno "unusual, not a normal dynamic" que exige adaptar el trading. [VID-M2020: Session 14 @ 00:44:40–00:49:13]
+
+### Qué NO es el método (delimitación explícita)
+
+- Contra order blocks/breakers (ICT): su lógica asume "trapped traders" especulativos; EM objeta que gran parte de la sell liquidity viene de entidades sin interés direccional ("they just need to transact for operational purposes — that's the FX market"). [VID-M2020: Session 14 @ 00:08:01–00:08:42]
+- El volumen retail no llega al mercado: se internaliza en el broker; el broker cubre su riesgo neto después. [VID-M2020: Session 14 @ 00:08:43–00:09:05]
+- No se predice, se observa: "observe, don't predict"; "I shouldn't go into the territory of forecasting". [VID-M2020: Session 14 @ 00:29:44, 00:33:53]

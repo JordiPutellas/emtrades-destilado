@@ -64,6 +64,7 @@
 ### Shelf / shelf liquidity
 - **Estado:** confirmado.
 - "**Bulk of the momentum pushing any single price move, every price swing has one.** As price is running along, it continuously feeds into the nearest shelf, picks liquidity up and continues the price run until the shelf isn't strong enough to continue supporting the run." [PDF: Price Swings Continued p.8]
+- Definición operativa M2020: "the **last inventory** that pushed price to new lows (highs)". Regla de trazado: "**you draw the shelf just like you draw a level but you pay no attention to where it was picked off — you just draw the FULL shelf**" (el shelf no se refina, los niveles sí). [VID-M2020: Session 14 @ 00:09:15, 00:07:19]
 - Relativo al timeframe del swing; los shelves pequeños son inventario de los fractales internos. [PDF: Price Swings Continued p.8, p.10]
 - Visual: rectángulo de consolidación pegado al tramo final del run ("bulk of buyers/sellers holding price"). No son limpios ni iguales. [IMG: Price Swings Continued p.9]
 
@@ -128,10 +129,10 @@
 - En tendencia, el fill de una extensión "aka short extension fill — no reversal, just rebalance to find sellers": los rebalances contra tendencia encuentran liquidez a favor y el precio sigue a nuevos extremos. No confundir fill con giro. [IMG: Liquidity Void p.15] [PDF: p.16]
 
 ### Feeder / feeding liquidity
-- **Estado:** por confirmar (usado sin definición formal; el sentido se perfila).
-- "After price has ran a fair bit, extended past a high into a feeder = potential short." [PDF: Variable Volume Flow p.4]
-- Variante en la lista de response areas: "**extension past previous highs into feeding liquidity**". [PDF: Trade Example p.8]
-- [INFERENCIA] feeder ≈ bolsa de liquidez que "alimenta"/absorbe la extensión (el área contra la que se seca el run). Definición exacta pendiente de vídeos/Discord.
+- **Estado:** confirmado (uso aclarado en M2020).
+- "After price has ran a fair bit, extended past a high into a feeder = potential short." [PDF: Variable Volume Flow p.4] "Extension past previous highs into feeding liquidity." [PDF: Trade Example p.8]
+- Aclaración M2020: el feeder es **el nivel original al que el precio "alimenta"** (feeds into), por oposición al pickup derivado. Ante la duda de qué nivel usar (original vs pickup): "you'll find that it's typically **the feeder, the original**". El precio "feeds off" el original pickup también en apex retests. [VID-M2020: Session 14 @ 00:00:41–00:01:02, 00:18:49]
+- Cada pickup genera su propia "bay of liquidity", típicamente más débil que el original. [VID-M2020: Session 14 @ 00:00:41]
 
 ### TOB — Top of Book
 - **Estado:** confirmado (uso estándar de microestructura).
@@ -196,9 +197,17 @@
 - **Estado:** confirmado (uso).
 - Añadir una segunda posición en la misma idea cuando el precio ofrece nueva evidencia (p.ej. liquidez del shelf absorbida en el high). Condiciones citadas: convicción en la idea, cuán débil quedó el shelf (¿invalidado?), naturaleza del nivel que recoge, cuán extendido está, y data risk. En HTF: "I would definitely look for compounds & midflow trades beneath the shelf." [IMG: Trade Example p.6] [PDF: p.6]
 
-### Washed (shelf)
-- **Estado:** confirmado (uso); relación directa con SWE.
+### Washed / drained
+- **Estado:** confirmado; relación directa con SWE.
 - Un shelf "washed" (barrido) es la única condición bajo la que EM espera que el precio lo atraviese directamente sin dealing previo — "& even then expect some stalling & absorption". [IMG: Trade Example p.5]
+- Nivel washed/drained = agarrado repetidamente ("grabbed it, grabbed it, grabbed it") → falta de liquidez: "you shouldn't really have any problems to get through". Probabilidad de respuesta de un área washed: "**low**". [VID-M2020: Session 14 @ 00:12:40, 00:27:27, 00:34:51]
+- Excepción contextual: un área washed puede responder según CÓMO llega el precio — "broke midflow, broke shelf, sideways pop into it" responde más que "strong midflow becoming inefficient into it". "They're both washed but the contextual environment is completely different." [VID-M2020: Session 14 @ 00:35:11–00:35:40]
+- Las áreas "drifty" están típicamente drained (picked muchas veces). [VID-M2020: Session 14 @ 00:16:09]
+
+### OP — Original Pickup
+- **Estado:** confirmado.
+- El pickup original de un nivel/área; referencia prioritaria frente a pickups posteriores (ver Feeder). Usado como sigla: "OP present, original pickup", "the OP". [VID-M2020: Session 14 @ 00:18:42, 00:32:13]
+- Invalidación práctica de un trade sobre pickup: "price failed to continue pushing & ended up **taking out the original pickup — that's where our invalidation would be**". [VID-M2020: Session 14 @ 00:06:36]
 
 ### HOTW — High Of The Week ([INFERENCIA])
 - **Estado:** por confirmar.

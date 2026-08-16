@@ -34,6 +34,16 @@ Reconstrucción a partir de referencias cruzadas (numeración exacta aún por co
 - "Also need to track left over liquidity **regardless of if you will trade these areas or not**. Also track HOW price is developing, stage of swing, how it fits inside broader context." [IMG: Fractals _ Scaling p.12]
 - Seguimiento del espectro **favourable/unfavourable** del trade en desarrollo, escalando al fractal. [IMG: Fractals _ Scaling p.12]
 
+## Trazado y refinado de niveles (reglas M2020 — Session 14)
+
+1. **El nivel es la parte unpicked.** Cada vez que el precio come parte de un nivel, el nivel vigente pasa a ser solo lo no recogido; un nivel recogido desaparece ("that original level's gone"). [VID-M2020: Session 14 @ 00:00:16–00:02:40, 00:10:37]
+2. **Refinado HTF→LTF:** identificar el área en 15min → zoom (hay "numerous levels inside of the level") → redibujar cada subnivel a su liquidez real → repetir en 5min → separar todos los niveles (aunque disten 4 pips) → ajustar el borde al **release point** de la vela que salió. Resultado típico: un área de 15min queda en 2 niveles. Si no se ve, bajar hasta tick charts. [VID-M2020: Session 14 @ 00:03:03–00:05:05, 00:13:08, 00:37:39]
+3. **El shelf se dibuja entero**, sin refinar (ver entrada Shelf en 02_conceptos).
+4. **Categorizar siempre** cada nivel (top side de OP ≠ shifting point ≠ residual ≠ apex retest; small shelf vs big shelf; BA; fractal shelf retest; washed o no). [VID-M2020: Session 14 @ 00:13:53–00:15:36, 00:20:21–00:20:43]
+5. **Selección**: de ~50 niveles dibujables, operar 1-2. Filtro por cómo llega el precio: eficiente hacia el nivel = no trade; ineficiente = interesante. Respuesta "manageable" ~7-8 pips (colchón que evita el full loss). Un área washed tiene probabilidad baja de responder (salvo contexto: sideways pop tras romper midflow/shelf). [VID-M2020: Session 14 @ 00:16:29–00:17:07, 00:06:19, 00:34:51–00:35:40]
+6. **Dibujar antes, no después**: todos los niveles trazados antes de que el precio llegue; si los atraviesa "you're not wrong about anything — it just became inefficient; that's the risk when it breaks a shelf". [VID-M2020: Session 14 @ 00:34:05, 00:51:08]
+7. Práctica prescrita: gráficos históricos al azar, marcar todos los puntos de respuesta, refinar, comprobar sin trampas, repetir; tracking continuo como tarea permanente ("you will learn more from tracking price than anything you've ever learned from me"). [VID-M2020: Session 14 @ 00:02:51, 00:23:06, 00:50:02]
+
 ## Lectura en tiempo real
 
 - **Enfoque anticipatorio, sin confirmación**: posicionarse antes del run leyendo anatomía, fase y parámetros relativos ("you won't get confirmation"). [PDF: Fractal _ Shift Basics p.2]
