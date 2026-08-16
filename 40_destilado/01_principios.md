@@ -29,6 +29,7 @@ Del documento "Liquidity Principles" [PDF: Liquidity Principles]:
 - Un LP institucional mueve sus quotes ante flujo entrante → respuesta en cadena de todos los LPs (protección anti-arbitraje: ensanchan spreads y sus pricing engines suben los precios) → los flujos "persiguen" las quotes → movimiento fino e ineficiente que **sobrepasa** (overshoot) y deja un **vacío de liquidez** detrás. [PDF: The Price Run p.1, p.8]
 - Los LPs trocean órdenes grandes para casarlas sin mover el mercado; su trabajo termina cuando el inventario se llena — después el precio queda sin soporte y rebalancea por el vacío buscando liquidez. [PDF: The Price Run p.6, p.8]
 - El disparador del run es **relativo**: "the 'increase' is relative, doesn't have to be massive, just more than the volume keeping price stable" — por eso muchos spikes se secan rápido y vuelven a la base. [PDF: The Price Run p.7, p.9]
+- **Contraste externo** [PAPER: HSBC FX LS]: una ficha real de un LP (HSBC, 2019) corrobora el troceo de órdenes "into smaller slices scaled to current market liquidity" para minimizar footprint, la existencia literal de "Liquidity Seeking Algorithms" que persiguen el mercado hasta completar la orden, la ejecución siempre dependiente de liquidez y la ocultación de interés (iceberg). NO documenta en cambio el mecanismo de price-chasing defensivo de los pricing engines que EM usa para explicar el overshoot — esa cadena causal queda como afirmación de EM sin fuente externa. Ver `30_extractos/extracto_paper_fx_liquidity_seeking.md`.
 
 ### Ciclo canónico del price run
 

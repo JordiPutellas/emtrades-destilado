@@ -25,8 +25,8 @@
   - Process Over Profits.pdf → `extracto_process_over_profits.md`
   - Tracking Unfilled Liquidity Presentation.pdf → `extracto_tracking_unfilled_liquidity.md` (esquema CPS de 13 componentes)
   - Trade Example _ Management.pdf → `extracto_trade_example_management.md` (trade real con gestión completa)
-- [ ] **Papers** (1 PDF — externo, no EMTrades)
-  - fx-liquidity-seeking-ls.pdf
+- [x] **Papers** (1 PDF — externo, no EMTrades) — procesado 2026-08-16
+  - fx-liquidity-seeking-ls.pdf → `extracto_paper_fx_liquidity_seeking.md` (etiqueta [PAPER], solo contraste)
 
 ## Vídeos (00_fuentes/videos — 26 ficheros)
 
