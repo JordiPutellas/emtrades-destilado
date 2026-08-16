@@ -28,7 +28,7 @@
 - **Genealogía Price Swing:** EM lo llama `the framework that price moves in`; pide escoger un feature, construirle parámetros/sample set y convertir **ese feature** en trade. PS01 confirma que CPS es el mapa, no un setup único. [VID-PS: PriceSwing_01 @ 00:00:14–00:00:19] [VID-PS: PriceSwing_01 @ 00:05:13–00:06:03] [CONFIRMADO: PS→M2020].
 - **Síntesis PS09:** el vídeo `to put together the CPS series` recorre inventory activo → fallo en crear extremo → shelf break/shift → nuevo run con pause, extensions y fills → nuevo deterioro. Después ofrece fade, apex retest o breakout como **features alternativas** a ejercitar. Confirma de nuevo framework relacional, no setup CPS. [VID-PS: PriceSwing_09 @ 00:00:00–00:00:12] [VID-PS: PriceSwing_09 @ 00:10:33–00:12:05]
 - **Cierre PS10:** principios = `why`; CPS = `how` y navegación. Solo tras escoger y repetir un feature se desarrollan sus parámetros y un trade model; EM sitúa explícitamente shelf flip, midflow y trend como modelos posteriores, no como un setup CPS único. [VID-PS: PriceSwing_10 @ 00:06:35–00:07:39] [VID-PS: PriceSwing_10 @ 00:19:53–00:21:40]
-- [USUARIO] recuerda además un setup concreto llamado CPS, pero [NO-LOCALIZADO]: búsqueda exhaustiva negativa en el corpus conservado (M2020 16/16 + Price Swing 10/10 + PDFs + capturas). La evidencia conservada usa CPS consistentemente como framework; no se invalida el recuerdo, se clasifica como posible dependencia perdida/privada.
+- [USUARIO] (2026-08-16) cierra la duda que él mismo abrió: recordar "un setup llamado CPS" fue **confusión de siglas con CPL** (ver S-09 y entrada CPL). No existía tal setup — CPS es framework y solo framework, como ya indicaba la búsqueda exhaustiva negativa (M2020 16/16 + Price Swing 10/10 + PDFs + capturas).
 
 ### FTR — expansión NO ESPECIFICADA
 
@@ -68,6 +68,7 @@
 ### YO / WO / MO — Yearly / Weekly / Monthly Open
 - **Estado:** confirmado (uso como etiquetas de nivel en charts).
 - Aperturas anuales/semanales/mensuales usadas como niveles de referencia en las anticipaciones dibujadas. [IMG-MIET: Prediction 1, Prediction 2, EXZchDyWAAE1rMG]
+- [USUARIO] (2026-08-16): niveles **descriptivos, no operativos** — nunca derivó operativa de ellos y no tienen prioridad sobre shelf ni componentes del CPS. Es el uso de Jordi, no prueba el de EM; convergente con que EM no explica reglas de uso en 26 vídeos.
 
 ### HTF / LTF
 - **Estado:** confirmado (uso estándar): higher/lower timeframe. Las bases y apexes HTF acumulan más liquidez. [PDF: Liquidity Principles; Price Swings Continued p.10, p.12]
@@ -347,7 +348,7 @@
 - No confundir `fractal` con `fractal pushing`, término todavía no definido.
 
 ### Fractal pushing
-- **Estado:** por confirmar. Detectado en módulo Price Inefficiencies sin definición. [PDF: módulo Price Inefficiencies]
+- **Estado:** [NO-LOCALIZADO] — cierre definitivo (2026-08-16). Una sola mención sin definición [PDF: módulo Price Inefficiencies]; nada en el resto del corpus y [USUARIO] no reconoce el término. Posible vocabulario efímero o de material no conservado.
 
 ### AB / ABR — Apex Base / Apex Base Retest
 - **Estado:** confirmado (siglas usadas como etiquetas de gráfico).
@@ -412,8 +413,9 @@
 - "In every successful apex, the original pickup will hold. The low held. That's it." [VID-M2020: Session 12 @ 00:10:02]
 
 ### HOTW — High Of The Week ([INFERENCIA])
-- **Estado:** por confirmar.
+- **Estado:** por confirmar (expansión literal sin acreditar).
 - "All three levels of unfilled lq gave price responses, all tradeable, two formed HOTW." [PDF: Tracking Unfilled Liquidity p.3]
+- [USUARIO] (2026-08-16): nivel **descriptivo, no operativo** — nunca derivó operativa de él y no tiene prioridad sobre shelf ni componentes del CPS. Es el uso de Jordi, no prueba el de EM; convergente con que EM no lo comenta en 26 vídeos.
 
 ### Dealing range
 - **Estado:** confirmado (uso).
@@ -427,6 +429,7 @@
 
 ### Washed IV
 - **Estado:** confirmado operativamente; expansión literal de `IV` no escrita.
+- [USUARIO] (2026-08-16): tampoco él supo nunca qué significaba `IV` — la sigla no era transparente ni para los alumnos que operaban el setup.
 - Setup nombrado: "**Washed IV setting up on WTI — need a parabolic move lower on daily**" (WTI D1, 15-abr-2020; 5 días antes del crudo negativo). Aclaración: "Doesn't mean WTI is bullish, **price just runs through thin spots to nearest yet thickest areas**." Citando su tweet de 8-sep-2019: "**One of my favourite setups. PaTtErN is present everywhere on every timeframe... really really simple — price goes to the weaker side. Weakness (or strength) is a spectrum, it's never binary.**" [IMG-TWIT: Washed iv wti]
 - La serie etiqueta la zona como `Fractal IV`, `IV Consumed` y `Washed IV`. EM explica: "**Price consuming the inventory, weakening the area. Goes deep into it, better yet it pokes past it**". Por tanto, `IV` refiere operativamente al **inventario** (no al numeral cuatro) y `washed` a su consumo/debilitamiento por tests y penetraciones; la expansión literal de las letras no está escrita. [IMG: CLP/ED6JtkLXsAEu4X4.png] [IMG: CLP/EEBYb6-WsAAp2N-.png] [IMG: CLP/EEBe34cXoAEhKWw.png] [IMG: CLP/EUR CPL.jpg]
 - Forma/setup: tras separarse el precio de la zona consumida en una CPL, EM busca fade de esa pierna vulnerable; el recorrido esperado atraviesa el inventario débil hacia la zona restante más gruesa. Entrada exacta, invalidación y gestión intermedia: NO ESPECIFICADO EN FUENTES. [IMG: CLP/ED6JtkLXsAEu4X4.png]
