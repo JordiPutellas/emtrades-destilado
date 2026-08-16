@@ -2,6 +2,18 @@
 
 > Todo término propio del método, con definición, fuente y estado (**confirmado** = definido en material original / **por confirmar** = usado sin definición completa o aportado por el usuario).
 
+## Índice
+
+**Siglas:** [CPS](#cps--characteristics-of-a-price-swing-inferencia-fuerte) · [SWE](#swe--shelf-wash-extension) · [BA](#ba--breakout-accumulation) · [LLS](#lls--low-liquidity-state) · [PI](#pi--price-inefficiency) · [HTF/LTF](#htf--ltf) · [AB/ABR](#ab--abr--apex-base--apex-base-retest) · [ST/SB](#st--sb--shelf-top--shelf-bottom) · [CLB](#clb--core-liquidity-base) · [CBP](#clean-breaking-point-cbp) · [PoR](#por--point-of-release) · [LIC](#liquidity-imbalance-continuum-lic) · [TOB](#tob--top-of-book) · [HOTW](#hotw--high-of-the-week-inferencia)
+
+**Estructura del run/swing:** [Price run](#price-run) · [Price spike](#price-spike) · [Skinny leg](#skinny-leg) · [Price pause](#price-pause) · [Parabolic phase](#parabolic-phase) · [Shelf](#shelf--shelf-liquidity) · [Shelf flip](#shelf-flip) · [Washed (shelf)](#washed-shelf) · [Apex](#apex--apex-base--apex-base-retest) · [Shifting point](#shifting-point) · [Shift in state of liquidity](#shift-in-state-of-liquidity) · [Midflow](#midflow) · [Core liquidity base](#core-liquidity-base)
+
+**Liquidez y entrega:** [Residual liquidity](#residual-liquidity--residual-levels) · [Liquidity void](#liquidity-void--vacuum) · [Chain reaction](#chain-reaction) · [Gap slip](#gap-slip--gapslip) · [Last point of liquidity](#last-point-of-liquidity) · [Rebalance](#rebalance) · [Trending extension fill](#trending-extension-fill-short-extension-fill) · [Feeder](#feeder--feeding-liquidity) · [Volume stability / surge](#volume-stability--relative-volume-surge) · [Breakout PI](#breakout-pi--fractal-breakout-pi) · [Fractal pushing](#fractal-pushing)
+
+**Trading y gestión:** [Midflow / counter flow trading](#midflow-trading--counter-flow-trading) · [Paying for the trade](#paying-for-the-trade) · [Compound](#compound)
+
+> El esquema maestro que ordena casi todos estos términos es el **CPS de 13 componentes** [IMG: Tracking Unfilled Liquidity p.4] — ver entrada CPS y `40_destilado/00_indice.md`.
+
 ## Siglas
 
 ### CPS — Characteristics of a Price Swing ([INFERENCIA fuerte])
@@ -136,8 +148,10 @@
 - Estado de volumen bajo y estable que mantiene el precio en rango; el run se dispara cuando entra un surge **relativo** ("just more than the volume keeping price stable"). [PDF: The Price Run p.7] [IMG: p.10]
 
 ### Parabolic phase
-- **Estado:** por confirmar.
-- Mencionada como parte de la anatomía de un top/bottom HTF ("what a top looks like including parabolic phase etc"). Sin desarrollar aún. [IMG: Price Swings Continued p.14]
+- **Estado:** confirmado (uso repetido); anatomía completa pendiente.
+- Parte de la anatomía de un top/bottom HTF ("what a top looks like including parabolic phase"). [IMG: Price Swings Continued p.14]
+- En el trade real equivale al componente 5: "continuation leg/parabolic phase — **weakest part of the run**". [IMG: Trade Example p.4]
+- "The shelf which pushed price into parabolic phase" [IMG: Trade Example p.5]; "sideways pop into parabolic phase = often precedes highs". [IMG: Fractals _ Scaling p.8]
 
 ### Midflow trading / counter flow trading
 - **Estado:** confirmado (nombres de estilo de trade). Ver 03_setups.md.
