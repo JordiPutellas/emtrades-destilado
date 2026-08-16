@@ -1,156 +1,76 @@
-# Fuentes pendientes
+# Pendientes tras el cierre del corpus conservado
 
-> Inventario real de `00_fuentes/` (verificado con tree el 2026-08-16).
+> Estado canónico verificado el 2026-08-16. No quedan fuentes conservadas sin procesar. Las matrices históricas por lote se retiran para no volver a buscar en material agotado.
 
-## PDFs (00_fuentes/pdfs — 17 ficheros)
+## Cobertura final
 
-- [x] **Price Inefficiencies** (3 PDFs) — ver `extracto_price_inefficiencies.md`
-  - Introduction Price Inefficiencies.pdf
-  - Deeper Look into Price Swing Basic.pdf
-  - The Price Spike.pdf
-- [x] **Price Swing Basics** (3 PDFs) — procesado 2026-08-16, ver extractos individuales
-  - Price Swing Basics video.pdf → `extracto_price_swing_basics_video.md`
-  - Price Swings Continued.pdf → `extracto_price_swings_continued.md`
-  - The Price Run.pdf → `extracto_the_price_run.md`
-- [x] **Price Delivery** (4 PDFs) — procesado 2026-08-16, ver extractos individuales
-  - Liquidity Imbalance continuum video.pdf → `extracto_liquidity_imbalance_continuum.md`
-  - Liquidity Void.pdf → `extracto_liquidity_void.md`
-  - Low Liquidity State.pdf → `extracto_low_liquidity_state.md`
-  - Variable Volume Flow Video.pdf → `extracto_variable_volume_flow.md` (p.2 y p.5 duplican diapositivas de The Price Run)
-- [x] **Fractals** (2 PDFs) — procesado 2026-08-16
-  - Fractal _ Shift Basics.pdf → `extracto_fractal_shift_basics.md`
-  - Fractals _ Scaling.pdf → `extracto_fractals_scaling.md`
-- [x] **Process** (4 PDFs) — procesado 2026-08-16
-  - Liquidity Principles.pdf → `extracto_liquidity_principles.md`
-  - Process Over Profits.pdf → `extracto_process_over_profits.md`
-  - Tracking Unfilled Liquidity Presentation.pdf → `extracto_tracking_unfilled_liquidity.md` (esquema CPS de 13 componentes)
-  - Trade Example _ Management.pdf → `extracto_trade_example_management.md` (trade real con gestión completa)
-- [x] **Papers** (1 PDF — externo, no EMTrades) — procesado 2026-08-16
-  - fx-liquidity-seeking-ls.pdf → `extracto_paper_fx_liquidity_seeking.md` (etiqueta [PAPER], solo contraste)
+| Estrato | Estado | Cierre / navegación |
+|---|---:|---|
+| PDFs EM | 17/17 | Extractos individuales en `30_extractos/` |
+| Paper externo | 1/1 | `extracto_paper_fx_liquidity_seeking.md`; solo contraste |
+| M2020 | 16/16 vídeos, ~23 h 48 min | `cierre_m2020.md` |
+| Price Swing | 10/10 vídeos | `cierre_price_swing.md` |
+| Transcripciones / frames | 26/26 vídeos; 27,4 h; 693 frames | Completos |
+| Capturas | 237/237 | Discord 129/129, CLP 12/12 y resto completo |
 
-## Vídeos (00_fuentes/videos — 26 ficheros)
+Jerarquía vigente: `M2020 > Price Swing > PDFs`. Price Swing documenta genealogía y precursores; no reemplaza la capa M2020.
 
-- [x] **2020 Mentorship** (16 vídeos, 16/16 transcritos y destilados; ~23 h 48 min) — etiqueta `[VID-M2020: ...]`. Fuente más refinada y autoritativa. Cierre: `cierre_m2020.md`.
-  - [x] Session 1 (2020-02-14) → `extracto_vid_m2020_session01.md` — OTC bilateral/quote-driven vs exchange multilateral/order-driven, internalización y CCP (2026-08-16)
-  - [x] Session 2 (2020-09-10) → `extracto_vid_m2020_session02.md` — proceso dinámico, market-to-limit ratio, inventario/last look e information leakage (2026-08-16)
-  - [x] Session 3 (2020-09-24) → `extracto_vid_m2020_session03.md` — price reflects state of liquidity, estructura FX, EBS/Reuters, prime brokerage y price discovery (2026-08-16)
-  - [x] Session 4 (2020-09-29) → `extracto_vid_m2020_session04.md` — parabolic/tick rate, exhaustion y dislocación HFT (2026-08-16)
-  - [x] Session 5 (2020-10-03) → `extracto_vid_m2020_session05.md` — dislocación event-driven, price-chasing y selección de niveles (2026-08-16)
-  - [x] Session 6 (2020-10-04) → `extracto_vid_m2020_session06.md` — cinco eventos del swing, residual liquidity y execution algorithms (2026-08-16)
-  - [x] Session 7 (2020-10-08) → `extracto_vid_m2020_session07.md` — VVF, exhaustion y probabilidades dinámicas (2026-08-16)
-  - [x] Session 8 (2020-10-14) → `extracto_vid_m2020_session08.md` — midflow, inventory y technical break (2026-08-16)
-  - [x] Session 9 (2020-10-16) → `extracto_vid_m2020_session09.md` — parabolic, first touch y gestión del price swing (2026-08-16)
-  - [x] Session 10 (2020-10-18) → `extracto_vid_m2020_session10.md` — fractal, apex y lógica de first touch/retest (2026-08-16)
-  - [x] Session 11 part 1-009 → `extracto_vid_m2020_session11_part1.md` — counterflow y estructura multiescala (2026-08-16)
-  - [x] Session 11 part 2 → `extracto_vid_m2020_session11_part2.md` — apex variations, shelf drain y gestión dinámica (2026-08-16)
-  - [x] Session 12-004 (2020-11-06) → `extracto_vid_m2020_session12.md` — definición formal de BA, anatomía del core (2026-08-16)
-  - [x] Session 13-003 (2020-11-19) → `extracto_vid_m2020_session13.md` (2026-08-16)
-  - [x] Session 14- drawing levels (2020-12-17) → `extracto_vid_m2020_session14.md` (2026-08-16)
-  - [x] Session 15-007 (2021-03-21) → `extracto_vid_m2020_session15.md` — pasos exercising, workspace, estilo de gestión (2026-08-16)
-  - **Dependencia SIN RESOLVER — template 4 variaciones de apex** (+ gestión por variante + "second level information", prometido en S13 @ 01:45:10): NO está en M2020 ni en el corpus visual. PS05 muestra varias morfologías, pero no cuatro casos enumerados ni su gestión. Restan PS06–10 o un archivo perdido del drive; se conserva el precursor Twitter "variation of a low".
-  - **"Process video" y "exercise video"**: CERRADO-IRRECUPERABLE (2026-08-16) — [USUARIO] no los conserva. Contenido parcialmente reconstruido vía S13/S15 + Liquidity Principles p.1 + tweet "3 tranches" (ver pregunta 6 en 90_preguntas_abiertas.md).
-  - S12 @ 00:30:17 promete "next session" el detalle de cómo cambian las probabilidades cuando el precio hace poke past the low del OP; no aparece en M2020 ni PS01–05. Candidatos: PS06–10 o dependencia perdida.
-- [x] **Price Swing series** (10 vídeos, 10/10 transcritos y destilados) — etiqueta `[VID-PS: ...]`. Época anterior, menos refinada.
-  - [x] PriceSwing_01.mp4 → `extracto_vid_priceswing_01.md` — CPS como framework, core/residual y precursor de S-08 (2026-08-16)
-  - [x] PriceSwing_02.mp4 → `extracto_vid_priceswing_02.md` — core base, PoR, refinamiento y CLB retest legacy (2026-08-16)
-  - [x] PriceSwing_03.mp4 → `extracto_vid_priceswing_03.md` — genealogía de transfer, price pause y gestión counterflow (2026-08-16)
-  - [x] PriceSwing_04.mp4 → `extracto_vid_priceswing_04.md` — SWE formal, counterflow y price-pause management (2026-08-16)
-  - [x] PriceSwing_05.mp4 → `extracto_vid_priceswing_05.md` — consolidation apex, variaciones no cerradas y ABR legacy (2026-08-16)
-  - [x] PriceSwing_06.mp4 → `extracto_vid_priceswing_06.md` — shelves anidados, shelf flip y pain trade (2026-08-16)
-  - [x] PriceSwing_07.mp4 → `extracto_vid_priceswing_07.md` — gestión multiescala del apex retest (2026-08-16)
-  - [x] PriceSwing_08.mp4 → `extracto_vid_priceswing_08.md` — shelf retests, SWE y stop-out (2026-08-16)
-  - [x] PriceSwing_09.mp4 → `extracto_vid_priceswing_09.md` — CPS completo como mapa relacional (2026-08-16)
-  - [x] PriceSwing_10.mp4 → `extracto_vid_priceswing_10.md` — exercising, expectancy y desarrollo de modelos (2026-08-16)
+## Matriz final de la caza PS01–PS10
 
-Plan: transcripción y destilación batch completadas (26/26; 27,4 h; 693 frames). M2020 cerrado 16/16; Price Swing cerrado 10/10. Reorganización final de dependencias en el cierre exclusivo del corpus.
+| Pregunta | PS01–PS05 | PS06–PS10 | Resultado final | Destino |
+|---|---|---|---|---|
+| CPS como setup concreto | Framework; features separados | PS09–10 vuelven a separar mapa y modelo | No localizado; recuerdo de [USUARIO] compatible con dependencia privada/perdida | Jordi / material perdido |
+| SWE / washed shelf-specific | PS04 fija anatomía: top + bottom/middle picked, inventory consumido, extension | PS08 confirma las tres partes, first touch y target más allá del SWE | Morfología y expectativa resueltas; hard stop, threshold y reentrada no publicados | Material perdido + validación |
+| Cuatro apexes + gestión por variante | Variaciones no enumeradas | Escala, reentry, pain trade y seguimiento; nunca cuatro contratos | Template formal no localizado | Material perdido |
+| Poke past low del OP | Solo pokes genéricos | Pokes genéricos, nunca OP ni cambio probabilístico formal | No localizado pese a promesa M2020 S12 | Material perdido |
+| Fractal pushing | `fractal nature`, no el término | Naturaleza fractal común | No localizado | Material perdido / aclaración Jordi |
+| HOTW | Ausente | Ausente | `High Of The Week` probable; reglas no localizadas | Aclaración Jordi / genealogía externa |
+| YO/WO/MO | Ausentes | Ausentes | Etiquetas M2020 sin reglas | Aclaración Jordi / material perdido |
+| Responsive vs market-state-dependent | Ausente como taxonomía | `responsive` común y sample de response points | Taxonomía no localizada | Material perdido + validación |
+| Momentum trade | Setup ausente | Setup ausente; PS10 anuncia modelos posteriores | Momentum definido, contrato no localizado | Material perdido / curso posterior |
+| Parámetros Washed IV/CPL | Ausentes | Ausentes | Modelo S-09 identificado; trigger, stop y gestión no publicados | Material privado/perdido |
+| Tradeable vs non-tradeable PI | Nivel, parte intacta, llegada, espacio | PS10 formaliza prueba de delivery/resultados | Proceso contextual resuelto; no existe clasificador universal en el corpus | Validación empírica |
+| Extensión suficiente / timing fill | Ineficiencia, opposing pocket, rango | Sin threshold; parametrizar por sample | Criterio cualitativo fuerte; magnitud/timing no universales | Validación empírica |
+| Procedencia PTC/Lori vs EM | CPS y capa Lori acreditadas parcialmente | Sin nueva atribución directa | Genealogía suficiente para separar capas; autoría término-a-término incompleta | Genealogía externa opcional |
+| Transfer of liquidity | PS03 aporta la formulación histórica literal | No añade mecanismo | C-001 cerrada: vocabulario temprano corregido por M2020 (`liquidity follows`) | Ninguno |
 
-### Matriz única Price Swing PS01–PS05
+## 1. Cuestiones que Jordi puede aclarar
 
-| Pregunta | PS01 | PS02 | PS03 | PS04 | PS05 | Resultado | Siguiente candidato |
-|---|---|---|---|---|---|---|---|
-| CPS como setup concreto | CPS = framework; cada feature se parametriza aparte | — | — | — | — | Ausente como setup | PS06–10; dependencia perdida |
-| SWE / washed shelf-specific | — | — | Nombre + top/bottom picked | Definición morfológica + fade incompleto | Confirma SWE como variante | Morfología resuelta; trigger/stop/gestión abiertos | PS06–10 |
-| 4 apexes + gestión por variante | Precursor de fade | — | — | `breakdown characteristics` sin definir | Varias formas no enumeradas ni contratos | Avance genealógico; template no localizado | PS06–10; drive perdido |
-| Poke past low del OP | — | — | Poke de inventory genérico | — | — | Ausente como OP | PS06–10; dependencia perdida |
-| Fractal pushing | — | — | — | — | `fractal nature`, no el término | Ausente | PS06–10 |
-| HOTW | — | — | — | — | — | Ausente | PS06–10 |
-| YO/WO/MO | — | — | — | — | — | Ausente | PS06–10 |
-| Responsive vs market-state-dependent | — | — | — | — | — | Taxonomía ausente | PS06–10 |
-| Momentum trade | — | — | — | — | — | Setup ausente | PS06–10 |
-| Parámetros Washed IV/CPL | — | — | — | — | — | Ausentes | PS06–10; material privado/perdido |
-| Tradeable vs non-tradeable PI | Core vs residual | HTF base + LTF weak arrival + sample | Fill local vs core response | Ineficiencia + espacio + opposing pocket | No drift; preferir release/parabolic | Avance fuerte; clasificador universal abierto | PS06–10 + validación |
-| Extensión suficiente / timing fill | — | — | Skinny leg vs run completo | Ineficiente más allá del extremo + rango suficiente | Release vs drift, sin umbral | Criterio cualitativo; sin threshold/timing | PS06–10 + validación |
-| Procedencia PTC/Lori vs EM | CPS framework, sin atribución verbal | — | — | — | Reusa slide CPS, sin atribuir variantes | Corpus externo acredita CPS/PTC; añadidos EM sin mapear | PS06–10 / material PTC |
-| Transfer of liquidity | — | — | Genealogía literal localizada | Uso legacy incidental | Uso legacy incidental | C-001 permanece resuelta: vocabulario corregido | PS06–10 solo para genealogía |
+- **CPS como setup:** nombre, chart o memoria de su contrato permitirían distinguirlo del framework conservado.
+- **HOTW:** confirmar si la expansión pretendida era `High Of The Week`; la fuente solo muestra la etiqueta.
+- **YO/WO/MO:** confirmar si recibió reglas separadas de las simples referencias yearly/weekly/monthly open.
+- **Fractal pushing:** cualquier ejemplo recordado ayudaría a decidir si era término formal o lenguaje informal.
+- **Mapeo lección↔archivo:** nombres o estructura del drive original para localizar qué módulos faltan realmente.
 
-### Caza transversal cerrada tras M2020 S4–S6
+## 2. Dependencias perdidas o privadas
 
-| Pregunta | S4 | S5 | S6 | Resultado acumulado | Siguiente candidato |
-|---|---|---|---|---|---|
-| CPS como setup | — | — | — | Ausente | S7–S11; Price Swing |
-| SWE / washed shelf-specific | — | — | — | Ausente | S7–S11; Price Swing |
-| Parámetros Washed IV/CPL | — | — | — | Ausente | S7–S11; Price Swing |
-| 4 variaciones de apex | — | Secuencia genérica, no template | — | No resuelto | S7–S11; Price Swing/drive perdido |
-| Gestión dentro de apex | — | — | — | Ausente | S7–S11; Price Swing |
-| Poke past low del OP | — | — | — | Ausente | S7–S11 |
-| Responsive vs market-state-dependent | — | Preferencia core/residual, no taxonomía | — | No resuelto | S7–S11; Price Swing |
-| YO/WO/MO | — | — | `MO` solo visible | Sin reglas | S7–S11; Price Swing |
-| Momentum trade/models | — | — | — | Ausente | S7–S11; Price Swing |
-| Tradeable vs non-tradeable PI | Finish contextual | Buen nivel + move débil | Densidad residual + estado de ejecución | Avance fuerte, sin trigger cerrado | S7–S11; Price Swing |
-| Extensión suficiente / timing fill | Claims de response/fill | Fin de ejecución ≠ reversal | Algo activo puede retrasar fill | Avance fuerte, sin threshold/timing | S7–S11; Price Swing |
-| Fractal pushing | — | — | — | Ausente | Price Swing primero; S7–S11 |
-| HOTW | — | — | — | Ausente | Price Swing primero; S7–S11 |
-| Transfer of liquidity | — | — | — | Ausente; 10 sesiones/~14h29 | S7–S11 solo para posible reapertura de C-001 |
+- Template formal de las cuatro variaciones de apex y gestión por variante.
+- Lección prometida de `second-level information`; su mecánica queda parcialmente reconstruida, no el artefacto.
+- Desarrollo prometido del `poke past the low del OP`.
+- `Process video` y `exercise video`, confirmados por [USUARIO] como no conservados.
+- Parámetros exactos de Washed IV/CPL.
+- Contrato del momentum trade y posible setup CPS recordado por [USUARIO].
+- Taxonomía responsive vs market-state-dependent y reglas YO/WO/MO, si existieron como lecciones formales.
 
-### Caza transversal cerrada tras M2020 S7–S9
+## 3. Preguntas empíricas para validación
 
-| Pregunta | S7 | S8 | S9 | Resultado | Siguiente candidato |
-|---|---|---|---|---|---|
-| CPS como setup | — | — | — | Ausente | S10–S11; Price Swing |
-| SWE / washed shelf-specific | — | Inventory/base y tests, no SWE | Deep tests, `cluster washed`, no shelf-specific | Avance genérico; SWE no resuelta | S10–S11; Price Swing |
-| Parámetros Washed IV/CPL | — | — | — | Ausentes | S10–S11; Price Swing |
-| 4 variaciones de apex | — | Tipos de nivel, no template | Variaciones de swing, no template | No resuelto | S10–S11; Price Swing/drive perdido |
-| Gestión dentro de apex | — | — | — | Ausente | S10–S11; Price Swing |
-| Poke past low del OP | — | — | — | Ausente | S10–S11 |
-| Responsive vs market-state-dependent | — | Entornos/escala, no taxonomía | `responsive` común, no taxonomía | No resuelto | S10–S11; Price Swing |
-| YO/WO/MO | `WO` solo visible | — | — | Sin reglas | S10–S11; Price Swing |
-| Momentum trade/models | — | — | — | Setup ausente | S10–S11; Price Swing |
-| Tradeable vs non-tradeable PI | Máximo skew + gestión dinámica | Escala/entorno | Nivel + break + parabólica + first touch | Avance operativo muy fuerte; clasificador universal abierto | S10–S11; Price Swing |
-| Extensión suficiente / timing fill | VVF y exhaustion | Relativa a escala | Break + parabólica; targets washed/core | Avance fuerte; sin threshold/timing universal | S10–S11; Price Swing |
-| Fractal pushing | — | — | Fractal/escala, no término | Ausente | Price Swing primero; S10–S11 |
-| HOTW | — | — | — | Ausente | Price Swing primero; S10–S11 |
-| Transfer of liquidity | — | — | — | Ausente; 13 sesiones/~19h31 | S10–S11 solo para posible reapertura de C-001 |
+- Edge de first touch frente a retest por core/residual, entorno e instrumento.
+- Threshold de drained/washed y valor incremental de cada deep test/poke.
+- Distancia y timing de extension/fill; separar response, fill parcial, core return y reversal.
+- Clasificador reproducible de PI tradeable por nivel + llegada + estado + escala.
+- Technical break + parabolic frente a parabolic sin break en el fade S-08.
+- Winner/loser characteristics y decisiones de corte antes del hard stop.
+- Claims absolutos o numéricos de EM: `80/20`, `always`, `guaranteed`, `99 to 1`, fills y responses.
+- Traslado FX → BTC perps/Hyperliquid: fase aparte; ninguna fuente histórica valida ese edge actual.
+- Reconstrucción estadística de los trades propios de Jordi.
 
-### Caza final cerrada — corpus M2020 16/16
+## 4. Genealogía externa opcional
 
-| Pregunta | Resultado final M2020 | Siguiente candidato |
-|---|---|---|
-| CPS como setup | Ausente; CPS solo framework | Price Swing; dependencia perdida |
-| SWE formal/shelf-specific | Sigla expandida por [USUARIO]; M2020 aporta drain cualitativo, no SWE | Price Swing |
-| Parámetros Washed IV/CPL | Ausentes | Price Swing; posible material privado/perdido |
-| 4 variaciones de apex | No localizado; S11.2 compara dos morfologías, sin template | Price Swing; drive perdido |
-| Gestión dentro de apex | Avance fuerte transversal: cushion + tracking + cortar/reducir/mover stop; no reglas por cuatro variantes | Price Swing para genealogía |
-| Poke past low del OP | Ausente pese a la promesa de S12 | Price Swing; dependencia perdida |
-| Responsive vs market-state-dependent | Ausente como taxonomía; solo usos comunes de `responsive` | Price Swing |
-| YO/WO/MO | Etiquetas visibles, sin reglas | Price Swing |
-| Momentum trade/models | Momentum definido, setup ausente | Price Swing |
-| Tradeable vs non-tradeable PI | Clasificador contextual muy avanzado; sin taxonomía/hard stop universal | Price Swing + validación empírica |
-| Extensión suficiente / timing fill | Criterio cualitativo fuerte; sin threshold/timing universal | Price Swing + validación empírica |
-| Fractal pushing | Ausente; `fractal` sí definido y no equivale | Price Swing |
-| HOTW | Ausente | Price Swing |
-| Transfer of liquidity | **RESUELTO:** S10 lo corrige como misnomer (`liquidity follows`); S11.2 lo reafirma | Price Swing solo para genealogía temprana |
+- Delimitar con material primario PTC/Chris Lori qué vocabulario es heredado y qué capa añadió EM.
+- Rastrear la procedencia de la lore `80% range / 20% move` y `80% vacuum to base`.
+- Buscar copias externas de módulos nombrados: Price Delivery, Price Swing Basics, exercise/process y apex variations.
+- Fechar adopción/abandono de términos legacy —SWE, CBP, `transfer of liquidity`— sin alterar la doctrina M2020.
 
-## Capturas (00_fuentes/capturas — 4 subcarpetas + 2 sueltas)
+## Regla de continuación
 
-- [x] **CLP** (12 imgs) — procesado completo 2026-08-16 → `extracto_capturas_CLP.md`. Hallazgo mayor: definición operativa de Washed IV y CPL (consumption response leg), más criterio directo de debilitamiento por consumo profundo/poke. SWE, 4-apex, CPS-setup, YO/WO/MO, responsive-vs-state, fractal pushing, HOTW y momentum trade: NO encontrados.
-- [x] **EM Twits** (50 imgs) — procesado 2026-08-16 en 4 sublotes → `extracto_capturas_TWIT_01..04.md`. Hallazgos mayores: template de variaciones de low (jun-2019, precursor del 4-apex), setup "Washed IV" (sin definición), excepción chase con catalizador (Emergency Cut), mecanismo LP en 7 pasos (EMTRADES.jpg), Chris Lori respondiendo "Sounds familiar" (pregunta 16), base académica del marco (Stanford/EBS, Farmer, Oomen, BoC). Template 4 apexes como archivo / CPS-setup / SWE formal: NO están aquí.
-- [x] **Most Important EM Trades** (44 imgs) — procesado 2026-08-16 en 4 sublotes → `extracto_capturas_MIET_01..04.md`. Template 4 apexes / CPS-setup / SWE: NO encontrados aquí.
-- [x] **discord-conversation-screenshots** (129 imgs) — procesado completo 2026-08-16 en 9 sublotes → `extracto_discord_01..09.md` (incluye las nombradas y las numeradas; los ficheros lowercase `disc 1`, `disc 11`, `disc 27` y `disc 28` quedaron incorporados en el sublote 05). EM = "EssFX"; **GrifoneTrader = el usuario ([USUARIO] confirmado 2026-08-16)**. Hallazgos mayores: momentum + taxonomía por urgencia; latent liquidity/conversion rate; mecanismo por timeframe; anti-stop-hunt; "shifting points" como término de Lori; metaorden del 26-may narrado en vivo; poor high/low; enfoque anticipatorio sobre responsive; balanced liquidity/equilibrium; y protocolo de riesgo event-driven. La caza prioritaria (Washed IV, SWE formal, 4-apex, CPS-setup, YO/WO/MO, responsive-vs-state, poke del OP, fractal pushing y HOTW) no produjo respuestas cerradas.
-- [x] Sueltas (2026-08-16) → `extracto_capturas_sueltas.md`: ambas son el esquema CPS (alcista+bajista) con marca Chris Lori/Pro Traders Club → CPS confirmado + procedencia externa
-- [x] Price Inefficiencies (10 imgs usadas en el extracto de muestra)
-
-**Mapa para no repetir búsquedas tras M2020 (16/16), corpus visual (237/237) y PS01–05:** Discord, CLP, M2020 y la primera mitad de Price Swing están agotados. **SWE** queda resuelto morfológicamente por PS04 y el drain refinado por S11.2; faltan trigger/hard stop/gestión. **Washed IV/CPL** sigue siendo familia distinta con parámetros privados ausentes. Las preguntas restantes pasan a PS06–10. Para **4-apex**, **poke del OP**, el `exercise/process video` y parámetros Washed IV/CPL, conservar además la hipótesis de archivo perdido.
-
-## Trades propios del usuario
-
-- [ ] Fase de validación posterior (reconstrucción estadística) — no destilación.
+No volver a usar PDFs, capturas, M2020 o Price Swing como “siguiente candidato”: están agotados. La siguiente fase debe elegirse explícitamente entre aclaración de Jordi, recuperación externa, genealogía opcional o validación empírica.

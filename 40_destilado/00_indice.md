@@ -1,4 +1,4 @@
-# EMTrades — Mapa del método (Price Swing 10/10; cierre global en preparación)
+# EMTrades — Mapa del método (corpus conservado completo)
 
 > Documento de orientación vivo (2026-08). Todo lo afirmado aquí tiene fuente detallada en los maestros enlazados. Los vídeos M2020, más refinados, prevalecen sobre el material anterior en caso de conflicto.
 
@@ -55,6 +55,7 @@ Itinerario de 3 pasos formalizado en M2020 S15: (1) aprender a ver swings, (2) a
 - ✅ 17/17 PDFs procesados (extractos en `30_extractos/`).
 - ✅ 26/26 vídeos transcritos y destilados (27,4 h; 693 frames). Corpus M2020 completo: 16/16 vídeos (~23 h 48 min). Price Swing completo: 10/10.
 - ✅ Corpus visual completo: 237/237 capturas procesadas (incluye Discord 129/129 y CLP 12/12).
-- El vídeo final Price Swing 10 no recupera los artefactos prometidos/recordados que faltaban; el cierre transversal separará dependencias perdidas, aclaraciones del usuario y claims para validación.
-- Cierre y mapa de navegación del corpus: [cierre_m2020](../30_extractos/cierre_m2020.md).
+- ✅ Corpus fuente conservado procesado íntegramente. No quedan PDFs, vídeos ni capturas pendientes de destilar.
+- Cierres transversales: [M2020](../30_extractos/cierre_m2020.md) · [Price Swing](../30_extractos/cierre_price_swing.md).
+- Próximas fases posibles —todavía no iniciadas—: aclaraciones de Jordi, recuperación/genealogía externa opcional o validación empírica. La clasificación canónica está en [_pendientes](../30_extractos/_pendientes.md).
 - Dudas vivas: [90_preguntas_abiertas](90_preguntas_abiertas.md) · Conflictos: [91_contradicciones](91_contradicciones.md) · Ideas BTC (aparcadas): [92_ideas_btc](92_ideas_btc.md).
