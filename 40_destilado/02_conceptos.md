@@ -8,7 +8,7 @@
 
 **Estructura del run/swing:** [Price run](#price-run) · [Price spike](#price-spike) · [Skinny leg](#skinny-leg) · [Price pause](#price-pause) · [Parabolic phase](#parabolic-phase) · [Shelf](#shelf--shelf-liquidity) · [Shelf flip](#shelf-flip) · [Washed (shelf)](#washed-shelf) · [Apex](#apex--apex-base--apex-base-retest) · [Shifting point](#shifting-point) · [Shift in state of liquidity](#shift-in-state-of-liquidity) · [Midflow](#midflow) · [Core liquidity base](#core-liquidity-base) · [Poor high/low](#poor-high--poor-low-unfinished-auction)
 
-**Liquidez y entrega:** [Residual liquidity](#residual-liquidity--residual-levels) · [Liquidity void](#liquidity-void--vacuum) · [Chain reaction](#chain-reaction) · [Gap slip](#gap-slip--gapslip) · [Last point of liquidity](#last-point-of-liquidity) · [Rebalance](#rebalance) · [Trending extension fill](#trending-extension-fill-short-extension-fill) · [Feeder](#feeder--feeding-liquidity) · [Volume stability / surge](#volume-stability--relative-volume-surge) · [Balanced liquidity](#balanced-liquidity--equilibrium) · [Breakout PI](#breakout-pi--fractal-breakout-pi) · [Fractal pushing](#fractal-pushing) · [Latent liquidity / conversion rate](#latent-liquidity--conversion-rate) · [SR / SR flip](#sr--sr-flip)
+**Liquidez y entrega:** [Residual liquidity](#residual-liquidity--residual-levels) · [Liquidity void](#liquidity-void--vacuum) · [Chain reaction](#chain-reaction) · [Gap slip](#gap-slip--gapslip) · [Last point of liquidity](#last-point-of-liquidity) · [Rebalance](#rebalance) · [Trending extension fill](#trending-extension-fill-short-extension-fill) · [Feeder](#feeder--feeding-liquidity) · [Variable Volume Flow](#variable-volume-flow-vvf) · [Volume stability / surge](#volume-stability--relative-volume-surge) · [Balanced liquidity](#balanced-liquidity--equilibrium) · [Breakout PI](#breakout-pi--fractal-breakout-pi) · [Fractal pushing](#fractal-pushing) · [Latent liquidity / conversion rate](#latent-liquidity--conversion-rate) · [SR / SR flip](#sr--sr-flip)
 
 **Organización de mercado:** [OTC / bilateral](#otc--bilateral--quote-driven) · [Exchange / multilateral](#exchange--multilateral--order-driven) · [Best bid/offer y tipos de orden](#best-bid--best-offer--tipos-de-orden) · [Market-to-limit-order ratio](#market-to-limit-order-ratio) · [Skewed liquidity](#skewed-liquidity) · [Dealer / principal / internalización](#dealer--principal--internalización) · [CCP / settlement](#ccp--central-counterparty--settlement) · [MTF / ECN](#mtf--ecn) · [Sell side / buy side](#sell-side--buy-side) · [EBS / Reuters y price discovery](#ebs--reuters-matching--price-discovery) · [Prime brokerage](#prime-brokerage) · [Information leakage](#information-leakage) · [Execution algorithms](#execution-algorithms--parentchild-orders)
 
@@ -267,6 +267,12 @@
 - No tiene timing automático: un execution algorithm activo y liquidez que persigue precio pueden sostener la extensión; distintos estilos de ejecución producen continuación fina, stair-step o drawback profundo antes del fill. [VID-M2020: Session 6 @ 01:20:26–01:22:55]
 
 ### Low liquid state → ver LLS
+
+### Variable Volume Flow (VVF)
+
+- **Estado:** confirmado y definido formalmente en M2020. `Volume` significa market orders; su flujo aumenta y se contrae durante cualquier movimiento. [VID-M2020: Session 7 @ 00:39:56–00:40:26] [VID-M2020: Session 7 @ 00:47:17–00:47:36]
+- Comportamiento nombrado: `large inefficient extension → exhaustion → extension fill`. EM lo llama “specific name of that behavior”; no aporta por sí solo trigger, invalidación ni gestión, por lo que es concepto/secuencia y no setup autónomo. [VID-M2020: Session 7 @ 00:40:47–00:41:12]
+- Una tendencia se construye con volume shots y contractions sucesivos: la liquidity base sostiene, el volume empuja y se seca, precio corrige hacia inventory y el ciclo vuelve a empezar. [VID-M2020: Session 7 @ 00:47:41–00:48:26]
 
 ### Volume stability / relative volume surge
 - **Estado:** confirmado.

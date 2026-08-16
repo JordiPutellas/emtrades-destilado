@@ -89,6 +89,13 @@ Estabilidad de volumen (low liquid state) → surge relativo en un lado → run 
 - Implicación de gestión: saber en qué extremo del continuum está el trade — un short de extensión agotada es un trade de fill de pierna débil, no de tendencia. [PDF: Liquidity Imbalance continuum p.2]
 - En tendencia: patrón "extension, fill, extension, fill" — cada rebalance contra tendencia encuentra liquidez a favor y empuja a nuevos extremos (trending extension fill ≠ reversal). [PDF: Liquidity Imbalance continuum p.1] [IMG: Liquidity Void p.15]
 
+### Variable Volume Flow (VVF)
+
+- **Definición formal:** `variable` = cambia; `volume` = market orders; `flow` = flujo de esas órdenes. La intensidad sube y se contrae; no permanece constante durante un movimiento. [VID-M2020: Session 7 @ 00:39:56–00:40:26] [VID-M2020: Session 7 @ 00:47:17–00:47:36]
+- Secuencia: dealing estable → pequeña debilidad + volume shot → retirada/repricing de liquidity → expansión fina → volumen se seca dejando weakness → volumen contrario produce drawback/fill → nueva estabilidad. EM llama al comportamiento `large inefficient extension → exhaustion → extension fill`; es secuencia causal, no contrato de setup. [VID-M2020: Session 7 @ 00:38:40–00:41:12]
+- Exhaustion no exige fuerza contraria: la orden impulsora se va llenando y deja poca liquidity residual; después sigue siendo necesaria alguna market order opuesta para mover precio. [VID-M2020: Session 7 @ 00:43:06–00:45:23]
+- Se repite dentro de trends y en cualquier escala. En HTF/event-driven el flujo puede persistir meses sin ser constante; la ineficiencia sigue siendo relativa al timeframe y el origin/core permanece más grueso que el middle. [VID-M2020: Session 7 @ 00:47:41–00:48:26] [VID-M2020: Session 7 @ 01:19:28–01:22:08]
+
 ### Jerarquía de timeframes (principios dictados en M2020)
 
 - "**Higher time frame pulls more liquidity**" y "**higher time frame governs lower time frame / takes precedence**" — dictados como principios para anotar. [VID-M2020: Session 13 @ 00:13:52–00:14:17]

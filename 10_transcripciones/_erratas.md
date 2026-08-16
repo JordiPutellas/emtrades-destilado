@@ -31,3 +31,5 @@
 | dealing wage                              | dealing range                            |
 | top of work                               | top of book                              |
 | HSPC / HBSBC                              | HSBC                                     |
+| scude book                                | skewed book                              |
+| price seeks inequity                      | price seeks liquidity                    |
