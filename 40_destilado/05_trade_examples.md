@@ -16,3 +16,13 @@
 4. **Resolución** (p.6–7): FOMC = catalizador; venta continuada con midflow characteristics; invalidación tardía = "bottoming out at a mid price run level", improbable a las 1900 BST.
 
 **Reglas que este trade fija (ver 03_setups.md · Gestión):** stop 10 pips, shelf como primer objetivo, regla del shelf washed, parcial discrecional, stop a invalidación, compound condicionado, contexto/event risk por encima de todo.
+
+## TE-02 · GBPUSD long en vivo, 19/11/2020 [VID-M2020: Session 13]
+
+**Contexto:** run bajista H1; break de midflow → extensión final muy ineficiente ("price went parabolic in his tick frequency, reaching for the level, stretching out") hacia un **fractal apex** (nivel bueno; "technically residual of this H1 price run" pero con estructura de apex fractal). [@ 01:08:51–01:16:08]
+
+**Ejecución:** buy limit en el nivel; fill con slippage positivo en el low exacto; **stop 2.6 pips**; cerrado +38 pips (~14R) — cerrado "porque estaba en la call"; tarde en el día → no mantener overnight. [@ 00:50:16–00:50:46, 01:18:27–01:19:07]
+
+**Plantilla extraída por el propio EM ("the three main components"):** extension into core liquidity + en fase parabólica o tras break de midflow + de un swing H1. Mismo día, trade análogo contra residual sin nivel = expectancy muy inferior "over a thousand samples". → S-08 en 03_setups.md. [@ 01:14:18–01:15:46]
+
+**Frases operativas:** "My strategy is: **area of strength, move of weakness, I look for my manageable response. That's it.**" · "If you can make 7R 10 times a month, you're a genius." [@ 00:49:57–00:51:04]

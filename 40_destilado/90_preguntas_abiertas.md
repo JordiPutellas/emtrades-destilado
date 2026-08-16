@@ -10,14 +10,26 @@
 6. ~~Cómo anticipar el lado débil del LLS~~ → **PARCIALMENTE RESUELTA**: por evidencia de absorción — "sellers were absorbed at the new pickup of buy liquidity & higher low established" ⇒ lado vendedor débil [IMG: Trade Example p.2]. Generalización/parámetros → vídeos y capturas.
 7. ~~Reglas de invalidación de fades~~ → **PARCIALMENTE RESUELTA**: ejemplo real con stop 10 pips, stop a invalidación estructural ("high had to hold"), invalidación dinámica por fase ("price bottoming out at a mid price run level", ponderada por hora del día), y regla de expectativa del counter flow (solo rebalance salvo bounce-preshift débil). [PDF/IMG: Trade Example p.3–p.6] Formalización completa → vídeos.
 
+## Resueltas en Sesión 3 (vídeos M2020: Sessions 13-14)
+
+8. ~~"3 lados de una base de liquidez"~~ → **RESUELTA**: "there's three sides to it: a top, a middle and a bottom"; si el precio alcanza el bottom, la base entera se da por drenada y solo queda el último pickup (débil). [VID-M2020: Session 13 @ 01:03:05–01:03:48]
+9. ~~Drawing & refining levels~~ → **RESUELTA** (procedimiento completo): nivel = parte unpicked; refinado HTF→LTF hasta tick charts; borde en el release point; shelf entero sin refinar; categorizar siempre; washed/drained. [VID-M2020: Session 14] (ver 04_proceso.md)
+10. ~~¿Feeder?~~ → **RESUELTA en lo esencial**: el nivel original al que el precio alimenta, prioritario sobre su pickup. [VID-M2020: Session 14 @ 00:00:41–00:01:02]
+11. ~~Parabolic phase~~ → **DESARROLLADA**: sideways → pop = parabólica; no suele ser pierna de significancia; tras ella, reversal + shift. [VID-M2020: Session 13 @ 01:23:47]
+
 ## Abiertas
 
-1. **CPS como setup concreto** — [USUARIO] indica que además del framework nombra un setup específico. No aparece como setup en PDFs → vídeos.
-2. **Criterio tradeable vs non-tradeable PI** — avanzado (response areas + calibración high/low probability [PDF: Trade Example p.8]; "not all are tradeable" [PDF: Liquidity Void p.12]) pero sin regla cerrada → vídeos/capturas.
-3. **"3 lados de una base de liquidez"** (principio 4) — conecta con BA (top/middle/bottom responses) y ST/SB, pero sin desarrollo explícito. [INFERENCIA] la base se opera por sus 3 zonas de respuesta → vídeos.
-4. **Traslado FX→BTC perps** — validar empíricamente, no asumir.
-5. **Anatomía completa de top/bottom HTF ("parabolic phase", "top picking characteristics")** — mencionada repetidamente sin catálogo cerrado [IMG: Price Swings Continued p.14; PDF: Tracking Unfilled Liquidity p.3; Trade Example p.4] → vídeos.
-6. **Claim a testear en validación:** "an apex that holds inside the shelf without draining or invalidating it is less likely to hold price down". [PDF: Price Swings Continued p.8]
+1. **CPS como setup concreto** — [USUARIO]. En S13-S14 CPS se usa solo como framework. Candidato más cercano: la plantilla de 3 componentes de TE-02 (S-08). → sesiones restantes.
+2. **Criterio tradeable vs non-tradeable PI** — muy avanzado (S-08: el nivel golpeado es el parámetro decisivo; filtro eficiente/ineficiente de Session 14) pero sin regla cerrada única → más vídeos/capturas.
+3. **Traslado FX→BTC perps** — validar empíricamente, no asumir.
+4. **Template de las 4 variaciones de apex + gestión de trades en apex** — anunciado en Session 13 @ 01:45:10 para "next session", pero Session 14 fue drawing levels → buscar en Session 15 / material restante.
+5. **"Second level information" como lección** — anunciada también para sesión siguiente [VID-M2020: Session 13 @ 01:45:03] → Session 15?
+6. **Claims a testear en fase de validación:**
+   - "An apex that holds inside the shelf without draining or invalidating it is less likely to hold price down". [PDF: Price Swings Continued p.8]
+   - "When the first inventory breaks (first break of midflow), it typically won't continue for a long while after". [VID-M2020: Session 13 @ 00:06:00]
+   - "Probability of a washed area responding: low". [VID-M2020: Session 14 @ 00:34:51]
+   - "After any shot of high volume, volume stabilizes. All the time." [VID-M2020: Session 13 @ 00:46:21]
+   - "Test how often your trade works after the original pickup was invalidated — whether there's any positive expectancy in that action". [VID-M2020: Session 14 @ 00:42:37]
 7. **¿Qué es exactamente "fractal pushing"?** — usado sin definición. [PDF: módulo Price Inefficiencies]
 8. **Mapeo lección↔vídeo**: The Price Run ("video in Price Delivery folder"), Liquidity Imbalance continuum video.pdf, Variable Volume Flow Video.pdf, Price Swing Basics video.pdf y el "exercise video" (paso 2). Identificar al transcribir.
 9. **¿Qué es un "feeder" exactamente?** — sentido perfilado (≈ feeding liquidity que absorbe la extensión) pero sin definición. [PDF: Variable Volume Flow p.4; Trade Example p.8]

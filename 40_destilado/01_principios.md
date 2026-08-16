@@ -73,6 +73,22 @@ Estabilidad de volumen (low liquid state) → surge relativo en un lado → run 
 - Implicación de gestión: saber en qué extremo del continuum está el trade — un short de extensión agotada es un trade de fill de pierna débil, no de tendencia. [PDF: Liquidity Imbalance continuum p.2]
 - En tendencia: patrón "extension, fill, extension, fill" — cada rebalance contra tendencia encuentra liquidez a favor y empuja a nuevos extremos (trending extension fill ≠ reversal). [PDF: Liquidity Imbalance continuum p.1] [IMG: Liquidity Void p.15]
 
+### Jerarquía de timeframes (principios dictados en M2020)
+
+- "**Higher time frame pulls more liquidity**" y "**higher time frame governs lower time frame / takes precedence**" — dictados como principios para anotar. [VID-M2020: Session 13 @ 00:13:52–00:14:17]
+- Un shelf LTF no influye en el TF superior: "if it's a H1 price run, you need a H1 shelf flip"; los flips fractales son inconsecuentes contra el midflow H1 — pero son la herramienta para operar el fill de extensiones (counter flow). [VID-M2020: Session 13 @ 00:13:13–00:15:07]
+- "**View your price swings relative to the timeframe they're present on** — a one minute swing has one minute features, the daily swing has daily features"; y a la vez, para seleccionar/temporizar, saber en qué fase del swing mayor está el swing menor. [VID-M2020: Session 13 @ 00:17:41–00:21:18]
+- Nivel HTF = más tiempo construyéndose = más liquidez = respuestas mayores y más probables que un nivel de 1min. [VID-M2020: Session 13 @ 00:16:40–00:17:06]
+
+### Entornos de precio (espectro, no trend/range)
+
+- "Price environments are changing relentlessly"; los cambios (aun sutiles) determinan qué niveles sirven, duración del trade, tamaño de la respuesta, frecuencia de trades y gestión. Trend/range es una taxonomía insuficiente: hay trends altamente ineficientes y trends modestamente eficientes que se operan de forma opuesta. [VID-M2020: Session 13 @ 00:23:56–00:25:47]
+- Tres métricas permanentes: **volatilidad, estado de liquidez, fase del price swing**. [VID-M2020: Session 13 @ 00:56:47–00:57:33]
+- "**After any shot of high volume, volume stabilizes. All the time.** It's an exploitable price behavior." [VID-M2020: Session 13 @ 00:46:21–00:46:39]
+- Los movimientos HTF más rápidos son todos **event-driven** (2008, Brexit, flash crash 2019, COVID): la liquidez no comparece + hedging masivo + HFTs que "jump the queue" + flujo pasivo vuelto agresivo; al secarse el evento vuelve la estabilidad. Riesgo de cola: stops ejecutados muy lejos, balance negativo. [VID-M2020: Session 13 @ 00:38:40–00:43:29, 01:51:56–01:52:14]
+- Por qué la estabilidad es la norma: demanda de liquidez two-sided no especulativa + cultura de minimización de coste/impacto (algos que trocean y ocultan órdenes). [VID-M2020: Session 13 @ 00:43:35–00:45:29] (Coincide con [PAPER: HSBC FX LS].)
+- "The market is **efficiently inefficient**": sin edge en escalas sub-segundo (HFTs ven el precio verdadero antes); "you can't trade breakouts anymore — by the time the breakout is seen on our screen the volatility is finished". [VID-M2020: Session 13 @ 02:06:35–02:07:39]
+
 ### Estados y shifts de liquidez
 
 - El swing avanza alimentándose del shelf más cercano hasta que este no puede sostener el run; superar un shelf tras consumir la liquidez opuesta produce un **shift in the state of liquidity**: el otro lado toma el control. [PDF: Price Swings Continued p.8]

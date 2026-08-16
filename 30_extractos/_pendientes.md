@@ -30,7 +30,10 @@
 
 ## Vídeos (00_fuentes/videos — 26 ficheros)
 
-- [ ] **2020 Mentorship** (16 vídeos) — etiqueta `[VID-M2020: ...]`. Fuente más refinada y autoritativa.
+- [ ] **2020 Mentorship** (16 vídeos, 2 procesados) — etiqueta `[VID-M2020: ...]`. Fuente más refinada y autoritativa.
+  - [x] Session 13-003 → `extracto_vid_m2020_session13.md` (2026-08-16)
+  - [x] Session 14- drawing levels → `extracto_vid_m2020_session14.md` (2026-08-16)
+  - Dependencias detectadas: Session 13 anuncia para "next session" el template de 4 variaciones de apex + gestión de apex + "second level information" — NO está en Session 14 (drawing levels): buscar en Session 15 al procesarla. Session 13 menciona un "process video" y un "exercise video" ya vistos por el alumno (¿Sessions 11-12?).
   - Session 1.mp4 … Session 4.mp4, session 5-006.mov, Session 6-001.mov, Session 7.mov,
     Session 8.mp4 … Session 10.mp4, Session 11 part 1-009.mov, Session 11 part 2.mov,
     Session 12-004.mov, Session 13-003.mov, Session 14- drawing levels.mov, Session 15-007.mov

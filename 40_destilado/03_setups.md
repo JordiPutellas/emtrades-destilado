@@ -5,6 +5,8 @@
 ## S-01 · Midflow trading (continuación a favor del flujo)
 
 - **QUÉ describe:** tras un shift en el estado de liquidez (apex + shelf flip), el precio entra en midflow: corre por liquidez residual débil en estructura stair-step (extension, fill, new range, repetir); las respuestas contrarias se absorben en el deal flow cercano y el movimiento continúa. [PDF: Price Swings Continued p.6, p.7]
+- **Señal de agotamiento del midflow:** la primera ruptura del inventario que empuja ("first break of midflow") = primer signo de debilidad; después "it typically won't continue for a long while" (statement de EM a validar). El tipo de midflow importa: ineficiente/rápido → solo breakout-style, fills cortos; estable/eficiente → counter-trend viable, fills grandes. [VID-M2020: Session 13 @ 00:05:55–00:06:12, 00:53:20–00:54:42]
+- **Escala mínima:** plan validado en mentoría: operar midflow solo en H1+ ("I won't be trading this 5 minute flow"). [VID-M2020: Session 13 @ 01:53:00–01:53:15]
 - **CUÁNDO entra:** "wait for price to rebalance down to local liquidity base & look to trade the context" (ejemplo long en midflow alcista). [IMG: Price Swing Basics video p.6] Trigger de vela/nivel concreto: NO ESPECIFICADO EN FUENTES.
 - **DÓNDE invalida:** NO ESPECIFICADO EN FUENTES como regla; pista: "midflow is an EXPECTATION — when price fails to move into midflow stage it is a reason to reassess trade idea"; el run se debilita cuando el precio se vuelve ineficiente o absorbe el inventario del momentum. [PDF: Price Swings Continued p.7]
 - **CÓMO gestiona:** duración variable según se opere con o contra flujo. [IMG: Price Swing Basics video p.6] Parciales/BE/targets: NO ESPECIFICADO EN FUENTES.
@@ -55,6 +57,14 @@
 ## Catálogo de comportamientos tradeables (menú declarado por EM)
 
 "Extensions, ABR, Shelf flips, Midflow, Swing Retest of CLB, Residual Liquidity Base responses — everything is inside there... specify which behaviour you want to trade and form parameters to engage the specific feature — for example trading ABRs or shelf flips or swing retests of CLBs, Void Fills. Eventually will include time of day, timeframe alongside entry & execution parameters, developmental & management parameters." [IMG: Fractals _ Scaling p.8]
+
+## S-08 · Fade de agotamiento en nivel bueno (plantilla de 3 componentes, TE-02)
+
+- **QUÉ describe:** extensión muy ineficiente que se estira ("tick frequency goes parabolic reaching for the level") hasta un área core/fractal apex de un swing H1, tras break de midflow / en fase parabólica; el precio rebalancea con fuerza desde el nivel. [VID-M2020: Session 13 @ 01:08:51–01:09:10, 01:14:18]
+- **CUÁNDO entra:** los "three main components": "**extension into core liquidity, in the parabolic phase or after a break of midflow, of a H1 price swing**". Ejecución con **buy/sell limit en el nivel** ("area of strength, move of weakness, manageable response"). Frecuencia baja: "you won't get that frequently — it was too good of a trade" (setup análogo en H1: 2-3/semana). [VID-M2020: Session 13 @ 01:14:18–01:14:54, 00:50:00, 01:56:44–01:56:49]
+- **DÓNDE invalida:** stop de pips ínfimos tras el nivel (2.6 pips en TE-02; el nivel/OP debe aguantar — ver regla de invalidación del OP en Session 14). [VID-M2020: Session 13 @ 00:50:40] [VID-M2020: Session 14 @ 00:06:36]
+- **CÓMO gestiona:** mantener solo mientras el precio "continuously reflects the weakness"; si rompe midflow en contra y hace pop → cortar o descargar. Hora del día pondera: tarde = tomar beneficio (la estabilización overnight puede atravesar el nivel); mañana/mediodía = mantener e incluso añadir. [VID-M2020: Session 13 @ 01:21:42–01:22:07, 01:18:27–01:19:07]
+- Distinción crítica de expectancy: mismo patrón contra **residual** (sin nivel real) = trade distinto y peor "over a thousand samples" — el nivel golpeado ES el parámetro. [VID-M2020: Session 13 @ 01:14:56–01:15:46, 01:36:19–01:37:40]
 
 ## Response areas de alta probabilidad (lista explícita de EM)
 

@@ -78,6 +78,9 @@
 - **Apex base** = horizontal del extremo (leyenda del gráfico anotado); **apex base retest** = retest de esa zona, que típicamente precede shift + midflow junto al shelf flip. [IMG: Price Swings Continued p.3] [PDF: Price Swings Continued p.8]
 - Tras causar un shift, el área del apex genera respuestas incluso si el precio la atraviesa después. "An apex that holds inside the shelf without draining or invalidating it is less likely to hold price down (needs your own validation)." [PDF: Price Swings Continued p.8]
 - Los apexes HTF acumulan más liquidez; se refinan pockets con el LTF. [PDF: Price Swings Continued p.12, p.14]
+- Características del apex favorable (M2020): el extremo aguanta, el apex retest aguanta, el shelf falla en empujar a nuevos extremos, se rompe el shelf y el precio **se estabiliza encima** antes del shift. En los más fuertes, el shelf cae al primer intento y el retest ni siquiera llega al fondo del pickup. [VID-M2020: Session 13 @ 00:58:02–00:58:36]
+- **Consolidation apex**: debilidad del movimiento a favor + fuerza core del lado contrario; el shelf ya no tiene "punching power". [VID-M2020: Session 13 @ 01:01:08–01:06:13]
+- Existen **4 variaciones principales de apex** (template anunciado por EM, pendiente de localizar en las sesiones). [VID-M2020: Session 13 @ 01:45:10–01:45:27]
 
 ### Shifting point
 - **Estado:** confirmado.
@@ -88,11 +91,26 @@
 - Cambio de control de un lado al otro tras consumirse la liquidez que sostenía el run (post shelf flip / apex). "Offers cause momentum change." [PDF: Price Swings Continued p.8] [IMG: p.3]
 
 ### Midflow
-- **Estado:** confirmado.
+- **Estado:** confirmado (definición formal en M2020).
+- **Definición M2020:** "a **directional price move of imbalance**, with the characteristic that **the inventory that's pushing price holds. The first break of inventory shows a sign of the weakness of that momentum**." Statement de EM a validar: tras la primera ruptura de inventario "it typically won't continue for a long while after". [VID-M2020: Session 13 @ 00:05:44–00:06:12]
+- Señal sutil: en midflow fuerte el precio apenas vuelve a meterse en el shelf; asomar/pasar el shelf = debilidad. [VID-M2020: Session 13 @ 00:06:30–00:06:53]
+- Variantes: con o sin retorno al shelf; en ambas el último shelf aguanta. "Midflow means imbalance." [VID-M2020: Session 13 @ 00:05:00–00:05:44] [VID-M2020: Session 14 @ 00:45:43]
+- Es el building block de la ineficiencia a toda escala (stability→surge→drawback→stability dentro de cualquier pierna). [VID-M2020: Session 13 @ 01:10:12–01:10:24]
 - Fase POSTERIOR al shift (post apex + shelf flip): el precio corre por liquidez residual débil con momentum liquidity fuerte a favor. Estructura stair-step: "extension, fill, new range, continuation extension, fill, new range". [PDF: Price Swings Continued p.7]
 - "Midflow is an EXPECTATION": si el precio no entra en midflow tras el shift, es razón para reevaluar la idea de trade. [PDF: Price Swings Continued p.7]
 - Continúa hasta volverse ineficiente o absorber el inventario del momentum. [PDF: Price Swings Continued p.7]
 - **Post-shift stage** se usa como sinónimo/etiqueta visual (rectángulos negros tras el shelf). [IMG: Price Swings Continued p.6]
+
+### Liquidity base (y sus 3 lados)
+- **Estado:** confirmado (definición formal en M2020).
+- "**Simply an area where price was stable and trade was being facilitated**, and then you typically have a surge out from it (it can also grind out) — in either case the liquidity state shifts." [VID-M2020: Session 13 @ 01:02:13–01:02:43]
+- "All types of liquidity bases (fractal core, residual...) have some form of liquidity in them and **there's three sides to it: a top, a middle and a bottom**." (= principio 4 de Liquidity Principles, por fin desarrollado.) [VID-M2020: Session 13 @ 01:03:05–01:03:27]
+- Mecánica de drenaje: si el precio alcanza el **bottom**, toda la liquidez de la base se da por consumida; solo queda la del último pickup (débil). La forma de SALIR importa: si absorbió todo al salir, el retorno no tendrá combustible. "The more we test the level, the weaker it gets — the liquidity is being drained (finite, quantitative)." [VID-M2020: Session 13 @ 01:03:29–01:05:24]
+- Variaciones visuales: compactas, drifty (típicamente drenadas), con mucha liquidez residual... "you need to test every single type many times over". [VID-M2020: Session 14 @ 00:22:01–00:22:58]
+
+### Origin / fractal core
+- **Estado:** confirmado.
+- El origen del price run ("the origin of this price run is here — that'll be the fractal core aka origin"). La liquidez más fuerte de una pierna suele estar en su origen. [VID-M2020: Session 13 @ 00:04:44–00:04:52, 01:20:47–01:20:55]
 
 ### Core liquidity base
 - **Estado:** confirmado (uso), definición implícita.
@@ -149,10 +167,11 @@
 - Estado de volumen bajo y estable que mantiene el precio en rango; el run se dispara cuando entra un surge **relativo** ("just more than the volume keeping price stable"). [PDF: The Price Run p.7] [IMG: p.10]
 
 ### Parabolic phase
-- **Estado:** confirmado (uso repetido); anatomía completa pendiente.
+- **Estado:** confirmado.
 - Parte de la anatomía de un top/bottom HTF ("what a top looks like including parabolic phase"). [IMG: Price Swings Continued p.14]
 - En el trade real equivale al componente 5: "continuation leg/parabolic phase — **weakest part of the run**". [IMG: Trade Example p.4]
 - "The shelf which pushed price into parabolic phase" [IMG: Trade Example p.5]; "sideways pop into parabolic phase = often precedes highs". [IMG: Fractals _ Scaling p.8]
+- Secuencia M2020: primer break de midflow → **sideways** (drena inventario) → **pop = parabólica** ("after the sideways comes the pop"); la parabólica lidera el último tramo antes del retorno al shelf. "**We typically don't see the parabolic leg be a leg of significance — we see a reversal and a shift after it.**" [VID-M2020: Session 13 @ 00:18:55–00:19:57, 01:23:47–01:24:00]
 
 ### Midflow trading / counter flow trading
 - **Estado:** confirmado (nombres de estilo de trade). Ver 03_setups.md.
