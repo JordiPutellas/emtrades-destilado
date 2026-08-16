@@ -91,8 +91,12 @@ Además de la etiqueta de fuente, las afirmaciones de `40_destilado/` llevan
 siempre entre corchetes:
 
 - `[CONFIRMADO]` — definido explícitamente por EM.
+- `[CONFIRMADO: PS→M2020]` — afirmación de época Price Swing que SOBREVIVIÓ a la
+  evolución del método (supervivencia cross-época; eje para filtrar en validación).
 - `[PRECURSOR: PS → refinado en M2020]` — formulación temprana superada.
 - `[SOLO-PS: no confirmado después]` — solo aparece en material temprano; no reutilizado.
+- `[NO-LOCALIZADO]` — búsqueda exhaustiva negativa en el corpus conservado
+  (ni material temprano ni inferencia: información valiosa por sí misma).
 - `[INFERENCIA]` / `[INFERENCIA-FUERTE]` — deducción del proyecto, con grado.
 - `[USUARIO]` — aportación o corrección de Jordi (ver sección siguiente).
 

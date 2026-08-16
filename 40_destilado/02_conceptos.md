@@ -25,10 +25,10 @@
 - **Los 13 componentes del esquema CPS** [IMG: Tracking Unfilled Liquidity p.4], con eje "Mass Psychological Shift":
   1. Liquidity Base → 2. Point of Release (PoR) → 3. Skinny Leg → 4. Price Pause (Shelf Bottom) → 5. Continuation Leg → 6. Consolidation Apex → 7. Retest H/L → 8. Apex Base (break) Retest → 9. Shelf Top/Bottom Retest → 10. Gap slip → 11. Clean Breaking Point → 12. PoR (vuelta) → 13. Liquidity Base Bottom.
 - Uso operativo: "Identify liquidity, use CPS to navigate through price & manage the trade." [PDF: Tracking Unfilled Liquidity p.4] "Use CPS features to determine selling continuation points." [PDF: Liquidity Imbalance continuum p.1]
-- **Genealogía Price Swing:** EM lo llama `the framework that price moves in`; pide escoger un feature, construirle parámetros/sample set y convertir **ese feature** en trade. PS01 confirma que CPS es el mapa, no un setup único. [VID-PS: PriceSwing_01 @ 00:00:14–00:00:19] [VID-PS: PriceSwing_01 @ 00:05:13–00:06:03] [CONFIRMADO].
+- **Genealogía Price Swing:** EM lo llama `the framework that price moves in`; pide escoger un feature, construirle parámetros/sample set y convertir **ese feature** en trade. PS01 confirma que CPS es el mapa, no un setup único. [VID-PS: PriceSwing_01 @ 00:00:14–00:00:19] [VID-PS: PriceSwing_01 @ 00:05:13–00:06:03] [CONFIRMADO: PS→M2020].
 - **Síntesis PS09:** el vídeo `to put together the CPS series` recorre inventory activo → fallo en crear extremo → shelf break/shift → nuevo run con pause, extensions y fills → nuevo deterioro. Después ofrece fade, apex retest o breakout como **features alternativas** a ejercitar. Confirma de nuevo framework relacional, no setup CPS. [VID-PS: PriceSwing_09 @ 00:00:00–00:00:12] [VID-PS: PriceSwing_09 @ 00:10:33–00:12:05]
 - **Cierre PS10:** principios = `why`; CPS = `how` y navegación. Solo tras escoger y repetir un feature se desarrollan sus parámetros y un trade model; EM sitúa explícitamente shelf flip, midflow y trend como modelos posteriores, no como un setup CPS único. [VID-PS: PriceSwing_10 @ 00:06:35–00:07:39] [VID-PS: PriceSwing_10 @ 00:19:53–00:21:40]
-- [USUARIO] recuerda además un setup concreto llamado CPS, pero **NO SE HA LOCALIZADO EN EL CORPUS CONSERVADO** (M2020 16/16 + Price Swing 10/10 + PDFs + capturas). La evidencia conservada usa CPS consistentemente como framework; no se invalida el recuerdo, se clasifica como posible dependencia perdida/privada.
+- [USUARIO] recuerda además un setup concreto llamado CPS, pero [NO-LOCALIZADO]: búsqueda exhaustiva negativa en el corpus conservado (M2020 16/16 + Price Swing 10/10 + PDFs + capturas). La evidencia conservada usa CPS consistentemente como framework; no se invalida el recuerdo, se clasifica como posible dependencia perdida/privada.
 
 ### FTR — expansión NO ESPECIFICADA
 
@@ -156,7 +156,7 @@
 - **Estado:** confirmado.
 - Movimiento direccional fino disparado por un surge **relativo** de volumen contra un estado de baja liquidez; sobrepasa por el mecanismo de price-chasing de los LPs y deja vacío detrás. Ciclo: estabilidad → surge relativo → run → agotamiento → rebalance a core base. [PDF: The Price Run p.1–p.10]
 - En la enumeración M2020, `origin/core` es el contexto de partida; los cinco eventos son `volume shot, price run, exhaustion, shift, fill`. [VID-M2020: Session 6 @ 00:21:43–00:22:16]
-- **Mapa relacional legacy PS09:** el último inventory crea extremos hasta fallar; el shelf break cambia qué lado empuja, price atraviesa niveles drenados y vuelve a organizar extension–fill–inventory en la nueva dirección. Price pause, apex retest, wash completo y fill exacto son features posibles, no pasos obligatorios de cada swing. [VID-PS: PriceSwing_09 @ 00:00:12–00:07:08] [CONFIRMADO] con mayor precisión posterior.
+- **Mapa relacional legacy PS09:** el último inventory crea extremos hasta fallar; el shelf break cambia qué lado empuja, price atraviesa niveles drenados y vuelve a organizar extension–fill–inventory en la nueva dirección. Price pause, apex retest, wash completo y fill exacto son features posibles, no pasos obligatorios de cada swing. [VID-PS: PriceSwing_09 @ 00:00:12–00:07:08] [CONFIRMADO: PS→M2020] con mayor precisión posterior.
 
 ### Price spike
 - **Estado:** confirmado.
@@ -185,9 +185,9 @@
 - **Consolidation apex**: debilidad del movimiento a favor + fuerza core del lado contrario; el shelf ya no tiene "punching power". [VID-M2020: Session 13 @ 01:01:08–01:06:13]
 - **Morfología temprana PS05:** tras pause/continuation y llegada extremadamente ineficiente a HTF feeding/core liquidity, el apex puede formar una pequeña consolidación con runs internos. La anatomía preferida de EM es pause → `last/second-last release`; tras el high/low, rallies cada vez más débiles y breakdown. [VID-PS: PriceSwing_05 @ 00:00:00–00:01:13] [VID-PS: PriceSwing_05 @ 00:03:30–00:04:08] [PRECURSOR: PS → refinado en M2020].
 - **Variaciones PS05, sin template cerrado:** straight release; pause→release; SWE; y breakdown seguido de apex-base/swing retest si queda liquidity interna. Son formas/etapas solapables, no cuatro variantes enumeradas ni gestión por cuatro casos. [VID-PS: PriceSwing_05 @ 00:02:35–00:05:09]
-- **Shelves/apexes anidados PS06:** micro/tick–5m shelf junto al extremo, shelf H1 que sostiene el broader apex y shelf HTF más alejado. Romper el micro-apex no implica cambiar el swing superior; la distancia al siguiente inventory condiciona si el leg vuelve íntegro al apex. [VID-PS: PriceSwing_06 @ 00:02:42–00:03:12] [VID-PS: PriceSwing_06 @ 00:06:43–00:07:33] [CONFIRMADO].
+- **Shelves/apexes anidados PS06:** micro/tick–5m shelf junto al extremo, shelf H1 que sostiene el broader apex y shelf HTF más alejado. Romper el micro-apex no implica cambiar el swing superior; la distancia al siguiente inventory condiciona si el leg vuelve íntegro al apex. [VID-PS: PriceSwing_06 @ 00:02:42–00:03:12] [VID-PS: PriceSwing_06 @ 00:06:43–00:07:33] [CONFIRMADO: PS→M2020].
 - **Pain trade (legacy):** tras un supuesto high, liquidity restante en shelf + buildup que absorbe el extremo puede impulsar price a otra unfilled pocket. Es deterioro de la hipótesis, no setup ni término canónico M2020. [VID-PS: PriceSwing_06 @ 00:01:14–00:01:58] [PRECURSOR: PS → refinado en M2020].
-- **Gestión multiescala PS07:** `the bigger the apex, the bigger the inventory`; romper un apex menor solo respalda el fill del leg local, no el flip del shelf H1/HTF. Con shelf cercano puede ser viable el retest de la accumulation; con shelf lejano, el skinny leg queda expuesto y se exige que el inventory próximo absorba los rebotes para evitar un retorno íntegro. [VID-PS: PriceSwing_07 @ 00:03:13–00:05:24] [VID-PS: PriceSwing_07 @ 00:10:44–00:15:19] [CONFIRMADO].
+- **Gestión multiescala PS07:** `the bigger the apex, the bigger the inventory`; romper un apex menor solo respalda el fill del leg local, no el flip del shelf H1/HTF. Con shelf cercano puede ser viable el retest de la accumulation; con shelf lejano, el skinny leg queda expuesto y se exige que el inventory próximo absorba los rebotes para evitar un retorno íntegro. [VID-PS: PriceSwing_07 @ 00:03:13–00:05:24] [VID-PS: PriceSwing_07 @ 00:10:44–00:15:19] [CONFIRMADO: PS→M2020].
 - Existen **4 variaciones principales de apex** (template anunciado por EM, pendiente de localizar en las sesiones). [VID-M2020: Session 13 @ 01:45:10–01:45:27]
 - **Dos morfologías comparadas en S11.2, no el template de cuatro:** EM prefiere el apex/parabolic que `reaches` al nivel con delivery pronunciadamente débil y menos dependencia de opposing strength. La variante con buildup, varios swipes y deeper tests puede seguir siendo favorable, pero el inventory aún alimenta parcialmente y exige gestión más estrecha. Menciona otras formas sin numerarlas, nombrarlas ni dar contrato por variante. [VID-M2020: Session 11 part 2 @ 00:25:44–00:29:33] [VID-M2020: Session 11 part 2 @ 01:12:26–01:15:38] [VID-M2020: Session 11 part 2 @ 01:33:00–01:35:10]
 
@@ -301,7 +301,7 @@
 
 ### Absorption
 - **Estado:** confirmado como comportamiento observable, no trigger autónomo.
-- Formulación Price Swing: un core/base responde, pero precio `pauses, accumulates, accumulates and pushes through it`; la incapacidad de expulsar precio y el buildup hasta atravesar la zona constituyen absorption. [VID-PS: PriceSwing_03 @ 00:03:38–00:04:05] [CONFIRMADO].
+- Formulación Price Swing: un core/base responde, pero precio `pauses, accumulates, accumulates and pushes through it`; la incapacidad de expulsar precio y el buildup hasta atravesar la zona constituyen absorption. [VID-PS: PriceSwing_03 @ 00:03:38–00:04:05] [CONFIRMADO: PS→M2020].
 
 ### Low liquid state → ver LLS
 
@@ -361,12 +361,12 @@
 ### CLB — Core Liquidity Base
 - **Estado:** confirmado (sigla).
 - Abreviatura de core liquidity base; "swing retests of CLBs" es un comportamiento tradeable del catálogo. [IMG: Fractals _ Scaling p.8]
-- Formulación temprana: una skinny-leg extension débil que llega a liquidity gruesa `inside of the base, the core base` debería ofrecer mejor/más manejable response. Residual en mitad del run ofrece normalmente respuesta menor; el timeframe del nivel limita la expectativa. [VID-PS: PriceSwing_01 @ 00:01:34–00:02:50] [CONFIRMADO].
+- Formulación temprana: una skinny-leg extension débil que llega a liquidity gruesa `inside of the base, the core base` debería ofrecer mejor/más manejable response. Residual en mitad del run ofrece normalmente respuesta menor; el timeframe del nivel limita la expectativa. [VID-PS: PriceSwing_01 @ 00:01:34–00:02:50] [CONFIRMADO: PS→M2020].
 
 ### Clean Breaking Point (CBP)
 - **Estado:** confirmado.
 - Punto de ruptura limpia de una liquidity base; "support turns resistance" — suele albergar una base fractal del lado contrario. Componente 11 del esquema CPS. [IMG: Fractals _ Scaling p.2] [IMG: Tracking Unfilled Liquidity p.4]
-- En la formulación Price Swing puede responder antes de que el precio alcance PoR/core; EM lo trata como candidato untested, no entrada obligatoria: si su modelo exige PoR, el CBP response es sencillamente `no trade`. [VID-PS: PriceSwing_02 @ 00:04:40–00:05:24] [VID-PS: PriceSwing_02 @ 00:08:43–00:09:37] [CONFIRMADO] como morfología; selección sample-dependent.
+- En la formulación Price Swing puede responder antes de que el precio alcance PoR/core; EM lo trata como candidato untested, no entrada obligatoria: si su modelo exige PoR, el CBP response es sencillamente `no trade`. [VID-PS: PriceSwing_02 @ 00:04:40–00:05:24] [VID-PS: PriceSwing_02 @ 00:08:43–00:09:37] [CONFIRMADO: PS→M2020] como morfología; selección sample-dependent.
 
 ### PoR — Point of Release
 - **Estado:** confirmado.
@@ -376,12 +376,12 @@
 ### Skinny leg
 - **Estado:** confirmado.
 - Pierna fina/ineficiente post-release (componente 3 del esquema CPS). "LV & Extension through previous skinny leg." [IMG: Tracking Unfilled Liquidity p.4] [IMG: Fractals _ Scaling p.2]
-- En PS02 es la salida fina una vez superadas las offers del borde; el core que inicia el drive se distingue de las pequeñas acumulaciones residuales dentro de la pierna. [VID-PS: PriceSwing_02 @ 00:02:27–00:03:16] [CONFIRMADO].
+- En PS02 es la salida fina una vez superadas las offers del borde; el core que inicia el drive se distingue de las pequeñas acumulaciones residuales dentro de la pierna. [VID-PS: PriceSwing_02 @ 00:02:27–00:03:16] [CONFIRMADO: PS→M2020].
 
 ### Price pause
 - **Estado:** confirmado.
 - Pausa tras la skinny leg (componente 4 del esquema CPS); una de las "constituent features of a price run" usadas como confluencia. [IMG: Tracking Unfilled Liquidity p.4] [PDF: Trade Example p.4]
-- Definición temprana operativa: después de romper el shelf/core que sostenía el lado previo, los residual levels ofrecen response/fill pero no desplazan materialmente el nuevo flujo; esa estabilización es price pause. En mid-price-run se espera fill local, no reversal; en core cambia la expectativa. [VID-PS: PriceSwing_03 @ 00:08:10–00:08:54] [VID-PS: PriceSwing_03 @ 00:11:44–00:12:31] [CONFIRMADO].
+- Definición temprana operativa: después de romper el shelf/core que sostenía el lado previo, los residual levels ofrecen response/fill pero no desplazan materialmente el nuevo flujo; esa estabilización es price pause. En mid-price-run se espera fill local, no reversal; en core cambia la expectativa. [VID-PS: PriceSwing_03 @ 00:08:10–00:08:54] [VID-PS: PriceSwing_03 @ 00:11:44–00:12:31] [CONFIRMADO: PS→M2020].
 - **Función dentro de la continuation leg:** el buildup entra cada vez más profundo en la pause, absorbe el nivel y libera otra extensión. Durante un trade debe clasificarse por core/residual, timeframe, respuesta/absorción y fuerza de llegada: puede ser obstáculo/gestión sin implicar reversal. [VID-PS: PriceSwing_04 @ 00:00:00–00:04:53] [VID-PS: PriceSwing_04 @ 00:12:44–00:13:18]
 
 ### Paying for the trade

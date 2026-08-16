@@ -23,6 +23,14 @@ Sistemas paralelos NO tocados (deliberadamente, son otra cosa):
 - RESUELTA / PARCIALMENTE RESUELTA / DESARROLLADA / RESUELTA OPERATIVAMENTE / CERRADA-IRRECUPERABLE — ciclo de vida de preguntas en `90_preguntas_abiertas.md`.
 - "Estado: confirmado / por confirmar" en entradas de glosario — CLAUDE.md regla 5.
 
+## Tanda 2 (Sesión 18) — cierre de la taxonomía
+
+- **Corrección de recuento:** la tabla de la tanda 1 decía 15 conversiones de `CONFIRMADO/CONSERVADO EN M2020`; el diff real de cbdd3bf contiene **18** (02_conceptos ×9, 04_proceso ×7, 03_setups ×2).
+- **Regresión revertida:** los 18 casos reetiquetados `[CONFIRMADO]` → `[CONFIRMADO: PS→M2020]` (supervivencia cross-época, eje para filtrar en validación). Estado declarado en CLAUDE.md.
+- **Caso 1 (04_proceso.md:39)** — RESUELTO: `**AVANCE, NO CIERRE**` convertido a prosa sin negrita ("es un avance, no un cierre").
+- **Caso 2 (90_preguntas_abiertas.md:30)** — RESUELTO en el bloque 2 de la sesión 18 con el sistema de estados de pregunta ([IRRECUPERABLE] para el artefacto + nota de lo reconstruido).
+- **Caso 3 (02_conceptos.md:31)** — RESUELTO: nuevo estado `[NO-LOCALIZADO]` declarado en CLAUDE.md y aplicado. Taxonomía de afirmaciones cerrada en 7 estados.
+
 ## Casos sin clasificar — requieren decisión humana
 
 Marcadores que no encajan limpiamente en las cinco etiquetas. NO convertidos; texto actual intacto:
