@@ -1,0 +1,17 @@
+# Frames: PriceSwing_05
+
+- **00:01:13** `000113_this_area.jpg` — "price will slow down it would show signs of faltering sometimes around this area"
+- **00:01:52** `000152_look_at.jpg` — "that parabolic phase which we're gonna look at the minute as a constituent"
+- **00:03:45** `000345_this_high.jpg` — "once it's coming to that unfiled level, this high needs to help."
+- **00:04:08** `000408_over_here.jpg` — "Sometimes, if price has some liquidity left over here,"
+- **00:05:30** `000530_over_here.jpg` — "is left over here, price can draw back up this extension again, pick up liquidity from the"
+- **00:06:03** `000603_look_at.jpg` — "So let's look at an example, right?"
+- **00:07:26** `000726_look_at.jpg` — "you can track the runs very closely when you look at the fractal nature of price"
+- **00:08:30** `000830_this_level.jpg` — "failing to push and then you have your shift we know this level is most likely"
+- **00:09:20** `000920_this_high.jpg` — "near enough to a clean breaking point forms a base and then this high is contained inside here"
+- **00:10:15** `001015_look_at.jpg` — "shit now that's just one or two examples of highs let's have a look at gold okay"
+- **00:10:54** `001054_look_at.jpg` — "We have a different one, look at the nature of the extension."
+- **00:11:33** `001133_this_fractal.jpg` — "Okay, so apex price comes and picks up this fractal, okay, let's zoom into it, it already picks up this fractal."
+- **00:12:08** `001208_this_shelf.jpg` — "up a higher time frame level, but because the nature of this shelf, there's a big, big amount"
+- **00:12:37** `001237_this_level.jpg` — "Okay, very, very precise runs because this level is largely picked up."
+- **00:15:32** `001532_look_at.jpg` — "to spot them on live that's where you look at historical examples and that's why we're"

@@ -1,0 +1,15 @@
+# Frames: Session 4
+
+- **00:00:05** `000005_this_candle.jpg` — "Even that candle here, this candle will behave completely differently in terms of it's ticking, how it's ticking."
+- **00:05:08** `000508_you_can_see.jpg` — "as you can see how my box did"
+- **00:06:01** `000601_you_can_see.jpg` — "And as you can see"
+- **00:09:53** `000953_this_candle.jpg` — "hip distance travels. If this candle travels here and this candle travels there, there's more"
+- **00:12:18** `001218_these_areas.jpg` — "and the way I see it is profound weakness in these areas."
+- **00:26:00** `002600_for_example.jpg` — "for example a fake large sell order"
+- **00:32:05** `003205_see_how.jpg` — "Can you see how information has slowly changed?"
+- **00:33:04** `003304_for_example.jpg` — "so now the the the the hfd system's gone long for example 498k plus so basically"
+- **00:33:34** `003334_for_example.jpg` — "you should have got 50 or 250 there over three pips for example but as you were filling the first part"
+- **00:43:56** `004356_this_level.jpg` — "you here. They're causing price to jump to this level and trade, you know, causing your volume to"
+- **00:45:10** `004510_this_area.jpg` — "trade was facilitated within this area here, price could continue trading in this area and basically"
+- **00:45:53** `004553_this_move.jpg` — "that's then creating this move"
+- **00:46:55** `004655_this_move.jpg` — "If this this motherfucker comes in, remove these sellers, we sell it to a higher and higher and higher prices, making price jump out, then this move is more manufactured than it is natural."

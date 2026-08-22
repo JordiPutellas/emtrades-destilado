@@ -1,0 +1,15 @@
+# Frames: PriceSwing_02
+
+- **00:00:24** `000024_see_how.jpg` — "Okay, the more you see them, the more you see how price responds to them,"
+- **00:03:33** `000333_this_leg.jpg` — "liquidity drives out this leg is that vulnerable buyers can't push past anymore and you"
+- **00:05:13** `000513_right_there.jpg` — "and there's a small breakout accumulation right there"
+- **00:06:51** `000651_this_area.jpg` — "get a look for a response there okay also if like this area"
+- **00:07:34** `000734_look_at.jpg` — "call liquidity bases, you know, we'll have a look at some examples now anyway,"
+- **00:07:57** `000757_look_at.jpg` — "time frame you look at it on, okay? It could be seven-minute chart, five-minute chart,"
+- **00:09:32** `000932_for_example.jpg` — "point of release, for example. You know, if it doesn't get there, it's just part of the game. You"
+- **00:11:27** `001127_this_fractal.jpg` — "comes deeper into this fractal,"
+- **00:12:14** `001214_this_fractal.jpg` — "inside of this fractal price run here okay you're gonna see more definition in how these"
+- **00:12:37** `001237_this_high.jpg` — "provide this high end of time frame it gives you a trade rule response okay"
+- **00:15:42** `001542_this_fractal.jpg` — "the liquidity inside this fractal price response the liquidity inside there"
+- **00:16:30** `001630_these_levels.jpg` — "to starting to refining these levels if that makes sense here's a feeder okay price picks it up"
+- **00:18:18** `001818_this_level.jpg` — "there leaving liquidity behind leaving a psychological attachment to this level"

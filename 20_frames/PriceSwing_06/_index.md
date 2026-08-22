@@ -1,0 +1,16 @@
+# Frames: PriceSwing_06
+
+- **00:01:28** `000128_this_high.jpg` — "and sometimes in those cases we'll come grab the bottom and we will go to new highs to look for a better unfilled pocket of the quality it's just part of the game that'll be our pain trade you have to you know what we will see on the lower time frame generally as well is price build up okay it'll build up to absorb this high and then shoot and it's in this anatomy which doesn't fit the parameters of a high because what we like to see our high is weaker and weaker and weaker rallies absorbing the shelf the high holding okay"
+- **00:02:23** `000223_look_at.jpg` — "we'll have a look at in a minute but as and when it's breaking down is we're anticipating a"
+- **00:03:47** `000347_this_level.jpg` — "the most important thing at that point in time is this level that price is"
+- **00:05:07** `000507_look_at.jpg` — "But let's have a look at a quick example when a shelf is close to the apex base"
+- **00:06:56** `000656_right_here.jpg` — "like this you can have a very small fractal apex consolidation so this is a price swing right here to here to"
+- **00:09:48** `000948_this_low.jpg` — "because the same thing over and over once you get past this low you actually see prices"
+- **00:10:19** `001019_this_leg.jpg` — "it efficiently this leg is getting weaker and weaker and weaker and weaker all it needs is a small"
+- **00:11:04** `001104_these_levels.jpg` — "These levels were picked up, picked up, this is a feeder, you see a response, and then, of course,"
+- **00:12:26** `001226_look_at.jpg` — "the higher time frame apex consolidations which we're going to look at probably"
+- **00:12:57** `001257_this_high.jpg` — "right to this high the top side it wouldn't be surprising if price run right"
+- **00:13:30** `001330_look_at.jpg` — "to trade limit and execute trades of particular self by that point look at the overall"
+- **00:14:07** `001407_you_can_see.jpg` — "respond on the feeder here okay you can see it but that is just coming right back down"
+- **00:15:14** `001514_this_fractal.jpg` — "of release on this fractal who takes another run at eyes okay and this time it doesn't respond"
+- **00:16:14** `001614_this_shelf.jpg` — "comes back down to grab the last bare one field liquidity inside this shelf,"

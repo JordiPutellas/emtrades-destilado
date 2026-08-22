@@ -1,0 +1,17 @@
+# Frames: Session 2
+
+- **00:00:19** `000019_this_move.jpg` — "By this point, I was assessing the strength of this move."
+- **00:02:30** `000230_this_move.jpg` — "We can assess the strength of this move through that sequence that takes place,"
+- **00:08:31** `000831_look_at.jpg` — "Now, if you were to look at them in chronological order, how those 60, 40% outcomes were distributed,"
+- **00:10:36** `001036_you_can_see.jpg` — "that you can see a market structure break"
+- **00:33:35** `003335_look_at.jpg` — "So let's have a look at the implication."
+- **00:40:32** `004032_look_at.jpg` — "We're going to look at a condition"
+- **00:47:14** `004714_look_at.jpg` — "We're going to look at why effects."
+- **00:53:26** `005326_for_example.jpg` — "where you get heads, for example,"
+- **00:54:29** `005429_look_at.jpg` — "we're going to look at something like this"
+- **00:57:16** `005716_you_can_see.jpg` — "but what you can see in this instance here is"
+- **01:06:30** `010630_this_area.jpg` — "yeah it's quite simple so liquidity is friction you can't get through this area without eating away at it right yeah"
+- **01:11:46** `011146_you_can_see.jpg` — "you can see that this deal"
+- **01:12:56** `011256_look_at.jpg` — "behavior can cause prices to move and how, how, yeah, we'll look at that."
+- **01:20:55** `012055_over_here.jpg` — "resulting in my man over here"
+- **01:28:01** `012801_look_at.jpg` — "inventory no so we're going to look at other options they have are we're going to start"
